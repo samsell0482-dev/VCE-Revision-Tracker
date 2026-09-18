@@ -17,7 +17,6 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 - Food Studies
 - General Mathematics
 - Geography
-- Global Politics
 - Health and Human Development
 - History: Revolutions
 - Legal Studies
@@ -27,7 +26,8 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 - Philosophy
 - Physical Education
 - Physics
-- Product Design and Technology
+- Politics
+- Product Design and Technologies
 - Psychology
 - Sociology
 - Software Development
@@ -39,7 +39,7 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 - Three-pass confidence tracking for every key knowledge point
 - Red, amber, and green progress summaries
 - Filters for unrated and weaker topics
-- Automatically generated cue-card decks for revision
+- Authored cue-card decks for revision
 - Interactive practice questions with answer reveals
 - Four visual themes: Glass, Poster, Midnight, and Notebook
 - Automatic progress saving in the browser
@@ -64,11 +64,11 @@ Open http://127.0.0.1:5173 in your browser. Use the same address each time to re
 
 Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the twenty-nine subjects listed above.
 
-Biology, Business Management, Chemistry, Economics, Legal Studies, Psychology and Specialist Mathematics were added as full-depth subjects: each has 56 to 83 paraphrased revision checkpoints covering Units 3 and 4, and every checkpoint carries one original practice question with a suggested marking guide. Their checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and the practice questions are original revision exercises rather than official VCAA questions. Each subject links to its VCAA study design and examination resources. Chemistry, Specialist Mathematics, Business Management, Legal Studies and Economics group their checkpoints by topic rather than by official area of study title. Legal Studies and Economics cover areas where the law, policy settings and published figures change, so check current detail against VCAA and other official sources.
+Biology, Business Management, Chemistry, Economics, Legal Studies, Psychology and Specialist Mathematics were added as full-depth subjects: each has 56 to 83 paraphrased revision checkpoints covering Units 3 and 4, and every checkpoint carries one original practice question with a suggested marking guide. Their checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and the practice questions are original revision exercises rather than official VCAA questions. Every subject uses the current official VCAA Unit and Area of Study names and links to its live study-design and examination-resource pages. Legal Studies and Economics cover areas where the law, policy settings and published figures change, so check current detail against VCAA and other official sources.
 
-English, History: Revolutions, Geography, Physical Education, Accounting, Applied Computing: Data Analytics, Visual Communication Design, Media and Product Design and Technology were added as skills-based subjects, with 36 to 59 checkpoints each and one original practice question per checkpoint. Because set texts, case studies and chosen revolutions differ between schools, many of their checkpoints ask you to apply a skill to your own texts and examples rather than testing recall of a particular one. English and English Language are separate subjects with separate saved progress.
+English, History: Revolutions, Geography, Physical Education, Accounting, Applied Computing: Data Analytics, Visual Communication Design, Media and Product Design and Technologies were added as skills-based subjects, with 36 to 59 checkpoints each and one original practice question per checkpoint. Because set texts, case studies and chosen revolutions differ between schools, many of their checkpoints ask you to apply a skill to your own texts and examples rather than testing recall of a particular one. English and English Language are separate subjects with separate saved progress.
 
-Ancient History, Literature, Global Politics, Philosophy, Environmental Science, Sociology and Food Studies were added most recently. Ancient History covers Egypt, Greece and Rome alongside shared skills and thematic areas, so use the societies your class studies. Health and Human Development, which originally carried only four practice questions across its 49 checkpoints, now has a question and marking guide on every point, so every subject in the tracker is at full depth.
+Ancient History, Literature, Politics, Philosophy, Environmental Science, Sociology and Food Studies were added most recently. Politics follows the current study implemented for Units 3 and 4 from 2025: Unit 3 covers one global issue and one contemporary humanitarian crisis, while Unit 4 covers one selected Indo-Pacific state and Australia's relationships with three regional states. Ancient History covers Egypt, Greece and Rome alongside shared skills and thematic areas, so use the societies your class studies. Health and Human Development, which originally carried only four practice questions across its 49 checkpoints, now has a question and marking guide on every point, so every subject in the tracker is at full depth.
 
 Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
 

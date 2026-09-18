@@ -1,587 +1,1218 @@
 {
   "id": "global-politics-34",
-  "name": "Global Politics",
+  "name": "Politics",
   "areas": [
-    "Key concepts and actors",
-    "Unit 3 AoS 1 — Global actors and power",
-    "Unit 3 AoS 2 — Power in the Asia-Pacific",
-    "Unit 4 AoS 1 — Ethical issues and debates",
-    "Unit 4 AoS 2 — Global crises and responses",
-    "Exam technique and case studies"
+    "Core concepts and contemporary politics",
+    "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+    "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+    "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+    "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+    "Evidence and exam technique"
   ],
   "short": {
-    "Key concepts and actors": "Concepts",
-    "Unit 3 AoS 1 — Global actors and power": "U3 Actors and power",
-    "Unit 3 AoS 2 — Power in the Asia-Pacific": "U3 Asia-Pacific",
-    "Unit 4 AoS 1 — Ethical issues and debates": "U4 Ethical issues",
-    "Unit 4 AoS 2 — Global crises and responses": "U4 Crises",
-    "Exam technique and case studies": "Exam technique"
+    "Core concepts and contemporary politics": "Core concepts",
+    "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses": "U1 Global issues, global respo",
+    "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change": "U2 Contemporary crises: confli",
+    "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest": "U1 Power and the national inte",
+    "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific": "U2 Australia in the Indo-Pacif",
+    "Evidence and exam technique": "Evidence and exam"
   },
-  "source": "Adapted revision checklist based on VCAA's VCE Australian and Global Politics Study Design, Units 3 and 4 Global Politics. Areas here are topic groupings, and checklist numbers are internal tracker IDs. Global politics changes rapidly, so verify current examples and events against news and official sources.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/australian-and-global-politics",
-  "sourceLabel": "VCAA Australian and Global Politics study design",
-  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use current, specific contemporary examples in your own answers, since examiners expect recent evidence.",
+  "source": "Adapted revision checklist based on VCAA's VCE Politics Study Design, Units 3 and 4 from 2025. Checklist numbers are internal tracker IDs. The course requires contemporary examples and case studies from within the last 10 years; older evidence should be used only to contextualise contemporary causes.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/politics/vce-politics",
+  "sourceLabel": "VCAA Politics study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Adapt case-study answers to the global issue, humanitarian crisis, selected Indo-Pacific state and three Australian regional relationships taught by your school, using current evidence.",
   "theme": {
     "accent": "#2f5f7a"
   },
-  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
-  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/australian-and-global-politics",
+  "papers": "Use the current VCAA Politics examination specifications, sample examination, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/politics",
   "points": [
     {
-      "id": "C1",
-      "area": "Key concepts and actors",
-      "title": "Sovereignty",
-      "detail": "The supreme authority of a state over its territory and population, the difference between internal and external sovereignty, and the pressures that erode it.",
+      "id": "P-C1",
+      "area": "Core concepts and contemporary politics",
+      "title": "Global actors",
+      "detail": "States, regional groupings, institutions of global governance and non-state actors, including the defining features and political roles of each category.",
       "questions": [
         {
           "marks": 4,
-          "q": "Define sovereignty and explain two ways it is challenged in contemporary global politics.",
+          "q": "Distinguish the four categories of global actor used in VCE Politics and give an example of each.",
           "answer": [
-            "Sovereignty is the supreme authority of a state over its territory and population, free from external interference.",
-            "Internal sovereignty is authority within borders; external sovereignty is recognition as an equal by other states.",
-            "Membership of international organisations requires states to accept rules and rulings they may not prefer, limiting their freedom of action.",
-            "Transnational forces such as global capital, climate change, migration and digital communication cross borders regardless of state consent."
+            "States have territory, a permanent population and widely recognised sovereignty; Australia is one example.",
+            "Regional groupings are formal associations of states in a region, such as ASEAN or the Pacific Islands Forum.",
+            "Institutions of global governance have global scope and help states cooperate, enforce rules or resolve disputes; the United Nations is one example.",
+            "Non-state actors include transnational corporations, individuals, NGOs, terrorist groups and international criminal networks."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C1",
+        "title": "Global actors",
+        "front": "Distinguish the four categories of global actor used in VCE Politics and give an example of each.",
+        "back": [
+          "States have territory, a permanent population and widely recognised sovereignty; Australia is one example.",
+          "Regional groupings are formal associations of states in a region, such as ASEAN or the Pacific Islands Forum.",
+          "Institutions of global governance have global scope and help states cooperate, enforce rules or resolve disputes; the United Nations is one example.",
+          "Non-state actors include transnational corporations, individuals, NGOs, terrorist groups and international criminal networks."
+        ]
+      }
     },
     {
-      "id": "C2",
-      "area": "Key concepts and actors",
-      "title": "The state and the national interest",
-      "detail": "States as the primary actors, the components of national interest including security, economic prosperity and international standing.",
+      "id": "P-C2",
+      "area": "Core concepts and contemporary politics",
+      "title": "Interests and perspectives",
+      "detail": "Interests as the outcomes actors seek and perspectives as the ways actors understand an issue, shaped by values, experience, identity and political circumstances.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain what is meant by the national interest and why states may define it differently.",
+          "q": "Explain the difference between an actor’s interests and perspectives and why the distinction matters.",
           "answer": [
-            "The national interest is what a state judges to be of greatest benefit to its people and its continued security and prosperity.",
-            "It typically includes national security, economic prosperity, regional stability and the promotion of national values or standing.",
-            "States define it differently because their geography, resources, history, alliances and domestic politics differ.",
-            "Definitions also shift with government, so the same state may pursue different priorities after an election."
+            "An interest is an outcome or advantage an actor seeks, such as security, prosperity or influence.",
+            "A perspective is the actor’s interpretation of an issue, shaped by values, identity, evidence and experience.",
+            "Actors can share an interest while holding different perspectives on how it should be achieved.",
+            "Distinguishing them helps explain why actors cooperate in some areas but conflict over methods or priorities."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C2",
+        "title": "Interests and perspectives",
+        "front": "Explain the difference between an actor’s interests and perspectives and why the distinction matters.",
+        "back": [
+          "An interest is an outcome or advantage an actor seeks, such as security, prosperity or influence.",
+          "A perspective is the actor’s interpretation of an issue, shaped by values, identity, evidence and experience.",
+          "Actors can share an interest while holding different perspectives on how it should be achieved.",
+          "Distinguishing them helps explain why actors cooperate in some areas but conflict over methods or priorities."
+        ]
+      }
     },
     {
-      "id": "C3",
-      "area": "Key concepts and actors",
-      "title": "Types of power",
-      "detail": "Hard, soft and smart power, economic and military instruments, and the relationship between capability and influence.",
+      "id": "P-C3",
+      "area": "Core concepts and contemporary politics",
+      "title": "Sovereignty and the state",
+      "detail": "Sovereignty as a state’s authority over its territory and population, and the ways global issues, laws, institutions and other actors can constrain state action.",
       "questions": [
         {
           "marks": 4,
-          "q": "Distinguish between hard power and soft power, giving an example of each, and explain smart power.",
+          "q": "Define sovereignty and explain two ways it can be constrained in contemporary politics.",
           "answer": [
-            "Hard power is coercion through military force or economic pressure, such as sanctions, tariffs or the deployment of armed forces.",
-            "Soft power is attraction, achieved through culture, values, diplomacy and aid, so that other actors want what you want.",
-            "Smart power combines both, using coercive capability alongside attraction and legitimacy to achieve objectives.",
-            "Capability does not automatically produce influence, since a state with great military power may still fail to change another state's behaviour."
+            "Sovereignty is a state’s supreme authority over its territory and population and its recognised independence from other states.",
+            "International agreements constrain action when a state accepts common rules or dispute procedures.",
+            "Transnational problems such as climate change, financial instability and mass displacement cross borders and cannot be controlled by one state alone.",
+            "Powerful states, corporations or armed groups may also limit a government’s practical capacity to exercise authority."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C3",
+        "title": "Sovereignty and the state",
+        "front": "Define sovereignty and explain two ways it can be constrained in contemporary politics.",
+        "back": [
+          "Sovereignty is a state’s supreme authority over its territory and population and its recognised independence from other states.",
+          "International agreements constrain action when a state accepts common rules or dispute procedures.",
+          "Transnational problems such as climate change, financial instability and mass displacement cross borders and cannot be controlled by one state alone.",
+          "Powerful states, corporations or armed groups may also limit a government’s practical capacity to exercise authority."
+        ]
+      }
     },
     {
-      "id": "C4",
-      "area": "Key concepts and actors",
-      "title": "Non-state actors",
-      "detail": "Intergovernmental organisations, non-government organisations, transnational corporations, terrorist organisations and social movements.",
+      "id": "P-C4",
+      "area": "Core concepts and contemporary politics",
+      "title": "Political stability and change",
+      "detail": "Political stability as the maintenance of institutions, relationships and order, and political change as significant alteration to authority, policy, relationships or institutions.",
       "questions": [
         {
           "marks": 4,
-          "q": "Name four types of non-state actor and explain how one of them exercises power.",
+          "q": "Distinguish political stability from political change and explain why the same response may produce both.",
           "answer": [
-            "Non-state actors include intergovernmental organisations, non-government organisations, transnational corporations, terrorist organisations and social movements.",
-            "Transnational corporations exercise power through control of capital, employment and supply chains across many states.",
-            "They can relocate investment and production, which gives them leverage over governments seeking jobs and revenue.",
-            "They also shape regulation through lobbying and through setting de facto global standards in their industries."
+            "Political stability is the maintenance of political order, functioning institutions and predictable relationships.",
+            "Political change is a significant alteration to policies, institutions, power relationships or patterns of cooperation and conflict.",
+            "A response can stabilise one actor or region while changing another relationship or institution.",
+            "A strong answer identifies who experiences stability or change, the mechanism and the supporting evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C4",
+        "title": "Political stability and change",
+        "front": "Distinguish political stability from political change and explain why the same response may produce both.",
+        "back": [
+          "Political stability is the maintenance of political order, functioning institutions and predictable relationships.",
+          "Political change is a significant alteration to policies, institutions, power relationships or patterns of cooperation and conflict.",
+          "A response can stabilise one actor or region while changing another relationship or institution.",
+          "A strong answer identifies who experiences stability or change, the mechanism and the supporting evidence."
+        ]
+      }
     },
     {
-      "id": "C5",
-      "area": "Key concepts and actors",
-      "title": "Realism and liberalism",
-      "detail": "The competing perspectives on why states behave as they do, and what each predicts about cooperation and conflict.",
+      "id": "P-C5",
+      "area": "Core concepts and contemporary politics",
+      "title": "Cooperation, conflict and disengagement",
+      "detail": "Cooperation as coordinated action, conflict as incompatible interests or actions, and disengagement as withdrawal or refusal to participate.",
       "questions": [
         {
           "marks": 4,
-          "q": "Compare realist and liberal explanations of state behaviour.",
+          "q": "Explain cooperation, conflict and disengagement as possible responses by global actors.",
           "answer": [
-            "Realism holds that the international system is anarchic, so states pursue power and security and can rely ultimately only on themselves.",
-            "It predicts recurring competition, arms racing and limited durable cooperation, since agreements last only while they serve state interests.",
-            "Liberalism holds that cooperation is possible and rational, through institutions, trade, law and shared democratic values that reduce the incentive for conflict.",
-            "It predicts that interdependence and international organisations can constrain states, while realists reply that such constraints fail when core interests are at stake."
+            "Cooperation occurs when actors coordinate policies, resources or institutions to pursue a shared outcome.",
+            "Conflict occurs when actors’ interests, perspectives or actions are incompatible and produce political contest or confrontation.",
+            "Disengagement occurs when an actor withdraws, refuses to participate or limits involvement.",
+            "An actor may combine all three responses across different parts or stages of the same issue."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C5",
+        "title": "Cooperation, conflict and disengagement",
+        "front": "Explain cooperation, conflict and disengagement as possible responses by global actors.",
+        "back": [
+          "Cooperation occurs when actors coordinate policies, resources or institutions to pursue a shared outcome.",
+          "Conflict occurs when actors’ interests, perspectives or actions are incompatible and produce political contest or confrontation.",
+          "Disengagement occurs when an actor withdraws, refuses to participate or limits involvement.",
+          "An actor may combine all three responses across different parts or stages of the same issue."
+        ]
+      }
     },
     {
-      "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "The United Nations",
-      "detail": "The Security Council, General Assembly, Secretariat and agencies, the veto power and the debate about reform and effectiveness.",
+      "id": "P-C6",
+      "area": "Core concepts and contemporary politics",
+      "title": "Global interconnectedness",
+      "detail": "The political consequences of flows of trade, finance, information, people, technology and environmental effects across borders.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain the structure of the UN Security Council and how the veto affects its effectiveness.",
+          "q": "Explain how global interconnectedness can both assist and obstruct the resolution of a political issue.",
           "answer": [
-            "The Security Council has five permanent members holding the veto and ten elected non-permanent members serving two-year terms.",
-            "It is the only UN body whose resolutions are binding on member states, including the authorisation of force and sanctions.",
-            "Any permanent member can block a resolution regardless of majority support, so action is impossible where a permanent member's interests are engaged.",
-            "The veto was designed to keep great powers inside the organisation, but it means the Council is least able to act precisely in the conflicts that most involve major powers."
+            "Interconnectedness spreads information, expertise, finance and coordinated pressure, making joint responses possible.",
+            "It also transmits economic, security and environmental consequences rapidly between actors.",
+            "Actors become mutually dependent, so unilateral action may be ineffective or costly.",
+            "Different exposure to costs and benefits creates competing interests that can obstruct agreement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C6",
+        "title": "Global interconnectedness",
+        "front": "Explain how global interconnectedness can both assist and obstruct the resolution of a political issue.",
+        "back": [
+          "Interconnectedness spreads information, expertise, finance and coordinated pressure, making joint responses possible.",
+          "It also transmits economic, security and environmental consequences rapidly between actors.",
+          "Actors become mutually dependent, so unilateral action may be ineffective or costly.",
+          "Different exposure to costs and benefits creates competing interests that can obstruct agreement."
+        ]
+      }
     },
     {
-      "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "International law and its enforcement",
-      "detail": "Treaties, customary law, the International Court of Justice and International Criminal Court, and the problem of enforcement without a global authority.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why international law is difficult to enforce and why states comply with it nonetheless.",
-          "answer": [
-            "There is no global authority above states with the power to compel compliance, so enforcement depends on states themselves.",
-            "Courts such as the ICJ generally require state consent to jurisdiction, and judgments cannot be enforced against an unwilling great power.",
-            "States nonetheless comply most of the time because law provides predictability and reciprocity that serve their interests.",
-            "Reputation also matters, since a state known for breaking agreements finds future cooperation, trade and alliance harder to obtain."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "Regional and economic organisations",
-      "detail": "The role of bodies such as the EU, ASEAN, the WTO and international financial institutions in shaping state behaviour.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain how membership of a regional or economic organisation constrains and benefits a state.",
-          "answer": [
-            "Membership requires accepting common rules, dispute mechanisms and sometimes shared decision making, which limits independent action.",
-            "States accept these constraints because access to a larger market, investment and collective bargaining power outweighs the loss of autonomy.",
-            "Organisations also provide forums for managing disputes short of conflict and for coordinating responses to shared problems.",
-            "The trade-off becomes contested when domestic groups bear the costs of compliance, which is why membership is often politically divisive."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "Non-government organisations and social movements",
-      "detail": "How NGOs and movements influence agendas through advocacy, expertise, service delivery and mobilisation, and the limits on their power.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain how NGOs influence global politics and one limitation on their influence.",
-          "answer": [
-            "They shape agendas by researching and publicising issues that states would prefer to ignore, and by supplying expertise to negotiations.",
-            "They deliver services directly in areas where states are absent or unwilling, which gives them operational knowledge and legitimacy.",
-            "They mobilise public opinion, which pressures governments through domestic electorates.",
-            "Their limitation is that they hold no sovereign authority and depend on funding and access, so states can exclude, defund or ignore them."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "Transnational corporations",
-      "detail": "Economic scale, mobility of capital, supply chains, tax practices and the relationship between corporate and state power.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the sources of transnational corporate power and how states attempt to constrain it.",
-          "answer": [
-            "Their power derives from capital, employment, technology and control of supply chains spanning many jurisdictions.",
-            "Mobility allows them to shift production and profit between states, so governments compete to attract them with tax and regulatory concessions.",
-            "States attempt to constrain them through competition law, environmental and labour regulation, and coordinated international tax agreements.",
-            "Constraint is difficult because a single state acting alone risks losing the investment, which is why cooperation between states is required."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — Global actors and power",
-      "title": "Terrorist organisations and asymmetric power",
-      "detail": "How non-state armed groups exert influence disproportionate to their resources, and the difficulties states face in responding.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why states find it difficult to respond to non-state armed groups.",
-          "answer": [
-            "Such groups have no territory to defend or population to protect, so conventional deterrence has little purchase.",
-            "They operate across borders and among civilian populations, making military force imprecise and politically costly.",
-            "Their aim is often to provoke an overreaction that damages the state's legitimacy and recruits support for their cause.",
-            "Effective responses therefore require intelligence, policing, disruption of finance and addressing grievances, which are slower and less visible than force."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "Defining the region",
-      "detail": "The Asia-Pacific and Indo-Pacific as contested geographic and strategic concepts, and the political significance of how the region is defined.",
+      "id": "P-C7",
+      "area": "Core concepts and contemporary politics",
+      "title": "Contemporary evidence and the 10-year rule",
+      "detail": "The requirement that the central examples and case studies come from the last 10 years, with older events used only to contextualise contemporary causes and actions.",
       "questions": [
         {
           "marks": 3,
-          "q": "Explain why the definition of a region such as the Indo-Pacific is itself politically significant.",
+          "q": "How should evidence older than 10 years be used in VCE Politics?",
           "answer": [
-            "Defining a region determines which states are treated as central participants and which are peripheral or excluded.",
-            "The shift from Asia-Pacific to Indo-Pacific brings India into the strategic frame, which changes the balance of the grouping.",
-            "Definitions therefore reflect and advance strategic preferences rather than simply describing geography."
+            "Use older evidence briefly to establish historical background or long-term causes.",
+            "Keep the analytical focus on short-term causes, responses and consequences from within the last 10 years.",
+            "Current examples should carry the argument because Politics is assessed as a contemporary study."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-C7",
+        "title": "Contemporary evidence and the 10-year rule",
+        "front": "How should evidence older than 10 years be used in VCE Politics?",
+        "back": [
+          "Use older evidence briefly to establish historical background or long-term causes.",
+          "Keep the analytical focus on short-term causes, responses and consequences from within the last 10 years.",
+          "Current examples should carry the argument because Politics is assessed as a contemporary study."
+        ]
+      }
     },
     {
-      "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "The rise of China",
-      "detail": "Economic growth, military modernisation, infrastructure investment and diplomatic initiatives, and the debate about intentions.",
+      "id": "P-3.1.1",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Selecting a global issue",
+      "detail": "One issue must be studied in depth: climate change, global economic instability, development or weapons of mass destruction.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain three instruments China uses to build influence in the Asia-Pacific.",
+          "q": "What makes an issue suitable for Unit 3 Area of Study 1, and which four issues may be selected?",
           "answer": [
-            "Economic instruments: trade relationships, investment and infrastructure financing create dependence and goodwill.",
-            "Military instruments: naval expansion and the construction and fortification of features in contested waters assert claims and capability.",
-            "Diplomatic instruments: bilateral agreements, regional groupings and development assistance build partnerships outside existing alliance structures.",
-            "Soft power, through cultural institutes, education and media, seeks to make Chinese leadership appear attractive rather than coercive."
+            "The issue must be global in scale, transcend national and regional boundaries and be significant to multiple global actors.",
+            "The four prescribed options are climate change, global economic instability, development and weapons of mass destruction.",
+            "The course studies one option in depth rather than surveying all four.",
+            "Evidence must focus on contemporary causes, actor responses, challenges and consequences."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.1",
+        "title": "Selecting a global issue",
+        "front": "What makes an issue suitable for Unit 3 Area of Study 1, and which four issues may be selected?",
+        "back": [
+          "The issue must be global in scale, transcend national and regional boundaries and be significant to multiple global actors.",
+          "The four prescribed options are climate change, global economic instability, development and weapons of mass destruction.",
+          "The course studies one option in depth rather than surveying all four.",
+          "Evidence must focus on contemporary causes, actor responses, challenges and consequences."
+        ]
+      }
     },
     {
-      "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "The role of the United States",
-      "detail": "Alliance networks, forward-deployed forces, economic relationships and the debate about American commitment to the region.",
+      "id": "P-3.1.2",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Short-term causes of a global issue",
+      "detail": "Political, economic, social, environmental, ideological, cultural and technological causes operating within the last 10 years.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain how the United States exercises power in the Asia-Pacific and why regional states question its commitment.",
+          "q": "Analyse two short-term causes of your selected global issue.",
           "answer": [
-            "It maintains bilateral alliances and basing arrangements with partners including Japan, South Korea and Australia, providing security guarantees.",
-            "It deploys naval and air forces to assert freedom of navigation and to deter coercion.",
-            "Its economic weight and its role in international financial institutions extend influence beyond the military dimension.",
-            "Regional states question commitment because American domestic politics is volatile, priorities shift between administrations, and attention is often drawn to other regions."
+            "Identify two distinct causes from within the last 10 years and support each with specific evidence.",
+            "Explain the mechanism by which each cause intensified, spread or obstructed resolution of the issue.",
+            "Link the causes where appropriate rather than treating them as isolated facts.",
+            "Separate contemporary causes from older background conditions."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.2",
+        "title": "Short-term causes of a global issue",
+        "front": "Analyse two short-term causes of your selected global issue.",
+        "back": [
+          "Identify two distinct causes from within the last 10 years and support each with specific evidence.",
+          "Explain the mechanism by which each cause intensified, spread or obstructed resolution of the issue.",
+          "Link the causes where appropriate rather than treating them as isolated facts.",
+          "Separate contemporary causes from older background conditions."
+        ]
+      }
     },
     {
-      "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "Regional flashpoints",
-      "detail": "Maritime disputes, the Korean peninsula, Taiwan and border disputes, and the mechanisms that manage or escalate them.",
+      "id": "P-3.1.3",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Interconnectedness and the selected issue",
+      "detail": "How cross-border flows and dependencies shape the causes, consequences and possible resolution of the chosen global issue.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain why maritime disputes are difficult to resolve, using the features common to such disputes.",
+          "q": "Assess the impact of global interconnectedness on your selected issue.",
           "answer": [
-            "Competing claims rest on different legal bases, including historical usage, continental shelf entitlements and exclusive economic zones.",
-            "The waters contain fisheries, hydrocarbons and major shipping routes, so the material stakes are high.",
-            "Claims are tied to national identity and domestic legitimacy, which makes compromise politically costly for any government.",
-            "International rulings can be rejected without effective enforcement, so legal processes do not settle the dispute in practice."
+            "Identify a specific cross-border connection, such as trade, finance, technology, migration or environmental effects.",
+            "Explain how it changes the scale, speed or distribution of the issue’s consequences.",
+            "Explain whether it improves cooperation or creates further competing interests.",
+            "Reach a judgement about its overall political impact using contemporary evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.3",
+        "title": "Interconnectedness and the selected issue",
+        "front": "Assess the impact of global interconnectedness on your selected issue.",
+        "back": [
+          "Identify a specific cross-border connection, such as trade, finance, technology, migration or environmental effects.",
+          "Explain how it changes the scale, speed or distribution of the issue’s consequences.",
+          "Explain whether it improves cooperation or creates further competing interests.",
+          "Reach a judgement about its overall political impact using contemporary evidence."
+        ]
+      }
     },
     {
-      "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "Middle powers and regional groupings",
-      "detail": "The strategies available to middle powers, including alliance, hedging and multilateralism, and the role of regional institutions.",
+      "id": "P-3.1.4",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Global actor responses to an issue",
+      "detail": "Responses by states, at least one institution of global governance and at least one non-state actor, including cooperation, conflict and disengagement.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Compare the responses of a state, an institution of global governance and a non-state actor to your selected issue.",
+          "answer": [
+            "For each actor, identify a specific policy, action or decision and the interest it was intended to advance.",
+            "Explain whether the response involved cooperation, conflict or disengagement.",
+            "Compare the actors’ authority, resources and ability to influence other actors.",
+            "Use evidence to judge which response contributed most effectively to addressing the issue."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.4",
+        "title": "Global actor responses to an issue",
+        "front": "Compare the responses of a state, an institution of global governance and a non-state actor to your selected issue.",
+        "back": [
+          "For each actor, identify a specific policy, action or decision and the interest it was intended to advance.",
+          "Explain whether the response involved cooperation, conflict or disengagement.",
+          "Compare the actors’ authority, resources and ability to influence other actors.",
+          "Use evidence to judge which response contributed most effectively to addressing the issue."
+        ]
+      }
+    },
+    {
+      "id": "P-3.1.5",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "International law and global issues",
+      "detail": "Treaties, declarations, agreements and decisions that establish expectations or obligations, and the extent to which actors comply with and enforce them.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Evaluate the effectiveness of international law in addressing your selected global issue.",
+          "answer": [
+            "Identify the relevant law, treaty, declaration, agreement or binding decision and what it requires.",
+            "Use evidence of compliance or changed behaviour to show effectiveness.",
+            "Use evidence of non-compliance, weak enforcement or limited participation to show constraints.",
+            "Judge effectiveness against the law’s objectives rather than merely stating that it exists."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.5",
+        "title": "International law and global issues",
+        "front": "Evaluate the effectiveness of international law in addressing your selected global issue.",
+        "back": [
+          "Identify the relevant law, treaty, declaration, agreement or binding decision and what it requires.",
+          "Use evidence of compliance or changed behaviour to show effectiveness.",
+          "Use evidence of non-compliance, weak enforcement or limited participation to show constraints.",
+          "Judge effectiveness against the law’s objectives rather than merely stating that it exists."
+        ]
+      }
+    },
+    {
+      "id": "P-3.1.6",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Challenges to resolving a global issue",
+      "detail": "Competing actor interests and perspectives, limits of law and institutions, sovereignty, unequal capabilities and the effects of interconnectedness.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Discuss the major challenges to resolving your selected global issue.",
+          "answer": [
+            "Explain at least two distinct challenges and support each with contemporary evidence.",
+            "Link each challenge to the interests, perspectives or capabilities of particular actors.",
+            "Show how the challenge obstructs cooperation, implementation or enforcement.",
+            "Weigh the challenges and identify which most seriously limits resolution."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.6",
+        "title": "Challenges to resolving a global issue",
+        "front": "Discuss the major challenges to resolving your selected global issue.",
+        "back": [
+          "Explain at least two distinct challenges and support each with contemporary evidence.",
+          "Link each challenge to the interests, perspectives or capabilities of particular actors.",
+          "Show how the challenge obstructs cooperation, implementation or enforcement.",
+          "Weigh the challenges and identify which most seriously limits resolution."
+        ]
+      }
+    },
+    {
+      "id": "P-3.1.7",
+      "area": "Unit 3: Global cooperation and conflict — AoS 1: Global issues, global responses",
+      "title": "Significance, effectiveness and political consequences",
+      "detail": "Evaluation of the issue’s political significance, actors’ ability to respond and the resulting political stability and change.",
+      "questions": [
+        {
+          "marks": 8,
+          "q": "Evaluate the ability of global actors to respond effectively to your selected issue.",
+          "answer": [
+            "Establish criteria for effectiveness, such as progress toward resolution, compliance, reach, durability and unintended consequences.",
+            "Compare the actions and capabilities of the required actor categories using specific evidence.",
+            "Explain how the responses produced political stability and/or change for identified actors.",
+            "Reach a qualified overall judgement that recognises both achievement and limitation."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.1.7",
+        "title": "Significance, effectiveness and political consequences",
+        "front": "Evaluate the ability of global actors to respond effectively to your selected issue.",
+        "back": [
+          "Establish criteria for effectiveness, such as progress toward resolution, compliance, reach, durability and unintended consequences.",
+          "Compare the actions and capabilities of the required actor categories using specific evidence.",
+          "Explain how the responses produced political stability and/or change for identified actors.",
+          "Reach a qualified overall judgement that recognises both achievement and limitation."
+        ]
+      }
+    },
+    {
+      "id": "P-3.2.1",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Selecting a contemporary humanitarian crisis",
+      "detail": "One significant crisis must be studied from human rights, armed conflict or the mass movement of people, affecting large numbers and concerning multiple states.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain the strategy of hedging and why middle powers in the region adopt it.",
+          "q": "What makes a crisis suitable for Unit 3 Area of Study 2?",
           "answer": [
-            "Hedging means avoiding a firm commitment to one great power while maintaining useful relationships with several.",
-            "Middle powers adopt it when their security partner and their largest trading partner are strategic rivals.",
-            "It preserves economic benefit while retaining security insurance, and avoids provoking either power unnecessarily.",
-            "The risk is that as competition sharpens, both powers demand clearer alignment and the space for hedging narrows."
+            "It must fall within human rights, armed conflict or the mass movement of people.",
+            "It must be significant in scale, affect large numbers of people and concern several states.",
+            "Although it may originate within one state, its consequences must extend beyond that state.",
+            "The main causes, responses and evidence must be contemporary and generally within the last 10 years."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.1",
+        "title": "Selecting a contemporary humanitarian crisis",
+        "front": "What makes a crisis suitable for Unit 3 Area of Study 2?",
+        "back": [
+          "It must fall within human rights, armed conflict or the mass movement of people.",
+          "It must be significant in scale, affect large numbers of people and concern several states.",
+          "Although it may originate within one state, its consequences must extend beyond that state.",
+          "The main causes, responses and evidence must be contemporary and generally within the last 10 years."
+        ]
+      }
     },
     {
-      "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
-      "title": "Australia's regional position",
-      "detail": "Australia's alliance relationships, economic dependence on regional trade, aid and diplomacy, and the tensions between them.",
+      "id": "P-3.2.2",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Short-term causes of a contemporary crisis",
+      "detail": "Immediate and interacting causes within the last 10 years, including discrimination, sovereignty disputes, resource conflict, poverty, climate pressures and armed violence.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain the central tension in Australia's regional strategic position.",
+          "q": "Analyse two short-term causes of your selected humanitarian crisis.",
           "answer": [
-            "Australia's principal security relationship and its largest trading relationship are with states that are strategic competitors.",
-            "Security alignment brings intelligence sharing, technology access and deterrence, which Australia's own capabilities could not provide alone.",
-            "Economic dependence means that deterioration in the trading relationship imposes real domestic costs, as trade restrictions have demonstrated.",
-            "Australia therefore attempts to sustain both, which requires careful management and produces criticism that it is committing too far in one direction or the other."
+            "Identify two specific causes operating within the last 10 years.",
+            "Explain how each cause contributed to the outbreak, escalation or spread of the crisis.",
+            "Show how actor interests or perspectives shaped at least one cause.",
+            "Use older events only where necessary to clarify the contemporary context."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.2",
+        "title": "Short-term causes of a contemporary crisis",
+        "front": "Analyse two short-term causes of your selected humanitarian crisis.",
+        "back": [
+          "Identify two specific causes operating within the last 10 years.",
+          "Explain how each cause contributed to the outbreak, escalation or spread of the crisis.",
+          "Show how actor interests or perspectives shaped at least one cause.",
+          "Use older events only where necessary to clarify the contemporary context."
+        ]
+      }
     },
     {
-      "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Ethical issues and debates",
-      "title": "Human rights",
-      "detail": "The Universal Declaration and core treaties, the distinction between civil-political and economic-social rights, and the tension with sovereignty.",
+      "id": "P-3.2.3",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Actors’ perspectives and interests in a crisis",
+      "detail": "How different understandings, priorities and desired outcomes shape the course of a crisis and actors’ willingness to cooperate.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Compare the perspectives and interests of two global actors involved in your selected crisis.",
+          "answer": [
+            "State each actor’s perspective and the evidence or values shaping it.",
+            "Identify the security, political, economic or humanitarian interest each actor pursues.",
+            "Explain how the difference affects the actor’s actions or response.",
+            "Conclude whether the competing positions primarily drive conflict or still permit cooperation."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.3",
+        "title": "Actors’ perspectives and interests in a crisis",
+        "front": "Compare the perspectives and interests of two global actors involved in your selected crisis.",
+        "back": [
+          "State each actor’s perspective and the evidence or values shaping it.",
+          "Identify the security, political, economic or humanitarian interest each actor pursues.",
+          "Explain how the difference affects the actor’s actions or response.",
+          "Conclude whether the competing positions primarily drive conflict or still permit cooperation."
+        ]
+      }
+    },
+    {
+      "id": "P-3.2.4",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Responses by global and regional actors",
+      "detail": "Responses by states, an institution of global governance and/or regional grouping, and a non-state actor.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Analyse the responses of three different actor types to your selected crisis.",
+          "answer": [
+            "Use a state, an institution of global governance or regional grouping, and a non-state actor.",
+            "Identify the concrete response taken by each and the interest or objective behind it.",
+            "Explain the political mechanism through which each response was intended to affect the crisis.",
+            "Compare their reach, authority, resources and observable outcomes."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.4",
+        "title": "Responses by global and regional actors",
+        "front": "Analyse the responses of three different actor types to your selected crisis.",
+        "back": [
+          "Use a state, an institution of global governance or regional grouping, and a non-state actor.",
+          "Identify the concrete response taken by each and the interest or objective behind it.",
+          "Explain the political mechanism through which each response was intended to affect the crisis.",
+          "Compare their reach, authority, resources and observable outcomes."
+        ]
+      }
+    },
+    {
+      "id": "P-3.2.5",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Diplomacy and international law",
+      "detail": "Negotiation, mediation, agreements, legal obligations, courts, investigations and other processes used to manage or resolve a crisis.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Evaluate the contribution of diplomacy and international law to addressing your selected crisis.",
+          "answer": [
+            "Identify a specific diplomatic process and a relevant international legal rule or institution.",
+            "Explain what each process achieved, using evidence rather than intention alone.",
+            "Analyse constraints such as lack of consent, enforcement, trust or agreement among powerful actors.",
+            "Judge whether they reduced harm, changed behaviour or advanced a durable resolution."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.5",
+        "title": "Diplomacy and international law",
+        "front": "Evaluate the contribution of diplomacy and international law to addressing your selected crisis.",
+        "back": [
+          "Identify a specific diplomatic process and a relevant international legal rule or institution.",
+          "Explain what each process achieved, using evidence rather than intention alone.",
+          "Analyse constraints such as lack of consent, enforcement, trust or agreement among powerful actors.",
+          "Judge whether they reduced harm, changed behaviour or advanced a durable resolution."
+        ]
+      }
+    },
+    {
+      "id": "P-3.2.6",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Challenges to crisis resolution",
+      "detail": "Competing interests, sovereignty, limited enforcement, resource constraints, disagreement over facts or responsibility and the continuation of violence.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Discuss the challenges that prevent effective resolution of your selected crisis.",
+          "answer": [
+            "Explain at least two challenges and identify the actors connected to each.",
+            "Show how each challenge limits cooperation, access, enforcement or implementation.",
+            "Support the analysis with recent and specific evidence from the selected crisis.",
+            "Weigh which challenge has had the greatest effect on prospects for resolution."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.6",
+        "title": "Challenges to crisis resolution",
+        "front": "Discuss the challenges that prevent effective resolution of your selected crisis.",
+        "back": [
+          "Explain at least two challenges and identify the actors connected to each.",
+          "Show how each challenge limits cooperation, access, enforcement or implementation.",
+          "Support the analysis with recent and specific evidence from the selected crisis.",
+          "Weigh which challenge has had the greatest effect on prospects for resolution."
+        ]
+      }
+    },
+    {
+      "id": "P-3.2.7",
+      "area": "Unit 3: Global cooperation and conflict — AoS 2: Contemporary crises: conflict, stability and change",
+      "title": "Crisis consequences, significance and change",
+      "detail": "The human and political consequences of the crisis and the extent to which actor responses produce political stability or change.",
+      "questions": [
+        {
+          "marks": 8,
+          "q": "Evaluate the political significance of your selected crisis and the effectiveness of responses to it.",
+          "answer": [
+            "Explain consequences for affected populations, states, regional relationships and relevant institutions.",
+            "Assess responses against clear criteria such as protection, access, de-escalation, accountability and durability.",
+            "Identify evidence of both political stability and political change caused by the crisis or responses.",
+            "Reach a supported judgement about significance and effectiveness rather than listing events."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-3.2.7",
+        "title": "Crisis consequences, significance and change",
+        "front": "Evaluate the political significance of your selected crisis and the effectiveness of responses to it.",
+        "back": [
+          "Explain consequences for affected populations, states, regional relationships and relevant institutions.",
+          "Assess responses against clear criteria such as protection, access, de-escalation, accountability and durability.",
+          "Identify evidence of both political stability and political change caused by the crisis or responses.",
+          "Reach a supported judgement about significance and effectiveness rather than listing events."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.1",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "The Indo-Pacific and the selected state",
+      "detail": "The prescribed regional definition and the in-depth study of China, Japan, India, Indonesia or the United States.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain the tension between universal human rights and state sovereignty.",
+          "q": "Define the Indo-Pacific for VCE Politics and name the five states available for in-depth study.",
           "answer": [
-            "Human rights are claimed as universal, held by all people regardless of the state they live in.",
-            "Sovereignty holds that a state's treatment of its own population is a matter of domestic jurisdiction.",
-            "When a state abuses its population, these principles conflict directly, since acting to protect rights means interfering in another state's affairs.",
-            "Some states argue that universality reflects particular cultural assumptions, though critics respond that this argument is most often used by governments seeking to escape scrutiny."
+            "The Indo-Pacific extends from the eastern Indian Ocean to the Pacific Ocean, connected through Southeast Asia.",
+            "It includes India, North Asia, Southeast Asia, Pacific states, Australia and the United States.",
+            "The selected state must be China, Japan, India, Indonesia or the United States.",
+            "One state is studied in depth through its power, interests, actions, challenges and regional consequences."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.1",
+        "title": "The Indo-Pacific and the selected state",
+        "front": "Define the Indo-Pacific for VCE Politics and name the five states available for in-depth study.",
+        "back": [
+          "The Indo-Pacific extends from the eastern Indian Ocean to the Pacific Ocean, connected through Southeast Asia.",
+          "It includes India, North Asia, Southeast Asia, Pacific states, Australia and the United States.",
+          "The selected state must be China, Japan, India, Indonesia or the United States.",
+          "One state is studied in depth through its power, interests, actions, challenges and regional consequences."
+        ]
+      }
     },
     {
-      "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Ethical issues and debates",
-      "title": "Humanitarian intervention and the responsibility to protect",
-      "detail": "The doctrine that sovereignty entails responsibility, the criteria for intervention, and the record of its application.",
+      "id": "P-4.1.2",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Sources and forms of state power",
+      "detail": "Political, economic, military, diplomatic and cultural power, including the distinction between the resources a state possesses and how it uses them.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Analyse three forms of power used by your selected Indo-Pacific state.",
+          "answer": [
+            "Identify three of political, economic, military, diplomatic and cultural power with specific evidence.",
+            "Explain the source of each capability, such as institutions, markets, armed forces, relationships or cultural reach.",
+            "Analyse how the state converts the capability into influence over another actor.",
+            "Do not assume a large capability is effective without showing an outcome."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.2",
+        "title": "Sources and forms of state power",
+        "front": "Analyse three forms of power used by your selected Indo-Pacific state.",
+        "back": [
+          "Identify three of political, economic, military, diplomatic and cultural power with specific evidence.",
+          "Explain the source of each capability, such as institutions, markets, armed forces, relationships or cultural reach.",
+          "Analyse how the state converts the capability into influence over another actor.",
+          "Do not assume a large capability is effective without showing an outcome."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.3",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Four national interests",
+      "detail": "Security, economic prosperity, regional relationships and regional standing as multifaceted and changeable guides to state policy.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain the responsibility to protect doctrine and two criticisms of it.",
+          "q": "Explain the four national interests examined for the selected Indo-Pacific state.",
           "answer": [
-            "The doctrine holds that states have a responsibility to protect their populations from genocide, war crimes, ethnic cleansing and crimes against humanity.",
-            "Where a state manifestly fails to do so, that responsibility passes to the international community, including collective action through the Security Council.",
-            "One criticism is inconsistency: intervention occurs where powerful states have interests and does not occur elsewhere, which undermines its claim to principle.",
-            "Another is that intervention can exceed its mandate and produce prolonged instability, which has made some states reluctant to authorise it again."
+            "Security concerns protection of the state, population, sovereignty and strategic environment.",
+            "Economic prosperity concerns trade, investment, resources, growth and material wellbeing.",
+            "Regional relationships concern maintaining useful and stable connections with other regional actors.",
+            "Regional standing concerns status, reputation and influence in shaping the regional order."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.3",
+        "title": "Four national interests",
+        "front": "Explain the four national interests examined for the selected Indo-Pacific state.",
+        "back": [
+          "Security concerns protection of the state, population, sovereignty and strategic environment.",
+          "Economic prosperity concerns trade, investment, resources, growth and material wellbeing.",
+          "Regional relationships concern maintaining useful and stable connections with other regional actors.",
+          "Regional standing concerns status, reputation and influence in shaping the regional order."
+        ]
+      }
     },
     {
-      "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Ethical issues and debates",
-      "title": "People movement and refugees",
-      "detail": "The definition of a refugee, the principle of non-refoulement, the distinction from other migrants, and the politics of border control.",
+      "id": "P-4.1.4",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Foreign policy instruments",
+      "detail": "Diplomacy, trade and foreign aid as required instruments, used alongside wider applications of political, economic, military, diplomatic and cultural power.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Compare diplomacy, trade and foreign aid as instruments used by your selected state.",
+          "answer": [
+            "Diplomacy uses negotiation, representation and agreements to communicate and coordinate policy.",
+            "Trade uses market access, agreements, restrictions or economic dependence to create benefit or leverage.",
+            "Foreign aid transfers resources or expertise and can support development, relationships and influence.",
+            "Compare how the state used each instrument and the national interest it was intended to advance."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.4",
+        "title": "Foreign policy instruments",
+        "front": "Compare diplomacy, trade and foreign aid as instruments used by your selected state.",
+        "back": [
+          "Diplomacy uses negotiation, representation and agreements to communicate and coordinate policy.",
+          "Trade uses market access, agreements, restrictions or economic dependence to create benefit or leverage.",
+          "Foreign aid transfers resources or expertise and can support development, relationships and influence.",
+          "Compare how the state used each instrument and the national interest it was intended to advance."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.5",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Effectiveness in achieving national interests",
+      "detail": "The degree to which actions deliver stated outcomes, considering resistance, trade-offs, duration and unintended consequences.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Evaluate how effectively your selected state has achieved one national interest.",
+          "answer": [
+            "Define the national interest and identify the outcomes the state sought.",
+            "Use at least two actions or instruments and evidence of their results.",
+            "Consider resistance, costs, trade-offs and unintended consequences as limits on effectiveness.",
+            "Reach a qualified judgement based on the extent and durability of achievement."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.5",
+        "title": "Effectiveness in achieving national interests",
+        "front": "Evaluate how effectively your selected state has achieved one national interest.",
+        "back": [
+          "Define the national interest and identify the outcomes the state sought.",
+          "Use at least two actions or instruments and evidence of their results.",
+          "Consider resistance, costs, trade-offs and unintended consequences as limits on effectiveness.",
+          "Reach a qualified judgement based on the extent and durability of achievement."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.6",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Challenges to the selected state",
+      "detail": "Domestic and regional constraints that inhibit the pursuit of national interests, including competing actors, limited resources, geography and conflicting priorities.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Analyse two challenges faced by your selected state in pursuing its national interests.",
+          "answer": [
+            "Identify each challenge precisely and support it with contemporary evidence.",
+            "Explain the mechanism by which it limits a policy, instrument or desired outcome.",
+            "Connect the challenge to a particular national interest rather than discussing it generally.",
+            "Compare the seriousness of the challenges or explain how they interact."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.6",
+        "title": "Challenges to the selected state",
+        "front": "Analyse two challenges faced by your selected state in pursuing its national interests.",
+        "back": [
+          "Identify each challenge precisely and support it with contemporary evidence.",
+          "Explain the mechanism by which it limits a policy, instrument or desired outcome.",
+          "Connect the challenge to a particular national interest rather than discussing it generally.",
+          "Compare the seriousness of the challenges or explain how they interact."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.7",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Consequences for other regional actors",
+      "detail": "Intended and unintended effects of at least two national interests on other states, institutions, groupings or non-state actors.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Analyse the consequences of two of your selected state’s national interests for other regional actors.",
+          "answer": [
+            "Use two distinct national interests and identify the regional actors affected by each.",
+            "Explain the causal link between the state’s action and each consequence.",
+            "Consider positive and negative, intended and unintended consequences where supported.",
+            "Show how those consequences affect cooperation, conflict, stability or change."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.7",
+        "title": "Consequences for other regional actors",
+        "front": "Analyse the consequences of two of your selected state’s national interests for other regional actors.",
+        "back": [
+          "Use two distinct national interests and identify the regional actors affected by each.",
+          "Explain the causal link between the state’s action and each consequence.",
+          "Consider positive and negative, intended and unintended consequences where supported.",
+          "Show how those consequences affect cooperation, conflict, stability or change."
+        ]
+      }
+    },
+    {
+      "id": "P-4.1.8",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 1: Power and the national interest",
+      "title": "Regional stability, change and political significance",
+      "detail": "The extent to which the selected state’s actions and national-interest outcomes shape the regional distribution of influence, relationships and political order.",
+      "questions": [
+        {
+          "marks": 8,
+          "q": "Evaluate the political significance of your selected state’s pursuit of its national interests.",
+          "answer": [
+            "Explain how its actions affect regional influence, relationships, institutions or strategic behaviour.",
+            "Use evidence of both stability and change, identifying the actors affected.",
+            "Evaluate effectiveness as well as consequences; a significant action is not necessarily a successful one.",
+            "Reach an overall judgement about the state’s importance to the contemporary Indo-Pacific."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.1.8",
+        "title": "Regional stability, change and political significance",
+        "front": "Evaluate the political significance of your selected state’s pursuit of its national interests.",
+        "back": [
+          "Explain how its actions affect regional influence, relationships, institutions or strategic behaviour.",
+          "Use evidence of both stability and change, identifying the actors affected.",
+          "Evaluate effectiveness as well as consequences; a significant action is not necessarily a successful one.",
+          "Reach an overall judgement about the state’s importance to the contemporary Indo-Pacific."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.1",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Australia’s national interests",
+      "detail": "Security, economic prosperity, regional relationships and regional standing as drivers of Australian policy in the Indo-Pacific.",
       "questions": [
         {
           "marks": 4,
-          "q": "Distinguish between a refugee and other categories of migrant, and explain the principle of non-refoulement.",
+          "q": "Explain Australia’s four national interests in the Indo-Pacific.",
           "answer": [
-            "A refugee is a person outside their country of nationality with a well-founded fear of persecution on specified grounds who cannot obtain protection there.",
-            "Internally displaced people have fled but remain within their own country, so they fall outside the refugee definition.",
-            "Economic migrants move primarily to improve living standards and do not attract the same protection obligations.",
-            "Non-refoulement prohibits returning a person to a place where they face persecution, and is the central obligation of the refugee protection regime."
+            "Security includes territorial protection, a favourable strategic environment and resilience against regional threats.",
+            "Economic prosperity includes trade, investment, stable markets and secure supply chains.",
+            "Regional relationships involve trusted and productive ties with neighbouring states and groupings.",
+            "Regional standing concerns Australia’s reputation, legitimacy and influence in regional decisions."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.1",
+        "title": "Australia’s national interests",
+        "front": "Explain Australia’s four national interests in the Indo-Pacific.",
+        "back": [
+          "Security includes territorial protection, a favourable strategic environment and resilience against regional threats.",
+          "Economic prosperity includes trade, investment, stable markets and secure supply chains.",
+          "Regional relationships involve trusted and productive ties with neighbouring states and groupings.",
+          "Regional standing concerns Australia’s reputation, legitimacy and influence in regional decisions."
+        ]
+      }
     },
     {
-      "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Ethical issues and debates",
-      "title": "Development and global inequality",
-      "detail": "Competing explanations for persistent inequality between states, and debates about aid, trade, debt and conditionality.",
+      "id": "P-4.2.2",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Internal and external perspectives on Australia",
+      "detail": "Different views within Australia and among regional actors about Australia’s interests, identity, alliances, priorities and conduct.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Compare one internal and one external perspective on an Australian national interest.",
+          "answer": [
+            "Identify who holds each perspective and the values, interests or experience shaping it.",
+            "Explain how the internal perspective defines the Australian interest or preferred action.",
+            "Explain how the external actor interprets Australia’s objective or behaviour.",
+            "Analyse how the difference affects trust, cooperation or conflict."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.2",
+        "title": "Internal and external perspectives on Australia",
+        "front": "Compare one internal and one external perspective on an Australian national interest.",
+        "back": [
+          "Identify who holds each perspective and the values, interests or experience shaping it.",
+          "Explain how the internal perspective defines the Australian interest or preferred action.",
+          "Explain how the external actor interprets Australia’s objective or behaviour.",
+          "Analyse how the difference affects trust, cooperation or conflict."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.3",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Australian forms of power",
+      "detail": "Australia’s political, economic, military, diplomatic and cultural capabilities and how they are applied to influence regional actors.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Analyse three forms of power Australia uses in the Indo-Pacific.",
+          "answer": [
+            "Identify three forms of power and support each with a specific contemporary example.",
+            "Explain the capability or relationship that gives Australia that form of power.",
+            "Analyse how it is used to influence another actor or regional outcome.",
+            "Evaluate limits such as dependence, credibility, scale or competing regional powers."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.3",
+        "title": "Australian forms of power",
+        "front": "Analyse three forms of power Australia uses in the Indo-Pacific.",
+        "back": [
+          "Identify three forms of power and support each with a specific contemporary example.",
+          "Explain the capability or relationship that gives Australia that form of power.",
+          "Analyse how it is used to influence another actor or regional outcome.",
+          "Evaluate limits such as dependence, credibility, scale or competing regional powers."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.4",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Australian foreign policy instruments",
+      "detail": "Diplomacy, trade and foreign aid as required instruments for pursuing Australian interests and managing regional relationships.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Compare Australia’s use of diplomacy, trade and foreign aid in the Indo-Pacific.",
+          "answer": [
+            "Identify a specific contemporary use of each required instrument.",
+            "Connect each use to one or more Australian national interests.",
+            "Explain how each instrument encourages cooperation or creates leverage.",
+            "Compare their effectiveness and any costs or tensions they produce."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.4",
+        "title": "Australian foreign policy instruments",
+        "front": "Compare Australia’s use of diplomacy, trade and foreign aid in the Indo-Pacific.",
+        "back": [
+          "Identify a specific contemporary use of each required instrument.",
+          "Connect each use to one or more Australian national interests.",
+          "Explain how each instrument encourages cooperation or creates leverage.",
+          "Compare their effectiveness and any costs or tensions they produce."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.5",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "The three-state case-study requirement",
+      "detail": "Australia’s relationships with one Pacific Islands Forum member and two other Indo-Pacific states, studied through cooperation, challenges and policy consequences.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain two competing explanations for persistent inequality between states.",
+          "q": "What three state relationships must be studied for Australia in the Indo-Pacific?",
           "answer": [
-            "One explanation locates the causes internally, in governance, corruption, institutions, conflict and policy choices within poorer states.",
-            "A second locates them in the structure of the global economy, including terms of trade, debt, tariff barriers and the legacies of colonial extraction.",
-            "The two produce different prescriptions: internal explanations favour governance reform and conditional aid, structural explanations favour changing trade rules and debt relief.",
-            "Most analysts accept that both operate, and the disagreement concerns their relative weight and therefore what should be done."
+            "One selected state must be a member of the Pacific Islands Forum.",
+            "Two additional selected states must come from the wider Indo-Pacific region.",
+            "For all three, study cooperation, competing interests, perspectives and challenges in the bilateral relationship.",
+            "Use distinct and current evidence for each relationship rather than treating the region as a single actor."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.5",
+        "title": "The three-state case-study requirement",
+        "front": "What three state relationships must be studied for Australia in the Indo-Pacific?",
+        "back": [
+          "One selected state must be a member of the Pacific Islands Forum.",
+          "Two additional selected states must come from the wider Indo-Pacific region.",
+          "For all three, study cooperation, competing interests, perspectives and challenges in the bilateral relationship.",
+          "Use distinct and current evidence for each relationship rather than treating the region as a single actor."
+        ]
+      }
     },
     {
-      "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Ethical issues and debates",
-      "title": "Arms control and weapons of mass destruction",
-      "detail": "Non-proliferation regimes, deterrence theory, verification, and the difficulty of restraining states that perceive existential threat.",
+      "id": "P-4.2.6",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Challenges to Australia’s regional relationships",
+      "detail": "Strategic competition, historical experience, climate priorities, economic dependence, human rights, sovereignty and different perceptions of Australia’s role.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Analyse two challenges to Australia’s relationship with one selected regional state.",
+          "answer": [
+            "Identify two specific challenges and the interests or perspectives underlying them.",
+            "Explain how each challenge affects policy coordination, trust or another form of cooperation.",
+            "Use evidence from both Australia and the selected state where possible.",
+            "Judge which challenge has had the greater effect on the relationship."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.6",
+        "title": "Challenges to Australia’s regional relationships",
+        "front": "Analyse two challenges to Australia’s relationship with one selected regional state.",
+        "back": [
+          "Identify two specific challenges and the interests or perspectives underlying them.",
+          "Explain how each challenge affects policy coordination, trust or another form of cooperation.",
+          "Use evidence from both Australia and the selected state where possible.",
+          "Judge which challenge has had the greater effect on the relationship."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.7",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Responses to a regional issue or crisis",
+      "detail": "Australian action or inaction on human rights, armed conflict, mass movement, climate change, economic instability, development or weapons of mass destruction.",
+      "questions": [
+        {
+          "marks": 6,
+          "q": "Evaluate Australia’s response to one regional issue or crisis and its effect on a selected state relationship.",
+          "answer": [
+            "Identify the response or deliberate inaction and the Australian interest it pursued.",
+            "Explain how the selected regional state perceived or experienced that response.",
+            "Use evidence to assess whether it increased cooperation, conflict or both.",
+            "Judge effectiveness against the response’s stated goals and its effect on the relationship."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.7",
+        "title": "Responses to a regional issue or crisis",
+        "front": "Evaluate Australia’s response to one regional issue or crisis and its effect on a selected state relationship.",
+        "back": [
+          "Identify the response or deliberate inaction and the Australian interest it pursued.",
+          "Explain how the selected regional state perceived or experienced that response.",
+          "Use evidence to assess whether it increased cooperation, conflict or both.",
+          "Judge effectiveness against the response’s stated goals and its effect on the relationship."
+        ]
+      }
+    },
+    {
+      "id": "P-4.2.8",
+      "area": "Unit 4: Power in the Indo-Pacific — AoS 2: Australia in the Indo-Pacific",
+      "title": "Australia’s contribution to stability and change",
+      "detail": "The combined consequences of Australia’s interests, power, instruments and regional responses for political relationships and order in the Indo-Pacific.",
+      "questions": [
+        {
+          "marks": 8,
+          "q": "Evaluate the political significance and effectiveness of Australia’s pursuit of its Indo-Pacific interests.",
+          "answer": [
+            "Compare evidence from the three selected state relationships rather than relying on a single case.",
+            "Assess Australia’s use of power and instruments against clear national-interest outcomes.",
+            "Explain contributions to both political stability and political change in identified relationships or institutions.",
+            "Reach a qualified judgement that accounts for regional perspectives and unintended consequences."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-4.2.8",
+        "title": "Australia’s contribution to stability and change",
+        "front": "Evaluate the political significance and effectiveness of Australia’s pursuit of its Indo-Pacific interests.",
+        "back": [
+          "Compare evidence from the three selected state relationships rather than relying on a single case.",
+          "Assess Australia’s use of power and instruments against clear national-interest outcomes.",
+          "Explain contributions to both political stability and political change in identified relationships or institutions.",
+          "Reach a qualified judgement that accounts for regional perspectives and unintended consequences."
+        ]
+      }
+    },
+    {
+      "id": "P-X1",
+      "area": "Evidence and exam technique",
+      "title": "Building a contemporary evidence bank",
+      "detail": "Organising dated actions, actors, interests, perspectives, outcomes and evaluative significance for every selected issue, crisis and state relationship.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain why non-proliferation regimes struggle to prevent states acquiring nuclear weapons.",
+          "q": "What should a useful Politics evidence bank record for each example?",
           "answer": [
-            "A state that perceives an existential threat may regard nuclear weapons as the only reliable guarantee of survival.",
-            "Regimes rest on voluntary treaty commitments, and states can withdraw or refuse to join.",
-            "Verification requires intrusive inspection that states resist as an infringement of sovereignty, and civilian nuclear technology is dual-use.",
-            "Enforcement is inconsistent, since existing nuclear powers retain their own arsenals, which weakens the moral and political authority of the regime."
+            "Record the date, actor and concrete action or decision.",
+            "Identify the actor’s interest and perspective, supported by a reliable source.",
+            "Record the observable outcome and any competing interpretation of its significance.",
+            "Link the evidence to a specific key-knowledge point and update it as events change."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-X1",
+        "title": "Building a contemporary evidence bank",
+        "front": "What should a useful Politics evidence bank record for each example?",
+        "back": [
+          "Record the date, actor and concrete action or decision.",
+          "Identify the actor’s interest and perspective, supported by a reliable source.",
+          "Record the observable outcome and any competing interpretation of its significance.",
+          "Link the evidence to a specific key-knowledge point and update it as events change."
+        ]
+      }
     },
     {
-      "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Climate change as a global crisis",
-      "detail": "The collective action problem, differentiated responsibility, international agreements and the gap between commitment and implementation.",
+      "id": "P-X2",
+      "area": "Evidence and exam technique",
+      "title": "Analysing sources and perspectives",
+      "detail": "Testing a source’s origin, purpose, evidence and perspective, then corroborating claims rather than accepting political language at face value.",
+      "questions": [
+        {
+          "marks": 5,
+          "q": "Explain how to analyse a political source rather than merely quote it.",
+          "answer": [
+            "Identify the author, context, audience and purpose and how these shape the source’s perspective.",
+            "Extract the political claim and the evidence offered for it.",
+            "Compare it with another reliable source or actor perspective to test accuracy and significance.",
+            "Use the source as evidence within your own analysis instead of substituting quotation for explanation."
+          ]
+        }
+      ],
+      "card": {
+        "key": "global-politics-34:P-X2",
+        "title": "Analysing sources and perspectives",
+        "front": "Explain how to analyse a political source rather than merely quote it.",
+        "back": [
+          "Identify the author, context, audience and purpose and how these shape the source’s perspective.",
+          "Extract the political claim and the evidence offered for it.",
+          "Compare it with another reliable source or actor perspective to test accuracy and significance.",
+          "Use the source as evidence within your own analysis instead of substituting quotation for explanation."
+        ]
+      }
+    },
+    {
+      "id": "P-X3",
+      "area": "Evidence and exam technique",
+      "title": "Command terms and task demands",
+      "detail": "The differences among identify, explain, analyse, discuss, assess and evaluate, and matching the number and depth of points to the marks available.",
       "questions": [
         {
           "marks": 4,
-          "q": "Explain why climate change is difficult to address through international cooperation.",
+          "q": "Distinguish analyse, discuss and evaluate in a VCE Politics response.",
           "answer": [
-            "It is a collective action problem: the benefits of mitigation are shared globally while the costs fall on the state that acts.",
-            "Every state therefore has an incentive to let others bear the cost, which weakens ambition across the board.",
-            "Responsibility is contested, since developed states produced most historical emissions while developing states argue they need growth.",
-            "Agreements rely largely on voluntary national commitments without effective enforcement, so pledges routinely exceed implementation."
+            "Analyse requires breaking an issue into parts and explaining relationships, causes and consequences.",
+            "Discuss requires a balanced examination of relevant arguments, evidence or perspectives.",
+            "Evaluate requires criteria, evidence on strengths and limits, and a supported judgement.",
+            "In every case, follow the exact object of the command and use the mark allocation to judge required depth."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-X3",
+        "title": "Command terms and task demands",
+        "front": "Distinguish analyse, discuss and evaluate in a VCE Politics response.",
+        "back": [
+          "Analyse requires breaking an issue into parts and explaining relationships, causes and consequences.",
+          "Discuss requires a balanced examination of relevant arguments, evidence or perspectives.",
+          "Evaluate requires criteria, evidence on strengths and limits, and a supported judgement.",
+          "In every case, follow the exact object of the command and use the mark allocation to judge required depth."
+        ]
+      }
     },
     {
-      "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Armed conflict and its changing character",
-      "detail": "Interstate and intrastate conflict, proxy war, civil war internationalised by external intervention, and the effects on civilians.",
+      "id": "P-X4",
+      "area": "Evidence and exam technique",
+      "title": "Constructing an evaluative argument",
+      "detail": "A contention, explicit criteria, logically sequenced evidence, comparison of perspectives and a qualified judgement addressing significance or effectiveness.",
       "questions": [
         {
-          "marks": 4,
-          "q": "Explain how the character of armed conflict has changed and why this complicates international responses.",
+          "marks": 8,
+          "q": "Outline a strong structure for an extended evaluative Politics response.",
           "answer": [
-            "Most contemporary conflict is intrastate rather than between states, involving governments, armed groups and militias.",
-            "External powers frequently intervene indirectly by supporting proxies, which prolongs conflict while avoiding direct confrontation.",
-            "Fighting occurs among civilian populations, so casualties and displacement are high and combatants are difficult to distinguish.",
-            "International mechanisms were designed largely for interstate war, so their tools of recognition, negotiation and peacekeeping fit these conflicts poorly."
+            "State a contention that directly answers the question and establishes the basis for judgement.",
+            "Organise paragraphs around analytical claims, each supported by precise contemporary evidence.",
+            "Compare relevant actors, interests and perspectives and test evidence against explicit criteria.",
+            "Sustain evaluation throughout and finish with a qualified judgement about extent, significance or effectiveness."
           ]
         }
-      ]
-    },
-    {
-      "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Terrorism and counter-terrorism",
-      "detail": "Definitional contestation, causes, state responses and the tension between security measures and civil liberties.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why defining terrorism is politically contested and one consequence of that contest.",
-          "answer": [
-            "Definitions turn on the use of violence against civilians for political purposes, but states disagree on whether state violence is included.",
-            "Groups regarded as terrorists by one government are regarded as legitimate resistance by another, so the label is itself a political act.",
-            "No universally accepted definition exists in international law, which obstructs coordinated legal responses.",
-            "It also allows governments to apply counter-terrorism powers to domestic political opponents, which is why the definitional question has practical consequences for civil liberties."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Pandemics and global health security",
-      "detail": "The cross-border character of disease, the role of the WHO, vaccine distribution and the tension between national and collective responses.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the tension between national and collective responses to a pandemic.",
-          "answer": [
-            "Governments are accountable to their own populations, so they prioritise securing supplies and protecting citizens first.",
-            "Border closures, export restrictions and the purchase of vaccine supply beyond domestic need follow from that accountability.",
-            "Collectively, this is self-defeating, since uncontrolled transmission anywhere generates variants that cross borders regardless.",
-            "Effective collective action requires surveillance, sharing and equitable distribution, but no authority can compel states to prioritise it over domestic demands."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Economic crises and global governance",
-      "detail": "The transmission of financial shocks, the role of international financial institutions and debates about their governance and conditionality.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain how a financial crisis in one state transmits internationally and what international institutions do in response.",
-          "answer": [
-            "Financial institutions hold assets and liabilities across borders, so losses in one market impose losses on institutions elsewhere.",
-            "Trade and investment links transmit the shock to the real economy, reducing demand for exports and withdrawing capital from vulnerable economies.",
-            "International financial institutions provide emergency lending to stabilise currencies and prevent default.",
-            "Such lending is usually conditional on policy changes, which is criticised for imposing austerity that deepens hardship and for reflecting the priorities of the institutions' largest shareholders."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — Global crises and responses",
-      "title": "Evaluating the effectiveness of responses",
-      "detail": "Assessing whether a global response achieved its objectives, using criteria of authority, resources, compliance and measurable outcomes.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the criteria you would use to evaluate the effectiveness of an international response to a global crisis.",
-          "answer": [
-            "Whether the response had a clear mandate and the legal authority to act, since contested authority undermines compliance.",
-            "Whether the resources committed matched the scale of the problem, as pledges frequently exceed actual disbursement.",
-            "Whether states complied in practice, which can be measured against their stated commitments.",
-            "Whether measurable outcomes improved, and whether improvement can be attributed to the response rather than to other factors."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "X1",
-      "area": "Exam technique and case studies",
-      "title": "Using contemporary evidence",
-      "detail": "Supporting every claim with specific, recent and accurately dated examples rather than general assertions about global politics.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain what makes evidence strong in a Global Politics response.",
-          "answer": [
-            "It names the specific actors, the action taken and approximately when it occurred.",
-            "It is recent, since examiners expect contemporary evidence and the study design emphasises current global politics.",
-            "It is directly relevant to the claim being made, rather than included because it is well known.",
-            "It is accurate, since a misremembered event or date undermines the credibility of the whole argument."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "X2",
-      "area": "Exam technique and case studies",
-      "title": "Building an argument with perspectives",
-      "detail": "Using realist and liberal perspectives to structure analysis, and reaching a supported judgement rather than presenting both sides neutrally.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain how to use competing perspectives in an essay without simply describing both.",
-          "answer": [
-            "Use each perspective to generate an explanation of the same event, showing what each makes visible.",
-            "Test both against the evidence, identifying which better accounts for what actually occurred.",
-            "Reach a judgement about which is more persuasive in this case, and explain why.",
-            "Presenting both without evaluation describes theory rather than analysing politics, and does not answer an evaluative question."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "X3",
-      "area": "Exam technique and case studies",
-      "title": "Command terms and mark allocation",
-      "detail": "Matching depth to the command term and marks available, and addressing every element of a multi-part question.",
-      "questions": [
-        {
-          "marks": 3,
-          "q": "Explain how 'analyse' and 'evaluate' differ in Global Politics responses.",
-          "answer": [
-            "Analyse requires breaking the issue into components and examining how they relate, showing causes, effects and interactions.",
-            "Evaluate requires weighing effectiveness, significance or validity and reaching an explicit supported judgement.",
-            "An evaluative response that stops at analysis, without stating a conclusion, cannot access the highest marks."
-          ]
-        }
-      ]
+      ],
+      "card": {
+        "key": "global-politics-34:P-X4",
+        "title": "Constructing an evaluative argument",
+        "front": "Outline a strong structure for an extended evaluative Politics response.",
+        "back": [
+          "State a contention that directly answers the question and establishes the basis for judgement.",
+          "Organise paragraphs around analytical claims, each supported by precise contemporary evidence.",
+          "Compare relevant actors, interests and perspectives and test evidence against explicit criteria.",
+          "Sustain evaluation throughout and finish with a qualified judgement about extent, significance or effectiveness."
+        ]
+      }
     }
   ]
 }

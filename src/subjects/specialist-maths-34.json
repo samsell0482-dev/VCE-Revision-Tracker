@@ -2,30 +2,26 @@
   "id": "specialist-maths-34",
   "name": "Specialist Mathematics",
   "areas": [
-    "Logic, proof and number",
-    "Complex numbers",
-    "Functions, relations and graphs",
-    "Vectors and geometry in space",
-    "Calculus techniques",
-    "Differential equations and modelling",
-    "Kinematics and dynamics",
-    "Statistical inference",
+    "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
+    "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
+    "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
+    "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
+    "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
+    "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
     "Exam technique and technology"
   ],
   "short": {
-    "Logic, proof and number": "Proof",
-    "Complex numbers": "Complex numbers",
-    "Functions, relations and graphs": "Functions and graphs",
-    "Vectors and geometry in space": "Vectors",
-    "Calculus techniques": "Calculus",
-    "Differential equations and modelling": "Differential equations",
-    "Kinematics and dynamics": "Mechanics",
-    "Statistical inference": "Inference",
+    "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics": "U1 Discrete mathematics",
+    "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure": "U3 Algebra, number and structu",
+    "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs": "U2 Functions, relations and gr",
+    "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement": "U5 Space and measurement",
+    "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus": "U4 Calculus",
+    "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics": "U6 Data analysis, probability ",
     "Exam technique and technology": "Exam technique"
   },
-  "source": "Adapted revision checklist based on VCAA's VCE Specialist Mathematics Study Design, Units 3 and 4. Areas here are topic groupings rather than official area of study titles, and checklist numbers are internal tracker IDs.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/mathematics",
-  "sourceLabel": "VCAA Mathematics study designs",
+  "source": "Adapted revision checklist based on VCAA's VCE Specialist Mathematics Study Design, Units 3 and 4. Unit and Area of Study labels follow the current study design; checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/specialist-mathematics/vce-specialist-mathematics",
+  "sourceLabel": "VCAA Specialist Mathematics study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use class resources, the formula sheet and past examinations for official practice.",
   "theme": {
     "accent": "#1f6f70"
@@ -35,7 +31,7 @@
   "points": [
     {
       "id": "P1",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Conjectures, counterexamples and quantifiers",
       "detail": "Stating a conjecture precisely, using the universal and existential quantifiers, and disproving a universal statement with a single counterexample.",
       "questions": [
@@ -48,11 +44,21 @@
             "Therefore the statement is false."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P1",
+        "title": "Conjectures, counterexamples and quantifiers",
+        "front": "Disprove the statement that for all integers n, n squared plus n plus 41 is prime.",
+        "back": [
+          "A single counterexample is sufficient to disprove a universal statement.",
+          "Take n equal to 41: then 41 squared plus 41 plus 41 equals 41 multiplied by 43, which is composite.",
+          "Therefore the statement is false."
+        ]
+      }
     },
     {
       "id": "P2",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Implication, converse and contrapositive",
       "detail": "Writing the converse, inverse and contrapositive of an implication, and recognising that a statement and its contrapositive are logically equivalent.",
       "questions": [
@@ -65,11 +71,21 @@
             "The contrapositive is logically equivalent to the original statement, so proving the contrapositive proves the original."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P2",
+        "title": "Implication, converse and contrapositive",
+        "front": "For the statement 'if n squared is even then n is even', write the converse and the contrapositive, and state which is logically equivalent to the original.",
+        "back": [
+          "Converse: if n is even then n squared is even.",
+          "Contrapositive: if n is odd then n squared is odd.",
+          "The contrapositive is logically equivalent to the original statement, so proving the contrapositive proves the original."
+        ]
+      }
     },
     {
       "id": "P3",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Direct proof and proof by contrapositive",
       "detail": "Constructing a direct proof from definitions, and choosing the contrapositive when the negated conclusion gives a more usable starting point.",
       "questions": [
@@ -82,11 +98,21 @@
             "This is of the form 2m plus 1 for integer m, so n squared is odd. The contrapositive holds, so the original statement holds."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P3",
+        "title": "Direct proof and proof by contrapositive",
+        "front": "Prove that if n squared is even then n is even.",
+        "back": [
+          "Prove the contrapositive: if n is odd then n squared is odd.",
+          "Let n equal 2k plus 1 for some integer k. Then n squared equals 4k squared plus 4k plus 1, which is 2(2k squared plus 2k) plus 1.",
+          "This is of the form 2m plus 1 for integer m, so n squared is odd. The contrapositive holds, so the original statement holds."
+        ]
+      }
     },
     {
       "id": "P4",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Proof by contradiction",
       "detail": "Assuming the negation of the statement, deriving a contradiction, and concluding that the original statement is true; the classic irrationality proofs.",
       "questions": [
@@ -100,11 +126,22 @@
             "Both a and b are even, contradicting the assumption that they have no common factor, so root 2 is irrational."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P4",
+        "title": "Proof by contradiction",
+        "front": "Prove that the square root of 2 is irrational.",
+        "back": [
+          "Assume for contradiction that root 2 equals a over b where a and b are integers with no common factor and b is non-zero.",
+          "Then 2 b squared equals a squared, so a squared is even and therefore a is even; write a equal to 2k.",
+          "Substituting gives 2 b squared equals 4 k squared, so b squared equals 2 k squared and b is also even.",
+          "Both a and b are even, contradicting the assumption that they have no common factor, so root 2 is irrational."
+        ]
+      }
     },
     {
       "id": "P5",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Proof by mathematical induction",
       "detail": "The base case, the inductive assumption and the inductive step; applying induction to sums, divisibility and inequality results.",
       "questions": [
@@ -118,11 +155,22 @@
             "This is the formula with n replaced by k plus 1, so by induction the result holds for all positive integers n."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P5",
+        "title": "Proof by mathematical induction",
+        "front": "Outline the structure of a proof by induction that the sum of the first n positive integers equals n(n plus 1) over 2.",
+        "back": [
+          "Base case: for n equal to 1 the sum is 1 and the formula gives 1 times 2 over 2, which is 1, so the statement holds.",
+          "Inductive assumption: assume the result is true for n equal to k, so the sum to k equals k(k plus 1) over 2.",
+          "Inductive step: the sum to k plus 1 equals k(k plus 1) over 2 plus (k plus 1), which factorises to (k plus 1)(k plus 2) over 2.",
+          "This is the formula with n replaced by k plus 1, so by induction the result holds for all positive integers n."
+        ]
+      }
     },
     {
       "id": "P6",
-      "area": "Logic, proof and number",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 1: Discrete mathematics",
       "title": "Number properties and divisibility proofs",
       "detail": "Representing even, odd, consecutive and divisible integers algebraically; proving divisibility results and results about rational and irrational numbers.",
       "questions": [
@@ -135,11 +183,21 @@
             "Since n is an integer, 3n is a multiple of 3, so the sum is divisible by 3."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:P6",
+        "title": "Number properties and divisibility proofs",
+        "front": "Prove that the sum of any three consecutive integers is divisible by 3.",
+        "back": [
+          "Let the integers be n minus 1, n and n plus 1, where n is an integer.",
+          "Their sum is 3n.",
+          "Since n is an integer, 3n is a multiple of 3, so the sum is divisible by 3."
+        ]
+      }
     },
     {
       "id": "C1",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Cartesian form and arithmetic",
       "detail": "Addition, subtraction, multiplication and division of complex numbers in Cartesian form, including multiplication by the conjugate to rationalise a denominator.",
       "questions": [
@@ -152,11 +210,21 @@
             "Denominator: (1 minus i)(1 plus i) equals 2, so the answer is one half plus five halves i."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C1",
+        "title": "Cartesian form and arithmetic",
+        "front": "Express (3 plus 2i) divided by (1 minus i) in the form a plus bi.",
+        "back": [
+          "Multiply numerator and denominator by the conjugate 1 plus i.",
+          "Numerator: (3 plus 2i)(1 plus i) equals 3 plus 3i plus 2i plus 2i squared, which is 1 plus 5i.",
+          "Denominator: (1 minus i)(1 plus i) equals 2, so the answer is one half plus five halves i."
+        ]
+      }
     },
     {
       "id": "C2",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Modulus, argument and polar form",
       "detail": "Converting between Cartesian and polar form, the principal value of the argument, and the geometric meaning of modulus and argument.",
       "questions": [
@@ -169,11 +237,21 @@
             "The polar form is 2 cis (2 pi on 3), and the principal argument lies in the interval from negative pi to pi."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C2",
+        "title": "Modulus, argument and polar form",
+        "front": "Express negative 1 plus root 3 i in polar form with the argument as a principal value.",
+        "back": [
+          "The modulus is the square root of 1 plus 3, which is 2.",
+          "The point lies in the second quadrant, so the argument is pi minus pi on 3, which is 2 pi on 3.",
+          "The polar form is 2 cis (2 pi on 3), and the principal argument lies in the interval from negative pi to pi."
+        ]
+      }
     },
     {
       "id": "C3",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Multiplication and division in polar form",
       "detail": "Multiplying moduli and adding arguments, dividing moduli and subtracting arguments, and interpreting multiplication as a rotation and dilation of the Argand plane.",
       "questions": [
@@ -186,11 +264,21 @@
             "The combined transformation is a rotation of 90 degrees anticlockwise followed by a dilation of factor 2."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C3",
+        "title": "Multiplication and division in polar form",
+        "front": "Describe the geometric effect on a point in the Argand plane of multiplying by 2 cis (pi on 2).",
+        "back": [
+          "The modulus of the point is multiplied by 2, so the point is dilated by a factor of 2 from the origin.",
+          "The argument increases by pi on 2, so the point is rotated anticlockwise by 90 degrees about the origin.",
+          "The combined transformation is a rotation of 90 degrees anticlockwise followed by a dilation of factor 2."
+        ]
+      }
     },
     {
       "id": "C4",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "De Moivre's theorem",
       "detail": "Using De Moivre's theorem to evaluate powers of complex numbers and to derive multiple-angle identities for sine and cosine.",
       "questions": [
@@ -203,11 +291,21 @@
             "Since cis (2 pi) equals 1, the answer is 16."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C4",
+        "title": "De Moivre's theorem",
+        "front": "Use De Moivre's theorem to find (1 plus i) to the power of 8.",
+        "back": [
+          "Write 1 plus i in polar form: modulus root 2 and argument pi on 4, so 1 plus i equals root 2 cis (pi on 4).",
+          "By De Moivre's theorem the eighth power is (root 2) to the power 8 cis (8 times pi on 4), which is 16 cis (2 pi).",
+          "Since cis (2 pi) equals 1, the answer is 16."
+        ]
+      }
     },
     {
       "id": "C5",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Roots of complex numbers",
       "detail": "Finding the n distinct nth roots of a complex number, their equal spacing of 2 pi on n around a circle, and plotting them on an Argand diagram.",
       "questions": [
@@ -221,11 +319,22 @@
             "They lie on a circle of radius 2 centred at the origin, equally spaced 2 pi on 3 apart, forming an equilateral triangle."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C5",
+        "title": "Roots of complex numbers",
+        "front": "Explain how to find the three cube roots of 8i and describe their positions on an Argand diagram.",
+        "back": [
+          "Write 8i in polar form as 8 cis (pi on 2), and include the general argument pi on 2 plus 2 k pi.",
+          "Take the cube root of the modulus to get 2, and divide each argument by 3 to get pi on 6 plus 2 k pi on 3 for k equal to 0, 1 and 2.",
+          "The roots are 2 cis (pi on 6), 2 cis (5 pi on 6) and 2 cis (negative pi on 2).",
+          "They lie on a circle of radius 2 centred at the origin, equally spaced 2 pi on 3 apart, forming an equilateral triangle."
+        ]
+      }
     },
     {
       "id": "C6",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Polynomials over the complex field",
       "detail": "The conjugate root theorem for real polynomials, factorising polynomials over the complex field, and the fundamental theorem of algebra.",
       "questions": [
@@ -238,11 +347,21 @@
             "The cubic is therefore a(z minus 5)(z squared minus 4z plus 13) for a non-zero real constant a."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C6",
+        "title": "Polynomials over the complex field",
+        "front": "A cubic with real coefficients has a root of 2 minus 3i and a root of 5. Write the cubic in factorised form over the real field.",
+        "back": [
+          "Since the coefficients are real, the conjugate 2 plus 3i is also a root.",
+          "The complex pair gives the quadratic factor (z minus 2 plus 3i)(z minus 2 minus 3i), which expands to z squared minus 4z plus 13.",
+          "The cubic is therefore a(z minus 5)(z squared minus 4z plus 13) for a non-zero real constant a."
+        ]
+      }
     },
     {
       "id": "C7",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Subsets of the complex plane",
       "detail": "Sketching lines, circles, rays and regions defined by conditions on modulus, argument and real or imaginary parts.",
       "questions": [
@@ -255,11 +374,21 @@
             "The graph is a circle of radius 3 centred at the point (2, negative 1) in the Argand plane."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C7",
+        "title": "Subsets of the complex plane",
+        "front": "Describe and sketch in words the set of points satisfying the modulus of z minus 2 plus i equals 3.",
+        "back": [
+          "Rewrite the condition as the modulus of z minus (2 minus i) equals 3.",
+          "This is the set of points whose distance from the point 2 minus i is 3.",
+          "The graph is a circle of radius 3 centred at the point (2, negative 1) in the Argand plane."
+        ]
+      }
     },
     {
       "id": "C8",
-      "area": "Complex numbers",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 3: Algebra, number and structure",
       "title": "Loci from equal distances and arguments",
       "detail": "Recognising a perpendicular bisector from an equality of two moduli, and a ray from a condition on the argument of a difference.",
       "questions": [
@@ -272,11 +401,21 @@
             "Squaring both sides gives (x minus 1) squared plus y squared equals x squared plus (y plus 3) squared, which simplifies to negative 2x plus 1 equals 6y plus 9, that is y equals (negative x minus 4) on 3."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:C8",
+        "title": "Loci from equal distances and arguments",
+        "front": "Identify the locus of points satisfying the modulus of z minus 1 equals the modulus of z plus 3i, and give its Cartesian equation.",
+        "back": [
+          "The condition says the point is equidistant from 1 and from negative 3i, that is from (1, 0) and (0, negative 3).",
+          "The locus is the perpendicular bisector of the segment joining these points.",
+          "Squaring both sides gives (x minus 1) squared plus y squared equals x squared plus (y plus 3) squared, which simplifies to negative 2x plus 1 equals 6y plus 9, that is y equals (negative x minus 4) on 3."
+        ]
+      }
     },
     {
       "id": "F1",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Rational functions and asymptotes",
       "detail": "Vertical, horizontal and oblique asymptotes of rational functions, behaviour near asymptotes, and the effect of common factors producing a point discontinuity.",
       "questions": [
@@ -289,11 +428,21 @@
             "As x tends to plus or minus infinity the remainder tends to zero, so y equals x plus 2 is an oblique asymptote; there is no horizontal asymptote."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F1",
+        "title": "Rational functions and asymptotes",
+        "front": "Find all asymptotes of y equals (x squared plus 1) divided by (x minus 2).",
+        "back": [
+          "The denominator is zero at x equals 2 and the numerator is non-zero there, so x equals 2 is a vertical asymptote.",
+          "Dividing gives y equals x plus 2 plus 5 over (x minus 2).",
+          "As x tends to plus or minus infinity the remainder tends to zero, so y equals x plus 2 is an oblique asymptote; there is no horizontal asymptote."
+        ]
+      }
     },
     {
       "id": "F2",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Reciprocal graphs",
       "detail": "Sketching the reciprocal of a given function: intercepts becoming asymptotes, maxima becoming minima, and the preservation of sign and of points where the value is plus or minus 1.",
       "questions": [
@@ -306,11 +455,21 @@
             "Points where f(x) equals 1 or negative 1 are unchanged, and the reciprocal has the same sign as f(x) throughout."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F2",
+        "title": "Reciprocal graphs",
+        "front": "State three features of the graph of y equals 1 over f(x) that can be deduced from the graph of y equals f(x).",
+        "back": [
+          "Where f(x) equals zero the reciprocal is undefined, so a vertical asymptote occurs there.",
+          "Where f(x) has a local maximum with a positive value, the reciprocal has a local minimum, and vice versa.",
+          "Points where f(x) equals 1 or negative 1 are unchanged, and the reciprocal has the same sign as f(x) throughout."
+        ]
+      }
     },
     {
       "id": "F3",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Inverse circular functions",
       "detail": "Domains, ranges and graphs of arcsin, arccos and arctan; exact values; and solving equations involving inverse circular functions.",
       "questions": [
@@ -323,11 +482,21 @@
             "Restricting sine to the interval from negative pi on 2 to pi on 2 makes it one-to-one, and this interval becomes the range of the inverse."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F3",
+        "title": "Inverse circular functions",
+        "front": "State the domain and range of y equals arcsin(x) and explain why the range is restricted.",
+        "back": [
+          "The domain is the closed interval from negative 1 to 1 and the range is the closed interval from negative pi on 2 to pi on 2.",
+          "Sine is not one-to-one over its whole domain, so it has no inverse function unless the domain is restricted.",
+          "Restricting sine to the interval from negative pi on 2 to pi on 2 makes it one-to-one, and this interval becomes the range of the inverse."
+        ]
+      }
     },
     {
       "id": "F4",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Graphs of inverse circular functions with transformations",
       "detail": "Applying dilations, reflections and translations to inverse circular functions, and determining the resulting domain and range.",
       "questions": [
@@ -340,11 +509,21 @@
             "Subtracting pi gives a range from negative pi to pi."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F4",
+        "title": "Graphs of inverse circular functions with transformations",
+        "front": "State the domain and range of y equals 2 arccos(3x) minus pi.",
+        "back": [
+          "The inner function requires negative 1 less than or equal to 3x less than or equal to 1, so the domain is from negative one third to one third.",
+          "The range of arccos is from 0 to pi; multiplying by 2 gives 0 to 2 pi.",
+          "Subtracting pi gives a range from negative pi to pi."
+        ]
+      }
     },
     {
       "id": "F5",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Reciprocal circular functions",
       "detail": "The graphs, periods and asymptotes of secant, cosecant and cotangent, and the Pythagorean identities that involve them.",
       "questions": [
@@ -357,11 +536,21 @@
             "The identity is 1 plus tan squared x equals sec squared x."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F5",
+        "title": "Reciprocal circular functions",
+        "front": "State the period and the location of the asymptotes of y equals sec(x), and the identity linking secant and tangent.",
+        "back": [
+          "The period is 2 pi, the same as that of cosine.",
+          "Asymptotes occur where cos(x) equals zero, that is at x equals pi on 2 plus k pi for integer k.",
+          "The identity is 1 plus tan squared x equals sec squared x."
+        ]
+      }
     },
     {
       "id": "F6",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Implicit relations and their graphs",
       "detail": "Recognising and sketching relations such as circles, ellipses and hyperbolas from their equations, including the effect of translation.",
       "questions": [
@@ -374,11 +563,21 @@
             "This is an ellipse centred at (1, 0) with semi-axes 3 in the x direction and 2 in the y direction."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F6",
+        "title": "Implicit relations and their graphs",
+        "front": "Identify the curve with equation 4x squared plus 9y squared minus 8x equals 32 and state its centre.",
+        "back": [
+          "Complete the square in x: 4(x squared minus 2x) equals 4(x minus 1) squared minus 4.",
+          "The equation becomes 4(x minus 1) squared plus 9 y squared equals 36, that is (x minus 1) squared over 9 plus y squared over 4 equals 1.",
+          "This is an ellipse centred at (1, 0) with semi-axes 3 in the x direction and 2 in the y direction."
+        ]
+      }
     },
     {
       "id": "F7",
-      "area": "Functions, relations and graphs",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 2: Functions, relations and graphs",
       "title": "Compound and double angle identities",
       "detail": "Expanding sine and cosine of a sum or difference, the double angle formulas, and using them to simplify expressions and solve equations exactly.",
       "questions": [
@@ -391,11 +590,21 @@
             "Therefore x equals pi on 12, 5 pi on 12, 13 pi on 12 and 17 pi on 12."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:F7",
+        "title": "Compound and double angle identities",
+        "front": "Solve 2 sin(x) cos(x) equals one half for x in the interval from 0 to 2 pi.",
+        "back": [
+          "Use the double angle identity: 2 sin x cos x equals sin 2x, so sin 2x equals one half.",
+          "For 2x in the interval from 0 to 4 pi the solutions are 2x equals pi on 6, 5 pi on 6, 13 pi on 6 and 17 pi on 6.",
+          "Therefore x equals pi on 12, 5 pi on 12, 13 pi on 12 and 17 pi on 12."
+        ]
+      }
     },
     {
       "id": "V1",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Vector notation and basic operations",
       "detail": "Position vectors in two and three dimensions, addition and scalar multiplication, magnitude and unit vectors, and the geometric interpretation of each operation.",
       "questions": [
@@ -408,11 +617,21 @@
             "This gives two thirds i minus one third j plus two thirds k."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V1",
+        "title": "Vector notation and basic operations",
+        "front": "Given a equals 2i minus j plus 2k, find the magnitude of a and the unit vector in the direction of a.",
+        "back": [
+          "The magnitude is the square root of 4 plus 1 plus 4, which is 3.",
+          "The unit vector is a divided by its magnitude.",
+          "This gives two thirds i minus one third j plus two thirds k."
+        ]
+      }
     },
     {
       "id": "V2",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "The scalar product",
       "detail": "Computing the dot product from components and from magnitudes and the angle between vectors, and using it to test for perpendicularity and to find angles.",
       "questions": [
@@ -425,11 +644,21 @@
             "The angle is arccos(negative one third), approximately 109.5 degrees; an obtuse angle is consistent with the negative dot product."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V2",
+        "title": "The scalar product",
+        "front": "Find the angle between a equals i plus 2j plus 2k and b equals 3i minus 4k, giving the method in full.",
+        "back": [
+          "The dot product is 3 plus 0 minus 8, which is negative 5.",
+          "The magnitudes are 3 and 5, so cos of the angle equals negative 5 divided by 15, which is negative one third.",
+          "The angle is arccos(negative one third), approximately 109.5 degrees; an obtuse angle is consistent with the negative dot product."
+        ]
+      }
     },
     {
       "id": "V3",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Scalar and vector resolutes",
       "detail": "Resolving one vector into a component parallel to another and a component perpendicular to it, and interpreting the resolutes geometrically.",
       "questions": [
@@ -442,11 +671,21 @@
             "The perpendicular component is a minus the vector resolute, and it satisfies a dot b equal to zero when dotted with b."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V3",
+        "title": "Scalar and vector resolutes",
+        "front": "Explain how to find the vector resolute of a in the direction of b and the component of a perpendicular to b.",
+        "back": [
+          "The scalar resolute of a in the direction of b is the dot product of a and b divided by the magnitude of b.",
+          "The vector resolute is that scalar multiplied by the unit vector in the direction of b, that is (a dot b over b dot b) times b.",
+          "The perpendicular component is a minus the vector resolute, and it satisfies a dot b equal to zero when dotted with b."
+        ]
+      }
     },
     {
       "id": "V4",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "The vector product",
       "detail": "Computing the cross product, its perpendicularity to both vectors, the right-hand rule, and its magnitude as the area of the parallelogram formed.",
       "questions": [
@@ -459,11 +698,21 @@
             "The area of the triangle with sides a and b is therefore half the magnitude of the cross product."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V4",
+        "title": "The vector product",
+        "front": "State two geometric properties of the cross product of a and b, and explain how it gives the area of a triangle.",
+        "back": [
+          "The cross product is perpendicular to both a and b, with direction given by the right-hand rule.",
+          "Its magnitude equals the product of the magnitudes multiplied by the sine of the angle between them, which is the area of the parallelogram spanned by a and b.",
+          "The area of the triangle with sides a and b is therefore half the magnitude of the cross product."
+        ]
+      }
     },
     {
       "id": "V5",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Vector proofs in geometry",
       "detail": "Using vector methods to prove geometric results such as the midpoint theorem, properties of parallelograms and concurrency of medians.",
       "questions": [
@@ -477,11 +726,22 @@
             "Since b minus a is the vector along the third side, the joining segment is a scalar multiple of it and therefore parallel, with half the magnitude."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V5",
+        "title": "Vector proofs in geometry",
+        "front": "Use vectors to prove that the line joining the midpoints of two sides of a triangle is parallel to the third side and half its length.",
+        "back": [
+          "Let the triangle have vertices O, A and B with position vectors 0, a and b.",
+          "The midpoints of OA and OB have position vectors one half a and one half b.",
+          "The vector joining the midpoints is one half b minus one half a, which equals one half of (b minus a).",
+          "Since b minus a is the vector along the third side, the joining segment is a scalar multiple of it and therefore parallel, with half the magnitude."
+        ]
+      }
     },
     {
       "id": "V6",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Lines and planes in three dimensions",
       "detail": "Vector, parametric and Cartesian forms of a line; the equation of a plane from a normal vector and a point; intersections and angles between lines and planes.",
       "questions": [
@@ -494,11 +754,21 @@
             "Expanding gives 2x minus y plus 4z equals 12."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V6",
+        "title": "Lines and planes in three dimensions",
+        "front": "Find the Cartesian equation of the plane through the point (1, 2, 3) with normal vector 2i minus j plus 4k.",
+        "back": [
+          "The plane consists of points r such that (r minus r0) dot n equals zero.",
+          "This gives 2(x minus 1) minus (y minus 2) plus 4(z minus 3) equals 0.",
+          "Expanding gives 2x minus y plus 4z equals 12."
+        ]
+      }
     },
     {
       "id": "V7",
-      "area": "Vectors and geometry in space",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Vector functions and vector calculus",
       "detail": "Position vectors as functions of time, differentiating to obtain velocity and acceleration, and finding speed and the Cartesian path of a particle.",
       "questions": [
@@ -512,11 +782,22 @@
             "The path is a circle of radius 3 centred at the origin, traversed anticlockwise."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:V7",
+        "title": "Vector functions and vector calculus",
+        "front": "A particle has position vector r(t) equals (3 cos t) i plus (3 sin t) j. Find its velocity, its speed and the Cartesian equation of its path.",
+        "back": [
+          "Velocity is the derivative: v(t) equals (negative 3 sin t) i plus (3 cos t) j.",
+          "Speed is the magnitude of v, which is the square root of 9 sin squared t plus 9 cos squared t, equal to 3, so the speed is constant.",
+          "Since x equals 3 cos t and y equals 3 sin t, squaring and adding gives x squared plus y squared equals 9.",
+          "The path is a circle of radius 3 centred at the origin, traversed anticlockwise."
+        ]
+      }
     },
     {
       "id": "K1",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Differentiating inverse circular functions",
       "detail": "The derivatives of arcsin, arccos and arctan, including the chain rule with a linear or more general inner function.",
       "questions": [
@@ -529,11 +810,21 @@
             "By the chain rule, dy by dx equals 6x divided by (1 plus 9 x to the fourth)."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K1",
+        "title": "Differentiating inverse circular functions",
+        "front": "Differentiate y equals arctan(3x squared).",
+        "back": [
+          "The derivative of arctan(u) with respect to u is 1 over (1 plus u squared).",
+          "With u equal to 3x squared, du by dx equals 6x.",
+          "By the chain rule, dy by dx equals 6x divided by (1 plus 9 x to the fourth)."
+        ]
+      }
     },
     {
       "id": "K2",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Implicit differentiation",
       "detail": "Differentiating both sides of a relation with respect to x, applying the chain and product rules to terms in y, and solving for dy by dx.",
       "questions": [
@@ -546,11 +837,21 @@
             "Therefore dy by dx equals negative (2x plus y) divided by (x plus 2y)."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K2",
+        "title": "Implicit differentiation",
+        "front": "Find dy by dx for the relation x squared plus x y plus y squared equals 7.",
+        "back": [
+          "Differentiate term by term: 2x plus (y plus x dy by dx) plus 2y dy by dx equals 0, using the product rule on x y.",
+          "Collect the dy by dx terms: dy by dx (x plus 2y) equals negative 2x minus y.",
+          "Therefore dy by dx equals negative (2x plus y) divided by (x plus 2y)."
+        ]
+      }
     },
     {
       "id": "K3",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Second derivatives and concavity",
       "detail": "Using the second derivative to determine concavity and points of inflection, and applying the second derivative test to stationary points.",
       "questions": [
@@ -563,11 +864,21 @@
             "In that case a sign test of the first derivative either side of the point must be used instead."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K3",
+        "title": "Second derivatives and concavity",
+        "front": "Explain how the second derivative is used to classify a stationary point and state when the test is inconclusive.",
+        "back": [
+          "At a stationary point, a negative second derivative indicates a local maximum and a positive second derivative indicates a local minimum.",
+          "If the second derivative is zero the test is inconclusive, because the point may be a maximum, minimum or a stationary point of inflection.",
+          "In that case a sign test of the first derivative either side of the point must be used instead."
+        ]
+      }
     },
     {
       "id": "K4",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Integration by substitution",
       "detail": "Recognising a composite integrand with a derivative factor, choosing an appropriate substitution, and changing the limits for a definite integral.",
       "questions": [
@@ -580,11 +891,21 @@
             "The integral becomes one half times the integral of 1 over u from 1 to 5, which is one half ln 5."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K4",
+        "title": "Integration by substitution",
+        "front": "Evaluate the integral of x divided by (x squared plus 1) with respect to x from 0 to 2.",
+        "back": [
+          "Let u equal x squared plus 1, so du equals 2x dx and x dx equals one half du.",
+          "When x equals 0, u equals 1, and when x equals 2, u equals 5.",
+          "The integral becomes one half times the integral of 1 over u from 1 to 5, which is one half ln 5."
+        ]
+      }
     },
     {
       "id": "K5",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Trigonometric integrals and substitutions",
       "detail": "Integrating using double angle identities, and using trigonometric substitution for integrands involving the square root of a squared minus x squared or a squared plus x squared.",
       "questions": [
@@ -597,11 +918,21 @@
             "Since theta equals arcsin(x on 3), the result is arcsin(x on 3) plus c."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K5",
+        "title": "Trigonometric integrals and substitutions",
+        "front": "Explain the substitution used to integrate 1 divided by the square root of (9 minus x squared) and state the result.",
+        "back": [
+          "Use the substitution x equals 3 sin theta, so dx equals 3 cos theta d theta and the square root becomes 3 cos theta.",
+          "The integral simplifies to the integral of d theta, which is theta plus c.",
+          "Since theta equals arcsin(x on 3), the result is arcsin(x on 3) plus c."
+        ]
+      }
     },
     {
       "id": "K6",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Partial fractions",
       "detail": "Decomposing a proper rational function into partial fractions with linear and repeated linear factors, and integrating the resulting logarithmic terms.",
       "questions": [
@@ -615,11 +946,22 @@
             "The absolute value signs are required because the logarithm is defined only for positive arguments."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K6",
+        "title": "Partial fractions",
+        "front": "Express 5x minus 1 over (x minus 1)(x plus 2) in partial fractions and hence find its antiderivative.",
+        "back": [
+          "Write the expression as A over (x minus 1) plus B over (x plus 2), so 5x minus 1 equals A(x plus 2) plus B(x minus 1).",
+          "Substituting x equal to 1 gives 4 equals 3A, so A equals four thirds; substituting x equal to negative 2 gives negative 11 equals negative 3B, so B equals eleven thirds.",
+          "The antiderivative is four thirds ln the absolute value of (x minus 1) plus eleven thirds ln the absolute value of (x plus 2) plus c.",
+          "The absolute value signs are required because the logarithm is defined only for positive arguments."
+        ]
+      }
     },
     {
       "id": "K7",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Areas, volumes of revolution and arc length",
       "detail": "Setting up definite integrals for the area between curves, the volume generated by rotating a region about an axis, and the length of a curve.",
       "questions": [
@@ -632,11 +974,21 @@
             "For a region between two curves the integrand becomes the difference of the squares of the outer and inner radii."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K7",
+        "title": "Areas, volumes of revolution and arc length",
+        "front": "Write the definite integral for the volume generated when the region under y equals f(x) from x equals a to x equals b is rotated about the x axis, and state the modification for rotation about the y axis.",
+        "back": [
+          "Rotating about the x axis gives the volume as pi times the integral from a to b of [f(x)] squared dx.",
+          "Rotating about the y axis requires the curve expressed as x in terms of y, giving pi times the integral from y equal to c to d of [g(y)] squared dy.",
+          "For a region between two curves the integrand becomes the difference of the squares of the outer and inner radii."
+        ]
+      }
     },
     {
       "id": "K8",
-      "area": "Calculus techniques",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Rates of change and related rates",
       "detail": "Relating the rates of change of connected quantities using the chain rule, and interpreting the sign and units of each rate.",
       "questions": [
@@ -650,11 +1002,22 @@
             "The radius is increasing at about 0.064 centimetres per second."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:K8",
+        "title": "Rates of change and related rates",
+        "front": "A spherical balloon is inflated so that its volume increases at 20 cubic centimetres per second. Find the rate of increase of the radius when the radius is 5 centimetres.",
+        "back": [
+          "V equals four thirds pi r cubed, so dV by dr equals 4 pi r squared.",
+          "By the chain rule, dV by dt equals dV by dr multiplied by dr by dt, so 20 equals 4 pi (25) dr by dt.",
+          "Therefore dr by dt equals 20 divided by 100 pi, which is 1 on (5 pi).",
+          "The radius is increasing at about 0.064 centimetres per second."
+        ]
+      }
     },
     {
       "id": "D1",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Verifying and classifying differential equations",
       "detail": "Checking that a given function satisfies a differential equation, identifying order, and distinguishing general from particular solutions.",
       "questions": [
@@ -667,11 +1030,21 @@
             "Both sides agree, so the function is a solution; A is an arbitrary constant, so this is the general solution and a boundary condition is needed to determine a particular solution."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D1",
+        "title": "Verifying and classifying differential equations",
+        "front": "Verify that y equals A e to the power of 2x plus 3 satisfies dy by dx equals 2y minus 6, and explain the role of A.",
+        "back": [
+          "Differentiating gives dy by dx equals 2A e to the power of 2x.",
+          "Substituting into the right-hand side: 2y minus 6 equals 2(A e to the power 2x plus 3) minus 6, which equals 2A e to the power 2x.",
+          "Both sides agree, so the function is a solution; A is an arbitrary constant, so this is the general solution and a boundary condition is needed to determine a particular solution."
+        ]
+      }
     },
     {
       "id": "D2",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Separation of variables",
       "detail": "Rearranging a first-order differential equation so each variable appears with its own differential, integrating both sides, and applying an initial condition.",
       "questions": [
@@ -685,11 +1058,22 @@
             "Applying y equals 2 when x equals 0 gives A equals 2, so y equals 2 e to the power of one half x squared."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D2",
+        "title": "Separation of variables",
+        "front": "Solve dy by dx equals x y with the initial condition y equals 2 when x equals 0.",
+        "back": [
+          "Separate the variables: (1 on y) dy equals x dx, valid for y non-zero.",
+          "Integrating gives ln the absolute value of y equals one half x squared plus c.",
+          "Therefore y equals A e to the power of one half x squared where A equals plus or minus e to the c.",
+          "Applying y equals 2 when x equals 0 gives A equals 2, so y equals 2 e to the power of one half x squared."
+        ]
+      }
     },
     {
       "id": "D3",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Differential equations of the form d2y by dx2 equals f(x)",
       "detail": "Integrating twice to obtain a general solution with two arbitrary constants, and using two conditions to determine them.",
       "questions": [
@@ -702,11 +1086,21 @@
             "Applying y equals 2 when x equals 0 gives c2 equals 2, so y equals x cubed plus x plus 2."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D3",
+        "title": "Differential equations of the form d2y by dx2 equals f(x)",
+        "front": "Solve d2y by dx2 equals 6x given that dy by dx equals 1 and y equals 2 when x equals 0.",
+        "back": [
+          "Integrating once gives dy by dx equals 3 x squared plus c1; applying the condition gives c1 equals 1.",
+          "Integrating again gives y equals x cubed plus x plus c2.",
+          "Applying y equals 2 when x equals 0 gives c2 equals 2, so y equals x cubed plus x plus 2."
+        ]
+      }
     },
     {
       "id": "D4",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Slope fields and qualitative behaviour",
       "detail": "Constructing and reading a slope field, identifying equilibrium solutions and describing the long-term behaviour of solution curves.",
       "questions": [
@@ -719,11 +1113,21 @@
             "It increases towards but never reaches y equals 4, which is a stable equilibrium, giving a logistic shaped curve."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D4",
+        "title": "Slope fields and qualitative behaviour",
+        "front": "For dy by dx equals y(4 minus y), identify the equilibrium solutions and describe the behaviour of a solution starting at y equals 1.",
+        "back": [
+          "Equilibrium solutions occur where dy by dx equals zero, that is y equals 0 and y equals 4.",
+          "For y between 0 and 4 the derivative is positive, so a solution starting at y equals 1 increases.",
+          "It increases towards but never reaches y equals 4, which is a stable equilibrium, giving a logistic shaped curve."
+        ]
+      }
     },
     {
       "id": "D5",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Euler's method",
       "detail": "Using the iterative formula with a fixed step size to approximate a solution numerically, and understanding how the error depends on step size and curvature.",
       "questions": [
@@ -736,11 +1140,21 @@
             "For a concave up solution the curve lies above its tangent, so each tangent step falls below the true value and the error accumulates."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D5",
+        "title": "Euler's method",
+        "front": "State the Euler's method iteration and explain why it underestimates the solution of a concave up curve.",
+        "back": [
+          "The iteration is y at the next step equals the current y plus h multiplied by f(x, y) evaluated at the current point.",
+          "Each step follows the tangent at the current point rather than the curve itself.",
+          "For a concave up solution the curve lies above its tangent, so each tangent step falls below the true value and the error accumulates."
+        ]
+      }
     },
     {
       "id": "D6",
-      "area": "Differential equations and modelling",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 4: Calculus",
       "title": "Applications: growth, decay and Newton's law of cooling",
       "detail": "Setting up a differential equation from a described rate of change, solving it and interpreting constants in context.",
       "questions": [
@@ -754,11 +1168,22 @@
             "The constant A is the initial excess temperature above the room and k is determined from a second measurement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:D6",
+        "title": "Applications: growth, decay and Newton's law of cooling",
+        "front": "A body cools so that the rate of temperature decrease is proportional to the excess over a room temperature of 20 degrees. Set up and solve the differential equation.",
+        "back": [
+          "Let T be the temperature at time t; then dT by dt equals negative k (T minus 20) for a positive constant k.",
+          "Separating variables gives the integral of 1 over (T minus 20) dT equals the integral of negative k dt.",
+          "This gives ln the absolute value of (T minus 20) equals negative k t plus c, so T equals 20 plus A e to the power of negative k t.",
+          "The constant A is the initial excess temperature above the room and k is determined from a second measurement."
+        ]
+      }
     },
     {
       "id": "M1",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Straight-line motion and calculus relationships",
       "detail": "The relationships between position, velocity and acceleration by differentiation and integration, and the use of a equals v dv by dx when acceleration is given in terms of position.",
       "questions": [
@@ -772,11 +1197,22 @@
             "Therefore v equals the square root of (36 minus 8 x squared), taking the positive root for motion in the positive direction."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M1",
+        "title": "Straight-line motion and calculus relationships",
+        "front": "A particle has acceleration a equals negative 4x metres per second squared and speed 6 metres per second when x equals 0. Find v in terms of x.",
+        "back": [
+          "Use a equals v dv by dx, so v dv by dx equals negative 4x.",
+          "Separating gives the integral of v dv equals the integral of negative 4x dx, so one half v squared equals negative 2 x squared plus c.",
+          "Applying v equals 6 when x equals 0 gives c equals 18, so v squared equals 36 minus 8 x squared.",
+          "Therefore v equals the square root of (36 minus 8 x squared), taking the positive root for motion in the positive direction."
+        ]
+      }
     },
     {
       "id": "M2",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Constant acceleration and motion graphs",
       "detail": "Applying the constant acceleration formulas, and interpreting position-time, velocity-time and acceleration-time graphs including areas and gradients.",
       "questions": [
@@ -789,11 +1225,21 @@
             "If the velocity changes sign, the distance travelled is found by integrating the absolute value of velocity, that is by adding the magnitudes of the areas above and below the axis separately."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M2",
+        "title": "Constant acceleration and motion graphs",
+        "front": "Explain what the gradient and the area under a velocity-time graph represent, and how to find the distance travelled when the velocity changes sign.",
+        "back": [
+          "The gradient of a velocity-time graph is the acceleration at that instant.",
+          "The signed area under the graph is the displacement over that interval.",
+          "If the velocity changes sign, the distance travelled is found by integrating the absolute value of velocity, that is by adding the magnitudes of the areas above and below the axis separately."
+        ]
+      }
     },
     {
       "id": "M3",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Newton's laws and force diagrams",
       "detail": "Drawing a force diagram, resolving forces into components, and applying the net force equals mass times acceleration in each direction.",
       "questions": [
@@ -807,11 +1253,22 @@
             "This gives a equal to 4.9 metres per second squared down the plane, independent of the mass."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M3",
+        "title": "Newton's laws and force diagrams",
+        "front": "A 5 kilogram block is on a smooth plane inclined at 30 degrees. Find its acceleration down the plane, taking g as 9.8.",
+        "back": [
+          "Resolve the weight into components: the component down the plane is m g sin 30, and the component perpendicular is m g cos 30.",
+          "The plane is smooth, so there is no friction, and the normal force balances the perpendicular component.",
+          "Applying Newton's second law along the plane: m a equals m g sin 30, so a equals g sin 30.",
+          "This gives a equal to 4.9 metres per second squared down the plane, independent of the mass."
+        ]
+      }
     },
     {
       "id": "M4",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Friction and connected particles",
       "detail": "The friction force as the coefficient multiplied by the normal force, and applying Newton's second law separately to each body in a connected system.",
       "questions": [
@@ -825,11 +1282,22 @@
             "Eliminate the tension to solve for the acceleration, then substitute back to find the tension."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M4",
+        "title": "Friction and connected particles",
+        "front": "Two masses are connected by a light inextensible string over a smooth pulley. Explain the method for finding the acceleration of the system.",
+        "back": [
+          "Draw a separate force diagram for each mass, showing weight and tension.",
+          "The string is inextensible, so both masses have the same magnitude of acceleration, and the string is light, so the tension is the same throughout.",
+          "Apply Newton's second law to each mass in the direction of its motion, giving two simultaneous equations in tension and acceleration.",
+          "Eliminate the tension to solve for the acceleration, then substitute back to find the tension."
+        ]
+      }
     },
     {
       "id": "M5",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Momentum and impulse",
       "detail": "Momentum as mass multiplied by velocity, impulse as the change in momentum or the integral of force over time, and conservation of momentum in collisions.",
       "questions": [
@@ -842,11 +1310,21 @@
             "Increasing the collision time therefore decreases the average force, which is the principle behind crumple zones and airbags."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M5",
+        "title": "Momentum and impulse",
+        "front": "Define impulse in two equivalent ways and explain why a longer collision time reduces the force experienced.",
+        "back": [
+          "Impulse is the change in momentum of a body, and equivalently the integral of the net force with respect to time.",
+          "For a fixed change in momentum, the product of the average force and the time over which it acts is constant.",
+          "Increasing the collision time therefore decreases the average force, which is the principle behind crumple zones and airbags."
+        ]
+      }
     },
     {
       "id": "M6",
-      "area": "Kinematics and dynamics",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 5: Space and measurement",
       "title": "Vector kinematics and projectiles",
       "detail": "Using position, velocity and acceleration as vector functions of time to analyse two-dimensional motion, including motion under constant gravitational acceleration.",
       "questions": [
@@ -860,11 +1338,22 @@
             "The horizontal range is then u squared sin 2 theta over g."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:M6",
+        "title": "Vector kinematics and projectiles",
+        "front": "A projectile is launched with speed u at angle theta above the horizontal. Derive expressions for its position vector and the time of flight over level ground.",
+        "back": [
+          "The acceleration vector is negative g j, so integrating gives v(t) equals (u cos theta) i plus (u sin theta minus g t) j.",
+          "Integrating again gives r(t) equals (u cos theta t) i plus (u sin theta t minus one half g t squared) j, taking the launch point as the origin.",
+          "The projectile returns to the ground when the j component is zero, giving t equal to 2 u sin theta over g.",
+          "The horizontal range is then u squared sin 2 theta over g."
+        ]
+      }
     },
     {
       "id": "T1",
-      "area": "Statistical inference",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
       "title": "Linear combinations of random variables",
       "detail": "The mean and variance of a sum or difference of independent random variables, and of a linear transformation of a single random variable.",
       "questions": [
@@ -877,11 +1366,21 @@
             "This gives a variance of 16 plus 9, which is 25, and a standard deviation of 5."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:T1",
+        "title": "Linear combinations of random variables",
+        "front": "X has mean 10 and variance 4, and Y has mean 6 and variance 9, and they are independent. Find the mean and variance of 2X minus Y.",
+        "back": [
+          "The mean is 2 times 10 minus 6, which is 14.",
+          "Variance scales by the square of the coefficient and adds for independent variables, so the variance is 2 squared times 4 plus (negative 1) squared times 9.",
+          "This gives a variance of 16 plus 9, which is 25, and a standard deviation of 5."
+        ]
+      }
     },
     {
       "id": "T2",
-      "area": "Statistical inference",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
       "title": "The distribution of the sample mean",
       "detail": "The sampling distribution of the sample mean, its mean equal to the population mean, its standard deviation equal to sigma over root n, and the central limit theorem.",
       "questions": [
@@ -894,11 +1393,21 @@
             "The central limit theorem states that for sufficiently large n the distribution of sample means is approximately normal regardless of the shape of the population distribution, which allows normal-based inference."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:T2",
+        "title": "The distribution of the sample mean",
+        "front": "State the mean and standard deviation of the distribution of sample means for samples of size 36 from a population with mean 50 and standard deviation 12, and explain the role of the central limit theorem.",
+        "back": [
+          "The mean of the sampling distribution equals the population mean, which is 50.",
+          "The standard deviation is 12 divided by the square root of 36, which is 2.",
+          "The central limit theorem states that for sufficiently large n the distribution of sample means is approximately normal regardless of the shape of the population distribution, which allows normal-based inference."
+        ]
+      }
     },
     {
       "id": "T3",
-      "area": "Statistical inference",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
       "title": "Confidence intervals for a mean",
       "detail": "Constructing an approximate confidence interval using the sample mean, the z value and the standard error, and interpreting the interval correctly.",
       "questions": [
@@ -912,11 +1421,22 @@
             "Interpretation: if many samples of this size were taken and an interval constructed each time, about 95 per cent of those intervals would contain the true population mean."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:T3",
+        "title": "Confidence intervals for a mean",
+        "front": "A sample of 100 has mean 25 from a population with standard deviation 5. Construct a 95 per cent confidence interval and interpret it.",
+        "back": [
+          "The standard error is 5 divided by the square root of 100, which is 0.5.",
+          "The 95 per cent interval is 25 plus or minus 1.96 multiplied by 0.5, that is 25 plus or minus 0.98.",
+          "The interval is from 24.02 to 25.98.",
+          "Interpretation: if many samples of this size were taken and an interval constructed each time, about 95 per cent of those intervals would contain the true population mean."
+        ]
+      }
     },
     {
       "id": "T4",
-      "area": "Statistical inference",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
       "title": "Hypothesis testing for a mean",
       "detail": "Formulating null and alternative hypotheses, computing a test statistic, finding the p value and comparing it with the significance level before stating a conclusion in context.",
       "questions": [
@@ -930,11 +1450,22 @@
             "If the p value is less than the significance level, reject the null hypothesis; otherwise there is insufficient evidence to reject it. Never conclude that the null hypothesis is proven true."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:T4",
+        "title": "Hypothesis testing for a mean",
+        "front": "Outline the steps of a one-tailed hypothesis test for a population mean and state how the conclusion is worded.",
+        "back": [
+          "State the null hypothesis that the population mean equals a specified value, and the alternative that it is greater than or less than that value.",
+          "Calculate the test statistic z equal to the sample mean minus the hypothesised mean, divided by sigma over root n.",
+          "Find the p value as the probability of a sample mean at least as extreme as the one observed, assuming the null hypothesis is true.",
+          "If the p value is less than the significance level, reject the null hypothesis; otherwise there is insufficient evidence to reject it. Never conclude that the null hypothesis is proven true."
+        ]
+      }
     },
     {
       "id": "T5",
-      "area": "Statistical inference",
+      "area": "Units 3 and 4: Specialist Mathematics — AoS 6: Data analysis, probability and statistics",
       "title": "Errors in hypothesis testing",
       "detail": "Type I error as rejecting a true null hypothesis and Type II error as failing to reject a false one, and the effect of the significance level and sample size on each.",
       "questions": [
@@ -947,7 +1478,17 @@
             "Reducing the significance level to 0.01 reduces the probability of a Type I error but increases the probability of a Type II error, unless the sample size is increased."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:T5",
+        "title": "Errors in hypothesis testing",
+        "front": "Define Type I and Type II errors and explain the effect of reducing the significance level from 0.05 to 0.01.",
+        "back": [
+          "A Type I error occurs when a true null hypothesis is rejected, and its probability equals the significance level.",
+          "A Type II error occurs when a false null hypothesis is not rejected.",
+          "Reducing the significance level to 0.01 reduces the probability of a Type I error but increases the probability of a Type II error, unless the sample size is increased."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -964,7 +1505,17 @@
             "Differentiation and antidifferentiation of standard forms, which demonstrate understanding of the technique rather than the ability to enter it into a calculator."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:X1",
+        "title": "Technology-free skills",
+        "front": "State three skills that must be secure for the technology-free examination and why each is examined without technology.",
+        "back": [
+          "Exact values for circular and inverse circular functions, since answers are required in exact form rather than as decimals.",
+          "Algebraic manipulation including surds, partial fractions and completing the square, which underpin later working.",
+          "Differentiation and antidifferentiation of standard forms, which demonstrate understanding of the technique rather than the ability to enter it into a calculator."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -981,7 +1532,17 @@
             "The set-up, the solved statement and the answer in the required exact or rounded form should all appear."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:X2",
+        "title": "Using CAS effectively",
+        "front": "A question worth 3 marks is answered with a single correct number obtained from CAS. Explain why marks may still be lost.",
+        "back": [
+          "Method marks are awarded for setting up the problem, such as writing the correct integral, equation or expression before solving it.",
+          "Without shown working the examiner cannot award these marks, and an incorrect final answer earns nothing.",
+          "The set-up, the solved statement and the answer in the required exact or rounded form should all appear."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -997,7 +1558,16 @@
             "Omitting the constant of integration, the domain restriction or the units; reread the question to check the exact form required before writing the final line."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "specialist-maths-34:X3",
+        "title": "Answer form, rounding and units",
+        "front": "State two common presentation errors that cost marks in Specialist Mathematics and how to avoid each.",
+        "back": [
+          "Rounding intermediate values, which propagates error into the final answer; carry full precision and round only at the end.",
+          "Omitting the constant of integration, the domain restriction or the units; reread the question to check the exact form required before writing the final line."
+        ]
+      }
     }
   ]
 }

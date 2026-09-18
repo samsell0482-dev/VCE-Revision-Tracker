@@ -2,21 +2,21 @@
   "id": "health-human-development-34",
   "name": "Health and Human Development",
   "areas": [
-    "Unit 3 AoS 1 — Understanding health and wellbeing",
-    "Unit 3 AoS 2 — Promoting health in Australia",
-    "Unit 4 AoS 1 — Global health and human development",
-    "Unit 4 AoS 2 — Health and the Sustainable Development Goals"
+    "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
+    "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
+    "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
+    "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals"
   ],
   "short": {
-    "Unit 3 AoS 1 — Understanding health and wellbeing": "U3 Health and wellbeing",
-    "Unit 3 AoS 2 — Promoting health in Australia": "U3 Health promotion",
-    "Unit 4 AoS 1 — Global health and human development": "U4 Global development",
-    "Unit 4 AoS 2 — Health and the Sustainable Development Goals": "U4 SDGs and aid"
+    "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing": "U1 Understanding health and we",
+    "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia": "U2 Promoting health in Austral",
+    "Unit 4: Health and human development in a global context — AoS 1: Global health and human development": "U1 Global health and human dev",
+    "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals": "U2 Health and the Sustainable "
   },
   "points": [
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Health, wellbeing and illness",
       "detail": "Explain how a person's view of being well or ill can depend on their circumstances and change over time. Use a contrasting pair of examples.",
       "questions": [
@@ -29,11 +29,21 @@
             "A change in circumstances, symptoms or support could alter an assessment over time, illustrating that health is dynamic."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.1",
+        "title": "Health, wellbeing and illness",
+        "front": "Two people with the same diagnosed condition describe their health differently. Explain how this illustrates the subjective nature of health and give one reason their perceptions might change over time.",
+        "back": [
+          "Subjective means a person's judgement of their health depends on their own experience and perspective.",
+          "Different expectations, support or ability to participate can lead the two people to different assessments despite the same diagnosis.",
+          "A change in circumstances, symptoms or support could alter an assessment over time, illustrating that health is dynamic."
+        ]
+      }
     },
     {
       "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Five dimensions working together",
       "detail": "Distinguish physical, social, emotional, mental and spiritual wellbeing. Trace how a change in one dimension can affect another.",
       "questions": [
@@ -47,11 +57,22 @@
             "Being unable to train also removes contact with teammates, reducing social health and wellbeing, and the loss of a valued role can reduce emotional and spiritual health and wellbeing."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.2",
+        "title": "Five dimensions working together",
+        "front": "Name the five dimensions of health and wellbeing and explain how a change in one can affect another, using a worked example.",
+        "back": [
+          "The five dimensions are physical, social, emotional, mental and spiritual health and wellbeing.",
+          "They are interrelated, so a change in one dimension commonly produces change in the others.",
+          "For example, a sporting injury reduces physical health and wellbeing through pain and loss of function.",
+          "Being unable to train also removes contact with teammates, reducing social health and wellbeing, and the loss of a valued role can reduce emotional and spiritual health and wellbeing."
+        ]
+      }
     },
     {
       "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Health as a shared resource",
       "detail": "Explain the value of good health for a person, a country and the global community. Build a separate cause-and-effect link for each scale.",
       "questions": [
@@ -65,11 +86,22 @@
             "Poor health in one country can spread across borders and reduce global stability, so health is a shared rather than a purely individual resource."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.3",
+        "title": "Health as a shared resource",
+        "front": "Explain what it means to describe health and wellbeing as a resource for the individual, the nation and the world.",
+        "back": [
+          "For the individual, good health and wellbeing allows participation in work, study and relationships, and reduces the personal cost of illness.",
+          "For the nation, a healthy population is more productive, requires less health expenditure and has higher rates of workforce participation, which increases tax revenue and economic growth.",
+          "For the world, healthy populations are better able to trade, cooperate and respond to shared threats such as pandemics and climate change.",
+          "Poor health in one country can spread across borders and reduce global stability, so health is a shared rather than a purely individual resource."
+        ]
+      }
     },
     {
       "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "New cases and existing cases",
       "detail": "Distinguish incidence from prevalence. Choose the appropriate measure when comparing new diagnoses with everyone currently experiencing a condition.",
       "questions": [
@@ -83,11 +115,22 @@
             "Cases therefore accumulate, so prevalence remains high even when incidence is comparatively low."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.4",
+        "title": "New cases and existing cases",
+        "front": "Distinguish between incidence and prevalence, and explain why a condition can have low incidence but high prevalence.",
+        "back": [
+          "Incidence is the number or rate of new cases of a condition arising in a population in a given period.",
+          "Prevalence is the total number or proportion of cases of a condition present in a population at a given time, including both new and existing cases.",
+          "A chronic condition such as type 2 diabetes has relatively few new cases each year but people live with it for decades.",
+          "Cases therefore accumulate, so prevalence remains high even when incidence is comparatively low."
+        ]
+      }
     },
     {
       "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Illness, mortality and life expectancy",
       "detail": "Interpret morbidity, life expectancy and mortality data. Distinguish maternal, infant and under-five mortality and pay attention to the denominator.",
       "questions": [
@@ -101,11 +144,22 @@
             "Life expectancy counts years lived but not their quality, so a population can live longer while spending many of those years with disability or chronic illness."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.5",
+        "title": "Illness, mortality and life expectancy",
+        "front": "Define morbidity, mortality and life expectancy, and explain why life expectancy alone does not describe a population's health status.",
+        "back": [
+          "Morbidity refers to ill health in an individual and the levels of ill health in a population.",
+          "Mortality refers to death, usually expressed as a rate per 100000 people in a given period.",
+          "Life expectancy is the number of years of life, on average, remaining to an individual at a particular age if death rates do not change.",
+          "Life expectancy counts years lived but not their quality, so a population can live longer while spending many of those years with disability or chronic illness."
+        ]
+      }
     },
     {
       "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Burden of disease measures",
       "detail": "Explain how DALYs combine YLL and YLD. Distinguish premature death from time spent living with reduced health.",
       "questions": [
@@ -119,11 +173,22 @@
             "Burden of disease captures both, so a condition such as anxiety or back pain appears in the data according to the healthy years it costs the population."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.6",
+        "title": "Burden of disease measures",
+        "front": "Explain what DALY, YLL and YLD measure and why burden of disease data is more useful than mortality data alone.",
+        "back": [
+          "A DALY is one lost year of healthy life, and is the measure used to express burden of disease.",
+          "DALY is the sum of YLL, years of life lost due to premature death, and YLD, years lived with disability.",
+          "Mortality data records only death, so it gives no weight to conditions that cause long-term disability without killing people.",
+          "Burden of disease captures both, so a condition such as anxiety or back pain appears in the data according to the healthy years it costs the population."
+        ]
+      }
     },
     {
       "id": "3.1.7",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Healthy years and self-reported health",
       "detail": "Compare HALE with life expectancy and explain what self-assessed health adds to a population-health picture.",
       "questions": [
@@ -136,11 +201,21 @@
             "Self-assessed health status is a person's own rating of their health, which captures how people experience their health and can reveal problems that clinical measures miss."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.7",
+        "title": "Healthy years and self-reported health",
+        "front": "Explain what health-adjusted life expectancy measures and what self-assessed health status adds to the picture.",
+        "back": [
+          "Health-adjusted life expectancy is the number of years a person can expect to live in full health, without the reduced functioning caused by disease or injury.",
+          "It is lower than life expectancy, and the gap represents the years expected to be lived with illness or disability.",
+          "Self-assessed health status is a person's own rating of their health, which captures how people experience their health and can reveal problems that clinical measures miss."
+        ]
+      }
     },
     {
       "id": "3.1.8",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Biological influences",
       "detail": "Use examples of biological factors to explain differences in health outcomes between population groups. Avoid treating a group average as a description of every person.",
       "questions": [
@@ -154,11 +229,22 @@
             "This increases the risk of heart attack and stroke, so high blood pressure raises both morbidity and mortality from cardiovascular disease."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.8",
+        "title": "Biological influences",
+        "front": "Name three biological factors that influence health status and explain how one of them contributes to cardiovascular disease.",
+        "back": [
+          "Biological factors include genetics, body weight, blood pressure, blood cholesterol, glucose regulation, birth weight, age and sex.",
+          "High blood pressure forces the heart to work harder and damages the walls of arteries over time.",
+          "Damaged artery walls are more likely to accumulate fatty plaque, which narrows the vessel and reduces blood flow.",
+          "This increases the risk of heart attack and stroke, so high blood pressure raises both morbidity and mortality from cardiovascular disease."
+        ]
+      }
     },
     {
       "id": "3.1.9",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Social and cultural influences",
       "detail": "Analyse how sociocultural circumstances can influence exposure to risks and access to protective resources. Apply the explanation to evidence about particular groups.",
       "questions": [
@@ -172,11 +258,22 @@
             "Isolated people are also less likely to have someone encourage them to seek treatment early, so conditions are more likely to be detected late."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.9",
+        "title": "Social and cultural influences",
+        "front": "Explain how socioeconomic status and social isolation each influence health status.",
+        "back": [
+          "Socioeconomic status combines income, education and occupation, and lower status is associated with worse health outcomes on almost every measure.",
+          "Lower income restricts the ability to afford nutritious food, secure housing, health insurance and timely treatment, while lower education reduces health literacy and the ability to act on health information.",
+          "Social isolation reduces the emotional support available when a person is unwell or stressed, which increases the risk of mental health problems.",
+          "Isolated people are also less likely to have someone encourage them to seek treatment early, so conditions are more likely to be detected late."
+        ]
+      }
     },
     {
       "id": "3.1.10",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Environmental influences",
       "detail": "Explain how surroundings and access to services can shape population-health patterns. Link a specific environmental condition to a measured outcome.",
       "questions": [
@@ -190,11 +287,22 @@
             "Urban design also determines the density of fast food outlets and alcohol outlets, which influences dietary patterns and alcohol consumption."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.10",
+        "title": "Environmental influences",
+        "front": "Name three environmental factors affecting health status and explain how urban design influences health outcomes.",
+        "back": [
+          "Environmental factors include housing quality, the work environment, urban design and infrastructure, and climate and weather.",
+          "Urban design determines whether physical activity is a convenient part of daily life, through footpaths, bike lanes, parks and access to public transport.",
+          "A suburb without safe walking routes or nearby recreation spaces promotes car dependence and sedentary behaviour, raising the risk of overweight and cardiovascular disease.",
+          "Urban design also determines the density of fast food outlets and alcohol outlets, which influences dietary patterns and alcohol consumption."
+        ]
+      }
     },
     {
       "id": "3.1.11",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Smoking, vaping and alcohol",
       "detail": "Explain how each contributes to Australia's health status. Use reliable class materials to distinguish their effects and support comparisons with relevant evidence.",
       "questions": [
@@ -208,11 +316,22 @@
             "Smoking rates are higher in low socioeconomic groups, reflecting greater exposure to stress, more smoking within social networks, targeted marketing and less access to cessation support."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.11",
+        "title": "Smoking, vaping and alcohol",
+        "front": "Explain how tobacco smoking contributes to Australia's burden of disease, and one reason rates differ between population groups.",
+        "back": [
+          "Tobacco smoke damages the airways and alveoli, causing chronic obstructive pulmonary disease, and contains carcinogens that cause lung and other cancers.",
+          "It also damages blood vessels and raises blood pressure, contributing to cardiovascular disease.",
+          "Smoking therefore contributes substantially to both YLL through premature death and YLD through years lived with chronic respiratory disease.",
+          "Smoking rates are higher in low socioeconomic groups, reflecting greater exposure to stress, more smoking within social networks, targeted marketing and less access to cessation support."
+        ]
+      }
     },
     {
       "id": "3.1.12",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Body weight and dietary patterns",
       "detail": "Analyse overweight and obesity, limited fruit, vegetables or dairy, excess fat, salt or sugar, and inadequate fibre as contributors to Australian health patterns.",
       "questions": [
@@ -226,11 +345,22 @@
             "Overweight is also associated with some cancers and with reduced mental and emotional health and wellbeing through stigma and reduced self-esteem."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.12",
+        "title": "Body weight and dietary patterns",
+        "front": "Explain how overweight and obesity affect health status, referring to at least two body systems.",
+        "back": [
+          "Excess body fat increases insulin resistance, which raises blood glucose levels and leads to type 2 diabetes.",
+          "Additional body mass raises blood pressure and blood cholesterol, increasing the workload of the cardiovascular system and the risk of heart disease and stroke.",
+          "Excess weight loads the joints, contributing to osteoarthritis and reduced mobility, which further reduces physical activity.",
+          "Overweight is also associated with some cancers and with reduced mental and emotional health and wellbeing through stigma and reduced self-esteem."
+        ]
+      }
     },
     {
       "id": "3.1.13",
-      "area": "Unit 3 AoS 1 — Understanding health and wellbeing",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 1: Understanding health and wellbeing",
       "title": "Reading Australian health data",
       "detail": "Compare groups using figures, units and time periods from the stimulus. Explain a plausible contributing factor and acknowledge what the data cannot establish.",
       "questions": [
@@ -244,11 +374,22 @@
             "Explain the difference using the biological, sociocultural and environmental factors that differ between the groups, rather than describing the numbers alone."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.1.13",
+        "title": "Reading Australian health data",
+        "front": "Explain how to use Australian health data to compare the health status of two population groups.",
+        "back": [
+          "Identify the specific indicator being compared, such as life expectancy, mortality rate or burden of disease, and check the units and time period.",
+          "Quote specific figures for each group and state the size of the difference, as a gap in years or as a ratio or percentage.",
+          "Identify the pattern across several indicators rather than relying on one, since groups can differ more on some measures than others.",
+          "Explain the difference using the biological, sociocultural and environmental factors that differ between the groups, rather than describing the numbers alone."
+        ]
+      }
     },
     {
       "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Public health before modern treatment",
       "detail": "Explain how sanitation and other population protections associated with old public health helped improve Australian health after 1900.",
       "questions": [
@@ -261,11 +402,21 @@
             "Reduced exposure can reduce waterborne illness, improving morbidity and potentially reducing premature deaths."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.1",
+        "title": "Public health before modern treatment",
+        "front": "A town improves its sewerage system and drinking-water supply. Explain how this represents old public health and how it could improve population health.",
+        "back": [
+          "The initiative improves environmental conditions for a whole population rather than treating only individual patients.",
+          "Separating sewage from drinking water can reduce exposure to pathogens.",
+          "Reduced exposure can reduce waterborne illness, improving morbidity and potentially reducing premature deaths."
+        ]
+      }
     },
     {
       "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Medical care and technology",
       "detail": "Explain contributions of the biomedical approach and medical advances. Discuss their strengths and limits when responding to population-health problems.",
       "questions": [
@@ -279,11 +430,22 @@
             "A limitation is that it is expensive, relies on professional expertise and treats illness after it occurs, so it does not address the sociocultural and environmental causes that produce illness in the first place."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.2",
+        "title": "Medical care and technology",
+        "front": "Describe the biomedical approach to health and evaluate it with one strength and one limitation.",
+        "back": [
+          "The biomedical approach focuses on the physical or biological aspects of disease and illness, and is practised by health professionals to diagnose and treat individual patients.",
+          "A strength is that it creates advances in technology and research, extending life expectancy and improving quality of life through treatments, vaccines and surgery.",
+          "It also delivers immediate results for individuals who are already unwell.",
+          "A limitation is that it is expensive, relies on professional expertise and treats illness after it occurs, so it does not address the sociocultural and environmental causes that produce illness in the first place."
+        ]
+      }
     },
     {
       "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Social approaches to health",
       "detail": "Explain how the social model addresses wider influences on health and complements medical treatment. The named principles of the social model are not required by this study design.",
       "questions": [
@@ -297,11 +459,22 @@
             "The biomedical approach treats existing illness in individuals, while the social model works to prevent illness arising by changing the conditions in which people live."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.3",
+        "title": "Social approaches to health",
+        "front": "Explain the social model of health and how it differs from the biomedical approach.",
+        "back": [
+          "The social model of health is a conceptual framework that addresses the broader determinants of health rather than focusing on individual biology.",
+          "Its principles are to address the broader determinants of health, act to reduce social inequities, empower individuals and communities, access health care, and act to enable intersectoral collaboration.",
+          "It focuses on prevention across whole populations rather than on treating individuals who are already ill.",
+          "The biomedical approach treats existing illness in individuals, while the social model works to prevent illness arising by changing the conditions in which people live."
+        ]
+      }
     },
     {
       "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Ottawa Charter in action",
       "detail": "Recognise the five action areas: healthy public policy, supportive environments, community action, personal skills and reoriented health services. Apply them to concrete program features.",
       "questions": [
@@ -315,11 +488,22 @@
             "Create supportive environments would include smoke-free workplaces and venues that make not smoking the easier choice."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.4",
+        "title": "Ottawa Charter in action",
+        "front": "Name the five action areas of the Ottawa Charter and apply two of them to reducing smoking rates.",
+        "back": [
+          "The action areas are build healthy public policy, create supportive environments, strengthen community action, develop personal skills and reorient health services.",
+          "Build healthy public policy: legislating plain packaging, higher tobacco excise and bans on smoking in enclosed public spaces.",
+          "Develop personal skills: education campaigns and Quitline counselling that build the knowledge and skills to stop smoking.",
+          "Create supportive environments would include smoke-free workplaces and venues that make not smoking the easier choice."
+        ]
+      }
     },
     {
       "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Evaluating health promotion",
       "detail": "Use evidence from a campaign or program to explain its mechanism, intended audience and outcomes. Evaluate its likely impact rather than simply naming an action area.",
       "questions": [
@@ -333,11 +517,22 @@
             "Consider sustainability and cost, since a program that produces short-term change but cannot be maintained has limited long-term effect."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.5",
+        "title": "Evaluating health promotion",
+        "front": "Explain how the effectiveness of a health promotion program is judged.",
+        "back": [
+          "Identify the program's stated objectives and the population group it targeted, since effectiveness is measured against its own aims.",
+          "Compare data before and after the program on relevant indicators, such as participation rates, behaviour change or changes in incidence.",
+          "Consider reach and equity: whether the program reached the groups experiencing the greatest burden, not only those easiest to reach.",
+          "Consider sustainability and cost, since a program that produces short-term change but cannot be maintained has limited long-term effect."
+        ]
+      }
     },
     {
       "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Aboriginal and Torres Strait Islander health initiatives",
       "detail": "Investigate actual initiatives and connect their features to health outcomes, Ottawa Charter action areas and social justice. Evaluate how well the initiatives respond to community needs.",
       "questions": [
@@ -351,11 +546,22 @@
             "Programs must also be adequately and continuously funded, since short-term funding cycles prevent the long-term relationships that effective programs depend on."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.6",
+        "title": "Aboriginal and Torres Strait Islander health initiatives",
+        "front": "Explain two features that make a health initiative effective in improving Aboriginal and Torres Strait Islander health and wellbeing.",
+        "back": [
+          "Community control and consultation, so that programs are designed and delivered by Aboriginal and Torres Strait Islander communities rather than imposed on them.",
+          "Cultural safety, so that services respect culture, language and kinship and do not repeat experiences of racism or discrimination that deter people from seeking care.",
+          "Addressing the broader determinants such as housing, education and employment, since health outcomes depend on the conditions in which people live.",
+          "Programs must also be adequately and continuously funded, since short-term funding cycles prevent the long-term relationships that effective programs depend on."
+        ]
+      }
     },
     {
       "id": "3.2.7",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Australian healthy-eating guidance",
       "detail": "Explain the purposes and uses of the Australian Dietary Guidelines, Australian Guide to Healthy Eating and Aboriginal and Torres Strait Islander Guide to Healthy Eating.",
       "questions": [
@@ -369,11 +575,22 @@
             "One guideline is to limit intake of foods containing saturated fat, added salt, added sugars and alcohol."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.7",
+        "title": "Australian healthy-eating guidance",
+        "front": "Distinguish between the Australian Dietary Guidelines and the Australian Guide to Healthy Eating, and state one guideline.",
+        "back": [
+          "The Australian Dietary Guidelines are a set of written recommendations about the types and amounts of food that promote health and reduce the risk of diet-related disease.",
+          "The Australian Guide to Healthy Eating is a visual food selection guide, a pie chart showing the proportions of the five food groups that should be eaten each day.",
+          "The Guide translates the written guidelines into a form that is easier for the general population to apply.",
+          "One guideline is to limit intake of foods containing saturated fat, added salt, added sugars and alcohol."
+        ]
+      }
     },
     {
       "id": "3.2.8",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Barriers to dietary change",
       "detail": "Analyse sociocultural, environmental and commercial influences that can make nutritional change difficult. Apply each to a realistic setting.",
       "questions": [
@@ -387,11 +604,22 @@
             "Food marketing, cultural preferences, habit and low health literacy also make it harder to translate knowledge of the guidelines into daily choices."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.8",
+        "title": "Barriers to dietary change",
+        "front": "Explain three barriers that prevent Australians from following dietary guidance.",
+        "back": [
+          "Cost: nutritious fresh food can be more expensive than energy-dense processed alternatives, particularly for low income households.",
+          "Time and convenience: preparing meals from fresh ingredients takes longer than purchasing prepared or takeaway food, which is a barrier for people working long or irregular hours.",
+          "Access and availability: people in rural, remote and some outer urban areas have fewer outlets selling affordable fresh produce.",
+          "Food marketing, cultural preferences, habit and low health literacy also make it harder to translate knowledge of the guidelines into daily choices."
+        ]
+      }
     },
     {
       "id": "3.2.9",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Medicare and private insurance",
       "detail": "Explain the roles of Medicare and private health insurance. Assess their contributions using funding, sustainability, access and equity, rather than memorising changeable rebate amounts.",
       "questions": [
@@ -405,11 +633,22 @@
             "It does not cover most dental care, ambulance services in most states, glasses or elective treatment as a private patient."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.9",
+        "title": "Medicare and private insurance",
+        "front": "Explain how Medicare promotes access to health care and state one thing it does not cover.",
+        "back": [
+          "Medicare is Australia's universal health insurance scheme, funded through taxation including the Medicare levy.",
+          "It provides free treatment as a public patient in a public hospital and covers or subsidises consultations with general practitioners and specialists.",
+          "Because eligibility does not depend on income, it removes cost as a barrier to essential care and so promotes equity and access.",
+          "It does not cover most dental care, ambulance services in most states, glasses or elective treatment as a private patient."
+        ]
+      }
     },
     {
       "id": "3.2.10",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "PBS and NDIS",
       "detail": "Explain the roles of the Pharmaceutical Benefits Scheme and National Disability Insurance Scheme. Analyse how each supports health, using the four health-system criteria.",
       "questions": [
@@ -423,11 +662,22 @@
             "It provides individualised funding based on a participant's goals and needs, promoting independence and social and economic participation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.10",
+        "title": "PBS and NDIS",
+        "front": "Explain the purpose of the Pharmaceutical Benefits Scheme and the National Disability Insurance Scheme.",
+        "back": [
+          "The PBS subsidises the cost of a wide range of prescription medicines, so patients pay only a set co-payment rather than the full price.",
+          "A safety net reduces the cost further once a household reaches a threshold in a calendar year, which protects people who need many medicines.",
+          "The NDIS funds supports and services for people under 65 with a permanent and significant disability.",
+          "It provides individualised funding based on a participant's goals and needs, promoting independence and social and economic participation."
+        ]
+      }
     },
     {
       "id": "3.2.11",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Health-system trade-offs",
       "detail": "Use a scenario to compare funding, sustainability, access and equity. Explain why an improvement under one criterion may not solve every problem.",
       "questions": [
@@ -441,11 +691,22 @@
             "These can conflict, since expanding access raises costs and may threaten sustainability, so governments must balance them."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.11",
+        "title": "Health-system trade-offs",
+        "front": "Explain the meaning of sustainability, access and equity as they apply to Australia's health system, using an example of each.",
+        "back": [
+          "Sustainability means the system can meet the needs of the present population while retaining the capacity, workforce and funding to meet future needs.",
+          "Access means all people can obtain health services regardless of where they live, their income or their background, for example bulk billing removing the cost barrier.",
+          "Equity means resources are distributed according to need, so those with greater need receive greater support, for example the PBS safety net for people with high medicine costs.",
+          "These can conflict, since expanding access raises costs and may threaten sustainability, so governments must balance them."
+        ]
+      }
     },
     {
       "id": "3.2.12",
-      "area": "Unit 3 AoS 2 — Promoting health in Australia",
+      "area": "Unit 3: Australia’s health in a globalised world — AoS 2: Promoting health in Australia",
       "title": "Explaining long-term improvements",
       "detail": "Read Australian health trends since 1900 and justify explanations involving public health, medical developments and health promotion.",
       "questions": [
@@ -459,11 +720,22 @@
             "More recently the social model and the Ottawa Charter have reduced smoking rates and road deaths through legislation, supportive environments and education."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:3.2.12",
+        "title": "Explaining long-term improvements",
+        "front": "Explain two reasons for Australia's improvements in health status since 1900, referring to both old public health and modern approaches.",
+        "back": [
+          "Old public health improvements, including safe drinking water, sewerage, improved housing and better nutrition, dramatically reduced infectious disease and infant mortality in the early twentieth century.",
+          "Quarantine, food safety regulation and improved working conditions further reduced deaths from communicable disease.",
+          "Later improvements came from the biomedical approach, including antibiotics, vaccination, improved surgical techniques and treatment of cardiovascular disease.",
+          "More recently the social model and the Ottawa Charter have reduced smoking rates and road deaths through legislation, supportive environments and education."
+        ]
+      }
     },
     {
       "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "What human development means",
       "detail": "Explain human development through people's opportunities, capabilities and choices. Connect health to participation, education and living conditions.",
       "questions": [
@@ -476,11 +748,21 @@
             "Connect the opportunities to human development, rather than measuring success solely through economic growth."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.1",
+        "title": "What human development means",
+        "front": "A community program helps adults access education and participate in local decision-making. Explain two ways this could support human development.",
+        "back": [
+          "Education can strengthen people's knowledge and capabilities, expanding their future choices.",
+          "Participation in decisions can increase people's agency and ability to shape the conditions in which they live.",
+          "Connect the opportunities to human development, rather than measuring success solely through economic growth."
+        ]
+      }
     },
     {
       "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Using the Human Development Index",
       "detail": "Explain the HDI's health, education and living-standard dimensions. Evaluate its usefulness and limitations, including what a national average can conceal.",
       "questions": [
@@ -494,11 +776,22 @@
             "It also omits political freedom, safety, gender equality and environmental quality, so it should be read alongside other indicators."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.2",
+        "title": "Using the Human Development Index",
+        "front": "Name the dimensions of the Human Development Index and evaluate its usefulness as a measure of human development.",
+        "back": [
+          "The HDI combines a long and healthy life measured by life expectancy at birth, knowledge measured by mean and expected years of schooling, and a decent standard of living measured by gross national income per capita.",
+          "Its strength is combining health, education and income into one comparable figure, which is broader than income alone.",
+          "It is limited because it uses national averages, so it conceals inequality between regions, genders and social groups within a country.",
+          "It also omits political freedom, safety, gender equality and environmental quality, so it should be read alongside other indicators."
+        ]
+      }
     },
     {
       "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Comparing country income groups",
       "detail": "Describe patterns associated with low-, middle- and high-income countries. Use evidence rather than assuming every country or population shares the same experience.",
       "questions": [
@@ -512,11 +805,22 @@
             "Because people live longer, a greater proportion of their burden is YLD, years lived with disability, rather than years of life lost."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.3",
+        "title": "Comparing country income groups",
+        "front": "Explain how patterns of health status and burden of disease differ between high income and low income countries.",
+        "back": [
+          "Low income countries have higher rates of communicable disease, maternal and neonatal conditions and undernutrition, particularly among children.",
+          "These reflect limited access to safe water, sanitation, immunisation and skilled health care, and produce high YLL through premature death.",
+          "High income countries have a burden dominated by non-communicable conditions such as cardiovascular disease, cancer, diabetes and mental health conditions.",
+          "Because people live longer, a greater proportion of their burden is YLD, years lived with disability, rather than years of life lost."
+        ]
+      }
     },
     {
       "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Comparing global outcomes",
       "detail": "Interpret health and development data across countries, including Australia. Support similarities and differences with figures and distinguish between-country and within-country inequalities.",
       "questions": [
@@ -530,11 +834,22 @@
             "Middle income countries typically show a double burden, retaining significant communicable disease while non-communicable disease rates rise with urbanisation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.4",
+        "title": "Comparing global outcomes",
+        "front": "Explain three differences in health outcomes between low, middle and high income countries, quoting the type of indicator you would use.",
+        "back": [
+          "Life expectancy is substantially lower in low income countries, often by twenty years or more compared with high income countries.",
+          "Under-five mortality rates are many times higher in low income countries, reflecting infectious disease, undernutrition and lack of skilled birth attendance.",
+          "Maternal mortality ratios show the widest relative gap of any health indicator, reflecting access to antenatal care and emergency obstetric services.",
+          "Middle income countries typically show a double burden, retaining significant communicable disease while non-communicable disease rates rise with urbanisation."
+        ]
+      }
     },
     {
       "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Safe water and sanitation",
       "detail": "Trace how access to safe water and sanitation can influence both health outcomes and opportunities for human development.",
       "questions": [
@@ -548,11 +863,22 @@
             "Reduced schooling and productivity limit income and empowerment, so poor water and sanitation constrain human development as well as health."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.5",
+        "title": "Safe water and sanitation",
+        "front": "Explain how a lack of safe water and sanitation affects health status and human development.",
+        "back": [
+          "Contaminated water transmits pathogens causing diarrhoeal disease, cholera and typhoid, which are major causes of death in children under five.",
+          "Repeated diarrhoeal infection prevents absorption of nutrients, causing undernutrition, stunting and impaired cognitive development.",
+          "Collecting water consumes hours each day, usually for women and girls, reducing time available for schooling and paid work.",
+          "Reduced schooling and productivity limit income and empowerment, so poor water and sanitation constrain human development as well as health."
+        ]
+      }
     },
     {
       "id": "4.1.6",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Poverty and unequal treatment",
       "detail": "Analyse poverty and discrimination related to race, religion, sex, sexual orientation or gender identity. Show how these can restrict resources and opportunities.",
       "questions": [
@@ -566,11 +892,22 @@
             "Both are self-reinforcing, since ill health reduces the ability to earn and learn, which deepens poverty and exclusion in the next generation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.6",
+        "title": "Poverty and unequal treatment",
+        "front": "Explain how poverty and discrimination act as barriers to health and human development.",
+        "back": [
+          "Poverty restricts the ability to afford adequate food, safe housing, clean water, schooling and health care, so basic needs go unmet.",
+          "It also forces trade-offs, such as choosing between food and medicine, and creates chronic stress that itself damages health.",
+          "Discrimination on the basis of gender, ethnicity, disability or caste restricts access to education, employment, land ownership and health services.",
+          "Both are self-reinforcing, since ill health reduces the ability to earn and learn, which deepens poverty and exclusion in the next generation."
+        ]
+      }
     },
     {
       "id": "4.1.7",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Three dimensions of sustainability",
       "detail": "Distinguish environmental, social and economic sustainability. Explain how their interaction supports lasting health and human development.",
       "questions": [
@@ -584,11 +921,22 @@
             "The three are interdependent, since environmental degradation reduces food and water security, which damages health and undermines economic capacity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.7",
+        "title": "Three dimensions of sustainability",
+        "front": "Name the three dimensions of sustainability and explain how each relates to health and wellbeing.",
+        "back": [
+          "Environmental sustainability means using natural resources so that the environment can continue to provide clean air, water, food and shelter for future generations.",
+          "Social sustainability means maintaining the systems and relationships, including health care, education, peace and social inclusion, that allow communities to continue functioning.",
+          "Economic sustainability means generating income and employment in ways that can be maintained, so people can afford the resources health requires.",
+          "The three are interdependent, since environmental degradation reduces food and water security, which damages health and undermines economic capacity."
+        ]
+      }
     },
     {
       "id": "4.1.8",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Climate-related global change",
       "detail": "Analyse implications of rising seas, changing weather patterns and more extreme weather events for health and people's opportunities.",
       "questions": [
@@ -602,11 +950,22 @@
             "Sea level rise and extreme events displace populations, and mass displacement brings overcrowding, poor sanitation and loss of health services."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.8",
+        "title": "Climate-related global change",
+        "front": "Explain three ways climate change affects health status globally.",
+        "back": [
+          "Rising temperatures increase deaths and illness from heat stress, particularly among the elderly, the very young and outdoor workers.",
+          "Changing rainfall patterns and extreme weather reduce crop yields and damage water supplies, increasing undernutrition and waterborne disease.",
+          "Warmer conditions expand the geographic range of vector-borne diseases such as malaria and dengue into populations with no prior exposure or immunity.",
+          "Sea level rise and extreme events displace populations, and mass displacement brings overcrowding, poor sanitation and loss of health services."
+        ]
+      }
     },
     {
       "id": "4.1.9",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Conflict and mass migration",
       "detail": "Trace effects on safety, services, relationships and opportunities. Analyse a particular context and avoid assuming all migration has identical consequences.",
       "questions": [
@@ -620,11 +979,22 @@
             "Education is interrupted for years and economies are destroyed, so the loss of human development persists long after fighting ends."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.9",
+        "title": "Conflict and mass migration",
+        "front": "Explain how conflict and mass migration affect health and human development.",
+        "back": [
+          "Conflict causes direct death and injury, and destroys hospitals, water systems, schools and transport infrastructure.",
+          "Health workers flee or are killed, so immunisation, maternal care and treatment of chronic conditions stop, and preventable disease returns.",
+          "Displaced people often live in overcrowded camps with inadequate water and sanitation, where communicable disease spreads rapidly.",
+          "Education is interrupted for years and economies are destroyed, so the loss of human development persists long after fighting ends."
+        ]
+      }
     },
     {
       "id": "4.1.10",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Trade and commercial exposure",
       "detail": "Analyse the worldwide distribution and marketing of tobacco, e-cigarettes and processed foods. Connect commercial trends to health and development outcomes.",
       "questions": [
@@ -638,11 +1008,22 @@
             "These countries then carry a double burden, since non-communicable disease rises while communicable disease remains, straining health systems with limited capacity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.10",
+        "title": "Trade and commercial exposure",
+        "front": "Explain how the global distribution and marketing of tobacco, alcohol and processed foods affects health in low and middle income countries.",
+        "back": [
+          "As regulation tightens in high income countries, companies expand marketing into low and middle income countries where controls are weaker.",
+          "Advertising, sponsorship and low prices increase consumption of tobacco, alcohol and energy-dense processed foods.",
+          "Rising consumption increases rates of cardiovascular disease, type 2 diabetes, cancer and alcohol-related injury.",
+          "These countries then carry a double burden, since non-communicable disease rises while communicable disease remains, straining health systems with limited capacity."
+        ]
+      }
     },
     {
       "id": "4.1.11",
-      "area": "Unit 4 AoS 1 — Global health and human development",
+      "area": "Unit 4: Health and human development in a global context — AoS 1: Global health and human development",
       "title": "Tourism and digital technologies",
       "detail": "Explain potential benefits and harms of tourism and digital technologies. Apply a balanced analysis to a specific country or community.",
       "questions": [
@@ -656,11 +1037,22 @@
             "However, unequal access creates a digital divide, and digital platforms also carry health misinformation and marketing of harmful products."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.1.11",
+        "title": "Tourism and digital technologies",
+        "front": "Explain one positive and one negative effect of increased tourism and digital technology on health and human development.",
+        "back": [
+          "Tourism generates income, employment and infrastructure such as roads, clean water and airports, which can raise living standards for local communities.",
+          "Tourism can also spread infectious disease rapidly between countries, and can strain local water and waste systems and damage ecosystems.",
+          "Digital technologies improve health outcomes through telehealth, mobile health information, disease surveillance and access to education in remote areas.",
+          "However, unequal access creates a digital divide, and digital platforms also carry health misinformation and marketing of harmful products."
+        ]
+      }
     },
     {
       "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Why the Sustainable Development Goals matter",
       "detail": "Explain why coordinated goals are useful for improving global health and human development. Relate progress in different sectors rather than treating health as isolated.",
       "questions": [
@@ -673,11 +1065,21 @@
             "Less illness or less time collecting water can create opportunities for education or work, supporting human development."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.1",
+        "title": "Why the Sustainable Development Goals matter",
+        "front": "Explain why progress on a goal outside SDG 3 can still improve health and human development. Use access to clean water as your example.",
+        "back": [
+          "The goals interact: conditions outside health services can affect health outcomes.",
+          "Safer water can reduce exposure to waterborne pathogens and associated illness, contributing to SDG 3.",
+          "Less illness or less time collecting water can create opportunities for education or work, supporting human development."
+        ]
+      }
     },
     {
       "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Key features of SDG 3",
       "detail": "Describe its priorities across maternal and child health, communicable and non-communicable disease, mental health, substance use, road safety, reproductive health, service access and environmental health risks. Use the official targets when checking detail.",
       "questions": [
@@ -691,11 +1093,22 @@
             "Further targets address non-communicable disease and mental health, substance abuse, road traffic deaths, universal health coverage and access to medicines and vaccines."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.2",
+        "title": "Key features of SDG 3",
+        "front": "State the aim of Sustainable Development Goal 3 and describe two of its targets.",
+        "back": [
+          "SDG 3 aims to ensure healthy lives and promote wellbeing for all at all ages.",
+          "One target is to reduce the global maternal mortality ratio and end preventable deaths of newborns and children under five.",
+          "Another is to end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis and waterborne diseases.",
+          "Further targets address non-communicable disease and mental health, substance abuse, road traffic deaths, universal health coverage and access to medicines and vaccines."
+        ]
+      }
     },
     {
       "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 1 and SDG 3",
       "detail": "Analyse a two-way relationship between reducing poverty and improving health. Explain the mechanism and the resulting development opportunity.",
       "questions": [
@@ -709,11 +1122,22 @@
             "Progress on either goal therefore supports the other, which is why the SDGs are described as interconnected."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.3",
+        "title": "SDG 1 and SDG 3",
+        "front": "Explain the relationship between SDG 1, no poverty, and SDG 3, good health and wellbeing.",
+        "back": [
+          "Poverty prevents people from affording nutritious food, safe housing, clean water and health care, so it directly produces ill health.",
+          "Reducing poverty raises the resources available for the basic needs that health depends on, improving health status.",
+          "The relationship runs both ways, since illness prevents people from working and imposes treatment costs that push households into poverty.",
+          "Progress on either goal therefore supports the other, which is why the SDGs are described as interconnected."
+        ]
+      }
     },
     {
       "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 2 and SDG 3",
       "detail": "Connect food security and improved nutrition with health. Explain how progress can also support learning, work and participation.",
       "questions": [
@@ -727,11 +1151,22 @@
             "Adequate nutrition therefore reduces child mortality and morbidity, directly advancing the targets of SDG 3."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.4",
+        "title": "SDG 2 and SDG 3",
+        "front": "Explain the relationship between SDG 2, zero hunger, and SDG 3, good health and wellbeing.",
+        "back": [
+          "SDG 2 aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+          "Undernutrition weakens the immune system, so children are more likely to die from otherwise treatable infections such as measles and diarrhoeal disease.",
+          "Chronic undernutrition in early childhood causes stunting and impaired cognitive development, which cannot be fully reversed later.",
+          "Adequate nutrition therefore reduces child mortality and morbidity, directly advancing the targets of SDG 3."
+        ]
+      }
     },
     {
       "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 4 and SDG 3",
       "detail": "Explain how education and health reinforce one another. Use a concrete pathway rather than only stating that they are connected.",
       "questions": [
@@ -745,11 +1180,22 @@
             "These effects transmit across generations, since the children of educated parents are more likely to be schooled and healthy themselves."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.5",
+        "title": "SDG 4 and SDG 3",
+        "front": "Explain how progress on SDG 4, quality education, contributes to SDG 3, good health and wellbeing.",
+        "back": [
+          "Education increases health literacy, so people can understand health information, recognise symptoms and follow treatment.",
+          "Educated women have fewer, better spaced pregnancies and are more likely to use antenatal care and have their children immunised.",
+          "Education raises earning capacity, which increases the resources a household can direct to food, housing and health care.",
+          "These effects transmit across generations, since the children of educated parents are more likely to be schooled and healthy themselves."
+        ]
+      }
     },
     {
       "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 5 and SDG 3",
       "detail": "Analyse how gender equality can support health and human development, and how improved health can strengthen participation and opportunity.",
       "questions": [
@@ -763,11 +1209,22 @@
             "Reducing gender-based violence and discriminatory practices directly reduces physical injury, mental illness and premature death."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.6",
+        "title": "SDG 5 and SDG 3",
+        "front": "Explain how progress on SDG 5, gender equality, contributes to health and wellbeing.",
+        "back": [
+          "Gender equality gives women control over decisions about their own health, including whether and when to seek care.",
+          "Access to family planning and reproductive health services reduces maternal mortality and improves birth spacing and infant survival.",
+          "Equal access to education and employment raises women's income, and women direct a greater share of income to household food, health and schooling.",
+          "Reducing gender-based violence and discriminatory practices directly reduces physical injury, mental illness and premature death."
+        ]
+      }
     },
     {
       "id": "4.2.7",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 6 and SDG 3",
       "detail": "Explain how water and sanitation improvements contribute to health, and connect the health benefit to a development outcome.",
       "questions": [
@@ -781,11 +1238,22 @@
             "Water close to home also frees time, particularly for women and girls, allowing schooling and work that further improve health."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.7",
+        "title": "SDG 6 and SDG 3",
+        "front": "Explain how progress on SDG 6, clean water and sanitation, contributes to SDG 3.",
+        "back": [
+          "Safe drinking water and adequate sanitation prevent transmission of the pathogens causing diarrhoeal disease, cholera and typhoid.",
+          "Diarrhoeal disease is a leading cause of death in children under five, so improving water and sanitation directly reduces child mortality.",
+          "Handwashing facilities reduce transmission of respiratory infection as well as gastrointestinal disease.",
+          "Water close to home also frees time, particularly for women and girls, allowing schooling and work that further improve health."
+        ]
+      }
     },
     {
       "id": "4.2.8",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "SDG 12 and SDG 3",
       "detail": "Analyse links between responsible consumption and production and health. Use an example involving resource use, pollution or waste.",
       "questions": [
@@ -799,11 +1267,22 @@
             "Sustainable production preserves the natural resources on which future food and water security, and therefore future health, depend."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.8",
+        "title": "SDG 12 and SDG 3",
+        "front": "Explain how progress on SDG 12, responsible consumption and production, relates to health and wellbeing.",
+        "back": [
+          "SDG 12 promotes sustainable patterns of consumption and production, including reducing waste and managing chemicals safely.",
+          "Sound management of chemicals and waste reduces air, water and soil contamination, lowering rates of respiratory disease, poisoning and cancer.",
+          "Reducing food waste improves food availability and affordability, supporting nutrition.",
+          "Sustainable production preserves the natural resources on which future food and water security, and therefore future health, depend."
+        ]
+      }
     },
     {
       "id": "4.2.9",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "WHO goals and objectives",
       "detail": "Learn the WHO goal and objectives specified in current VCAA support materials. Identify how an organisation's action in a scenario reflects them.",
       "questions": [
@@ -817,11 +1296,22 @@
             "Another is protecting people from health emergencies, including detecting and responding to outbreaks, and a third is promoting healthier populations by addressing the determinants of health."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.9",
+        "title": "WHO goals and objectives",
+        "front": "State the role of the World Health Organization and describe two of its priorities.",
+        "back": [
+          "The WHO is the United Nations agency responsible for international public health, directing and coordinating health work between countries.",
+          "It sets norms and standards, provides technical support, monitors health trends and coordinates responses to health emergencies.",
+          "One priority is achieving universal health coverage, so that all people can access quality health services without financial hardship.",
+          "Another is protecting people from health emergencies, including detecting and responding to outbreaks, and a third is promoting healthier populations by addressing the determinants of health."
+        ]
+      }
     },
     {
       "id": "4.2.10",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Forms and purposes of aid",
       "detail": "Distinguish bilateral, multilateral and non-government aid. Compare their roles in humanitarian assistance, poverty reduction, health and development.",
       "questions": [
@@ -835,11 +1325,22 @@
             "Non-government organisation aid works directly with communities and is often smaller in scale but closely targeted to local need."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.10",
+        "title": "Forms and purposes of aid",
+        "front": "Distinguish between emergency aid, bilateral aid and multilateral aid, and state a purpose of each.",
+        "back": [
+          "Emergency or humanitarian aid provides immediate relief after a disaster or conflict, such as food, shelter, water and medical care, to save lives.",
+          "Bilateral aid is given by one government directly to another, usually for longer-term development projects agreed between the two countries.",
+          "Multilateral aid is contributed by governments to international organisations such as the WHO or UNICEF, which pool resources and direct them where need is greatest.",
+          "Non-government organisation aid works directly with communities and is often smaller in scale but closely targeted to local need."
+        ]
+      }
     },
     {
       "id": "4.2.11",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Australia's aid partnerships",
       "detail": "Explain how Australia's aid program contributes to the SDGs and why it works through partnerships. Use an identified program to support the explanation.",
       "questions": [
@@ -853,11 +1354,22 @@
             "Concentrating aid regionally also allows deeper, longer-term partnerships than spreading the same funding across many distant countries."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.11",
+        "title": "Australia's aid partnerships",
+        "front": "Describe two features of Australia's aid program and explain why the Indo-Pacific region is its focus.",
+        "back": [
+          "Australia's aid program focuses on the Indo-Pacific, particularly the Pacific and Southeast Asia, and is delivered as bilateral, multilateral and non-government partnerships.",
+          "It prioritises health system strengthening, education, gender equality, disaster resilience and economic development.",
+          "The regional focus reflects geographic proximity, existing relationships and Australia's national interest in a stable and prosperous region.",
+          "Concentrating aid regionally also allows deeper, longer-term partnerships than spreading the same funding across many distant countries."
+        ]
+      }
     },
     {
       "id": "4.2.12",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Judging an aid program",
       "detail": "Evaluate evidence of effectiveness, including whether a program meets needs and supports lasting improvements. Explain health and human-development outcomes separately.",
       "questions": [
@@ -871,11 +1383,22 @@
             "Whether it reaches the most disadvantaged and produces measurable improvement in health or development indicators, rather than only being delivered as planned."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.12",
+        "title": "Judging an aid program",
+        "front": "Explain four criteria used to judge whether an aid program is effective.",
+        "back": [
+          "Whether it addresses the underlying cause of the problem rather than only its symptoms, since treating symptoms produces only temporary improvement.",
+          "Whether the community participated in designing and delivering it, since programs imposed from outside often do not match local priorities and are abandoned.",
+          "Whether it is sustainable, meaning the benefit continues after external funding and staff withdraw, which usually requires local training and ownership.",
+          "Whether it reaches the most disadvantaged and produces measurable improvement in health or development indicators, rather than only being delivered as planned."
+        ]
+      }
     },
     {
       "id": "4.2.13",
-      "area": "Unit 4 AoS 2 — Health and the Sustainable Development Goals",
+      "area": "Unit 4: Health and human development in a global context — AoS 2: Health and the Sustainable Development Goals",
       "title": "Individual and collective action",
       "detail": "Propose achievable actions with communities or national and international organisations. Explain how participation can contribute to health and human development.",
       "questions": [
@@ -889,12 +1412,23 @@
             "Action is most effective when it is sustained rather than one-off, directed to organisations working with communities rather than imposing on them, and combined with others so it influences government policy."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "health-human-development-34:4.2.13",
+        "title": "Individual and collective action",
+        "front": "Describe two types of social action an individual can take to promote global health, and explain what makes such action effective.",
+        "back": [
+          "Individuals can raise awareness and advocate, for example by signing petitions, contacting members of parliament or campaigning for increased aid funding.",
+          "Individuals can also contribute directly by donating to reputable non-government organisations or volunteering skills and time.",
+          "Consumer choices such as buying fair trade products shift demand towards producers meeting labour and environmental standards.",
+          "Action is most effective when it is sustained rather than one-off, directed to organisations working with communities rather than imposing on them, and combined with others so it influences government policy."
+        ]
+      }
     }
   ],
   "source": "Adapted revision checklist based on VCAA's VCE Health and Human Development Study Design, accreditation from 2025 (updated July 2024). Covers Units 3 and 4 key knowledge and skills.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/sites/default/files/2025-10/2025HealthHumanDevelopmentSD.docx",
-  "sourceLabel": "VCAA study design (Word)",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/health-and-human-development/health-and-human-development",
+  "sourceLabel": "VCAA Health and Human Development study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use class resources and past examinations for official practice.",
   "theme": {
     "accent": "#a4426a"

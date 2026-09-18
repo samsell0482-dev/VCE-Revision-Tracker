@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build:index": "node scripts/build-subject-index.mjs",
+    "cards:fill": "node scripts/write-missing-cue-cards.mjs",
     "predev": "npm run build:index",
     "dev": "vite --host 127.0.0.1",
     "prebuild": "npm run build:index",

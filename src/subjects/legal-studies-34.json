@@ -3,22 +3,22 @@
   "name": "Legal Studies",
   "areas": [
     "Principles of justice and legal foundations",
-    "Unit 3 AoS 1 — The Victorian criminal justice system",
-    "Unit 3 AoS 2 — The Victorian civil justice system",
-    "Unit 4 AoS 1 — The people and the Australian Constitution",
-    "Unit 4 AoS 2 — The people and law reform",
+    "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
+    "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
+    "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
+    "Unit 4: The people, the law and reform — AoS 2: The people and reform",
     "Exam technique and case skills"
   ],
   "short": {
     "Principles of justice and legal foundations": "Foundations",
-    "Unit 3 AoS 1 — The Victorian criminal justice system": "U3 Criminal",
-    "Unit 3 AoS 2 — The Victorian civil justice system": "U3 Civil",
-    "Unit 4 AoS 1 — The people and the Australian Constitution": "U4 Constitution",
-    "Unit 4 AoS 2 — The people and law reform": "U4 Law reform",
+    "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system": "U1 The Victorian criminal just",
+    "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system": "U2 The Victorian civil justice",
+    "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers": "U1 The people and the law-make",
+    "Unit 4: The people, the law and reform — AoS 2: The people and reform": "U2 The people and reform",
     "Exam technique and case skills": "Exam technique"
   },
   "source": "Adapted revision checklist based on VCAA's VCE Legal Studies Study Design, Units 3 and 4. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering. Legal content changes, so always check current law against VCAA and Victorian government sources.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/legal-studies",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/legal-studies/legal-studies",
   "sourceLabel": "VCAA Legal Studies study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Verify legal detail against current sources, since reforms occur regularly.",
   "theme": {
@@ -43,7 +43,18 @@
             "Formal equality is identical treatment for everyone; substantive equality adjusts treatment so that a person is not disadvantaged, for example providing an interpreter."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:F1",
+        "title": "Fairness, equality and access",
+        "front": "Define the three principles of justice and explain the difference between formal and substantive equality.",
+        "back": [
+          "Fairness means all people can participate in the justice system and its processes should be impartial and open.",
+          "Equality means all people engaging with the justice system should be treated in the same way; if the same treatment creates disadvantage, adjustments should be made.",
+          "Access means all people should be able to engage with the justice system and its processes on an informed basis.",
+          "Formal equality is identical treatment for everyone; substantive equality adjusts treatment so that a person is not disadvantaged, for example providing an interpreter."
+        ]
+      }
     },
     {
       "id": "F2",
@@ -61,7 +72,18 @@
             "A criminal case seeks to establish guilt and impose a sanction, whereas a civil case seeks a remedy such as damages to restore the plaintiff."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:F2",
+        "title": "Distinguishing criminal and civil law",
+        "front": "Compare criminal and civil law on the parties involved, the burden and standard of proof and the outcome sought.",
+        "back": [
+          "In criminal law the prosecution, acting on behalf of the state, brings the case against the accused; in civil law the plaintiff sues the defendant.",
+          "In criminal law the burden of proof rests on the prosecution; in civil law it rests on the plaintiff.",
+          "The criminal standard is beyond reasonable doubt, while the civil standard is on the balance of probabilities.",
+          "A criminal case seeks to establish guilt and impose a sanction, whereas a civil case seeks a remedy such as damages to restore the plaintiff."
+        ]
+      }
     },
     {
       "id": "F3",
@@ -79,7 +101,18 @@
             "Without a hierarchy, courts could not develop consistent law and appeal rights would be meaningless."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:F3",
+        "title": "The Victorian court hierarchy",
+        "front": "Explain two reasons for a court hierarchy in Victoria.",
+        "back": [
+          "Appeals: a hierarchy allows a party dissatisfied with a decision to have it reviewed by a higher court, which corrects errors and improves confidence in the system.",
+          "Doctrine of precedent: a hierarchy is necessary for binding precedent to operate, since decisions of superior courts bind lower courts in the same hierarchy.",
+          "Administrative convenience and specialisation also result, as minor matters are dealt with quickly in the Magistrates' Court while serious matters receive the resources of superior courts.",
+          "Without a hierarchy, courts could not develop consistent law and appeal rights would be meaningless."
+        ]
+      }
     },
     {
       "id": "F4",
@@ -97,7 +130,18 @@
             "Parliament is supreme in this relationship, subject to the Constitution, but courts interpret the statutes parliament passes and that interpretation becomes part of the law."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:F4",
+        "title": "Sources of law and their relationship",
+        "front": "Explain the relationship between statute law and common law, including codification and abrogation.",
+        "back": [
+          "Statute law is made by parliament and common law is made by courts through decisions in cases.",
+          "Codification occurs when parliament passes an Act that confirms and incorporates a principle developed by the courts.",
+          "Abrogation occurs when parliament passes an Act that cancels or overrides a common law principle it disagrees with.",
+          "Parliament is supreme in this relationship, subject to the Constitution, but courts interpret the statutes parliament passes and that interpretation becomes part of the law."
+        ]
+      }
     },
     {
       "id": "F5",
@@ -115,11 +159,22 @@
             "Reversing: a higher court hearing an appeal in the same case changes the decision of the court below, and the new decision becomes the precedent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:F5",
+        "title": "The doctrine of precedent",
+        "front": "Define ratio decidendi and explain three ways a court can avoid following an earlier decision.",
+        "back": [
+          "The ratio decidendi is the legal reasoning essential to the decision, and it is the part of a judgment that forms binding precedent.",
+          "Distinguishing: a lower court finds the material facts of the present case are sufficiently different, so the earlier precedent does not apply.",
+          "Overruling: a higher court in a later, different case decides that an earlier decision of a lower court was wrong and states the correct principle.",
+          "Reversing: a higher court hearing an appeal in the same case changes the decision of the court below, and the new decision becomes the precedent."
+        ]
+      }
     },
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Key concepts in criminal law",
       "detail": "The presumption of innocence, the burden and standard of proof, summary and indictable offences, and the role of the prosecution.",
       "questions": [
@@ -132,11 +187,21 @@
             "The right to silence and the availability of bail also uphold the presumption, as does the right to apply for a case to be dismissed where evidence is insufficient."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.1",
+        "title": "Key concepts in criminal law",
+        "front": "Explain the presumption of innocence and identify two features of the criminal justice system that uphold it.",
+        "back": [
+          "The presumption of innocence means an accused is treated as not guilty until the charge is proven.",
+          "The burden of proof rests on the prosecution, so the accused does not have to prove innocence, and the high standard of beyond reasonable doubt further protects them.",
+          "The right to silence and the availability of bail also uphold the presumption, as does the right to apply for a case to be dismissed where evidence is insufficient."
+        ]
+      }
     },
     {
       "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Rights of the accused",
       "detail": "The right to be tried without unreasonable delay, the right to a fair hearing and the right to trial by jury, and the source of each right.",
       "questions": [
@@ -150,11 +215,22 @@
             "It also reduces the personal and financial burden of a prolonged prosecution, including time spent on remand."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.2",
+        "title": "Rights of the accused",
+        "front": "Describe the right to be tried without unreasonable delay and explain how it upholds a principle of justice.",
+        "back": [
+          "An accused is entitled to be tried without unreasonable delay, with the hearing taking place as soon as is reasonably practicable.",
+          "What is reasonable depends on the complexity of the case and the availability of evidence and witnesses, so some delay is acceptable.",
+          "The right upholds fairness, because evidence and witness memory deteriorate over time and lengthy delay prejudices the accused's ability to defend themselves.",
+          "It also reduces the personal and financial burden of a prolonged prosecution, including time spent on remand."
+        ]
+      }
     },
     {
       "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Rights of victims",
       "detail": "The right to give evidence using alternative arrangements, the right to be informed about the proceedings and the right to be informed of the likely release date of the offender.",
       "questions": [
@@ -168,11 +244,22 @@
             "This upholds fairness and access, because a witness who is less distressed is better able to give complete and accurate evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.3",
+        "title": "Rights of victims",
+        "front": "Describe the right of a victim to give evidence as a vulnerable witness using alternative arrangements, and explain its purpose.",
+        "back": [
+          "In certain proceedings, particularly sexual offence and family violence matters, a witness may give evidence using alternative arrangements.",
+          "These may include giving evidence by closed-circuit television from another room, using screens, having a support person present or closing the court to the public.",
+          "The purpose is to reduce the trauma and intimidation of giving evidence in the presence of the accused.",
+          "This upholds fairness and access, because a witness who is less distressed is better able to give complete and accurate evidence."
+        ]
+      }
     },
     {
       "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Victoria Legal Aid and Community Legal Centres",
       "detail": "The role of each institution in providing information, advice and representation, the eligibility tests applied, and their impact on access to justice.",
       "questions": [
@@ -186,11 +273,22 @@
             "A limitation is that funding is finite, so strict eligibility tests exclude many people who still cannot realistically afford private representation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.4",
+        "title": "Victoria Legal Aid and Community Legal Centres",
+        "front": "Explain the role of Victoria Legal Aid in the criminal justice system and one limitation on its ability to uphold access to justice.",
+        "back": [
+          "Victoria Legal Aid provides free legal information to the community, and more targeted advice and duty lawyer services to eligible people.",
+          "It may also grant legal assistance, including representation by a lawyer, where the applicant satisfies means and merits tests.",
+          "This upholds access by allowing people who cannot afford a private lawyer to be represented in serious matters.",
+          "A limitation is that funding is finite, so strict eligibility tests exclude many people who still cannot realistically afford private representation."
+        ]
+      }
     },
     {
       "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Plea negotiations",
       "detail": "Pre-trial discussions between the prosecution and the accused about the charges and the plea, their purposes, and their appropriateness having regard to the victim and the community.",
       "questions": [
@@ -204,11 +302,22 @@
             "Victims and the community may also perceive the resulting charge or sanction as insufficiently reflecting the seriousness of the conduct."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.5",
+        "title": "Plea negotiations",
+        "front": "Define plea negotiations and evaluate their use with one strength and one weakness.",
+        "back": [
+          "Plea negotiations are pre-trial discussions between the prosecution and the accused about the charges to be laid and the plea to be entered.",
+          "A strength is that they save court time and costs and provide a guaranteed outcome, sparing victims and witnesses the trauma of giving evidence at trial.",
+          "A weakness is that an innocent accused may feel pressured to plead guilty to a lesser charge to avoid the risk of conviction on a more serious one.",
+          "Victims and the community may also perceive the resulting charge or sanction as insufficiently reflecting the seriousness of the conduct."
+        ]
+      }
     },
     {
       "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Court jurisdiction in criminal cases",
       "detail": "The original and appellate jurisdiction of the Magistrates' Court, County Court and Supreme Court, and the types of offences heard in each.",
       "questions": [
@@ -221,11 +330,21 @@
             "The County Court hears indictable offences other than those reserved to the Supreme Court."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.6",
+        "title": "Court jurisdiction in criminal cases",
+        "front": "State the original criminal jurisdiction of the Magistrates' Court and of the Supreme Court Trial Division.",
+        "back": [
+          "The Magistrates' Court hears summary offences and indictable offences heard summarily, as well as committal proceedings and bail applications.",
+          "The Supreme Court Trial Division hears the most serious indictable offences, such as murder and treason.",
+          "The County Court hears indictable offences other than those reserved to the Supreme Court."
+        ]
+      }
     },
     {
       "id": "3.1.7",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "The jury in a criminal trial",
       "detail": "Composition and empanelment, the role of the jury in deciding questions of fact, the requirement for a unanimous or majority verdict, and the strengths and weaknesses of the system.",
       "questions": [
@@ -239,11 +358,22 @@
             "Jurors may also struggle to understand complex evidence or lengthy directions, and unconscious bias cannot be entirely excluded."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.7",
+        "title": "The jury in a criminal trial",
+        "front": "Explain the role of a jury in a criminal trial and evaluate one strength and one weakness of the jury system.",
+        "back": [
+          "A criminal jury of 12 decides questions of fact, applying the law as directed by the judge, and must reach a verdict of guilty or not guilty.",
+          "A strength is that the jury involves the community in the administration of justice and spreads responsibility for the decision across 12 people, reducing individual bias.",
+          "A weakness is that jurors are not required and not permitted to give reasons for their decision, so errors of reasoning cannot be identified.",
+          "Jurors may also struggle to understand complex evidence or lengthy directions, and unconscious bias cannot be entirely excluded."
+        ]
+      }
     },
     {
       "id": "3.1.8",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Purposes of sanctions",
       "detail": "Rehabilitation, punishment, deterrence both general and specific, denunciation and protection, and how a single sanction may serve several purposes.",
       "questions": [
@@ -257,11 +387,22 @@
             "It may additionally serve denunciation, demonstrating the community's disapproval of the conduct."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.8",
+        "title": "Purposes of sanctions",
+        "front": "Explain the difference between general and specific deterrence and identify one other purpose of sanctions served by imprisonment.",
+        "back": [
+          "Specific deterrence aims to discourage the particular offender from reoffending by demonstrating the consequences of their conduct.",
+          "General deterrence aims to discourage others in the community from committing similar offences by making an example of the sentence imposed.",
+          "Imprisonment also serves the purpose of protection, by removing the offender from the community so they cannot commit further offences.",
+          "It may additionally serve denunciation, demonstrating the community's disapproval of the conduct."
+        ]
+      }
     },
     {
       "id": "3.1.9",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Types of sanctions",
       "detail": "Fines and penalty units, community correction orders and their conditions, and imprisonment including concurrent and cumulative sentences and the non-parole period.",
       "questions": [
@@ -275,11 +416,22 @@
             "Punishment is achieved through the restrictions on the offender's freedom and the requirement to perform unpaid work."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.9",
+        "title": "Types of sanctions",
+        "front": "Describe a community correction order and explain how it can achieve both rehabilitation and punishment.",
+        "back": [
+          "A community correction order is a supervised order served in the community, to which conditions are attached by the court.",
+          "Conditions may include unpaid community work, treatment and rehabilitation programs, supervision, curfews and exclusion from certain places.",
+          "Rehabilitation is achieved through treatment conditions that address the underlying causes of the offending, such as substance dependence.",
+          "Punishment is achieved through the restrictions on the offender's freedom and the requirement to perform unpaid work."
+        ]
+      }
     },
     {
       "id": "3.1.10",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Factors considered in sentencing",
       "detail": "Aggravating and mitigating factors, guilty pleas, victim impact statements and their influence on the sanction imposed.",
       "questions": [
@@ -293,11 +445,22 @@
             "The reduction reflects the saving of court time and cost, and the fact that victims and witnesses are spared the trauma of giving evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.10",
+        "title": "Factors considered in sentencing",
+        "front": "Distinguish between aggravating and mitigating factors and explain the effect of an early guilty plea on a sentence.",
+        "back": [
+          "Aggravating factors increase the seriousness of the offending and therefore the severity of the sentence, such as the use of a weapon, planning, or an offence committed in front of children.",
+          "Mitigating factors reduce the severity of the sentence, such as genuine remorse, a lack of prior convictions, or a difficult personal background.",
+          "An early guilty plea is a mitigating factor and generally results in a reduced sentence.",
+          "The reduction reflects the saving of court time and cost, and the fact that victims and witnesses are spared the trauma of giving evidence."
+        ]
+      }
     },
     {
       "id": "3.1.11",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Victim impact statements",
       "detail": "The purpose of allowing a victim to describe the effect of the offence, the process for making a statement and the weight given to it in sentencing.",
       "questions": [
@@ -310,11 +473,21 @@
             "A limitation is that the court must sentence according to established principles, so the statement cannot determine the outcome, and inadmissible or inflammatory material may be excluded."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.11",
+        "title": "Victim impact statements",
+        "front": "Explain the purpose of a victim impact statement and one limitation on its use.",
+        "back": [
+          "A victim impact statement allows a victim to explain to the court the injury, loss or damage suffered as a result of the offence.",
+          "It gives the victim a voice in the process and assists the court to understand the true impact of the offending when determining an appropriate sentence.",
+          "A limitation is that the court must sentence according to established principles, so the statement cannot determine the outcome, and inadmissible or inflammatory material may be excluded."
+        ]
+      }
     },
     {
       "id": "3.1.12",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Factors affecting the achievement of justice in criminal cases",
       "detail": "Costs, time and cultural differences as barriers, and the measures taken to address each.",
       "questions": [
@@ -328,11 +501,22 @@
             "Measures such as duty lawyer services, the use of interpreters and Koori Courts partially address these barriers."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.12",
+        "title": "Factors affecting the achievement of justice in criminal cases",
+        "front": "Explain how costs and cultural differences can prevent the criminal justice system from achieving the principles of justice.",
+        "back": [
+          "Costs: legal representation in an indictable matter is expensive, and legal aid is limited, so an accused may be unrepresented and unable to test the prosecution case, undermining fairness.",
+          "Time: delays caused by court backlogs mean an accused may spend a long period on remand and evidence may deteriorate, undermining fairness and access.",
+          "Cultural differences: a lack of understanding of court processes, language barriers or distrust of authorities can prevent effective participation, undermining access and equality.",
+          "Measures such as duty lawyer services, the use of interpreters and Koori Courts partially address these barriers."
+        ]
+      }
     },
     {
       "id": "3.1.13",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Committal proceedings",
       "detail": "The purpose of a committal hearing in the Magistrates' Court, the test applied, and the benefits for the accused and the system.",
       "questions": [
@@ -345,11 +529,21 @@
             "It also allows the accused to hear and test the prosecution case, which assists them to prepare a defence and may prompt an early guilty plea or plea negotiation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.13",
+        "title": "Committal proceedings",
+        "front": "Explain the purpose of a committal proceeding and one benefit it provides.",
+        "back": [
+          "A committal proceeding is held in the Magistrates' Court to determine whether there is evidence of sufficient weight to support a conviction for an indictable offence at trial.",
+          "If the test is not met the accused is discharged, so weak cases do not proceed to an expensive trial in a higher court.",
+          "It also allows the accused to hear and test the prosecution case, which assists them to prepare a defence and may prompt an early guilty plea or plea negotiation."
+        ]
+      }
     },
     {
       "id": "3.1.14",
-      "area": "Unit 3 AoS 1 — The Victorian criminal justice system",
+      "area": "Unit 3: Rights and justice — AoS 1: The Victorian criminal justice system",
       "title": "Roles in a criminal trial",
       "detail": "The roles of the judge, the jury, the parties and legal practitioners, and the responsibility of each in ensuring a fair trial.",
       "questions": [
@@ -363,11 +557,22 @@
             "The accused is not required to present a case or give evidence, but through their legal representative may test the prosecution evidence and make submissions."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.1.14",
+        "title": "Roles in a criminal trial",
+        "front": "Describe the role of the judge and the role of the parties in a criminal trial.",
+        "back": [
+          "The judge acts as an impartial umpire, ensuring court procedures are followed and rules of evidence applied, and does not favour either side.",
+          "The judge decides questions of law, directs the jury on the law to apply and, following a guilty verdict, imposes the sanction.",
+          "The prosecution must disclose all relevant evidence to the accused and present the case fairly, bearing the burden of proof.",
+          "The accused is not required to present a case or give evidence, but through their legal representative may test the prosecution evidence and make submissions."
+        ]
+      }
     },
     {
       "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Key concepts in civil law",
       "detail": "The plaintiff, defendant, the balance of probabilities, the purpose of a civil claim and the concepts of liability and causation.",
       "questions": [
@@ -380,11 +585,21 @@
             "This is a lower standard than the criminal standard because the consequence is a remedy rather than a sanction restricting liberty."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.1",
+        "title": "Key concepts in civil law",
+        "front": "Explain what the plaintiff must establish in a civil claim and the standard of proof applied.",
+        "back": [
+          "The plaintiff bears the burden of proving the elements of the cause of action against the defendant.",
+          "The standard is the balance of probabilities, meaning it is more probable than not that the defendant is liable.",
+          "This is a lower standard than the criminal standard because the consequence is a remedy rather than a sanction restricting liberty."
+        ]
+      }
     },
     {
       "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Factors to consider before initiating a civil claim",
       "detail": "Negotiation options, costs, limitation of actions, the scope of liability and the enforcement issues that may arise if the claim succeeds.",
       "questions": [
@@ -398,11 +613,22 @@
             "Negotiation options should also be considered, since resolving the matter without litigation is usually faster and cheaper."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.2",
+        "title": "Factors to consider before initiating a civil claim",
+        "front": "Explain three factors a person should consider before initiating a civil claim.",
+        "back": [
+          "Costs: legal fees, disbursements and the risk of an adverse costs order may exceed the value of the claim.",
+          "Limitation of actions: a claim must be commenced within the statutory time limit for that type of action, after which it cannot be brought.",
+          "Enforcement issues: even a successful plaintiff may recover nothing if the defendant has no assets, has become bankrupt or cannot be located.",
+          "Negotiation options should also be considered, since resolving the matter without litigation is usually faster and cheaper."
+        ]
+      }
     },
     {
       "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Methods of dispute resolution",
       "detail": "Mediation, conciliation and arbitration, the role of the third party in each, whether the outcome binds the parties and the circumstances in which each is appropriate.",
       "questions": [
@@ -416,11 +642,22 @@
             "Arbitration is appropriate where the parties want a binding determination in private, such as under a contract that requires arbitration."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.3",
+        "title": "Methods of dispute resolution",
+        "front": "Compare mediation and arbitration, and identify a circumstance in which each is appropriate.",
+        "back": [
+          "In mediation an independent third party facilitates discussion but does not suggest or impose a solution, and any settlement is not binding unless it is put into a deed of settlement.",
+          "In arbitration an independent third party hears evidence from both sides and makes a binding and enforceable decision.",
+          "Mediation is appropriate where the parties have an ongoing relationship to preserve and are willing to cooperate.",
+          "Arbitration is appropriate where the parties want a binding determination in private, such as under a contract that requires arbitration."
+        ]
+      }
     },
     {
       "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Consumer Affairs Victoria",
       "detail": "The role of Consumer Affairs Victoria in resolving consumer and tenancy disputes, its use of conciliation, and its appropriateness and limitations as a dispute resolution body.",
       "questions": [
@@ -434,11 +671,22 @@
             "It also cannot compel parties to participate or enforce an outcome, so a party who refuses to cooperate can defeat the process."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.4",
+        "title": "Consumer Affairs Victoria",
+        "front": "Explain the role of Consumer Affairs Victoria and state one strength and one limitation of using it.",
+        "back": [
+          "Consumer Affairs Victoria provides information and advice to consumers, businesses, landlords and renters, and offers a free conciliation service for certain disputes.",
+          "A strength is that the service is free and informal, which upholds access for parties who could not afford litigation.",
+          "A limitation is that its jurisdiction is restricted to consumer and tenancy matters, so it cannot assist with most other civil disputes.",
+          "It also cannot compel parties to participate or enforce an outcome, so a party who refuses to cooperate can defeat the process."
+        ]
+      }
     },
     {
       "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "The Victorian Civil and Administrative Tribunal",
       "detail": "The jurisdiction and list structure of VCAT, the methods it uses to resolve disputes, and its strengths and weaknesses compared with the courts.",
       "questions": [
@@ -452,11 +700,22 @@
             "Appeal rights from VCAT are also limited, generally being restricted to questions of law with leave."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.5",
+        "title": "The Victorian Civil and Administrative Tribunal",
+        "front": "Explain two strengths and one weakness of resolving a dispute at VCAT rather than in a court.",
+        "back": [
+          "Cost: VCAT fees are generally lower than court fees and parties usually represent themselves, so the process is more affordable.",
+          "Speed and informality: proceedings are less formal, the rules of evidence are relaxed and matters are generally resolved more quickly than in court.",
+          "A weakness is that the informality and the absence of legal representation may disadvantage a party facing a well-resourced opponent who is legally represented.",
+          "Appeal rights from VCAT are also limited, generally being restricted to questions of law with leave."
+        ]
+      }
     },
     {
       "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Civil jurisdiction of the courts",
       "detail": "The original and appellate civil jurisdiction of the Magistrates', County and Supreme Courts, and the reasons a plaintiff may choose a court over a tribunal.",
       "questions": [
@@ -469,11 +728,21 @@
             "The claim may also fall outside VCAT's jurisdiction, or the plaintiff may seek a remedy such as an injunction that the court is better placed to grant and enforce."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.6",
+        "title": "Civil jurisdiction of the courts",
+        "front": "Give two reasons a plaintiff may choose to issue proceedings in a court rather than at VCAT.",
+        "back": [
+          "Courts offer the doctrine of precedent and a comprehensive appeal structure, so an error can be corrected on appeal.",
+          "Court procedures such as discovery compel the other party to disclose relevant documents, which may be essential in a complex matter.",
+          "The claim may also fall outside VCAT's jurisdiction, or the plaintiff may seek a remedy such as an injunction that the court is better placed to grant and enforce."
+        ]
+      }
     },
     {
       "id": "3.2.7",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Civil pre-trial procedures",
       "detail": "Pleadings including the writ and statement of claim, the defence, discovery of documents and the purposes these procedures serve.",
       "questions": [
@@ -487,11 +756,22 @@
             "This ensures both parties can prepare with knowledge of the relevant evidence, encouraging settlement and upholding fairness."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.7",
+        "title": "Civil pre-trial procedures",
+        "front": "Explain the purposes of pleadings and of discovery in a civil proceeding.",
+        "back": [
+          "Pleadings inform each party of the claims and defences made against them, so that each knows the case to be met.",
+          "They also define the issues in dispute, which confines the evidence and argument at trial and assists the court.",
+          "Discovery requires each party to disclose the documents in their possession relevant to the issues in dispute.",
+          "This ensures both parties can prepare with knowledge of the relevant evidence, encouraging settlement and upholding fairness."
+        ]
+      }
     },
     {
       "id": "3.2.8",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Class actions",
       "detail": "The requirements for a group proceeding, the role of the lead plaintiff and group members, litigation funding, and the advantages and disadvantages for access to justice.",
       "questions": [
@@ -505,11 +785,22 @@
             "A weakness is that litigation funders may take a substantial share of any award, so group members receive less, and members other than the lead plaintiff have little control over the conduct of the case."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.8",
+        "title": "Class actions",
+        "front": "Explain what a class action is and evaluate it with one strength and one weakness.",
+        "back": [
+          "A class action is a proceeding in which one person, the lead plaintiff, brings a claim on behalf of a group of seven or more people with claims arising out of similar circumstances against the same defendant.",
+          "A strength is access to justice: individuals with claims too small to litigate alone can obtain a remedy, and costs are shared across the group.",
+          "It is also efficient, since one proceeding determines common questions instead of many separate cases.",
+          "A weakness is that litigation funders may take a substantial share of any award, so group members receive less, and members other than the lead plaintiff have little control over the conduct of the case."
+        ]
+      }
     },
     {
       "id": "3.2.9",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Judicial powers of case management",
       "detail": "The court's powers to order mediation, limit examination of witnesses, set timelines and give directions, and the purpose of these powers.",
       "questions": [
@@ -522,11 +813,21 @@
             "These powers reduce delay and cost, which upholds access, and prevent a well-resourced party from using procedure to wear down an opponent, which upholds fairness."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.9",
+        "title": "Judicial powers of case management",
+        "front": "Describe two judicial powers of case management and explain how they support the principles of justice.",
+        "back": [
+          "The court may give directions about the timetable for the proceeding, including deadlines for filing documents and completing discovery.",
+          "The court may also order the parties to attend mediation, or limit the time for examination of witnesses and the number of witnesses called.",
+          "These powers reduce delay and cost, which upholds access, and prevent a well-resourced party from using procedure to wear down an opponent, which upholds fairness."
+        ]
+      }
     },
     {
       "id": "3.2.10",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Damages",
       "detail": "Compensatory damages including specific, general and aggravated damages; nominal, contemptuous and exemplary damages; and the purpose of each.",
       "questions": [
@@ -540,11 +841,22 @@
             "Specific and general damages aim to restore the plaintiff to their original position, while exemplary damages aim to punish and deter."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.10",
+        "title": "Damages",
+        "front": "Distinguish between specific, general and exemplary damages and state the purpose of each.",
+        "back": [
+          "Specific damages compensate for losses that can be precisely calculated, such as medical bills and lost wages already incurred.",
+          "General damages compensate for losses that cannot be precisely calculated, such as pain and suffering and future loss of earning capacity.",
+          "Exemplary damages are not compensatory; they are awarded to punish the defendant for conduct that was malicious or in reckless disregard of the plaintiff's rights.",
+          "Specific and general damages aim to restore the plaintiff to their original position, while exemplary damages aim to punish and deter."
+        ]
+      }
     },
     {
       "id": "3.2.11",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Injunctions",
       "detail": "Restrictive and mandatory injunctions, interlocutory and final injunctions, and the circumstances in which each is an appropriate remedy.",
       "questions": [
@@ -557,11 +869,21 @@
             "Both aim to prevent or rectify harm rather than to compensate for it, and may be granted on an interlocutory basis before trial where urgent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.11",
+        "title": "Injunctions",
+        "front": "Distinguish between a restrictive and a mandatory injunction and give an example of each.",
+        "back": [
+          "A restrictive injunction orders a person to stop doing something, for example to stop publishing defamatory material.",
+          "A mandatory injunction orders a person to do a particular act, for example to remove a fence built on a neighbour's land.",
+          "Both aim to prevent or rectify harm rather than to compensate for it, and may be granted on an interlocutory basis before trial where urgent."
+        ]
+      }
     },
     {
       "id": "3.2.12",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Factors affecting the achievement of justice in civil cases",
       "detail": "Costs, time and accessibility as barriers to a civil claim, and the measures used to reduce their impact.",
       "questions": [
@@ -575,11 +897,22 @@
             "Judicial case management powers and compulsory mediation reduce delay by resolving matters before trial."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.12",
+        "title": "Factors affecting the achievement of justice in civil cases",
+        "front": "Explain how costs and delays can prevent the civil justice system from achieving the principles of justice, and name one measure that addresses each.",
+        "back": [
+          "Costs: legal fees and the risk of an adverse costs order deter meritorious claims, so a plaintiff may abandon a valid claim, undermining access.",
+          "Contingency and no win no fee arrangements, class actions and VCAT's low fees partially address the cost barrier.",
+          "Time: court backlogs can delay a hearing for years, during which evidence deteriorates and the plaintiff remains without a remedy, undermining fairness.",
+          "Judicial case management powers and compulsory mediation reduce delay by resolving matters before trial."
+        ]
+      }
     },
     {
       "id": "3.2.13",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Roles in a civil trial",
       "detail": "The roles of the judge, jury where one is used, the parties and legal practitioners in a civil proceeding, and the differences from a criminal trial.",
       "questions": [
@@ -593,11 +926,22 @@
             "A civil jury is optional and must be requested and paid for by a party, whereas a criminal jury is required for a trial of an indictable offence where the accused pleads not guilty."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.13",
+        "title": "Roles in a civil trial",
+        "front": "Compare the role of a jury in a civil trial with its role in a criminal trial.",
+        "back": [
+          "A civil jury has six members, whereas a criminal jury has 12.",
+          "A civil jury decides liability on the balance of probabilities and may also determine the amount of damages, except in defamation where the judge assesses damages.",
+          "A criminal jury decides guilt beyond reasonable doubt and has no role in determining the sanction.",
+          "A civil jury is optional and must be requested and paid for by a party, whereas a criminal jury is required for a trial of an indictable offence where the accused pleads not guilty."
+        ]
+      }
     },
     {
       "id": "3.2.14",
-      "area": "Unit 3 AoS 2 — The Victorian civil justice system",
+      "area": "Unit 3: Rights and justice — AoS 2: The Victorian civil justice system",
       "title": "Legal representation and costs in civil disputes",
       "detail": "The role of legal practitioners, the operation of costs orders, and the effect of the cost of representation on access to the civil justice system.",
       "questions": [
@@ -611,11 +955,22 @@
             "The rule does serve a purpose by discouraging unmeritorious claims and encouraging realistic settlement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:3.2.14",
+        "title": "Legal representation and costs in civil disputes",
+        "front": "Explain how an adverse costs order affects a person's decision to pursue a civil claim.",
+        "back": [
+          "An adverse costs order requires the unsuccessful party to pay a proportion of the successful party's legal costs in addition to their own.",
+          "This substantially increases the financial risk of losing, which may exceed the value of the claim itself.",
+          "A plaintiff with a genuine but uncertain claim may abandon it rather than risk that exposure, which undermines access to justice.",
+          "The rule does serve a purpose by discouraging unmeritorious claims and encouraging realistic settlement."
+        ]
+      }
     },
     {
       "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "The structure of parliament",
       "detail": "The roles of the Crown, the House of Representatives and the Senate at Commonwealth level, and the Legislative Assembly and Legislative Council in Victoria.",
       "questions": [
@@ -629,11 +984,22 @@
             "The Governor-General also has reserve powers and performs the formal act of withholding assent, although this is very rare in practice."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.1",
+        "title": "The structure of parliament",
+        "front": "Explain the roles of the Senate and of the Crown in the Commonwealth law-making process.",
+        "back": [
+          "The Senate is the house of review, examining bills passed by the House of Representatives and acting as a states' house with equal representation for each state.",
+          "It can amend or reject most bills, providing a check on the government of the day.",
+          "The Crown, represented by the Governor-General, grants royal assent, which is required before a bill becomes an Act of Parliament.",
+          "The Governor-General also has reserve powers and performs the formal act of withholding assent, although this is very rare in practice."
+        ]
+      }
     },
     {
       "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Division of law-making powers",
       "detail": "Exclusive, concurrent and residual powers, the sections of the Constitution that create them and examples of each.",
       "questions": [
@@ -647,11 +1013,22 @@
             "Residual powers are protected by sections 106, 107 and 108 of the Constitution."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.2",
+        "title": "Division of law-making powers",
+        "front": "Define exclusive, concurrent and residual powers and give an example of each.",
+        "back": [
+          "Exclusive powers can be exercised only by the Commonwealth Parliament, such as the power to coin money under section 115 and defence in certain respects.",
+          "Concurrent powers can be exercised by both the Commonwealth and the states, such as taxation and marriage under section 51.",
+          "Residual powers were not given to the Commonwealth and remain with the states, such as criminal law, education and public transport.",
+          "Residual powers are protected by sections 106, 107 and 108 of the Constitution."
+        ]
+      }
     },
     {
       "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Section 109 and inconsistency",
       "detail": "The operation of section 109 where a state law is inconsistent with a Commonwealth law, the requirement that the inconsistency be raised in court, and the effect on the state law.",
       "questions": [
@@ -665,11 +1042,22 @@
             "It also applies only to concurrent powers, since the states cannot legislate on exclusive powers at all."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.3",
+        "title": "Section 109 and inconsistency",
+        "front": "Explain the operation of section 109 and one limitation on its significance as a restriction on state law-making power.",
+        "back": [
+          "Section 109 provides that where a state law is inconsistent with a Commonwealth law, the Commonwealth law prevails and the state law is invalid to the extent of the inconsistency.",
+          "The state law is not repealed; it remains on the statute book and becomes operative again if the Commonwealth law is repealed.",
+          "A limitation is that section 109 only operates once a party brings the inconsistency before a court, which requires someone with standing, the resources and the willingness to litigate.",
+          "It also applies only to concurrent powers, since the states cannot legislate on exclusive powers at all."
+        ]
+      }
     },
     {
       "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "The bicameral structure as a check",
       "detail": "How a second house scrutinises and can reject legislation, and the effect of a hostile Senate or a government with a majority in both houses.",
       "questions": [
@@ -683,11 +1071,22 @@
             "The check is weakened where the government holds a majority in both houses, as the upper house may become a rubber stamp."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.4",
+        "title": "The bicameral structure as a check",
+        "front": "Explain how the bicameral structure acts as a check on parliament in law-making, and one factor that weakens it.",
+        "back": [
+          "A bill must pass both houses in identical form before receiving royal assent, so the second house scrutinises legislation passed by the first.",
+          "The upper house can amend or reject a bill, and its committees can examine bills in detail and take evidence.",
+          "This prevents a government from passing legislation without scrutiny and provides an opportunity for minor parties to secure amendments.",
+          "The check is weakened where the government holds a majority in both houses, as the upper house may become a rubber stamp."
+        ]
+      }
     },
     {
       "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "The separation of powers",
       "detail": "The legislative, executive and judicial powers, their separation in the Constitution, and the practical overlap between the legislature and the executive.",
       "questions": [
@@ -701,11 +1100,22 @@
             "Judicial power remains genuinely separate, since judges are appointed rather than elected and have security of tenure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.5",
+        "title": "The separation of powers",
+        "front": "Explain the separation of powers and identify where it is not maintained in practice.",
+        "back": [
+          "Legislative power is the power to make law, held by parliament; executive power is the power to administer and enforce law; judicial power is the power to apply and interpret law and settle disputes.",
+          "The separation ensures no single body holds absolute power, and the independence of the judiciary means courts can declare government action invalid.",
+          "In practice the legislative and executive powers overlap, because ministers who exercise executive power are also members of parliament.",
+          "Judicial power remains genuinely separate, since judges are appointed rather than elected and have security of tenure."
+        ]
+      }
     },
     {
       "id": "4.1.6",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Express protection of rights",
       "detail": "The five express rights in the Constitution and their significance as a restriction on Commonwealth or state law-making power.",
       "questions": [
@@ -719,11 +1129,22 @@
             "Their significance is limited because they are few in number, some restrict only the Commonwealth, and they must be enforced by a person bringing a case in the High Court."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.6",
+        "title": "Express protection of rights",
+        "front": "Name three express rights protected by the Australian Constitution and explain the significance of express rights generally.",
+        "back": [
+          "Section 80 provides for trial by jury for indictable Commonwealth offences; section 116 provides freedom of religion from Commonwealth interference.",
+          "Section 117 prohibits discrimination on the basis of a person's state of residence; section 92 provides for freedom of interstate trade and commerce; and section 51(xxxi) requires that property be acquired on just terms.",
+          "Express rights are entrenched, so they can only be changed by a successful referendum under section 128, not by ordinary legislation.",
+          "Their significance is limited because they are few in number, some restrict only the Commonwealth, and they must be enforced by a person bringing a case in the High Court."
+        ]
+      }
     },
     {
       "id": "4.1.7",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "The role of the High Court in constitutional interpretation",
       "detail": "The High Court's role in interpreting the words of the Constitution, resolving disputes about law-making power, and the requirement for standing.",
       "questions": [
@@ -737,11 +1158,22 @@
             "The court is also confined to the words before it and cannot rewrite the Constitution, and a decision may be reversed by a successful referendum."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.7",
+        "title": "The role of the High Court in constitutional interpretation",
+        "front": "Explain the role of the High Court in interpreting the Constitution and two limitations on that role.",
+        "back": [
+          "The High Court has jurisdiction to interpret the words of the Constitution and to determine whether the Commonwealth or a state has acted beyond its law-making power.",
+          "Its interpretation can shift the division of powers over time without any change to the words of the Constitution.",
+          "A limitation is that the court cannot initiate a review; it must wait for a party with standing to bring a case, which requires time and resources.",
+          "The court is also confined to the words before it and cannot rewrite the Constitution, and a decision may be reversed by a successful referendum."
+        ]
+      }
     },
     {
       "id": "4.1.8",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Significance of High Court cases",
       "detail": "How decisions have altered the balance of law-making power between the Commonwealth and the states, and the ongoing effects of those shifts.",
       "questions": [
@@ -755,11 +1187,22 @@
             "When answering, name the relevant case and state the power interpreted, the outcome and the ongoing effect on the balance of power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.8",
+        "title": "Significance of High Court cases",
+        "front": "Explain how a High Court decision can shift the division of law-making powers without any change to the words of the Constitution.",
+        "back": [
+          "The High Court interprets the meaning of the words used in a head of power, such as the external affairs or corporations power.",
+          "A broad interpretation expands the range of subject matter the Commonwealth can legislate on, even though the text is unchanged.",
+          "Because Commonwealth law prevails under section 109 where powers overlap, an expanded head of power reduces the practical scope of state legislation.",
+          "When answering, name the relevant case and state the power interpreted, the outcome and the ongoing effect on the balance of power."
+        ]
+      }
     },
     {
       "id": "4.1.9",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Section 128 and the referendum process",
       "detail": "The steps required to alter the Constitution, the double majority requirement, and the reasons most referendums have failed.",
       "questions": [
@@ -773,11 +1216,22 @@
             "Voters also tend to vote no where a proposal is complex or poorly explained, and smaller states may resist proposals seen as increasing Commonwealth power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.9",
+        "title": "Section 128 and the referendum process",
+        "front": "Describe the referendum process under section 128 and explain two reasons most referendums have failed.",
+        "back": [
+          "A bill to alter the Constitution must be passed by an absolute majority of both houses of parliament, then put to electors between two and six months later.",
+          "It must achieve a double majority: a majority of voters nationally and a majority of voters in a majority of the states, that is at least four of six.",
+          "Bipartisan support is usually essential, and proposals opposed by the opposition are almost always defeated.",
+          "Voters also tend to vote no where a proposal is complex or poorly explained, and smaller states may resist proposals seen as increasing Commonwealth power."
+        ]
+      }
     },
     {
       "id": "4.1.10",
-      "area": "Unit 4 AoS 1 — The people and the Australian Constitution",
+      "area": "Unit 4: The people, the law and reform — AoS 1: The people and the law-makers",
       "title": "Factors affecting the ability of parliament to make law",
       "detail": "The roles of the houses, the representative nature of parliament, political pressures and restrictions arising from international obligations.",
       "questions": [
@@ -791,11 +1245,22 @@
             "Pressure from interest groups, party discipline and the need to retain marginal seats can all prevent a government from legislating on a contentious issue."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.1.10",
+        "title": "Factors affecting the ability of parliament to make law",
+        "front": "Explain how the representative nature of parliament both assists and restricts its ability to make law.",
+        "back": [
+          "Parliament is elected by the people, so members have an incentive to make laws that reflect the views and values of the community.",
+          "This assists law-making by providing a mandate for reform that has popular support.",
+          "It also restricts law-making, because members may avoid necessary but unpopular reform, particularly close to an election.",
+          "Pressure from interest groups, party discipline and the need to retain marginal seats can all prevent a government from legislating on a contentious issue."
+        ]
+      }
     },
     {
       "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Reasons for law reform",
       "detail": "Changes in beliefs, values and attitudes, changes in living conditions, advances in technology and the need for greater protection of the community.",
       "questions": [
@@ -808,11 +1273,21 @@
             "Greater protection of the community is also a reason, where evidence shows existing laws are failing to prevent harm."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.1",
+        "title": "Reasons for law reform",
+        "front": "Explain two reasons why the law may need to be reformed, giving an example of each.",
+        "back": [
+          "Advances in technology create conduct the existing law did not contemplate, such as the need for laws on image-based abuse or artificial intelligence.",
+          "Changes in community values mean a law that once reflected community standards no longer does, prompting reform of offences or the recognition of new relationships.",
+          "Greater protection of the community is also a reason, where evidence shows existing laws are failing to prevent harm."
+        ]
+      }
     },
     {
       "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Individuals, petitions and demonstrations",
       "detail": "How individuals influence law reform through petitions and demonstrations, and the factors that affect the success of each.",
       "questions": [
@@ -826,11 +1301,22 @@
             "It also depends on media coverage and whether the issue aligns with government priorities, since parliament is not obliged to act on a petition."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.2",
+        "title": "Individuals, petitions and demonstrations",
+        "front": "Explain how a petition can influence law reform and two factors that affect its effectiveness.",
+        "back": [
+          "A petition is a formal written request to parliament to take action on a particular issue, signed by members of the public and presented by a member of parliament.",
+          "It brings the issue directly to parliament's attention and demonstrates the level of community support.",
+          "Effectiveness depends on the number of signatures, since a large number signals that many voters care about the issue.",
+          "It also depends on media coverage and whether the issue aligns with government priorities, since parliament is not obliged to act on a petition."
+        ]
+      }
     },
     {
       "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "The media and law reform",
       "detail": "The role of traditional and social media in raising awareness, shaping opinion and pressuring parliament, and the limitations including bias and misinformation.",
       "questions": [
@@ -844,11 +1330,22 @@
             "Algorithms may also create echo chambers, meaning apparent support is not representative of the wider community."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.3",
+        "title": "The media and law reform",
+        "front": "Evaluate the role of social media as a means of influencing law reform.",
+        "back": [
+          "Social media allows an issue to reach a very large audience quickly and at almost no cost, and enables ordinary people to organise campaigns.",
+          "It can generate rapid, visible pressure on parliament, particularly where a campaign attracts mainstream media coverage.",
+          "A limitation is that content is not subject to editorial standards, so misinformation can spread and distort public understanding of the law.",
+          "Algorithms may also create echo chambers, meaning apparent support is not representative of the wider community."
+        ]
+      }
     },
     {
       "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "The Victorian Law Reform Commission",
       "detail": "The role of the VLRC in researching and recommending reform, the sources of its references, its processes of consultation and the limitations on its influence.",
       "questions": [
@@ -862,11 +1359,22 @@
             "A weakness is that parliament is not obliged to implement its recommendations, and reports may be ignored or only partly adopted, particularly where the reform is politically unattractive."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.4",
+        "title": "The Victorian Law Reform Commission",
+        "front": "Explain the role of the Victorian Law Reform Commission and evaluate its effectiveness with one strength and one weakness.",
+        "back": [
+          "The VLRC is an independent body that examines, reports and makes recommendations to parliament on possible law reform in Victoria.",
+          "It receives references from the Attorney-General and may also undertake minor community law reform projects on its own initiative.",
+          "A strength is that it conducts extensive research and consultation, so its recommendations are evidence based and reflect community views.",
+          "A weakness is that parliament is not obliged to implement its recommendations, and reports may be ignored or only partly adopted, particularly where the reform is politically unattractive."
+        ]
+      }
     },
     {
       "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Parliamentary committees",
       "detail": "The role of committees in investigating issues, taking evidence and reporting to parliament with recommendations for reform.",
       "questions": [
@@ -879,11 +1387,21 @@
             "This makes it more likely that recommendations will be taken up, although parliament is still not obliged to act on them."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.5",
+        "title": "Parliamentary committees",
+        "front": "Explain the role of a parliamentary committee in law reform and one advantage it has over other reform bodies.",
+        "back": [
+          "A parliamentary committee investigates a specific issue referred to it, takes evidence from experts and the public and reports to parliament with recommendations.",
+          "An advantage is that the committee is made up of members of parliament from different parties, so its recommendations already have some political support.",
+          "This makes it more likely that recommendations will be taken up, although parliament is still not obliged to act on them."
+        ]
+      }
     },
     {
       "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Royal commissions",
       "detail": "The establishment, powers and independence of a royal commission, the scope of its terms of reference, and the influence of its recommendations.",
       "questions": [
@@ -897,11 +1415,22 @@
             "A limitation is that it is established by the government, which sets the terms of reference and is not obliged to implement the recommendations."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.6",
+        "title": "Royal commissions",
+        "front": "Explain the powers of a royal commission and one limitation on its ability to bring about law reform.",
+        "back": [
+          "A royal commission is established by the executive to investigate a matter of public importance, with terms of reference setting the scope of the inquiry.",
+          "It has coercive powers, including the power to compel witnesses to attend and give evidence and to require the production of documents.",
+          "Its independence and public hearings give its findings substantial authority and media attention, increasing pressure for reform.",
+          "A limitation is that it is established by the government, which sets the terms of reference and is not obliged to implement the recommendations."
+        ]
+      }
     },
     {
       "id": "4.2.7",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "The ability of courts to influence law reform",
       "detail": "How courts change the law through statutory interpretation and the development of common law, and the significance of a court's decision as a catalyst for legislative change.",
       "questions": [
@@ -915,11 +1444,22 @@
             "Judges may expressly comment that reform is a matter for parliament, which can prompt legislative action."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.7",
+        "title": "The ability of courts to influence law reform",
+        "front": "Explain two ways courts influence law reform.",
+        "back": [
+          "Courts develop the common law by deciding cases where no statute applies, creating precedents that bind lower courts in the same hierarchy.",
+          "Courts interpret the words of statutes, and that interpretation becomes part of the law applied in later cases.",
+          "A court decision can also act as a catalyst, drawing public and parliamentary attention to a defect in the law that parliament then addresses by legislation.",
+          "Judges may expressly comment that reform is a matter for parliament, which can prompt legislative action."
+        ]
+      }
     },
     {
       "id": "4.2.8",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Factors that limit the courts' ability to reform law",
       "detail": "The need for a case to come before the court, the requirement for standing, judicial conservatism, costs and time, and the supremacy of parliament.",
       "questions": [
@@ -933,11 +1473,22 @@
             "Parliament remains supreme and can abrogate a common law principle by passing legislation, except where the Constitution restricts it."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.8",
+        "title": "Factors that limit the courts' ability to reform law",
+        "front": "Explain three factors that restrict the ability of courts to change the law.",
+        "back": [
+          "Courts can only change the law when a relevant case is brought before them, and they cannot initiate reform of their own motion.",
+          "A party must have standing, meaning they are directly affected by the matter, and must have the resources and willingness to litigate.",
+          "Judicial conservatism means judges are often reluctant to make significant changes, regarding major reform as a matter for the elected parliament.",
+          "Parliament remains supreme and can abrogate a common law principle by passing legislation, except where the Constitution restricts it."
+        ]
+      }
     },
     {
       "id": "4.2.9",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Judicial conservatism and judicial activism",
       "detail": "The two approaches to the judicial role, their effects on the development of the law, and the arguments for and against each.",
       "questions": [
@@ -951,11 +1502,22 @@
             "An advantage of activism is that courts can protect rights and correct injustice where parliament has failed to act."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.9",
+        "title": "Judicial conservatism and judicial activism",
+        "front": "Distinguish between judicial conservatism and judicial activism, and state one advantage of each approach.",
+        "back": [
+          "Judicial conservatism is the approach of showing restraint and leaving major changes in the law to parliament, deciding cases narrowly on established principle.",
+          "Judicial activism is a willingness to consider a broader range of social and political factors and to make more significant changes to the law.",
+          "An advantage of conservatism is stability and predictability in the law, and respect for the elected parliament's role in making policy.",
+          "An advantage of activism is that courts can protect rights and correct injustice where parliament has failed to act."
+        ]
+      }
     },
     {
       "id": "4.2.10",
-      "area": "Unit 4 AoS 2 — The people and law reform",
+      "area": "Unit 4: The people, the law and reform — AoS 2: The people and reform",
       "title": "Statutory interpretation",
       "detail": "Why courts must interpret statutes, the reasons interpretation is required, and the effects of an interpretation on the meaning and future application of the Act.",
       "questions": [
@@ -969,7 +1531,18 @@
             "The interpretation forms part of the law and binds courts lower in the hierarchy in later cases, effectively narrowing or broadening the operation of the Act."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:4.2.10",
+        "title": "Statutory interpretation",
+        "front": "Explain two reasons a court may need to interpret a statute and the effects of that interpretation.",
+        "back": [
+          "The words of an Act may be ambiguous or a term may have more than one ordinary meaning, so the court must determine which applies.",
+          "The Act may have been drafted before a change in technology or circumstances that parliament did not contemplate.",
+          "The court's interpretation determines the meaning of the words and is applied to the facts of the case to resolve the dispute.",
+          "The interpretation forms part of the law and binds courts lower in the hierarchy in later cases, effectively narrowing or broadening the operation of the Act."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -986,7 +1559,17 @@
             "It must also reach a concluding judgement that follows from the points made, since an answer without a conclusion is incomplete."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:X1",
+        "title": "Command terms in Legal Studies",
+        "front": "Explain what an 'evaluate' question requires and what a response must include to earn full marks.",
+        "back": [
+          "Evaluate requires weighing strengths against weaknesses, or advantages against disadvantages, of the thing being assessed.",
+          "The response must include both sides, developed with explanation rather than listed.",
+          "It must also reach a concluding judgement that follows from the points made, since an answer without a conclusion is incomplete."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -1003,7 +1586,17 @@
             "A sanction is imposed in a criminal case to punish, while a remedy is awarded in a civil case to restore the plaintiff."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:X2",
+        "title": "Using legal terminology and current law",
+        "front": "Explain why accurate terminology matters in Legal Studies responses and give two commonly confused pairs.",
+        "back": [
+          "Accurate terminology shows the examiner that the concept is understood, and a wrong term can make an otherwise correct answer wrong.",
+          "The accused is the party in a criminal case, while the defendant is the party in a civil case; they are not interchangeable.",
+          "A sanction is imposed in a criminal case to punish, while a remedy is awarded in a civil case to restore the plaintiff."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -1020,7 +1613,17 @@
             "Marks are usually lost because students state correct law without linking it to the facts, which shows knowledge but not the ability to apply it."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "legal-studies-34:X3",
+        "title": "Applying law to scenario questions",
+        "front": "Outline a reliable structure for answering a scenario question and explain why application is where marks are usually lost.",
+        "back": [
+          "Identify the legal issue raised by the scenario and name the relevant rule, institution or principle.",
+          "Apply the rule to the specific facts given, referring to the names and details in the scenario rather than speaking generally.",
+          "Marks are usually lost because students state correct law without linking it to the facts, which shows knowledge but not the ability to apply it."
+        ]
+      }
     }
   ]
 }

@@ -4,25 +4,19 @@
   "areas": [
     "Historical concepts and skills",
     "Evidence, sources and archaeology",
-    "Ancient Egypt",
-    "Ancient Greece",
-    "Ancient Rome",
-    "Power, authority and legitimacy",
-    "Conflict, crisis and collapse",
+    "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
+    "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
     "Exam technique"
   ],
   "short": {
     "Historical concepts and skills": "Concepts and skills",
     "Evidence, sources and archaeology": "Evidence",
-    "Ancient Egypt": "Egypt",
-    "Ancient Greece": "Greece",
-    "Ancient Rome": "Rome",
-    "Power, authority and legitimacy": "Power",
-    "Conflict, crisis and collapse": "Conflict",
+    "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society": "U1 Living in an ancient societ",
+    "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis": "U2 People in power, societies ",
     "Exam technique": "Exam technique"
   },
-  "source": "Adapted revision checklist based on VCAA's VCE Ancient History Study Design, Units 3 and 4. Schools study particular societies, so use the skills and thematic areas plus the society areas that apply to you. Areas here are topic groupings rather than official area of study titles, and checklist numbers are internal tracker IDs.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/ancient-history",
+  "source": "Adapted revision checklist based on VCAA's VCE Ancient History Study Design, Units 3 and 4. Schools study particular societies, so use the checkpoints that apply to your selected societies. Unit and Area of Study labels follow the current study design; checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/history-ancient/ancient-history",
   "sourceLabel": "VCAA Ancient History study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Dates, names and interpretations should be checked against your set sources and class materials, since ancient chronology is often disputed.",
   "theme": {
@@ -47,7 +41,18 @@
             "Every inference must be tied to specific detail in the source, and should be qualified where the evidence supports more than one reading."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C1",
+        "title": "Evidence and inference",
+        "front": "Explain the difference between describing a source and drawing an inference from it, using an example.",
+        "back": [
+          "Describing a source states what it physically contains, such as the figures depicted on a relief or the words of an inscription.",
+          "An inference is a conclusion the historian reaches from that content, which the source does not state directly.",
+          "For example, a temple relief showing a pharaoh striking foreign enemies describes an image; inferring that the pharaoh wished to project military dominance is an interpretation.",
+          "Every inference must be tied to specific detail in the source, and should be qualified where the evidence supports more than one reading."
+        ]
+      }
     },
     {
       "id": "C2",
@@ -65,7 +70,18 @@
             "It also guards against assuming that a change recorded in elite sources reached the majority of the population."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C2",
+        "title": "Continuity and change",
+        "front": "Explain why historians examine continuity as well as change in the ancient world.",
+        "back": [
+          "Ancient societies often changed slowly, so a focus only on dramatic events conceals the structures that persisted for centuries.",
+          "Religious practice, agricultural methods, family structures and social hierarchy frequently continued across changes of ruler or even of regime.",
+          "Identifying continuity allows a precise judgement about what a particular event actually altered.",
+          "It also guards against assuming that a change recorded in elite sources reached the majority of the population."
+        ]
+      }
     },
     {
       "id": "C3",
@@ -83,7 +99,18 @@
             "Argue explicitly for which cause was most significant and why, since a list without ranking is description rather than analysis."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C3",
+        "title": "Cause and consequence",
+        "front": "Explain how to weigh multiple causes of an ancient event rather than simply listing them.",
+        "back": [
+          "Separate long-term structural conditions from the immediate trigger that converted those conditions into an event.",
+          "Assess each cause for its necessity, asking whether the event could have occurred without it.",
+          "Assess each for its sufficiency, asking whether it alone could have produced the outcome.",
+          "Argue explicitly for which cause was most significant and why, since a list without ranking is description rather than analysis."
+        ]
+      }
     },
     {
       "id": "C4",
@@ -101,7 +128,18 @@
             "Relevance: whether the event shaped later developments or still shapes understanding today; significance is also contested, since different groups judge the same event differently."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C4",
+        "title": "Historical significance",
+        "front": "Explain the criteria historians use to judge the significance of an ancient event.",
+        "back": [
+          "Scale: how many people were affected by the event at the time.",
+          "Depth: how deeply their lives were altered rather than merely disturbed.",
+          "Durability: how long the effects lasted after the event itself.",
+          "Relevance: whether the event shaped later developments or still shapes understanding today; significance is also contested, since different groups judge the same event differently."
+        ]
+      }
     },
     {
       "id": "C5",
@@ -118,7 +156,17 @@
             "Scientific methods such as radiocarbon dating and dendrochronology give ranges rather than single years, so scholars maintain competing high and low chronologies."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C5",
+        "title": "Chronology and dating conventions",
+        "front": "Explain why many ancient dates are given as approximate or disputed ranges.",
+        "back": [
+          "Ancient societies dated events by regnal years, eponymous officials or local eras rather than a continuous shared calendar.",
+          "Converting these to a modern calendar requires king lists and synchronisms that are themselves incomplete or contradictory.",
+          "Scientific methods such as radiocarbon dating and dendrochronology give ranges rather than single years, so scholars maintain competing high and low chronologies."
+        ]
+      }
     },
     {
       "id": "C6",
@@ -136,7 +184,18 @@
             "Interpretations must therefore be evaluated as arguments, with attention to the evidence used and the assumptions behind them."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:C6",
+        "title": "Historiography and changing interpretations",
+        "front": "Explain two reasons interpretations of the ancient world change over time.",
+        "back": [
+          "New evidence emerges through excavation, the decipherment of texts and scientific analysis, which can overturn conclusions drawn from earlier material.",
+          "New methods, including archaeology of ordinary settlements, isotope analysis and gender history, ask questions earlier scholars did not ask.",
+          "Historians are shaped by the concerns of their own time, so nineteenth-century scholars emphasised different questions from those asked today.",
+          "Interpretations must therefore be evaluated as arguments, with attention to the evidence used and the assumptions behind them."
+        ]
+      }
     },
     {
       "id": "E1",
@@ -154,7 +213,18 @@
             "Used together, archaeology can test the claims of written sources, for example by showing whether a destruction described in a text is visible in the ground."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E1",
+        "title": "Written and archaeological sources",
+        "front": "Explain how written and archaeological evidence complement each other in studying an ancient society.",
+        "back": [
+          "Written sources record intentions, beliefs, laws and named individuals, which material remains alone cannot reveal.",
+          "Written sources are overwhelmingly produced by and about elites, so they describe a narrow section of society.",
+          "Archaeology reveals the material conditions of ordinary life, including diet, housing, health and trade, and covers people who left no texts.",
+          "Used together, archaeology can test the claims of written sources, for example by showing whether a destruction described in a text is visible in the ground."
+        ]
+      }
     },
     {
       "id": "E2",
@@ -172,7 +242,18 @@
             "The historian must therefore match the question to the source, asking what the source is reliable evidence of rather than whether it is reliable in general."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E2",
+        "title": "Origin, purpose, audience and perspective",
+        "front": "Explain how the purpose of a source affects what a historian can conclude from it.",
+        "back": [
+          "A source created to commemorate a ruler's achievements will exaggerate success and omit or reframe failure.",
+          "A source created for administration, such as a tax list or ration record, has no motive to impress and is generally more reliable for the figures it records.",
+          "Purpose does not make a source useless, since a propagandistic monument is excellent evidence for how a ruler wished to be seen.",
+          "The historian must therefore match the question to the source, asking what the source is reliable evidence of rather than whether it is reliable in general."
+        ]
+      }
     },
     {
       "id": "E3",
@@ -190,7 +271,18 @@
             "The historian states what the source is evidence of, rather than dismissing it because it is partisan."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E3",
+        "title": "Reliability and usefulness",
+        "front": "Explain why an unreliable source can still be highly useful, using an ancient example.",
+        "back": [
+          "Reliability concerns whether a source accurately reports what happened; usefulness concerns what it can tell a historian.",
+          "A ruler's building inscription claiming an overwhelming victory may misrepresent the battle's outcome.",
+          "It remains useful evidence for royal ideology, the language of legitimacy and the audience the ruler wished to impress.",
+          "The historian states what the source is evidence of, rather than dismissing it because it is partisan."
+        ]
+      }
     },
     {
       "id": "E4",
@@ -208,7 +300,18 @@
             "Where the conflict cannot be resolved, state the disagreement and explain which account is better supported rather than silently choosing one."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E4",
+        "title": "Corroboration and conflicting evidence",
+        "front": "Explain what a historian should do when two ancient sources give conflicting accounts of the same event.",
+        "back": [
+          "Examine the origin and purpose of each, since a difference in perspective often explains the difference in account.",
+          "Consider how close each author was to the event in time and place, and what sources they themselves relied on.",
+          "Look for independent corroboration, particularly archaeological evidence that neither author could have shaped.",
+          "Where the conflict cannot be resolved, state the disagreement and explain which account is better supported rather than silently choosing one."
+        ]
+      }
     },
     {
       "id": "E5",
@@ -226,7 +329,18 @@
             "An object removed by looting arrives with no layer and no associations, so it becomes an isolated artefact that can be described but barely used as historical evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E5",
+        "title": "Archaeological method and context",
+        "front": "Explain the principle of stratigraphy and why an object removed without recorded context loses most of its value.",
+        "back": [
+          "Stratigraphy is the principle that layers of deposit accumulate over time, so lower layers are generally earlier than those above them.",
+          "The layer in which an object is found therefore dates it relative to everything else on the site.",
+          "Context also records what the object was found with, which reveals its use, its owner and the activity that produced the deposit.",
+          "An object removed by looting arrives with no layer and no associations, so it becomes an isolated artefact that can be described but barely used as historical evidence."
+        ]
+      }
     },
     {
       "id": "E6",
@@ -244,7 +358,18 @@
             "These methods extend evidence to ordinary people and to questions written sources cannot answer, though each produces ranges and probabilities rather than certainties."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E6",
+        "title": "Scientific techniques",
+        "front": "Explain how two scientific techniques have changed what historians can learn about ancient populations.",
+        "back": [
+          "Isotope analysis of teeth and bone reveals where an individual grew up and what they ate, providing evidence of migration and diet for people who left no written record.",
+          "Ancient DNA reveals population movement, kinship and disease, testing longstanding claims about invasion and settlement.",
+          "Remote sensing, including LiDAR and geophysical survey, reveals buried structures across whole landscapes without excavation.",
+          "These methods extend evidence to ordinary people and to questions written sources cannot answer, though each produces ranges and probabilities rather than certainties."
+        ]
+      }
     },
     {
       "id": "E7",
@@ -262,11 +387,22 @@
             "Historians address this through settlement archaeology, scientific analysis of human remains and careful reading of administrative documents, while stating plainly where evidence is absent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:E7",
+        "title": "Gaps, bias and silence in the record",
+        "front": "Explain three reasons the surviving evidence over-represents some groups and what historians do about it.",
+        "back": [
+          "Literacy was confined to a small elite, so most written sources record elite concerns and perspectives.",
+          "Durable materials such as stone and fired clay survive while wood, textile and papyrus mostly perish, biasing the record towards monumental construction.",
+          "Excavation historically concentrated on temples, palaces and tombs rather than ordinary housing, compounding the bias.",
+          "Historians address this through settlement archaeology, scientific analysis of human remains and careful reading of administrative documents, while stating plainly where evidence is absent."
+        ]
+      }
     },
     {
       "id": "EG1",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Geography and the Nile",
       "detail": "The annual inundation, the division between Upper and Lower Egypt, the contrast between the black land and the red land, and the dependence of the state on agricultural surplus.",
       "questions": [
@@ -280,11 +416,22 @@
             "Because the state organised measurement, taxation and storage of the harvest, control of agricultural surplus was the foundation of royal power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG1",
+        "title": "Geography and the Nile",
+        "front": "Explain how the Nile shaped Egyptian society and the power of the state.",
+        "back": [
+          "The annual inundation deposited fertile silt, producing reliable agricultural surpluses in an otherwise desert environment.",
+          "Surplus supported a large non-farming population of officials, priests, soldiers and craftworkers, which made a centralised state possible.",
+          "The river was the principal transport route, allowing the state to move grain, stone and troops and so to administer a long, narrow territory.",
+          "Because the state organised measurement, taxation and storage of the harvest, control of agricultural surplus was the foundation of royal power."
+        ]
+      }
     },
     {
       "id": "EG2",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Kingship and royal ideology",
       "detail": "The pharaoh as intermediary between gods and people, the doctrine of maat, royal titulary, and the visual conventions of royal representation.",
       "questions": [
@@ -298,11 +445,22 @@
             "Royal art accordingly depicts the king defeating foreign enemies and wild animals, presenting rule as the containment of chaos."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG2",
+        "title": "Kingship and royal ideology",
+        "front": "Explain the concept of maat and its role in justifying royal authority.",
+        "back": [
+          "Maat was the principle of order, truth, justice and cosmic balance, opposed to isfet or chaos.",
+          "The pharaoh's central duty was to uphold maat, maintaining the order of the cosmos as well as of the state.",
+          "This made obedience to the king a religious obligation rather than merely a political one, since disorder threatened the cosmos itself.",
+          "Royal art accordingly depicts the king defeating foreign enemies and wild animals, presenting rule as the containment of chaos."
+        ]
+      }
     },
     {
       "id": "EG3",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Administration and society",
       "detail": "The vizier, scribes and provincial governors, the taxation of grain and labour, and the structure of Egyptian society.",
       "questions": [
@@ -316,11 +474,22 @@
             "Because administration ran on written record, scribes were essential to the state's ability to extract and redistribute surplus."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG3",
+        "title": "Administration and society",
+        "front": "Describe the structure of Egyptian administration and the role of scribes within it.",
+        "back": [
+          "Authority descended from the pharaoh through the vizier, who supervised the administration, to provincial and district officials.",
+          "Scribes recorded harvests, taxation, land holdings, labour obligations and legal matters, and staffed every level of the bureaucracy.",
+          "Literacy was rare, so scribal training conferred status and was one of the few routes to advancement outside inherited position.",
+          "Because administration ran on written record, scribes were essential to the state's ability to extract and redistribute surplus."
+        ]
+      }
     },
     {
       "id": "EG4",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Religion, temples and the afterlife",
       "detail": "The major deities, temple economies, mortuary belief and practice, mummification and tomb decoration as historical evidence.",
       "questions": [
@@ -334,11 +503,22 @@
             "The limitation is that tombs present an idealised afterlife for wealthy owners, so they show how elites wished to be remembered rather than ordinary lived experience."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG4",
+        "title": "Religion, temples and the afterlife",
+        "front": "Explain why tombs are such an important source for Egyptian history, and one limitation of relying on them.",
+        "back": [
+          "Tombs were built of durable stone in dry desert conditions, so they survive far better than settlements built of mudbrick on the floodplain.",
+          "Tomb decoration depicts agriculture, crafts, feasting and family, providing detailed evidence of daily activity.",
+          "Grave goods preserve objects, textiles and foodstuffs that would otherwise have decayed entirely.",
+          "The limitation is that tombs present an idealised afterlife for wealthy owners, so they show how elites wished to be remembered rather than ordinary lived experience."
+        ]
+      }
     },
     {
       "id": "EG5",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Hatshepsut",
       "detail": "Her accession as regent and then king, the representation of her rule, the Deir el-Bahri temple and the Punt expedition, and the later erasure of her monuments.",
       "questions": [
@@ -352,11 +532,22 @@
             "Earlier historians read this as personal revenge, while many now argue it occurred decades later and served to secure the succession by removing an irregular reign from the record."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG5",
+        "title": "Hatshepsut",
+        "front": "Explain how Hatshepsut legitimised her rule and how historians interpret the later erasure of her monuments.",
+        "back": [
+          "She adopted full royal titulary and was depicted with the conventional attributes of kingship, including the false beard and male dress, presenting herself within the established image of a pharaoh.",
+          "Her mortuary temple at Deir el-Bahri advertised divine birth and divine selection, and recorded the expedition to Punt as evidence of successful rule.",
+          "Her monuments were later defaced and her name removed from king lists, largely during the reign of Thutmose III.",
+          "Earlier historians read this as personal revenge, while many now argue it occurred decades later and served to secure the succession by removing an irregular reign from the record."
+        ]
+      }
     },
     {
       "id": "EG6",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Akhenaten and the Amarna period",
       "detail": "The elevation of the Aten, the move to a new capital, changes in art and temple architecture, and the restoration that followed his reign.",
       "questions": [
@@ -370,11 +561,22 @@
             "It also disrupted the religious practice of ordinary people and the funerary beliefs on which their expectations of the afterlife depended, and the changes were reversed after his death."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG6",
+        "title": "Akhenaten and the Amarna period",
+        "front": "Describe the religious changes of Akhenaten's reign and explain why they provoked opposition.",
+        "back": [
+          "Akhenaten elevated the Aten, the sun disc, above other gods, and worship was directed through the king rather than through the traditional priesthoods.",
+          "He founded a new capital at Akhetaten and closed or defunded major temples, particularly those of Amun at Thebes.",
+          "This removed the wealth, land and influence of an entrenched priesthood, creating powerful institutional opposition.",
+          "It also disrupted the religious practice of ordinary people and the funerary beliefs on which their expectations of the afterlife depended, and the changes were reversed after his death."
+        ]
+      }
     },
     {
       "id": "EG7",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Ramesses II and royal self-presentation",
       "detail": "Military campaigning and the Battle of Kadesh, the treaty with the Hittites, monumental building, and the gap between royal claims and evidence.",
       "questions": [
@@ -388,11 +590,22 @@
             "Historians therefore read the Egyptian account as evidence for royal ideology and propaganda rather than as a reliable narrative of the battle."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG7",
+        "title": "Ramesses II and royal self-presentation",
+        "front": "Explain what the Egyptian records of the Battle of Kadesh reveal, and why historians do not accept them at face value.",
+        "back": [
+          "Egyptian reliefs and poems present Kadesh as a personal triumph in which the king, abandoned by his troops, defeated the Hittite army almost alone.",
+          "The account served to demonstrate the king's valour and his upholding of maat against foreign chaos.",
+          "The subsequent treaty with the Hittites, preserved in both Egyptian and Hittite versions, indicates a negotiated settlement rather than a decisive Egyptian victory.",
+          "Historians therefore read the Egyptian account as evidence for royal ideology and propaganda rather than as a reliable narrative of the battle."
+        ]
+      }
     },
     {
       "id": "EG8",
-      "area": "Ancient Egypt",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Women, family and daily life",
       "detail": "Legal status and property rights of Egyptian women, marriage, household economy, and the evidence from settlements such as Deir el-Medina.",
       "questions": [
@@ -406,11 +619,22 @@
             "The limitation is that these were skilled state-employed artisans, so the settlement is not representative of the farming majority."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:EG8",
+        "title": "Women, family and daily life",
+        "front": "Explain what the evidence from a workers' settlement such as Deir el-Medina adds to our understanding of Egyptian society.",
+        "back": [
+          "It preserves ostraca and papyri recording wages, rations, disputes, absences from work and personal letters.",
+          "This provides evidence of literacy, legal processes and family life below the highest elite, which monumental sources do not supply.",
+          "Records of work stoppages over delayed rations show that ordinary workers could act collectively against the state.",
+          "The limitation is that these were skilled state-employed artisans, so the settlement is not representative of the farming majority."
+        ]
+      }
     },
     {
       "id": "GR1",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The polis",
       "detail": "The independent city-state as the basic political unit, citizenship and its exclusions, and the variety of constitutions across the Greek world.",
       "questions": [
@@ -424,11 +648,22 @@
             "Constitutions varied widely, from the democracy of Athens to the mixed and militarised system of Sparta, so no single model describes the Greek world."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR1",
+        "title": "The polis",
+        "front": "Explain what a polis was and who was excluded from citizenship.",
+        "back": [
+          "A polis was an independent city-state comprising an urban centre and its surrounding territory, with its own laws, cults and government.",
+          "Citizenship was restricted to free adult males of citizen descent, who alone held political rights.",
+          "Women, enslaved people, resident foreigners and children were excluded from political participation, so citizens were a minority of the population.",
+          "Constitutions varied widely, from the democracy of Athens to the mixed and militarised system of Sparta, so no single model describes the Greek world."
+        ]
+      }
     },
     {
       "id": "GR2",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Athenian democracy",
       "detail": "The Assembly, the Council of 500, the law courts, selection by lot, ostracism, and the debate over how democratic the system was.",
       "questions": [
@@ -442,11 +677,22 @@
             "This prevented wealth and reputation from monopolising office, though the key military generalships remained elective, so influence still accrued to the prominent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR2",
+        "title": "Athenian democracy",
+        "front": "Describe the main institutions of Athenian democracy and explain the significance of selection by lot.",
+        "back": [
+          "The Assembly was open to all citizens and decided policy, laws, war and treaties by direct vote.",
+          "The Council of 500 prepared business for the Assembly, and the popular courts, staffed by large citizen juries, tried cases and scrutinised officials.",
+          "Most offices were filled by lot rather than election, on the principle that any citizen was capable of holding office.",
+          "This prevented wealth and reputation from monopolising office, though the key military generalships remained elective, so influence still accrued to the prominent."
+        ]
+      }
     },
     {
       "id": "GR3",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Sparta",
       "detail": "The dual kingship, gerousia, ephors, the agoge, the helot population, and the relationship between military organisation and social structure.",
       "questions": [
@@ -460,11 +706,22 @@
             "It also made Sparta reluctant to commit forces far from home for long periods, which constrained its foreign policy throughout its history."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR3",
+        "title": "Sparta",
+        "front": "Explain how the helot system shaped Spartan society and its foreign policy.",
+        "back": [
+          "Helots were a subjugated population who farmed the land, supplying the food that freed Spartiates from agricultural labour.",
+          "This allowed full-time military training through the agoge and produced the distinctive Spartan citizen soldier.",
+          "Because helots vastly outnumbered Spartiates, the fear of revolt required constant internal repression and surveillance.",
+          "It also made Sparta reluctant to commit forces far from home for long periods, which constrained its foreign policy throughout its history."
+        ]
+      }
     },
     {
       "id": "GR4",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Persian Wars",
       "detail": "The Ionian revolt, Marathon, Thermopylae, Salamis and Plataea, and the use of the wars in later Greek self-definition.",
       "questions": [
@@ -478,11 +735,22 @@
             "That league was progressively converted into an Athenian empire, which funded the building programme and generated the tensions leading to war with Sparta."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR4",
+        "title": "The Persian Wars",
+        "front": "Explain the consequences of the Persian Wars for Athens.",
+        "back": [
+          "Athens gained enormous prestige from its role at Marathon and Salamis, presenting itself as the saviour of Greece.",
+          "The reliance on the fleet raised the standing of the poorer citizens who rowed the ships, strengthening the democratic elements of the constitution.",
+          "Athens led the Delian League, formed to continue the war, which supplied tribute and a permanent naval force.",
+          "That league was progressively converted into an Athenian empire, which funded the building programme and generated the tensions leading to war with Sparta."
+        ]
+      }
     },
     {
       "id": "GR5",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Delian League and Athenian empire",
       "detail": "The transformation of a voluntary alliance into an empire, the transfer of the treasury, tribute lists and the treatment of rebellious allies.",
       "questions": [
@@ -496,11 +764,22 @@
             "Inscribed tribute lists record the assessment and collection of payment, showing an obligation enforced from Athens rather than a voluntary contribution."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR5",
+        "title": "The Delian League and Athenian empire",
+        "front": "Explain the evidence that the Delian League became an Athenian empire.",
+        "back": [
+          "The treasury was moved from Delos to Athens, and surplus tribute funded Athenian building projects rather than the common defence.",
+          "Allies who attempted to leave, such as Naxos and Thasos, were besieged and forced back into the league with their fleets removed.",
+          "Athens imposed its own coinage, weights and measures and required certain legal cases to be heard in Athenian courts.",
+          "Inscribed tribute lists record the assessment and collection of payment, showing an obligation enforced from Athens rather than a voluntary contribution."
+        ]
+      }
     },
     {
       "id": "GR6",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Peloponnesian War",
       "detail": "The causes of the conflict, the strategies of Athens and Sparta, the plague, the Sicilian expedition and the eventual Athenian defeat.",
       "questions": [
@@ -514,11 +793,22 @@
             "Historians nonetheless question his claim of inevitability, noting his Athenian perspective, his composed speeches and his relative neglect of Spartan internal politics."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR6",
+        "title": "The Peloponnesian War",
+        "front": "Explain Thucydides' analysis of the causes of the Peloponnesian War and how historians assess it.",
+        "back": [
+          "Thucydides distinguishes the publicly stated grievances, such as disputes over Corcyra and Potidaea, from what he calls the truest cause.",
+          "He identifies that truest cause as the growth of Athenian power and the fear it inspired in Sparta, making war inevitable.",
+          "His distinction between immediate grievances and underlying structural cause remains influential in historical method.",
+          "Historians nonetheless question his claim of inevitability, noting his Athenian perspective, his composed speeches and his relative neglect of Spartan internal politics."
+        ]
+      }
     },
     {
       "id": "GR7",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Greek religion and festivals",
       "detail": "Civic cult, sacrifice, oracles and panhellenic festivals, and the inseparability of religion from political life.",
       "questions": [
@@ -532,11 +822,22 @@
             "Oracles such as Delphi were consulted before colonisation and war, so religion was embedded in state decision making."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR7",
+        "title": "Greek religion and festivals",
+        "front": "Explain why Greek religion is described as civic rather than personal, and give an example.",
+        "back": [
+          "Religious practice was organised by the community, with priesthoods held as public offices and sacrifices funded from public resources.",
+          "Festivals such as the Panathenaia were state occasions that displayed the community's identity and wealth as much as its piety.",
+          "Participation in cult was a mark of citizenship and belonging, so refusing to participate was a political as well as a religious act.",
+          "Oracles such as Delphi were consulted before colonisation and war, so religion was embedded in state decision making."
+        ]
+      }
     },
     {
       "id": "GR8",
-      "area": "Ancient Greece",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Alexander the Great",
       "detail": "The conquest of the Persian empire, the adoption of Persian practices, the foundation of cities and the disputed assessment of his aims and legacy.",
       "questions": [
@@ -550,11 +851,22 @@
             "Alexander may have intended to rule a unified empire on terms his new subjects recognised, but to his own army it appeared as a betrayal of Macedonian custom."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:GR8",
+        "title": "Alexander the Great",
+        "front": "Explain why Alexander's adoption of Persian court practices provoked opposition among the Macedonians.",
+        "back": [
+          "Alexander adopted Persian dress, appointed Persians to office and required forms of obeisance associated with Persian kingship.",
+          "Macedonian kingship rested on the king being first among companions, so these practices implied a subordination Macedonians did not accept.",
+          "Veterans also resented the incorporation of Persian troops, which reduced their own standing and share of the spoils.",
+          "Alexander may have intended to rule a unified empire on terms his new subjects recognised, but to his own army it appeared as a betrayal of Macedonian custom."
+        ]
+      }
     },
     {
       "id": "RO1",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Republican constitution",
       "detail": "Consuls, the Senate, popular assemblies, tribunes of the plebs, the cursus honorum, and the balance between magistrates and Senate.",
       "questions": [
@@ -568,11 +880,22 @@
             "Tribunes of the plebs were sacrosanct, could propose legislation and could veto the acts of magistrates and the Senate, giving the plebeians a check on patrician power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO1",
+        "title": "The Republican constitution",
+        "front": "Describe the main elements of the Roman Republican constitution and the role of the tribunes of the plebs.",
+        "back": [
+          "Two consuls held supreme civil and military authority for a single year, each able to veto the other.",
+          "The Senate, composed of former magistrates, held no formal legislative power but directed policy, finance and foreign affairs through its authority and permanence.",
+          "Popular assemblies elected magistrates, passed laws and declared war, voting in blocks rather than as individuals.",
+          "Tribunes of the plebs were sacrosanct, could propose legislation and could veto the acts of magistrates and the Senate, giving the plebeians a check on patrician power."
+        ]
+      }
     },
     {
       "id": "RO2",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Roman society and the patron-client system",
       "detail": "Patricians and plebeians, equestrians, freedmen and enslaved people, the familia, and the obligations of patronage.",
       "questions": [
@@ -586,11 +909,22 @@
             "The system bound Roman society vertically across classes, which helps explain why class conflict rarely took the form of organised mass movements."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO2",
+        "title": "Roman society and the patron-client system",
+        "front": "Explain the patron-client relationship and its political significance.",
+        "back": [
+          "A patron provided legal representation, financial assistance and protection to clients of lower status.",
+          "Clients returned deference and public support, attending the patron's morning reception and accompanying him in public.",
+          "Because voting was public and organised in blocks, a large body of clients translated directly into political influence.",
+          "The system bound Roman society vertically across classes, which helps explain why class conflict rarely took the form of organised mass movements."
+        ]
+      }
     },
     {
       "id": "RO3",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Expansion and the Punic Wars",
       "detail": "The conflict with Carthage, the acquisition of overseas provinces, the wealth and enslaved labour that flowed to Italy, and the strain on small farmers.",
       "questions": [
@@ -604,11 +938,22 @@
             "Provincial wealth also enlarged the fortunes of the senatorial elite, sharpening competition for office and the rewards of command."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO3",
+        "title": "Expansion and the Punic Wars",
+        "front": "Explain how Roman expansion created the social problems of the late Republic.",
+        "back": [
+          "Long campaigns kept small farmers away from their land for years, so farms fell into debt and were sold.",
+          "Wealthy families bought the land and worked it with enslaved labour captured in the same wars, forming large estates.",
+          "Dispossessed farmers moved to Rome, creating an urban poor without property, while the property qualification for military service shrank the recruitment pool.",
+          "Provincial wealth also enlarged the fortunes of the senatorial elite, sharpening competition for office and the rewards of command."
+        ]
+      }
     },
     {
       "id": "RO4",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Gracchi",
       "detail": "Tiberius and Gaius Gracchus, land reform and the grain law, the use of the tribunate, and the turn to political violence.",
       "questions": [
@@ -622,11 +967,22 @@
             "The episode also created the enduring division between optimates, who worked through the Senate, and populares, who appealed directly to the people."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO4",
+        "title": "The Gracchi",
+        "front": "Explain the significance of the Gracchi for the Roman Republic.",
+        "back": [
+          "Tiberius Gracchus proposed redistributing public land to landless citizens, addressing both rural poverty and the shrinking pool of eligible soldiers.",
+          "He bypassed the Senate by taking the measure directly to the popular assembly and deposed an obstructing colleague, which opponents regarded as a constitutional outrage.",
+          "His death in political violence, and later that of his brother Gaius, established the precedent that domestic political disputes could be settled by killing.",
+          "The episode also created the enduring division between optimates, who worked through the Senate, and populares, who appealed directly to the people."
+        ]
+      }
     },
     {
       "id": "RO5",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Marius and Sulla",
       "detail": "The recruitment of the landless into the legions, the relationship between commander and soldiers, Sulla's marches on Rome, the proscriptions and the dictatorship.",
       "questions": [
@@ -640,11 +996,22 @@
             "Once armies would follow a general against the state, the Senate lost its ultimate control over the men who held military power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO5",
+        "title": "Marius and Sulla",
+        "front": "Explain how changes in army recruitment contributed to the breakdown of the Republic.",
+        "back": [
+          "Recruiting soldiers without property meant they had no farm to return to and depended on their commander for land on discharge.",
+          "Soldiers therefore owed their future to their general rather than to the Senate or the state.",
+          "Commanders could use that loyalty for political purposes, and Sulla demonstrated it by marching his army on Rome itself.",
+          "Once armies would follow a general against the state, the Senate lost its ultimate control over the men who held military power."
+        ]
+      }
     },
     {
       "id": "RO6",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Julius Caesar",
       "detail": "The first triumvirate, the Gallic campaigns, the civil war with Pompey, the dictatorship, the reforms and the assassination.",
       "questions": [
@@ -658,11 +1025,22 @@
             "Historians debate whether Caesar intended monarchy or was accumulating powers pragmatically, since his assassination prevented any settled constitutional arrangement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO6",
+        "title": "Julius Caesar",
+        "front": "Explain why Caesar was assassinated, distinguishing the conspirators' stated motives from other explanations.",
+        "back": [
+          "The conspirators claimed to be defending the Republic against a man accumulating permanent and monarchical power.",
+          "Caesar had been made dictator for life, held extensive control over appointments and received honours associated with kingship, which Romans regarded with deep hostility.",
+          "Personal motives also operated, including resentment at owing position to Caesar's favour and the loss of the competitive politics through which the elite advanced.",
+          "Historians debate whether Caesar intended monarchy or was accumulating powers pragmatically, since his assassination prevented any settled constitutional arrangement."
+        ]
+      }
     },
     {
       "id": "RO7",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "Augustus and the principate",
       "detail": "The settlement of 27 BCE, the accumulation of powers, the language of restoration, the Res Gestae and the creation of a monarchy in republican dress.",
       "questions": [
@@ -676,11 +1054,22 @@
             "Because he controlled the armies, the treasury and access to advancement, real power was his, which is why historians describe the principate as monarchy in republican dress."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO7",
+        "title": "Augustus and the principate",
+        "front": "Explain how Augustus held supreme power while claiming to have restored the Republic.",
+        "back": [
+          "He formally surrendered his extraordinary powers to the Senate and people, and was in return granted authority that he presented as conventional.",
+          "He held tribunician power, giving him the veto and the right to propose legislation, and a superior form of proconsular command over the provinces containing most of the legions.",
+          "Republican offices, elections and the Senate continued to function, so the outward forms of the Republic were preserved.",
+          "Because he controlled the armies, the treasury and access to advancement, real power was his, which is why historians describe the principate as monarchy in republican dress."
+        ]
+      }
     },
     {
       "id": "RO8",
-      "area": "Ancient Rome",
+      "area": "Units 3 and 4: Ancient History — AoS 1: Living in an ancient society",
       "title": "The Res Gestae as a source",
       "detail": "Augustus' own account of his achievements, its selective presentation and its value as evidence for imperial self-representation.",
       "questions": [
@@ -694,11 +1083,22 @@
             "It is excellent evidence for how Augustus wished his rule to be understood, and for the language of legitimacy that the principate required."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:RO8",
+        "title": "The Res Gestae as a source",
+        "front": "Explain what the Res Gestae is and how a historian should use it.",
+        "back": [
+          "The Res Gestae is Augustus' own record of his achievements, inscribed and displayed publicly after his death.",
+          "It emphasises honours freely granted, offices refused, benefactions to the people and the restoration of the Republic.",
+          "It omits the proscriptions, the defeat of rivals in civil war and the coercive basis of his position, so it is not a reliable narrative.",
+          "It is excellent evidence for how Augustus wished his rule to be understood, and for the language of legitimacy that the principate required."
+        ]
+      }
     },
     {
       "id": "P1",
-      "area": "Power, authority and legitimacy",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Sources of authority in the ancient world",
       "detail": "Divine sanction, military success, birth and inheritance, wealth, law and popular consent as bases for the exercise of power.",
       "questions": [
@@ -712,11 +1112,22 @@
             "Military legitimacy is immediate but fragile, since it must be renewed by further victory and collapses after significant defeat."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:P1",
+        "title": "Sources of authority in the ancient world",
+        "front": "Compare two different bases on which ancient rulers claimed the right to rule.",
+        "back": [
+          "Divine sanction presented the ruler as chosen or descended from the gods, making obedience a religious duty and opposition sacrilege.",
+          "Military success demonstrated the ruler's capacity to protect and enrich the community, and provided the spoils to reward followers.",
+          "Divine claims are durable but require religious institutions to sustain them, which gives priesthoods leverage over the ruler.",
+          "Military legitimacy is immediate but fragile, since it must be renewed by further victory and collapses after significant defeat."
+        ]
+      }
     },
     {
       "id": "P2",
-      "area": "Power, authority and legitimacy",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Propaganda and public display",
       "detail": "Monuments, coinage, inscriptions, processions and art as instruments for communicating power to a largely illiterate population.",
       "questions": [
@@ -730,11 +1141,22 @@
             "Coins are therefore valuable evidence for what rulers wished to emphasise at particular moments, and their find sites reveal how far that message travelled."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:P2",
+        "title": "Propaganda and public display",
+        "front": "Explain how coinage functioned as a means of communicating royal or imperial power.",
+        "back": [
+          "Coins circulated widely and reached people who would never see a monument or read an inscription.",
+          "They carried a portrait and a short legend, associating the ruler with divine favour, military victory or prosperity.",
+          "Because the state issued them, the message could be changed quickly to advertise a new victory, title or successor.",
+          "Coins are therefore valuable evidence for what rulers wished to emphasise at particular moments, and their find sites reveal how far that message travelled."
+        ]
+      }
     },
     {
       "id": "P3",
-      "area": "Power, authority and legitimacy",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Elites, institutions and the limits of power",
       "detail": "The dependence of rulers on priesthoods, bureaucracies, armies and local elites, and the practical constraints on personal rule.",
       "questions": [
@@ -748,11 +1170,22 @@
             "Rulers who alienated these groups, as Akhenaten did the Amun priesthood, found their measures reversed or their authority undermined."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:P3",
+        "title": "Elites, institutions and the limits of power",
+        "front": "Explain why even an apparently absolute ancient ruler depended on others, and what this meant in practice.",
+        "back": [
+          "Communication and travel were slow, so a ruler could not personally supervise a large territory and relied on local officials and elites.",
+          "Tax collection, law enforcement and military recruitment all depended on cooperation from those officials.",
+          "Religious legitimacy depended on priesthoods that controlled cult, land and the interpretation of divine will.",
+          "Rulers who alienated these groups, as Akhenaten did the Amun priesthood, found their measures reversed or their authority undermined."
+        ]
+      }
     },
     {
       "id": "P4",
-      "area": "Power, authority and legitimacy",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Women and power",
       "detail": "Formal exclusion from office alongside real influence through dynastic position, property, religious office and household authority.",
       "questions": [
@@ -766,11 +1199,22 @@
             "Evidence is limited because sources were written by elite men, so women's influence is usually visible only where it entered elite politics or was criticised."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:P4",
+        "title": "Women and power",
+        "front": "Explain how women exercised influence in ancient societies despite exclusion from formal office, and the limits of the evidence.",
+        "back": [
+          "Dynastic position gave royal women influence as mothers, wives and regents, and occasionally as rulers in their own right, as with Hatshepsut.",
+          "Religious office, such as priestesses of major cults, conferred public standing and control of temple resources.",
+          "Property rights varied, and in Egypt women could own, inherit and dispose of property, giving economic independence rare elsewhere.",
+          "Evidence is limited because sources were written by elite men, so women's influence is usually visible only where it entered elite politics or was criticised."
+        ]
+      }
     },
     {
       "id": "X1",
-      "area": "Conflict, crisis and collapse",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Causes of ancient warfare",
       "detail": "Competition for land, resources and trade routes, dynastic claims, religious justification and the internal political uses of war.",
       "questions": [
@@ -784,11 +1228,22 @@
             "Stated causes were framed to justify the war to gods, allies and citizens, so historians distinguish the publicly declared grievance from the material and political interests behind it."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:X1",
+        "title": "Causes of ancient warfare",
+        "front": "Explain three causes of warfare in the ancient world and why stated causes often differ from underlying ones.",
+        "back": [
+          "Competition for agricultural land, water, metals and control of trade routes provided material motives for conflict.",
+          "Dynastic claims and the obligations of alliances provided legal or customary justifications for intervention.",
+          "Internal politics motivated war, since victory brought a ruler prestige, spoils to distribute and a distraction from domestic problems.",
+          "Stated causes were framed to justify the war to gods, allies and citizens, so historians distinguish the publicly declared grievance from the material and political interests behind it."
+        ]
+      }
     },
     {
       "id": "X2",
-      "area": "Conflict, crisis and collapse",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Warfare and society",
       "detail": "Citizen militias, professional armies, the hoplite phalanx and the legion, the role of the fleet, and the social consequences of military service.",
       "questions": [
@@ -802,11 +1257,22 @@
             "Rome's shift to landless professional soldiers transferred loyalty from the state to individual commanders, contributing to the Republic's collapse."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:X2",
+        "title": "Warfare and society",
+        "front": "Explain how the way a society organised its army affected its political structure, using two examples.",
+        "back": [
+          "The hoplite phalanx required numerous citizens able to afford their own armour, and their military importance supported claims to political rights.",
+          "Athenian naval power depended on poorer citizens serving as rowers, which strengthened the democratic elements of the constitution.",
+          "Sparta's dependence on full-time citizen soldiers required a subjugated helot population to farm the land, shaping its entire social order.",
+          "Rome's shift to landless professional soldiers transferred loyalty from the state to individual commanders, contributing to the Republic's collapse."
+        ]
+      }
     },
     {
       "id": "X3",
-      "area": "Conflict, crisis and collapse",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Internal crisis and civil conflict",
       "detail": "Factional struggle, debt and land hunger, succession disputes and the breakdown of the conventions that restrained political competition.",
       "questions": [
@@ -820,11 +1286,22 @@
             "The formal constitution was largely unchanged, so the collapse came from the erosion of the conventions that had made it work."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:X3",
+        "title": "Internal crisis and civil conflict",
+        "front": "Explain how the breakdown of political conventions contributes to civil conflict, using a Roman example.",
+        "back": [
+          "Republican politics depended on unwritten conventions limiting how far competition could be pushed, including respect for colleagues' vetoes and term limits.",
+          "The killing of Tiberius Gracchus broke the convention that domestic disputes were settled without bloodshed.",
+          "Once violence succeeded, each side had reason to use it first, and later figures escalated to using armies against the city.",
+          "The formal constitution was largely unchanged, so the collapse came from the erosion of the conventions that had made it work."
+        ]
+      }
     },
     {
       "id": "X4",
-      "area": "Conflict, crisis and collapse",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Explaining collapse",
       "detail": "Environmental stress, disease, invasion, overextension, economic failure and internal division, and the preference for multi-causal explanations.",
       "questions": [
@@ -838,11 +1315,22 @@
             "Evidence also accumulates from several fields, since climate data, archaeology and texts each capture different aspects of the process."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:X4",
+        "title": "Explaining collapse",
+        "front": "Explain why historians generally prefer multi-causal explanations for the collapse of ancient states.",
+        "back": [
+          "Single-cause explanations such as invasion or moral decline rarely account for why a state survived similar pressures earlier.",
+          "Collapse typically follows several stresses occurring together, such as drought reducing surplus while war raises costs and disease reduces the workforce.",
+          "Structures that absorbed one stress fail when several coincide, so the interaction rather than any single factor produces collapse.",
+          "Evidence also accumulates from several fields, since climate data, archaeology and texts each capture different aspects of the process."
+        ]
+      }
     },
     {
       "id": "X5",
-      "area": "Conflict, crisis and collapse",
+      "area": "Units 3 and 4: Ancient History — AoS 2: People in power, societies in crisis",
       "title": "Continuity after collapse",
       "detail": "The persistence of language, religion, law, settlement and technology after a political order ends, and the reassessment of terms such as dark age.",
       "questions": [
@@ -856,7 +1344,18 @@
             "Historians now describe such periods as transformations, specifying what actually ended and what continued rather than assuming universal decline."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:X5",
+        "title": "Continuity after collapse",
+        "front": "Explain why historians now question describing the period after a political collapse as a dark age.",
+        "back": [
+          "The term originally reflected the disappearance of written records and monumental building, which historians took as evidence of general decline.",
+          "Archaeology has since shown continued settlement, agriculture, craft production and trade in many such periods.",
+          "The loss of elite record-keeping tells us about the fate of elites and states rather than about the whole population.",
+          "Historians now describe such periods as transformations, specifying what actually ended and what continued rather than assuming universal decline."
+        ]
+      }
     },
     {
       "id": "T1",
@@ -874,7 +1373,18 @@
             "Comment on the source's origin and purpose, since a monument, an administrative record and a literary text each reveal different things."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:T1",
+        "title": "Answering source-based questions",
+        "front": "Explain how to structure a response to a question asking what a source reveals about an ancient society.",
+        "back": [
+          "Refer to specific detail within the source rather than describing it in general terms.",
+          "State what that detail indicates about the society, distinguishing what the source shows from what you infer.",
+          "Use your own knowledge to supply context and to corroborate or challenge the source.",
+          "Comment on the source's origin and purpose, since a monument, an administrative record and a literary text each reveal different things."
+        ]
+      }
     },
     {
       "id": "T2",
@@ -891,7 +1401,17 @@
             "General statements about what ancient people believed or did, without a named source, demonstrate no knowledge of the evidence and earn little credit."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:T2",
+        "title": "Using evidence precisely",
+        "front": "Explain what distinguishes precise historical evidence from general assertion.",
+        "back": [
+          "Precise evidence names the specific source, site, individual or inscription and, where possible, the approximate date.",
+          "It supports the exact claim being made rather than being included simply because it is known.",
+          "General statements about what ancient people believed or did, without a named source, demonstrate no knowledge of the evidence and earn little credit."
+        ]
+      }
     },
     {
       "id": "T3",
@@ -909,7 +1429,18 @@
             "Examiners reward analysis and judgement, so the structure must make the argument visible rather than leaving it to be inferred."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:T3",
+        "title": "Essay structure and argument",
+        "front": "Explain why an Ancient History essay should be organised by argument rather than by chronology.",
+        "back": [
+          "A chronological structure produces narrative, retelling events rather than answering the question asked.",
+          "Organising by argument means each paragraph advances a distinct reason supporting the contention, with evidence chosen to prove it.",
+          "Chronology can operate within a paragraph where sequence is part of the argument, such as showing escalation.",
+          "Examiners reward analysis and judgement, so the structure must make the argument visible rather than leaving it to be inferred."
+        ]
+      }
     },
     {
       "id": "T4",
@@ -927,7 +1458,18 @@
             "Acknowledging uncertainty accurately is rewarded, whereas asserting a confident narrative the evidence cannot support is penalised."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "ancient-history-34:T4",
+        "title": "Handling disputed evidence in an answer",
+        "front": "Explain how to write about an event where the evidence is limited or the scholarship is divided.",
+        "back": [
+          "State plainly what the evidence does and does not establish, rather than presenting a contested claim as settled fact.",
+          "Set out the competing interpretations and the evidence each rests on.",
+          "Argue for the interpretation better supported by the evidence, giving the reason rather than simply preferring one.",
+          "Acknowledging uncertainty accurately is rewarded, whereas asserting a confident narrative the evidence cannot support is penalised."
+        ]
+      }
     }
   ]
 }

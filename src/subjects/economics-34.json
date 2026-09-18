@@ -2,23 +2,23 @@
   "id": "economics-34",
   "name": "Economics",
   "areas": [
-    "Unit 3 AoS 1 — Markets, efficiency and market failure",
-    "Unit 3 AoS 2 — Domestic macroeconomic goals",
-    "Unit 3 AoS 3 — Australia and the international economy",
-    "Unit 4 AoS 1 — Aggregate demand policies",
-    "Unit 4 AoS 2 — Aggregate supply policies",
+    "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
+    "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
+    "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
+    "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
+    "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
     "Exam technique and data analysis"
   ],
   "short": {
-    "Unit 3 AoS 1 — Markets, efficiency and market failure": "U3 Markets",
-    "Unit 3 AoS 2 — Domestic macroeconomic goals": "U3 Goals",
-    "Unit 3 AoS 3 — Australia and the international economy": "U3 International",
-    "Unit 4 AoS 1 — Aggregate demand policies": "U4 Demand policies",
-    "Unit 4 AoS 2 — Aggregate supply policies": "U4 Supply policies",
+    "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention": "U1 An introduction to microeco",
+    "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals": "U2 Domestic macroeconomic goal",
+    "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy": "U3 Australia and the internati",
+    "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability": "U1 Aggregate demand policies a",
+    "Unit 4: Managing the economy — AoS 2: Aggregate supply policies": "U2 Aggregate supply policies",
     "Exam technique and data analysis": "Exam technique"
   },
   "source": "Adapted revision checklist based on VCAA's VCE Economics Study Design, Units 3 and 4. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering. Target ranges and policy settings change, so check current figures against RBA and Treasury sources.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/economics",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/economics/vce-economics",
   "sourceLabel": "VCAA Economics study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Statistics and policy settings quoted are indicative only; use current RBA, ABS and Budget data in your own answers.",
   "theme": {
@@ -29,7 +29,7 @@
   "points": [
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Relative scarcity and opportunity cost",
       "detail": "Unlimited wants against limited resources, the basic economic questions, and opportunity cost as the value of the next best alternative forgone.",
       "questions": [
@@ -42,11 +42,21 @@
             "Opportunity cost is the value of the next best alternative forgone when that choice is made, so every economic decision carries one."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.1",
+        "title": "Relative scarcity and opportunity cost",
+        "front": "Define relative scarcity and explain how it gives rise to opportunity cost.",
+        "back": [
+          "Relative scarcity is the economic problem that society's wants are unlimited while the resources available to satisfy them are limited.",
+          "Because resources are limited, choosing to use them one way means they cannot be used another way.",
+          "Opportunity cost is the value of the next best alternative forgone when that choice is made, so every economic decision carries one."
+        ]
+      }
     },
     {
       "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "The production possibility frontier",
       "detail": "Points on, inside and outside the frontier; the meaning of a shift in the curve; and the illustration of opportunity cost and unemployed resources.",
       "questions": [
@@ -59,11 +69,21 @@
             "This is caused by an increase in the quantity or quality of resources, such as population growth, investment in capital, or improvements in technology and productivity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.2",
+        "title": "The production possibility frontier",
+        "front": "Explain what a point inside the production possibility frontier indicates and what would cause the whole frontier to shift outwards.",
+        "back": [
+          "A point inside the frontier indicates that resources are not being fully or efficiently employed, so more of both goods could be produced.",
+          "An outward shift indicates an increase in the productive capacity of the economy.",
+          "This is caused by an increase in the quantity or quality of resources, such as population growth, investment in capital, or improvements in technology and productivity."
+        ]
+      }
     },
     {
       "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Demand and the factors affecting it",
       "detail": "The law of demand, movement along the curve versus a shift of the curve, and the non-price factors that shift demand.",
       "questions": [
@@ -77,11 +97,22 @@
             "Changes in tastes and preferences, population, and interest rates on credit also shift the curve."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.3",
+        "title": "Demand and the factors affecting it",
+        "front": "Distinguish between a movement along and a shift of the demand curve, and name three factors that cause a shift.",
+        "back": [
+          "A movement along the demand curve is caused only by a change in the price of the good itself, and is called a change in quantity demanded.",
+          "A shift of the curve is caused by a non-price factor and is called a change in demand.",
+          "Factors causing a shift include changes in disposable income, the prices of substitutes and complements, and consumer confidence.",
+          "Changes in tastes and preferences, population, and interest rates on credit also shift the curve."
+        ]
+      }
     },
     {
       "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Supply and the factors affecting it",
       "detail": "The law of supply, the distinction between movement and shift, and the non-price factors including costs of production, technology, climate and government policy.",
       "questions": [
@@ -94,11 +125,21 @@
             "The new equilibrium occurs at a higher price and a lower quantity traded."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.4",
+        "title": "Supply and the factors affecting it",
+        "front": "Explain the effect on the supply curve of an increase in the cost of raw materials, and the resulting change in equilibrium.",
+        "back": [
+          "Higher input costs reduce the profitability of production at every price, so the supply curve shifts to the left.",
+          "At the original price a shortage develops, placing upward pressure on price.",
+          "The new equilibrium occurs at a higher price and a lower quantity traded."
+        ]
+      }
     },
     {
       "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "The price mechanism and equilibrium",
       "detail": "How shortages and surpluses generate price signals that clear a market, and the role of relative prices in allocating resources between markets.",
       "questions": [
@@ -112,11 +153,22 @@
             "The market reaches a new equilibrium at a higher price and quantity, and resources have been reallocated towards the good consumers now want more of."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.5",
+        "title": "The price mechanism and equilibrium",
+        "front": "Explain how the price mechanism reallocates resources when consumer demand for a good increases.",
+        "back": [
+          "An increase in demand creates a shortage at the existing price, so price is bid upwards.",
+          "The higher price signals greater profitability to producers, providing an incentive to expand output.",
+          "Resources are drawn into this market from less profitable uses elsewhere, since producers can afford to pay more for them.",
+          "The market reaches a new equilibrium at a higher price and quantity, and resources have been reallocated towards the good consumers now want more of."
+        ]
+      }
     },
     {
       "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Price elasticity of demand",
       "detail": "Calculating and interpreting elasticity, the determinants including substitutes, necessity, proportion of income and time, and the effect on total revenue.",
       "questions": [
@@ -130,11 +182,22 @@
             "Whether the good is a necessity or a luxury, and the proportion of income it represents, also affect elasticity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.6",
+        "title": "Price elasticity of demand",
+        "front": "A firm raises price by 10 per cent and total revenue falls. Explain what this shows about elasticity and name two determinants.",
+        "back": [
+          "Total revenue falling after a price rise indicates that quantity demanded fell by more than 10 per cent, so demand is price elastic.",
+          "The percentage change in quantity demanded exceeds the percentage change in price, giving an elasticity greater than one in absolute value.",
+          "A key determinant is the availability of close substitutes, since consumers can switch readily if the good is not distinctive.",
+          "Whether the good is a necessity or a luxury, and the proportion of income it represents, also affect elasticity."
+        ]
+      }
     },
     {
       "id": "3.1.7",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Price elasticity of supply",
       "detail": "The determinants of supply elasticity including spare capacity, the ability to hold stock and the time period considered.",
       "questions": [
@@ -147,11 +210,21 @@
             "Supply therefore responds little to price in the short run, though it becomes more elastic over a longer period as planting decisions adjust."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.7",
+        "title": "Price elasticity of supply",
+        "front": "Explain why the supply of agricultural produce is usually price inelastic in the short run.",
+        "back": [
+          "Production requires a growing season, so output cannot be increased quickly in response to a higher price.",
+          "Producers have limited ability to store perishable output to release when prices rise.",
+          "Supply therefore responds little to price in the short run, though it becomes more elastic over a longer period as planting decisions adjust."
+        ]
+      }
     },
     {
       "id": "3.1.8",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Types of efficiency",
       "detail": "Allocative, productive, dynamic and intertemporal efficiency, and the contribution of each to living standards.",
       "questions": [
@@ -165,11 +238,22 @@
             "It promotes dynamic efficiency because firms must innovate and adapt quickly to survive against rivals."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.8",
+        "title": "Types of efficiency",
+        "front": "Define allocative and dynamic efficiency and explain how competitive markets promote each.",
+        "back": [
+          "Allocative efficiency occurs when resources are allocated to produce the combination of goods and services that maximises the satisfaction of society's wants.",
+          "Dynamic efficiency is the speed with which resources are reallocated in response to changing conditions, including through innovation.",
+          "Competition promotes allocative efficiency because price signals direct resources to where consumers value them most.",
+          "It promotes dynamic efficiency because firms must innovate and adapt quickly to survive against rivals."
+        ]
+      }
     },
     {
       "id": "3.1.9",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Public goods",
       "detail": "Non-excludability and non-rivalry, the free rider problem, and the reason markets under-supply public goods.",
       "questions": [
@@ -183,11 +267,22 @@
             "Private firms cannot generate sufficient revenue and so under-supply or do not supply the good, which is a source of allocative inefficiency and justifies government provision."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.9",
+        "title": "Public goods",
+        "front": "Explain why a purely private market will under-supply street lighting.",
+        "back": [
+          "Street lighting is non-excludable, because a provider cannot prevent a person who has not paid from benefiting from it.",
+          "It is non-rival, because one person's use does not reduce the amount available to others.",
+          "This creates a free rider problem, as consumers have an incentive not to pay while still receiving the benefit.",
+          "Private firms cannot generate sufficient revenue and so under-supply or do not supply the good, which is a source of allocative inefficiency and justifies government provision."
+        ]
+      }
     },
     {
       "id": "3.1.10",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Externalities",
       "detail": "Positive and negative externalities in production and consumption, the divergence of private and social costs and benefits, and the resulting misallocation of resources.",
       "questions": [
@@ -201,11 +296,22 @@
             "Too many resources are allocated to this activity, so allocative efficiency and living standards are reduced."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.10",
+        "title": "Externalities",
+        "front": "Explain how a negative externality in production leads to allocative inefficiency, using pollution as an example.",
+        "back": [
+          "A negative externality is a cost imposed on a third party not involved in the transaction, such as pollution affecting nearby residents.",
+          "The producer bases output decisions on private costs only, which are lower than the true social costs.",
+          "Price is therefore too low and output too high relative to the socially optimal level.",
+          "Too many resources are allocated to this activity, so allocative efficiency and living standards are reduced."
+        ]
+      }
     },
     {
       "id": "3.1.11",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Asymmetric information and common access resources",
       "detail": "Market failure arising where one party has better information than the other, and the overuse of resources that are non-excludable but rival.",
       "questions": [
@@ -219,11 +325,22 @@
             "The result is overuse and eventual exhaustion, which is allocatively inefficient and damages intertemporal efficiency."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.11",
+        "title": "Asymmetric information and common access resources",
+        "front": "Explain the market failure caused by a common access resource and give an example.",
+        "back": [
+          "A common access resource is non-excludable but rival, meaning no one can be prevented from using it but each unit consumed reduces what is available to others.",
+          "Ocean fish stocks are an example, since no user can be excluded but each catch reduces the stock.",
+          "Each user has an incentive to exploit the resource before others do, and no individual bears the full cost of depletion.",
+          "The result is overuse and eventual exhaustion, which is allocatively inefficient and damages intertemporal efficiency."
+        ]
+      }
     },
     {
       "id": "3.1.12",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Government intervention in markets",
       "detail": "Indirect taxes, subsidies, regulations and advertising as responses to market failure, and the mechanism by which each changes behaviour.",
       "questions": [
@@ -237,11 +354,22 @@
             "Resource allocation therefore more closely reflects true social costs and benefits, improving allocative efficiency."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.12",
+        "title": "Government intervention in markets",
+        "front": "Explain how an indirect tax on a good with a negative externality improves allocative efficiency.",
+        "back": [
+          "An indirect tax raises the cost of production, shifting the supply curve to the left.",
+          "Price rises and quantity traded falls, moving output closer to the socially optimal level.",
+          "The tax internalises the externality by making producers and consumers bear more of the social cost.",
+          "Resource allocation therefore more closely reflects true social costs and benefits, improving allocative efficiency."
+        ]
+      }
     },
     {
       "id": "3.1.13",
-      "area": "Unit 3 AoS 1 — Markets, efficiency and market failure",
+      "area": "Unit 3: Australia’s living standards — AoS 1: An introduction to microeconomics: the market system, resource allocation and government intervention",
       "title": "Unintended consequences of intervention",
       "detail": "Black markets, reduced international competitiveness, regressive effects and misallocation arising from poorly designed government intervention.",
       "questions": [
@@ -254,11 +382,21 @@
             "Demand is highly inelastic for addicted consumers, so the reduction in consumption may be much smaller than intended while the financial burden is large."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.1.13",
+        "title": "Unintended consequences of intervention",
+        "front": "Identify two possible unintended consequences of a high indirect tax on tobacco.",
+        "back": [
+          "A black market may develop, as consumers switch to untaxed illegal supply, reducing government revenue and undermining the policy.",
+          "The tax is regressive, taking a larger proportion of income from low income earners, which worsens the distribution of income.",
+          "Demand is highly inelastic for addicted consumers, so the reduction in consumption may be much smaller than intended while the financial burden is large."
+        ]
+      }
     },
     {
       "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Strong and sustainable economic growth",
       "detail": "The definition of the goal, measurement by real GDP and the growth rate, and the reasons growth must be both strong and sustainable.",
       "questions": [
@@ -272,11 +410,22 @@
             "Growth that is too fast risks capacity constraints and inflation, while growth that is too slow raises unemployment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.1",
+        "title": "Strong and sustainable economic growth",
+        "front": "Define the goal of strong and sustainable economic growth and explain what 'sustainable' means in this context.",
+        "back": [
+          "The goal is the highest rate of growth in real GDP consistent with achieving the other economic goals, commonly cited at around 3 per cent per year.",
+          "Real GDP measures the value of final goods and services produced, adjusted for inflation.",
+          "Sustainable means the rate can be maintained over time without generating unacceptable inflation, an unsustainable current account deficit or environmental degradation.",
+          "Growth that is too fast risks capacity constraints and inflation, while growth that is too slow raises unemployment."
+        ]
+      }
     },
     {
       "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Low and stable inflation",
       "detail": "The definition of the goal and the RBA's target band, measurement by the consumer price index, and headline versus underlying inflation.",
       "questions": [
@@ -290,11 +439,22 @@
             "The RBA targets consumer price inflation of 2 to 3 per cent on average over time, and uses underlying measures to judge the trend."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.2",
+        "title": "Low and stable inflation",
+        "front": "Explain how inflation is measured and why underlying measures are used alongside headline inflation.",
+        "back": [
+          "Headline inflation is measured by the percentage change in the consumer price index, which tracks the price of a fixed basket of goods and services bought by metropolitan households.",
+          "Underlying measures such as the trimmed mean exclude or reduce the weight of items with unusually large price movements.",
+          "Volatile items such as fuel and fruit can distort the headline figure in a single quarter without indicating a change in the ongoing trend.",
+          "The RBA targets consumer price inflation of 2 to 3 per cent on average over time, and uses underlying measures to judge the trend."
+        ]
+      }
     },
     {
       "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Full employment and the NAIRU",
       "detail": "The goal of full employment, the natural rate of unemployment, the NAIRU, and the measurement of the unemployment rate, participation rate and underemployment.",
       "questions": [
@@ -308,11 +468,22 @@
             "Full employment therefore refers to the elimination of cyclical unemployment, not to a zero rate."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.3",
+        "title": "Full employment and the NAIRU",
+        "front": "Explain the concept of the NAIRU and why the goal of full employment is not a zero unemployment rate.",
+        "back": [
+          "The NAIRU is the non-accelerating inflation rate of unemployment, the lowest rate that can be sustained without generating accelerating inflation.",
+          "Even at full employment there is frictional unemployment as people move between jobs, and some structural unemployment as skills adjust.",
+          "Pushing unemployment below the NAIRU causes labour shortages, which bid up wages and lead to cost inflation.",
+          "Full employment therefore refers to the elimination of cyclical unemployment, not to a zero rate."
+        ]
+      }
     },
     {
       "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Measuring the labour force",
       "detail": "Definitions of employed, unemployed, the labour force and the participation rate, and the limitations of the unemployment rate as an indicator.",
       "questions": [
@@ -326,11 +497,22 @@
             "It also counts a person working one hour a week as employed, so it does not capture underemployment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.4",
+        "title": "Measuring the labour force",
+        "front": "Explain how the unemployment rate is calculated and two limitations of it as a measure of labour market conditions.",
+        "back": [
+          "The unemployment rate is the number of unemployed people divided by the labour force, expressed as a percentage.",
+          "To be counted as unemployed a person must be without work, actively seeking work and available to start.",
+          "A limitation is that it excludes discouraged job seekers who have stopped looking, so it understates labour underutilisation.",
+          "It also counts a person working one hour a week as employed, so it does not capture underemployment."
+        ]
+      }
     },
     {
       "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Aggregate demand and its factors",
       "detail": "The components of aggregate demand, and the effect of disposable income, interest rates, consumer and business confidence, exchange rates, terms of trade and overseas growth rates.",
       "questions": [
@@ -344,11 +526,22 @@
             "Both factors reduce aggregate demand, which slows economic growth and tends to raise unemployment while easing inflationary pressure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.5",
+        "title": "Aggregate demand and its factors",
+        "front": "Explain how a fall in consumer confidence and a rise in interest rates each affect aggregate demand.",
+        "back": [
+          "A fall in consumer confidence makes households more pessimistic about employment and future income, so they defer purchases and increase precautionary saving.",
+          "Consumption spending falls, which reduces aggregate demand.",
+          "A rise in interest rates increases the cost of borrowing and the return on saving, reducing both consumption of durables and business investment.",
+          "Both factors reduce aggregate demand, which slows economic growth and tends to raise unemployment while easing inflationary pressure."
+        ]
+      }
     },
     {
       "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Aggregate supply and its factors",
       "detail": "Productivity growth, costs of production, climate and natural events, exchange rates and government policy as influences on aggregate supply.",
       "questions": [
@@ -362,11 +555,22 @@
             "It also assists strong and sustainable growth, because the economy can grow faster without hitting capacity constraints."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.6",
+        "title": "Aggregate supply and its factors",
+        "front": "Explain how an improvement in productivity affects aggregate supply and the achievement of two economic goals.",
+        "back": [
+          "Higher productivity means more output is produced from the same quantity of inputs, reducing the unit cost of production.",
+          "Aggregate supply increases, shifting the curve to the right and expanding productive capacity.",
+          "This assists the goal of low inflation, because lower unit costs reduce cost inflationary pressure.",
+          "It also assists strong and sustainable growth, because the economy can grow faster without hitting capacity constraints."
+        ]
+      }
     },
     {
       "id": "3.2.7",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Demand inflation and cost inflation",
       "detail": "The distinction between inflation caused by excessive aggregate demand and inflation caused by rising costs of production, and the policy implications of each.",
       "questions": [
@@ -380,11 +584,22 @@
             "Contractionary policy is less suitable for cost inflation because it reduces output and raises unemployment without addressing the cost cause, so aggregate supply policies are preferred."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.7",
+        "title": "Demand inflation and cost inflation",
+        "front": "Distinguish between demand inflation and cost inflation and explain why the policy response differs.",
+        "back": [
+          "Demand inflation occurs when aggregate demand grows faster than the economy's capacity to supply, so buyers bid up prices.",
+          "Cost inflation occurs when the costs of production rise, such as wages or imported inputs, and producers pass these on as higher prices.",
+          "Demand inflation can be addressed by contractionary budgetary or monetary policy that slows spending.",
+          "Contractionary policy is less suitable for cost inflation because it reduces output and raises unemployment without addressing the cost cause, so aggregate supply policies are preferred."
+        ]
+      }
     },
     {
       "id": "3.2.8",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Effects of the goals on living standards",
       "detail": "Material and non-material living standards, and the effect of achieving or failing to achieve each domestic goal on both.",
       "questions": [
@@ -398,11 +613,22 @@
             "It reduces non-material living standards through the stress, loss of self-esteem, poorer health outcomes and social problems associated with joblessness."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.8",
+        "title": "Effects of the goals on living standards",
+        "front": "Distinguish between material and non-material living standards and explain the effect of high unemployment on each.",
+        "back": [
+          "Material living standards refer to the quantity of goods and services available per person, closely linked to real income per capita.",
+          "Non-material living standards refer to the quality of daily life, including health, leisure, environmental quality and social cohesion.",
+          "High unemployment reduces material living standards because those without work have lower incomes and less purchasing power.",
+          "It reduces non-material living standards through the stress, loss of self-esteem, poorer health outcomes and social problems associated with joblessness."
+        ]
+      }
     },
     {
       "id": "3.2.9",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Conflicts and trade-offs between goals",
       "detail": "The short-run trade-off between low inflation and full employment, and the potential conflict between strong growth and environmental sustainability.",
       "questions": [
@@ -416,11 +642,22 @@
             "Achieving very low unemployment in the short run therefore tends to come at the cost of higher inflation, although productivity growth can ease the trade-off."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.9",
+        "title": "Conflicts and trade-offs between goals",
+        "front": "Explain the potential conflict between the goals of full employment and low inflation.",
+        "back": [
+          "Policies that stimulate aggregate demand raise production, so firms hire more workers and unemployment falls.",
+          "As unemployment approaches the NAIRU, labour becomes scarce and firms compete for workers by offering higher wages.",
+          "Higher wage costs are passed on as higher prices, generating cost inflation, while strong demand simultaneously generates demand inflation.",
+          "Achieving very low unemployment in the short run therefore tends to come at the cost of higher inflation, although productivity growth can ease the trade-off."
+        ]
+      }
     },
     {
       "id": "3.2.10",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "The business cycle",
       "detail": "Expansion, peak, contraction and trough; the behaviour of growth, inflation and unemployment in each phase; and the meaning of a boom and a recession.",
       "questions": [
@@ -434,11 +671,22 @@
             "Material living standards fall as incomes and employment decline, and non-material living standards suffer through the stress of job insecurity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.10",
+        "title": "The business cycle",
+        "front": "Describe what happens to economic growth, inflation and unemployment during a contraction.",
+        "back": [
+          "Real GDP growth slows and may become negative, with two consecutive quarters of negative growth commonly described as a recession.",
+          "Unemployment rises as firms reduce output, cut hours and lay off workers, so cyclical unemployment increases.",
+          "Inflationary pressure eases because aggregate demand is weak and firms have spare capacity, so price rises are harder to sustain.",
+          "Material living standards fall as incomes and employment decline, and non-material living standards suffer through the stress of job insecurity."
+        ]
+      }
     },
     {
       "id": "3.2.11",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Types of unemployment",
       "detail": "Cyclical, structural, frictional, seasonal and hard-core unemployment, their causes and the different policy responses each requires.",
       "questions": [
@@ -452,11 +700,22 @@
             "Structural unemployment is not solved by stimulating demand and requires aggregate supply policies such as retraining and relocation assistance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.11",
+        "title": "Types of unemployment",
+        "front": "Distinguish between cyclical and structural unemployment and explain why each requires a different policy response.",
+        "back": [
+          "Cyclical unemployment results from a lack of aggregate demand during a downturn, so firms do not need as many workers.",
+          "Structural unemployment results from a mismatch between the skills or location of workers and the jobs available, often following technological change or industry decline.",
+          "Cyclical unemployment is addressed by expansionary budgetary or monetary policy that raises aggregate demand.",
+          "Structural unemployment is not solved by stimulating demand and requires aggregate supply policies such as retraining and relocation assistance."
+        ]
+      }
     },
     {
       "id": "3.2.12",
-      "area": "Unit 3 AoS 2 — Domestic macroeconomic goals",
+      "area": "Unit 3: Australia’s living standards — AoS 2: Domestic macroeconomic goals",
       "title": "Consequences of inflation",
       "detail": "Effects on purchasing power, savers and borrowers, international competitiveness, resource allocation and the distribution of income.",
       "questions": [
@@ -470,11 +729,22 @@
             "High and unpredictable inflation also distorts price signals and discourages long-term business investment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.2.12",
+        "title": "Consequences of inflation",
+        "front": "Explain three consequences of a sustained rate of inflation well above the target band.",
+        "back": [
+          "Purchasing power falls, so households on fixed incomes such as pensioners can buy less with the same nominal income, reducing material living standards.",
+          "Savers lose because the real return on savings falls and may become negative, while borrowers gain because the real value of their debt is eroded.",
+          "International competitiveness declines because Australian goods rise in price relative to those of trading partners, reducing exports and worsening the current account.",
+          "High and unpredictable inflation also distorts price signals and discourages long-term business investment."
+        ]
+      }
     },
     {
       "id": "3.3.1",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "Globalisation and trade liberalisation",
       "detail": "The increasing integration of economies through trade, investment and labour flows, and the removal of tariffs, quotas and subsidies.",
       "questions": [
@@ -488,11 +758,22 @@
             "In the short run, workers in import-competing industries may face structural unemployment, requiring retraining and adjustment assistance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.1",
+        "title": "Globalisation and trade liberalisation",
+        "front": "Explain two effects of trade liberalisation on the Australian economy.",
+        "back": [
+          "Removing tariffs exposes domestic producers to import competition, forcing them to lower costs and innovate, which improves productive and dynamic efficiency.",
+          "Consumers gain access to a wider range of goods at lower prices, improving material living standards.",
+          "Resources are reallocated towards industries in which Australia has a comparative advantage, raising the overall value of output.",
+          "In the short run, workers in import-competing industries may face structural unemployment, requiring retraining and adjustment assistance."
+        ]
+      }
     },
     {
       "id": "3.3.2",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "Exchange rates",
       "detail": "Appreciation and depreciation, the demand for and supply of the Australian dollar, and the factors that cause each to change.",
       "questions": [
@@ -506,11 +787,22 @@
             "An appreciation occurs when demand increases relative to supply, raising the price of the dollar in terms of other currencies."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.2",
+        "title": "Exchange rates",
+        "front": "Explain two factors that would cause the Australian dollar to appreciate.",
+        "back": [
+          "A rise in Australian interest rates relative to overseas rates increases the return on Australian financial assets, raising demand for the dollar.",
+          "A rise in the terms of trade or in commodity prices increases export revenue, raising demand for the dollar to pay for Australian exports.",
+          "Increased foreign investment in Australia and stronger overseas economic growth also raise demand for the currency.",
+          "An appreciation occurs when demand increases relative to supply, raising the price of the dollar in terms of other currencies."
+        ]
+      }
     },
     {
       "id": "3.3.3",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "Effects of exchange rate movements",
       "detail": "The effect of an appreciation or depreciation on export competitiveness, import prices, inflation, growth and the current account.",
       "questions": [
@@ -524,11 +816,22 @@
             "Net exports therefore increase, raising aggregate demand and supporting economic growth and employment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.3",
+        "title": "Effects of exchange rate movements",
+        "front": "Explain the effects of a depreciation of the Australian dollar on inflation and on economic growth.",
+        "back": [
+          "A depreciation raises the price of imports in Australian dollars, directly increasing the cost of imported consumer goods and imported inputs.",
+          "This adds to cost inflation, which works against the goal of low and stable inflation.",
+          "Exports become cheaper for overseas buyers, so export volumes rise, and imports become relatively expensive, so consumers switch to domestic substitutes.",
+          "Net exports therefore increase, raising aggregate demand and supporting economic growth and employment."
+        ]
+      }
     },
     {
       "id": "3.3.4",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "The terms of trade",
       "detail": "The index of export prices relative to import prices, the causes of movement, and the effect of a rise or fall on national income and the current account.",
       "questions": [
@@ -542,11 +845,22 @@
             "An improvement usually also causes the dollar to appreciate, which reduces the competitiveness of other export and import-competing industries."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.4",
+        "title": "The terms of trade",
+        "front": "Define the terms of trade and explain the effects of a sustained improvement on the Australian economy.",
+        "back": [
+          "The terms of trade is the ratio of the index of export prices to the index of import prices, expressed as an index.",
+          "An improvement means export prices have risen relative to import prices, so a given volume of exports buys more imports.",
+          "Export revenue and national income rise, boosting incomes in the export sector, company profits and tax receipts, which supports growth and the budget position.",
+          "An improvement usually also causes the dollar to appreciate, which reduces the competitiveness of other export and import-competing industries."
+        ]
+      }
     },
     {
       "id": "3.3.5",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "The balance of payments",
       "detail": "The structure of the current account and the capital and financial account, the meaning of a deficit or surplus, and the relationship between the two accounts.",
       "questions": [
@@ -560,11 +874,22 @@
             "In principle a deficit on the current account is offset by a surplus on the capital and financial account, since the two must sum to zero."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.5",
+        "title": "The balance of payments",
+        "front": "Describe the two main accounts in the balance of payments and explain what each records.",
+        "back": [
+          "The current account records the net value of transactions in goods and services, primary income and secondary income.",
+          "The balance on goods and services is the difference between export and import receipts; the net primary income balance records interest and dividends paid to and received from overseas.",
+          "The capital and financial account records transactions in assets, including foreign investment into and out of Australia.",
+          "In principle a deficit on the current account is offset by a surplus on the capital and financial account, since the two must sum to zero."
+        ]
+      }
     },
     {
       "id": "3.3.6",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "Free trade agreements",
       "detail": "Bilateral and multilateral agreements, the trade creation and trade diversion effects, and the impact on Australian industries and living standards.",
       "questions": [
@@ -577,11 +902,21 @@
             "A cost is trade diversion, where trade shifts to the partner country even though a third country is a lower-cost producer, which is allocatively inefficient."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.6",
+        "title": "Free trade agreements",
+        "front": "Explain one benefit and one cost of Australia entering a bilateral free trade agreement.",
+        "back": [
+          "A benefit is improved access to a large overseas market for Australian exporters, raising export revenue, employment and incomes in those industries.",
+          "Consumers also gain from cheaper imports from the partner country.",
+          "A cost is trade diversion, where trade shifts to the partner country even though a third country is a lower-cost producer, which is allocatively inefficient."
+        ]
+      }
     },
     {
       "id": "3.3.7",
-      "area": "Unit 3 AoS 3 — Australia and the international economy",
+      "area": "Unit 3: Australia’s living standards — AoS 3: Australia and the international economy",
       "title": "Foreign investment",
       "detail": "Foreign direct and portfolio investment, the reasons for investment inflows, and the effects on capacity, growth and the current account.",
       "questions": [
@@ -595,11 +930,22 @@
             "There may also be concerns about foreign control of strategic assets and reduced domestic decision-making power."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:3.3.7",
+        "title": "Foreign investment",
+        "front": "Explain one benefit and one cost of foreign direct investment in Australia.",
+        "back": [
+          "A benefit is that foreign investment supplements domestic saving and funds capital projects that would otherwise not proceed.",
+          "This expands productive capacity, raises productivity through access to new technology and management practice, and creates employment.",
+          "A cost is that returns on that investment flow overseas as dividends and interest, adding to the net primary income outflow and widening the current account deficit.",
+          "There may also be concerns about foreign control of strategic assets and reduced domestic decision-making power."
+        ]
+      }
     },
     {
       "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Sources of budget revenue",
       "detail": "Direct taxes including personal income tax and company tax, indirect taxes including GST and excise, and non-tax revenue.",
       "questions": [
@@ -613,11 +959,22 @@
             "This reduces inequality in the distribution of income and improves equity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.1",
+        "title": "Sources of budget revenue",
+        "front": "Distinguish between direct and indirect taxes and explain why personal income tax is progressive.",
+        "back": [
+          "A direct tax is levied on the income or wealth of the individual or entity that bears it, such as personal income tax and company tax.",
+          "An indirect tax is levied on a transaction and can be passed on to another party, such as the GST and excise duties.",
+          "Personal income tax is progressive because the marginal rate rises as income rises, so higher income earners pay a larger proportion of their income in tax.",
+          "This reduces inequality in the distribution of income and improves equity."
+        ]
+      }
     },
     {
       "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Budget expenses",
       "detail": "Government current spending on goods and services, capital spending on infrastructure, and transfer payments, and the different effects of each on aggregate demand.",
       "questions": [
@@ -630,11 +987,21 @@
             "Government spending on goods and services has a direct and immediate effect on aggregate demand, whereas transfers affect demand only once recipients spend them, and some is saved."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.2",
+        "title": "Budget expenses",
+        "front": "Distinguish between government current spending, capital spending and transfer payments, and state which has the largest immediate effect on aggregate demand.",
+        "back": [
+          "Current spending is on day-to-day goods and services such as public sector wages; capital spending is on infrastructure such as roads and hospitals.",
+          "Transfer payments, such as pensions and unemployment benefits, redistribute income without the government receiving a good or service in return.",
+          "Government spending on goods and services has a direct and immediate effect on aggregate demand, whereas transfers affect demand only once recipients spend them, and some is saved."
+        ]
+      }
     },
     {
       "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Budget outcomes and financing",
       "detail": "Surplus, deficit and balanced outcomes, the difference between cash and underlying outcomes, and how a deficit is financed and a surplus used.",
       "questions": [
@@ -648,11 +1015,22 @@
             "It may also be financed by borrowing from overseas, which avoids crowding out domestically but adds to the net primary income outflow on the current account."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.3",
+        "title": "Budget outcomes and financing",
+        "front": "Explain what a budget deficit is and describe two ways it may be financed, including the effect of each.",
+        "back": [
+          "A budget deficit occurs when total budget expenses exceed total budget receipts in a financial year.",
+          "It may be financed by borrowing from the private sector through the issue of government bonds, which adds to public debt and interest obligations.",
+          "Heavy domestic borrowing may crowd out private investment by placing upward pressure on interest rates.",
+          "It may also be financed by borrowing from overseas, which avoids crowding out domestically but adds to the net primary income outflow on the current account."
+        ]
+      }
     },
     {
       "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Automatic and discretionary stabilisers",
       "detail": "The countercyclical operation of progressive income tax and unemployment benefits, and the distinction from deliberate discretionary policy changes.",
       "questions": [
@@ -666,11 +1044,22 @@
             "Discretionary policy is a deliberate change to tax rates or spending programs announced by the government, which takes longer to implement but can be targeted."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.4",
+        "title": "Automatic and discretionary stabilisers",
+        "front": "Explain how automatic stabilisers operate during a downturn and how they differ from discretionary policy.",
+        "back": [
+          "During a downturn incomes fall, so progressive income tax receipts fall more than proportionately, leaving households with more disposable income than they would otherwise have.",
+          "Unemployment benefits rise automatically as more people lose work, supporting their spending.",
+          "Both effects expand the budget deficit and cushion the fall in aggregate demand without any government decision being required.",
+          "Discretionary policy is a deliberate change to tax rates or spending programs announced by the government, which takes longer to implement but can be targeted."
+        ]
+      }
     },
     {
       "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Budgetary policy stance",
       "detail": "Expansionary and contractionary stances judged by the change in the budget outcome rather than by whether it is in deficit or surplus.",
       "questions": [
@@ -683,11 +1072,21 @@
             "A smaller deficit means the budget is injecting less into the economy than previously, so aggregate demand is being dampened relative to the prior year."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.5",
+        "title": "Budgetary policy stance",
+        "front": "A budget moves from a deficit of 40 billion to a deficit of 15 billion. Identify the stance and explain your reasoning.",
+        "back": [
+          "The stance is contractionary, because the deficit has narrowed by 25 billion.",
+          "Stance is determined by the change in the budget outcome from one year to the next, not by whether the budget is in deficit or surplus.",
+          "A smaller deficit means the budget is injecting less into the economy than previously, so aggregate demand is being dampened relative to the prior year."
+        ]
+      }
     },
     {
       "id": "4.1.6",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Strengths and weaknesses of budgetary policy",
       "detail": "The ability to target specific sectors, the effects on equity and supply capacity, against implementation lags, political constraints and debt accumulation.",
       "questions": [
@@ -701,11 +1100,22 @@
             "Political constraints also apply, as governments are reluctant to raise taxes or cut spending, which can make contractionary policy difficult to sustain."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.6",
+        "title": "Strengths and weaknesses of budgetary policy",
+        "front": "Evaluate budgetary policy by explaining one strength and one weakness as a demand management tool.",
+        "back": [
+          "A strength is that budgetary policy can be targeted at a specific group, region or industry, such as a payment to low income households who are likely to spend it.",
+          "It can also address equity directly through the tax and transfer system, which monetary policy cannot do.",
+          "A weakness is the implementation lag, since major changes are usually announced in the annual budget and take time to legislate and take effect.",
+          "Political constraints also apply, as governments are reluctant to raise taxes or cut spending, which can make contractionary policy difficult to sustain."
+        ]
+      }
     },
     {
       "id": "4.1.7",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Monetary policy and the cash rate",
       "detail": "The role of the Reserve Bank of Australia, the setting of the cash rate target, and its independence from government.",
       "questions": [
@@ -718,11 +1128,21 @@
             "Independence matters because the RBA can raise rates to control inflation without the political pressure that would deter an elected government, which makes the inflation target credible."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.7",
+        "title": "Monetary policy and the cash rate",
+        "front": "Explain what the cash rate is and why the RBA's independence from government matters.",
+        "back": [
+          "The cash rate is the interest rate on overnight loans between financial institutions in the cash market, and the RBA sets a target for it.",
+          "Changes in the cash rate flow through to the interest rates banks charge borrowers and pay savers.",
+          "Independence matters because the RBA can raise rates to control inflation without the political pressure that would deter an elected government, which makes the inflation target credible."
+        ]
+      }
     },
     {
       "id": "4.1.8",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Transmission mechanisms of monetary policy",
       "detail": "The savings and investment, cash flow, asset prices and exchange rate channels through which a change in the cash rate affects aggregate demand.",
       "questions": [
@@ -736,11 +1156,22 @@
             "Exchange rate channel: lower relative interest rates reduce demand for the dollar, causing a depreciation that raises net exports."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.8",
+        "title": "Transmission mechanisms of monetary policy",
+        "front": "Explain three channels through which a cut in the cash rate stimulates aggregate demand.",
+        "back": [
+          "Cash flow channel: households with variable rate mortgages have lower repayments, leaving more disposable income for consumption.",
+          "Savings and investment channel: the return on saving falls and the cost of borrowing falls, encouraging consumption and making more investment projects profitable.",
+          "Asset prices channel: lower rates raise share and property prices, and the resulting wealth effect encourages households to spend more.",
+          "Exchange rate channel: lower relative interest rates reduce demand for the dollar, causing a depreciation that raises net exports."
+        ]
+      }
     },
     {
       "id": "4.1.9",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Monetary policy stance",
       "detail": "Expansionary, contractionary and neutral stances, the concept of the neutral cash rate, and the reading of a stance from RBA decisions.",
       "questions": [
@@ -753,11 +1184,21 @@
             "A rate below neutral is expansionary and a rate above neutral is contractionary, so the stance is judged relative to the neutral rate rather than by the level of the rate alone."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.9",
+        "title": "Monetary policy stance",
+        "front": "Explain what is meant by a neutral monetary policy stance.",
+        "back": [
+          "A neutral stance is one in which the cash rate is at the level that neither stimulates nor dampens aggregate demand.",
+          "At this rate, growth is expected to proceed at a sustainable pace with inflation within the target band.",
+          "A rate below neutral is expansionary and a rate above neutral is contractionary, so the stance is judged relative to the neutral rate rather than by the level of the rate alone."
+        ]
+      }
     },
     {
       "id": "4.1.10",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Strengths and weaknesses of monetary policy",
       "detail": "Independence, speed of decision and flexibility against blunt sector-wide impact, transmission lags and reduced effectiveness at very low interest rates.",
       "questions": [
@@ -771,11 +1212,22 @@
             "At very low interest rates its effectiveness is reduced, since rates cannot fall much further and confidence rather than the cost of borrowing may be the constraint on spending."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.10",
+        "title": "Strengths and weaknesses of monetary policy",
+        "front": "Evaluate monetary policy by explaining one strength and two weaknesses.",
+        "back": [
+          "A strength is that the RBA board meets regularly and can change the cash rate quickly and independently of political considerations, with immediate effect on market rates.",
+          "A weakness is that monetary policy is a blunt instrument affecting the whole economy, so it cannot target a particular region or sector in difficulty.",
+          "There is also an impact lag of up to 18 months before a change in the cash rate fully affects spending and inflation.",
+          "At very low interest rates its effectiveness is reduced, since rates cannot fall much further and confidence rather than the cost of borrowing may be the constraint on spending."
+        ]
+      }
     },
     {
       "id": "4.1.11",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Policy mix and complementary policy",
       "detail": "How budgetary and monetary policy work together or against each other, and the circumstances in which one is better suited than the other.",
       "questions": [
@@ -789,11 +1241,22 @@
             "It can also be targeted at the households and industries most affected, making the stimulus more effective per dollar spent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.11",
+        "title": "Policy mix and complementary policy",
+        "front": "Explain why budgetary policy may be preferred to monetary policy during a severe downturn.",
+        "back": [
+          "In a severe downturn confidence is low, so households and firms may not borrow and spend even when interest rates are very low.",
+          "Interest rates may also already be near zero, leaving little room for further stimulus.",
+          "Budgetary policy can inject spending directly into the economy through government spending and transfers, which does not rely on private willingness to borrow.",
+          "It can also be targeted at the households and industries most affected, making the stimulus more effective per dollar spent."
+        ]
+      }
     },
     {
       "id": "4.1.12",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Injections, leakages and the circular flow",
       "detail": "The circular flow of income, the injections of investment, government spending and exports, the leakages of saving, taxation and imports, and the effect of an imbalance.",
       "questions": [
@@ -807,11 +1270,22 @@
             "If this continues beyond the economy's productive capacity it generates demand inflation, so the imbalance is sustainable only while spare capacity exists."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.12",
+        "title": "Injections, leakages and the circular flow",
+        "front": "Name the injections and leakages in the circular flow and explain what happens when injections exceed leakages.",
+        "back": [
+          "Injections are investment, government spending and exports; leakages are saving, taxation and imports.",
+          "When injections exceed leakages, more is being added to the flow of income than is being withdrawn.",
+          "Aggregate demand rises, so firms increase output and employment and national income expands.",
+          "If this continues beyond the economy's productive capacity it generates demand inflation, so the imbalance is sustainable only while spare capacity exists."
+        ]
+      }
     },
     {
       "id": "4.1.13",
-      "area": "Unit 4 AoS 1 — Aggregate demand policies",
+      "area": "Unit 4: Managing the economy — AoS 1: Aggregate demand policies and domestic economic stability",
       "title": "Public debt and crowding out",
       "detail": "The accumulation of government debt from sustained deficits, the interest burden on future budgets, and the crowding out of private sector investment.",
       "questions": [
@@ -825,11 +1299,22 @@
             "Sustained deficits also accumulate public debt, and the growing interest bill consumes budget revenue that could otherwise fund services or tax cuts."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.1.13",
+        "title": "Public debt and crowding out",
+        "front": "Explain the crowding out effect and one further consequence of sustained budget deficits.",
+        "back": [
+          "Financing a deficit by borrowing from the domestic private sector increases the demand for available funds.",
+          "This places upward pressure on interest rates, raising the cost of borrowing for households and businesses.",
+          "Some private investment projects become unprofitable and do not proceed, so public spending has partly displaced private spending.",
+          "Sustained deficits also accumulate public debt, and the growing interest bill consumes budget revenue that could otherwise fund services or tax cuts."
+        ]
+      }
     },
     {
       "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "The purpose of aggregate supply policies",
       "detail": "Expanding productive capacity, lowering the costs of production and raising productivity so that growth can occur without inflation.",
       "questions": [
@@ -843,11 +1328,22 @@
             "This allows both stronger growth and employment and lower inflation at the same time, easing the short-run trade-off."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.1",
+        "title": "The purpose of aggregate supply policies",
+        "front": "Explain how aggregate supply policies help resolve the trade-off between the goals of low inflation and full employment.",
+        "back": [
+          "Aggregate supply policies raise productive capacity and lower unit costs of production, shifting aggregate supply to the right.",
+          "The economy can then produce more output without the capacity constraints that generate demand inflation.",
+          "Lower unit costs also reduce cost inflationary pressure even as employment rises.",
+          "This allows both stronger growth and employment and lower inflation at the same time, easing the short-run trade-off."
+        ]
+      }
     },
     {
       "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Budgetary supply-side measures",
       "detail": "Spending on education, training, infrastructure and research, and tax measures such as investment incentives that expand capacity rather than demand.",
       "questions": [
@@ -861,11 +1357,22 @@
             "The policy therefore stimulates demand now and expands capacity later, which is why infrastructure is often used during downturns."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.2",
+        "title": "Budgetary supply-side measures",
+        "front": "Explain how government spending on infrastructure acts as both an aggregate demand and an aggregate supply policy.",
+        "back": [
+          "In the short term, construction spending is an injection into the economy that directly raises aggregate demand and employment.",
+          "In the longer term, better transport and communications infrastructure reduces the time and cost of moving goods and people.",
+          "Lower costs of production raise productivity and shift aggregate supply to the right.",
+          "The policy therefore stimulates demand now and expands capacity later, which is why infrastructure is often used during downturns."
+        ]
+      }
     },
     {
       "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Training, education and skilled migration",
       "detail": "Policies that increase the quantity and quality of labour, address skill shortages and raise participation.",
       "questions": [
@@ -878,11 +1385,21 @@
             "Productive capacity expands and aggregate supply shifts to the right, supporting growth with less inflationary pressure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.3",
+        "title": "Training, education and skilled migration",
+        "front": "Explain how a targeted skilled migration program acts as an aggregate supply policy.",
+        "back": [
+          "Skilled migration increases the size and skill level of the labour force, addressing shortages in specific occupations.",
+          "Relieving skill shortages reduces upward pressure on wages in those occupations, lowering the cost of production.",
+          "Productive capacity expands and aggregate supply shifts to the right, supporting growth with less inflationary pressure."
+        ]
+      }
     },
     {
       "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Trade liberalisation and competition policy",
       "detail": "Removing protection and promoting competition to force efficiency improvements, and the structural adjustment costs involved.",
       "questions": [
@@ -896,11 +1413,22 @@
             "A cost is structural adjustment, as less efficient firms exit and their workers face unemployment until they retrain and relocate."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.4",
+        "title": "Trade liberalisation and competition policy",
+        "front": "Explain how competition policy improves efficiency and one cost of relying on it.",
+        "back": [
+          "Competition policy prevents anti-competitive conduct and reduces barriers to entry so that firms face genuine rivals.",
+          "Firms must reduce costs and innovate to retain market share, improving productive and dynamic efficiency.",
+          "Lower unit costs shift aggregate supply to the right and prices to consumers fall, improving material living standards.",
+          "A cost is structural adjustment, as less efficient firms exit and their workers face unemployment until they retrain and relocate."
+        ]
+      }
     },
     {
       "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Labour market and deregulation policies",
       "detail": "Measures affecting wage determination, workplace flexibility and industry regulation, and their effects on costs, productivity and equity.",
       "questions": [
@@ -914,11 +1442,22 @@
             "An equity concern is that increased flexibility may reduce job security and bargaining power for low-skilled workers, widening income inequality."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.5",
+        "title": "Labour market and deregulation policies",
+        "front": "Explain how labour market policies can improve aggregate supply and one equity concern they raise.",
+        "back": [
+          "Policies that allow wages to be linked to productivity at the enterprise level mean wage growth does not outpace output growth, containing unit labour costs.",
+          "Greater flexibility in working arrangements can raise participation and allow firms to match labour to demand, improving productivity.",
+          "Aggregate supply shifts right, supporting growth with lower inflationary pressure.",
+          "An equity concern is that increased flexibility may reduce job security and bargaining power for low-skilled workers, widening income inequality."
+        ]
+      }
     },
     {
       "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Environmental and energy policies",
       "detail": "Policies addressing emissions and energy costs, and the tension between short-run costs of production and long-run intertemporal efficiency.",
       "questions": [
@@ -932,11 +1471,22 @@
             "It also improves intertemporal efficiency by reducing the environmental costs imposed on future generations, supporting non-material living standards."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.6",
+        "title": "Environmental and energy policies",
+        "front": "Explain the short-run and long-run effects of a policy subsidising renewable energy investment on aggregate supply.",
+        "back": [
+          "In the short run the subsidy is a budget cost, and the transition may raise energy costs for some producers, restraining aggregate supply.",
+          "In the long run, cheaper and more reliable energy lowers a significant input cost across the economy.",
+          "This raises productivity and shifts aggregate supply to the right, supporting non-inflationary growth.",
+          "It also improves intertemporal efficiency by reducing the environmental costs imposed on future generations, supporting non-material living standards."
+        ]
+      }
     },
     {
       "id": "4.2.7",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Evaluating supply-side policies",
       "detail": "The long implementation and impact lags, budgetary costs and distributional effects of supply-side measures, compared with demand-side policy.",
       "questions": [
@@ -950,11 +1500,22 @@
             "Some, such as deregulation, produce structural unemployment and widen inequality, so they carry political and equity costs."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.7",
+        "title": "Evaluating supply-side policies",
+        "front": "Explain two limitations of relying on aggregate supply policies to manage the economy.",
+        "back": [
+          "Supply-side policies have very long impact lags; education and infrastructure investment may take a decade to raise productive capacity measurably.",
+          "They are therefore poorly suited to stabilising the economy over the business cycle, where a rapid response is needed.",
+          "Many involve substantial budgetary cost, which worsens the budget outcome and adds to public debt in the short term.",
+          "Some, such as deregulation, produce structural unemployment and widen inequality, so they carry political and equity costs."
+        ]
+      }
     },
     {
       "id": "4.2.8",
-      "area": "Unit 4 AoS 2 — Aggregate supply policies",
+      "area": "Unit 4: Managing the economy — AoS 2: Aggregate supply policies",
       "title": "Equity and the distribution of income",
       "detail": "The distinction between efficiency and equity, the effect of the tax and transfer system on the distribution of income, and the trade-offs policy makers face.",
       "questions": [
@@ -968,7 +1529,18 @@
             "Policy makers must therefore balance the equity gains from redistribution against the efficiency cost of reduced incentives."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:4.2.8",
+        "title": "Equity and the distribution of income",
+        "front": "Explain the potential trade-off between efficiency and equity using an example from tax policy.",
+        "back": [
+          "Efficiency concerns the allocation and productive use of resources, while equity concerns the fairness of the distribution of income.",
+          "A highly progressive income tax improves equity by redistributing income from higher to lower income earners.",
+          "However, high marginal rates may reduce the incentive to work additional hours, invest or take entrepreneurial risk, which reduces efficiency and productive capacity.",
+          "Policy makers must therefore balance the equity gains from redistribution against the efficiency cost of reduced incentives."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -985,7 +1557,17 @@
             "Identify any turning point or anomaly rather than describing only the overall movement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:X1",
+        "title": "Interpreting economic data",
+        "front": "State three features of a strong description of a trend in economic data.",
+        "back": [
+          "State the direction of the change and whether it accelerated, slowed or reversed over the period.",
+          "Quote specific figures with their units and the periods to which they relate, including the start and end values.",
+          "Identify any turning point or anomaly rather than describing only the overall movement."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -1003,7 +1585,18 @@
             "Each step should state the direction of change and the mechanism that produces it."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:X2",
+        "title": "Building an economic chain of reasoning",
+        "front": "Explain what a complete chain of reasoning looks like in an Economics response and why missing links cost marks.",
+        "back": [
+          "Begin with the cause, then state each step in sequence: the effect on a component of aggregate demand or supply, then on the relevant economic variable.",
+          "Then state the effect on the macroeconomic goal, and finally on material or non-material living standards.",
+          "Marks are awarded for the links, not just the conclusion, so skipping from cause straight to outcome loses the intermediate marks.",
+          "Each step should state the direction of change and the mechanism that produces it."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -1020,7 +1613,17 @@
             "Check whether the question asks about one effect or two, and whether it specifies a particular goal or policy, and address exactly what is asked."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "economics-34:X3",
+        "title": "Command terms and mark allocation",
+        "front": "Explain how the mark allocation should guide the structure of an Economics response.",
+        "back": [
+          "The number of marks indicates roughly how many distinct linked points are required, so a four-mark explanation needs about four developed links.",
+          "Command terms determine the depth: describe requires an account, explain requires reasons and mechanism, and evaluate requires both sides plus a judgement.",
+          "Check whether the question asks about one effect or two, and whether it specifies a particular goal or policy, and address exactly what is asked."
+        ]
+      }
     }
   ]
 }

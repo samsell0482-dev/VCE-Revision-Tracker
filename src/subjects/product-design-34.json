@@ -1,39 +1,35 @@
 {
   "id": "product-design-34",
-  "name": "Product Design and Technology",
+  "name": "Product Design and Technologies",
   "areas": [
-    "The design process and design thinking",
-    "Designing for end users",
-    "Materials and their properties",
-    "Tools, processes and production",
-    "Sustainability and the product life cycle",
-    "Evaluation, testing and quality",
-    "Legal, ethical and safety obligations",
+    "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
+    "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
+    "Unit 3: Ethical product design and development — AoS 3: Developing a final proof of concept for ethical production",
+    "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
+    "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
     "Exam technique"
   ],
   "short": {
-    "The design process and design thinking": "Design process",
-    "Designing for end users": "End users",
-    "Materials and their properties": "Materials",
-    "Tools, processes and production": "Production",
-    "Sustainability and the product life cycle": "Sustainability",
-    "Evaluation, testing and quality": "Evaluation",
-    "Legal, ethical and safety obligations": "Legal and safety",
-    "Exam technique": "Exam technique"
+    "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products": "U3 Influences",
+    "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production": "U3 Opportunity",
+    "Unit 3: Ethical product design and development — AoS 3: Developing a final proof of concept for ethical production": "U3 Proof",
+    "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs": "U4 Production",
+    "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design": "U4 Evaluation",
+    "Exam technique": "Exam"
   },
-  "source": "Adapted revision checklist based on VCAA's VCE Product Design and Technology Study Design, Units 3 and 4. Areas here are topic groupings rather than official area of study titles, and checklist numbers are internal tracker IDs.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/product-design-and-technology",
-  "sourceLabel": "VCAA Product Design and Technology study design",
+  "source": "Adapted revision checklist based on VCAA's VCE Product Design and Technologies Study Design, Units 3 and 4. Unit and Area of Study labels follow the current study design; checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/product-design-and-technologies/product-design-and-technologies",
+  "sourceLabel": "VCAA Product Design and Technologies study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Terminology for the design process varies between editions of the study design, so check the wording your class uses.",
   "theme": {
     "accent": "#6b6320"
   },
   "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
-  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/product-design-and-technology",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/product-design-and-technologies",
   "points": [
     {
       "id": "P1",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "The Double Diamond approach",
       "detail": "Discover and define as the problem space, develop and deliver as the solution space, and the alternation between divergent and convergent thinking.",
       "questions": [
@@ -47,11 +43,22 @@
             "Deliver selects, refines, tests and produces the final solution, which is convergent; the two diamonds keep problem exploration separate from solution generation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P1",
+        "title": "The Double Diamond approach",
+        "front": "Name the four phases of the Double Diamond and explain the alternation between divergent and convergent thinking.",
+        "back": [
+          "Discover explores the problem broadly through research into the end user, context and existing products, which is divergent.",
+          "Define narrows that research to a clear statement of the problem to be solved, which is convergent.",
+          "Develop generates and explores many possible solutions, which is divergent again.",
+          "Deliver selects, refines, tests and produces the final solution, which is convergent; the two diamonds keep problem exploration separate from solution generation."
+        ]
+      }
     },
     {
       "id": "P2",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "Investigating and defining",
       "detail": "Identifying a need or opportunity, researching the end user and context, and writing a design brief that states the problem without prescribing the solution.",
       "questions": [
@@ -65,11 +72,22 @@
             "A brief that names the solution usually produces only variations on the designer's first assumption, which may not be the best answer to the actual problem."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P2",
+        "title": "Investigating and defining",
+        "front": "Explain the difference between a need and a solution in a design brief, and why the distinction matters.",
+        "back": [
+          "A need states what the end user must be able to do, or the problem they experience, without specifying how it will be addressed.",
+          "A solution specifies a particular product, which forecloses alternatives before they have been explored.",
+          "Writing the brief around the need allows a wider range of concepts to be generated in the develop phase.",
+          "A brief that names the solution usually produces only variations on the designer's first assumption, which may not be the best answer to the actual problem."
+        ]
+      }
     },
     {
       "id": "P3",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Design brief components",
       "detail": "End user, need or opportunity, context of use, constraints and considerations, and the evaluation criteria derived from them.",
       "questions": [
@@ -83,11 +101,22 @@
             "Constraints determine whether a design is acceptable at all, while considerations distinguish a better design from an adequate one."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P3",
+        "title": "Design brief components",
+        "front": "Name five components of a design brief and explain the difference between a constraint and a consideration.",
+        "back": [
+          "A brief states the end user, the need or opportunity, the context of use, the constraints and the considerations.",
+          "A constraint is a fixed requirement the product must satisfy, such as a maximum dimension, a budget or a required material.",
+          "A consideration is a factor that should influence the design but allows judgement, such as aesthetic preference or ease of maintenance.",
+          "Constraints determine whether a design is acceptable at all, while considerations distinguish a better design from an adequate one."
+        ]
+      }
     },
     {
       "id": "P4",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Evaluation criteria",
       "detail": "Writing measurable criteria in question form derived from the brief, and using them consistently to evaluate concepts and the finished product.",
       "questions": [
@@ -101,11 +130,22 @@
             "Criteria written afterwards tend to describe what was actually achieved, which makes the evaluation self-justifying rather than critical."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P4",
+        "title": "Evaluation criteria",
+        "front": "Explain what makes an evaluation criterion useful and why criteria are written before development.",
+        "back": [
+          "A useful criterion is written as a question that can be answered with specific evidence, such as whether the product supports a stated load without deflection.",
+          "It derives directly from a constraint or consideration in the brief, so it tests the requirement rather than the designer's preference.",
+          "Criteria are written before development so that concepts can be compared objectively during the develop phase.",
+          "Criteria written afterwards tend to describe what was actually achieved, which makes the evaluation self-justifying rather than critical."
+        ]
+      }
     },
     {
       "id": "P5",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 3: Developing a final proof of concept for ethical production",
       "title": "Generating and developing ideas",
       "detail": "Sketching, annotating, mind mapping, exploring alternatives, and refining a chosen direction through successive iterations.",
       "questions": [
@@ -118,11 +158,21 @@
             "Annotation also records the evaluation of each alternative, which documents why one direction was pursued and others abandoned."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P5",
+        "title": "Generating and developing ideas",
+        "front": "Explain why annotation is essential to design development sketches.",
+        "back": [
+          "Annotation explains the reasoning behind each feature, including the materials, dimensions and the user need it addresses.",
+          "Without annotation a sketch only records appearance, so the thinking that produced it is not visible to an assessor or client.",
+          "Annotation also records the evaluation of each alternative, which documents why one direction was pursued and others abandoned."
+        ]
+      }
     },
     {
       "id": "P6",
-      "area": "The design process and design thinking",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "Design factors",
       "detail": "Function, purpose and context, user-centred design, aesthetics, sustainability, innovation, technologies, and the conflicts between them.",
       "questions": [
@@ -136,11 +186,22 @@
             "The decision and its reasoning should be documented, since an evaluated trade-off is a design decision rather than a failure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:P6",
+        "title": "Design factors",
+        "front": "Explain how two design factors can conflict, using an example, and how a designer resolves the conflict.",
+        "back": [
+          "Aesthetics and sustainability can conflict where the most visually striking material is also the most environmentally costly to produce.",
+          "Function and cost frequently conflict, since the material best suited to a load requirement may exceed the budget constraint.",
+          "The designer resolves conflicts by referring to the brief to determine which factor is a fixed constraint and which allows compromise.",
+          "The decision and its reasoning should be documented, since an evaluated trade-off is a design decision rather than a failure."
+        ]
+      }
     },
     {
       "id": "U1",
-      "area": "Designing for end users",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "Identifying the end user",
       "detail": "Defining the specific person or group the product is for, their circumstances and capabilities, rather than designing for a general public.",
       "questions": [
@@ -153,11 +214,21 @@
             "Specificity also makes the design testable, since a defined user can be consulted and can trial the prototype."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:U1",
+        "title": "Identifying the end user",
+        "front": "Explain why a design brief should define a specific end user rather than a general audience.",
+        "back": [
+          "A specific end user has identifiable needs, capabilities, dimensions and context that can be researched and designed for.",
+          "A general audience has no consistent requirements, so the designer defaults to their own assumptions about what is needed.",
+          "Specificity also makes the design testable, since a defined user can be consulted and can trial the prototype."
+        ]
+      }
     },
     {
       "id": "U2",
-      "area": "Designing for end users",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "User research methods",
       "detail": "Interviews, surveys, observation of use, and trialling prototypes with the end user to gather evidence rather than assumptions.",
       "questions": [
@@ -171,11 +242,22 @@
             "Interviews remain useful for motivations and preferences, so the two methods are best used together."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:U2",
+        "title": "User research methods",
+        "front": "Explain why observing an end user is often more informative than asking them what they need.",
+        "back": [
+          "Users describe what they believe they do, which frequently differs from their actual behaviour.",
+          "Observation reveals workarounds, difficulties and habits that users have stopped noticing and would not think to report.",
+          "It also reveals the physical context of use, including space, lighting and what else the user is doing at the same time.",
+          "Interviews remain useful for motivations and preferences, so the two methods are best used together."
+        ]
+      }
     },
     {
       "id": "U3",
-      "area": "Designing for end users",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "Anthropometrics and ergonomics",
       "detail": "Using body measurement data and percentile ranges to determine dimensions, and designing for comfort, safety and efficiency of use.",
       "questions": [
@@ -189,11 +271,22 @@
             "Designers instead use percentile ranges, typically designing adjustability to accommodate the 5th to 95th percentile, or design for the limiting case, such as reach for the smallest user."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:U3",
+        "title": "Anthropometrics and ergonomics",
+        "front": "Explain the difference between anthropometrics and ergonomics, and why designing to the average is usually a mistake.",
+        "back": [
+          "Anthropometrics is the study of human body measurements, providing dimensional data such as reach, height and grip size.",
+          "Ergonomics is the broader study of how people interact with products, covering comfort, safety, effort and efficiency of use.",
+          "Designing to the average excludes roughly half the population on either side of that measurement in any dimension.",
+          "Designers instead use percentile ranges, typically designing adjustability to accommodate the 5th to 95th percentile, or design for the limiting case, such as reach for the smallest user."
+        ]
+      }
     },
     {
       "id": "U4",
-      "area": "Designing for end users",
+      "area": "Unit 3: Ethical product design and development — AoS 1: Influences on design, development and production of products",
       "title": "Inclusive and universal design",
       "detail": "Designing so that products are usable by people with the widest range of abilities, and the difference between accommodation and universal design.",
       "questions": [
@@ -207,11 +300,22 @@
             "Designing inclusively from the outset is usually cheaper and more effective than adapting a product afterwards."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:U4",
+        "title": "Inclusive and universal design",
+        "front": "Explain the principle of universal design and give two examples of features that benefit a wider group than intended.",
+        "back": [
+          "Universal design aims for products usable by as many people as possible without requiring adaptation or specialised versions.",
+          "A lever handle instead of a round doorknob can be operated by someone with limited grip strength, and also by someone carrying items.",
+          "A kerb ramp designed for wheelchair users equally benefits prams, luggage and delivery trolleys.",
+          "Designing inclusively from the outset is usually cheaper and more effective than adapting a product afterwards."
+        ]
+      }
     },
     {
       "id": "M1",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Physical and mechanical properties",
       "detail": "Strength, hardness, toughness, ductility, elasticity, density, durability and thermal and electrical conductivity, and their relevance to product performance.",
       "questions": [
@@ -225,11 +329,22 @@
             "A protective helmet or a hammer handle prioritises toughness, since it must absorb impact energy rather than shatter, even if a harder material would resist scratching better."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M1",
+        "title": "Physical and mechanical properties",
+        "front": "Distinguish between strength, hardness and toughness, and give a product application where toughness is the priority.",
+        "back": [
+          "Strength is the ability to resist an applied force without failing.",
+          "Hardness is the ability to resist surface indentation, scratching and wear.",
+          "Toughness is the ability to absorb energy and deform without fracturing, which is different from being strong.",
+          "A protective helmet or a hammer handle prioritises toughness, since it must absorb impact energy rather than shatter, even if a harder material would resist scratching better."
+        ]
+      }
     },
     {
       "id": "M2",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Timber and wood products",
       "detail": "Hardwood and softwood, grain direction, seasoning and moisture movement, and manufactured boards including plywood, MDF and particleboard.",
       "questions": [
@@ -243,11 +358,22 @@
             "MDF has no grain and machines to a very smooth edge, but it has poor screw holding, is heavy and swells irreversibly if it gets wet."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M2",
+        "title": "Timber and wood products",
+        "front": "Explain why plywood is more dimensionally stable than solid timber and one limitation of MDF.",
+        "back": [
+          "Solid timber expands and contracts across the grain with changes in moisture content, which causes warping and splitting.",
+          "Plywood is built from thin veneers glued with the grain of each layer at right angles to the next, so movement in one layer is restrained by its neighbours.",
+          "This produces a board that is stable in both directions and strong for its weight.",
+          "MDF has no grain and machines to a very smooth edge, but it has poor screw holding, is heavy and swells irreversibly if it gets wet."
+        ]
+      }
     },
     {
       "id": "M3",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Metals",
       "detail": "Ferrous and non-ferrous metals, alloys, and the effect of heat treatment and work hardening on properties.",
       "questions": [
@@ -261,11 +387,22 @@
             "Stainless steel, for example, adds chromium to steel to form a protective oxide layer, giving corrosion resistance while retaining strength."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M3",
+        "title": "Metals",
+        "front": "Distinguish between ferrous and non-ferrous metals, and explain why alloys are used rather than pure metals.",
+        "back": [
+          "Ferrous metals contain iron and are generally magnetic and prone to rust unless treated or alloyed.",
+          "Non-ferrous metals such as aluminium, copper and brass contain no iron, are not magnetic and resist corrosion better.",
+          "Alloying combines metals to obtain properties that neither constituent has alone.",
+          "Stainless steel, for example, adds chromium to steel to form a protective oxide layer, giving corrosion resistance while retaining strength."
+        ]
+      }
     },
     {
       "id": "M4",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Plastics",
       "detail": "Thermoplastics and thermosetting plastics, common types and their applications, and the implications for forming and recycling.",
       "questions": [
@@ -279,11 +416,22 @@
             "Thermosets cannot be reprocessed and are generally ground for use as filler or sent to landfill, so their selection carries a greater end-of-life cost."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M4",
+        "title": "Plastics",
+        "front": "Distinguish between thermoplastics and thermosetting plastics and explain the consequence for recycling.",
+        "back": [
+          "Thermoplastics soften when heated and harden when cooled, and this process can be repeated many times.",
+          "Thermosetting plastics undergo an irreversible chemical change when cured and cannot be softened by reheating.",
+          "Thermoplastics can therefore be melted down and reformed, making them recyclable in principle.",
+          "Thermosets cannot be reprocessed and are generally ground for use as filler or sent to landfill, so their selection carries a greater end-of-life cost."
+        ]
+      }
     },
     {
       "id": "M5",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Textiles and fibres",
       "detail": "Natural, regenerated and synthetic fibres, yarn and fabric construction, and the properties relevant to comfort, durability and care.",
       "questions": [
@@ -297,11 +445,22 @@
             "Synthetics are made from fossil resources, do not biodegrade and shed microplastics in laundering, so neither is straightforwardly better."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M5",
+        "title": "Textiles and fibres",
+        "front": "Compare a natural fibre with a synthetic fibre on comfort, durability and environmental impact.",
+        "back": [
+          "Natural fibres such as cotton and wool are absorbent and breathable, which makes them comfortable against the skin.",
+          "Synthetic fibres such as polyester are stronger, more abrasion resistant, dry faster and hold shape better.",
+          "Natural fibres are renewable and biodegradable but production can be water and pesticide intensive.",
+          "Synthetics are made from fossil resources, do not biodegrade and shed microplastics in laundering, so neither is straightforwardly better."
+        ]
+      }
     },
     {
       "id": "M6",
-      "area": "Materials and their properties",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Material selection and testing",
       "detail": "Matching properties to requirements, and testing materials for strength, hardness, flexibility and finish before committing to production.",
       "questions": [
@@ -315,11 +474,22 @@
             "Test samples where possible, since published data describes ideal conditions rather than the specific joint, finish or load path in the product."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:M6",
+        "title": "Material selection and testing",
+        "front": "Explain the process of selecting a material for a specific product application.",
+        "back": [
+          "Identify the performance requirements from the brief, including loads, environment, weight limits and expected lifespan.",
+          "Identify the properties those requirements demand, such as corrosion resistance for outdoor use or low density for a portable item.",
+          "Shortlist materials with those properties, then weigh cost, availability, workability with available tools and environmental impact.",
+          "Test samples where possible, since published data describes ideal conditions rather than the specific joint, finish or load path in the product."
+        ]
+      }
     },
     {
       "id": "T1",
-      "area": "Tools, processes and production",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Tools and equipment selection",
       "detail": "Choosing hand tools, power tools and machinery appropriate to the material, the operation and the required accuracy.",
       "questions": [
@@ -332,11 +502,21 @@
             "Material hardness, thickness and tendency to melt or tear all affect which tool and setting will produce an accurate result safely."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T1",
+        "title": "Tools and equipment selection",
+        "front": "Explain why tool selection depends on the material as well as the operation being performed.",
+        "back": [
+          "Different materials require different cutting geometries, speeds and feed rates to cut cleanly without damage.",
+          "Using a blade intended for timber on metal, for example, dulls the blade rapidly and produces a dangerous, poor-quality cut.",
+          "Material hardness, thickness and tendency to melt or tear all affect which tool and setting will produce an accurate result safely."
+        ]
+      }
     },
     {
       "id": "T2",
-      "area": "Tools, processes and production",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Production processes",
       "detail": "Cutting, shaping, joining, forming, moulding and finishing processes, and matching each to the material and the required outcome.",
       "questions": [
@@ -350,11 +530,22 @@
             "Finishing treats the surface for appearance, protection or feel, such as sanding, painting, oiling, anodising or powder coating."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T2",
+        "title": "Production processes",
+        "front": "Name four categories of production process and give an example of each.",
+        "back": [
+          "Cutting and shaping removes material to achieve the required form, such as sawing, drilling, routing or laser cutting.",
+          "Joining assembles components, either permanently by welding, adhesive or riveting, or temporarily by screws, bolts or fasteners.",
+          "Forming and moulding changes shape without removing material, such as vacuum forming, bending, casting or injection moulding.",
+          "Finishing treats the surface for appearance, protection or feel, such as sanding, painting, oiling, anodising or powder coating."
+        ]
+      }
     },
     {
       "id": "T3",
-      "area": "Tools, processes and production",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Joining methods",
       "detail": "Permanent and temporary joints, mechanical fasteners, adhesives, welding and traditional joinery, and the criteria for selecting each.",
       "questions": [
@@ -368,11 +559,22 @@
             "Design for disassembly favours temporary joints, because a product held together by adhesive cannot be separated into recyclable materials."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T3",
+        "title": "Joining methods",
+        "front": "Explain the factors that determine whether a permanent or a temporary joint should be used.",
+        "back": [
+          "Whether the product must be disassembled for maintenance, repair, transport or recycling at end of life.",
+          "The loads on the joint, since some permanent joints such as welds are stronger than mechanical fasteners of similar size.",
+          "Whether the joint is visible, since appearance may favour a concealed joint over an exposed fastener.",
+          "Design for disassembly favours temporary joints, because a product held together by adhesive cannot be separated into recyclable materials."
+        ]
+      }
     },
     {
       "id": "T4",
-      "area": "Tools, processes and production",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Production planning",
       "detail": "Sequencing operations, estimating time, listing materials and components, and identifying risks before production begins.",
       "questions": [
@@ -386,11 +588,22 @@
             "Sequence matters because some operations become impossible or much harder once others are complete, such as sanding an internal surface after assembly."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T4",
+        "title": "Production planning",
+        "front": "State four elements of a production plan and explain why sequence matters.",
+        "back": [
+          "A list of every operation in the order it will be performed, with the tools and equipment each requires.",
+          "Estimated time for each operation and the total, allowing progress to be monitored against a schedule.",
+          "A materials and components list with quantities and dimensions, so everything is available before work begins.",
+          "Sequence matters because some operations become impossible or much harder once others are complete, such as sanding an internal surface after assembly."
+        ]
+      }
     },
     {
       "id": "T5",
-      "area": "Tools, processes and production",
+      "area": "Unit 3: Ethical product design and development — AoS 3: Developing a final proof of concept for ethical production",
       "title": "Prototypes and models",
       "detail": "Low fidelity and high fidelity prototypes, the questions each can answer, and the use of prototyping to reduce risk before final production.",
       "questions": [
@@ -404,11 +617,22 @@
             "High fidelity prototypes test performance, durability, ergonomics and appearance under realistic conditions before committing to production."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T5",
+        "title": "Prototypes and models",
+        "front": "Distinguish between a low fidelity and a high fidelity prototype and state what each is used to test.",
+        "back": [
+          "A low fidelity prototype is quick and rough, made in cheap materials such as card or foam, and tests form, proportion and basic arrangement.",
+          "A high fidelity prototype closely resembles the final product in materials, finish and function.",
+          "Low fidelity prototypes are used early to compare alternatives cheaply, since being disposable they encourage change.",
+          "High fidelity prototypes test performance, durability, ergonomics and appearance under realistic conditions before committing to production."
+        ]
+      }
     },
     {
       "id": "T6",
-      "area": "Tools, processes and production",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Scale of production",
       "detail": "One-off, batch, mass and continuous production, and the effect of scale on tooling, unit cost and design decisions.",
       "questions": [
@@ -422,11 +646,22 @@
             "A design suited to one-off making is therefore often uneconomic to mass produce, and vice versa."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:T6",
+        "title": "Scale of production",
+        "front": "Explain how the intended scale of production changes design decisions.",
+        "back": [
+          "One-off production favours processes with low setup cost and accepts higher labour time per unit, such as hand joinery.",
+          "Mass production justifies expensive tooling such as an injection mould, because the cost is spread over very large volumes and unit cost falls sharply.",
+          "Mass production also favours designs with few parts, simple assembly and consistent tolerances, since labour per unit must be minimised.",
+          "A design suited to one-off making is therefore often uneconomic to mass produce, and vice versa."
+        ]
+      }
     },
     {
       "id": "S1",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Life cycle assessment",
       "detail": "Assessing environmental impact across raw material extraction, processing, manufacture, distribution, use and disposal.",
       "questions": [
@@ -440,11 +675,22 @@
             "Assessing only manufacture would lead to the wrong design decision in such cases, which is why the whole life cycle is considered."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S1",
+        "title": "Life cycle assessment",
+        "front": "Name the stages of a product life cycle assessment and explain why the use phase is sometimes the most significant.",
+        "back": [
+          "The stages are raw material extraction, material processing, manufacture, distribution, use and maintenance, and end of life disposal or recovery.",
+          "For products consuming energy or water in operation, such as appliances, the use phase dominates total lifetime impact.",
+          "A more efficient appliance can therefore justify a higher manufacturing impact, because the savings accumulate over years of use.",
+          "Assessing only manufacture would lead to the wrong design decision in such cases, which is why the whole life cycle is considered."
+        ]
+      }
     },
     {
       "id": "S2",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "The circular economy",
       "detail": "Moving from a linear take-make-dispose model to one in which materials and components are recovered and returned to use.",
       "questions": [
@@ -458,11 +704,22 @@
             "Designing for repair, with replaceable wear parts and available spares, extends the useful life before recovery is needed at all."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S2",
+        "title": "The circular economy",
+        "front": "Explain the difference between a linear and a circular economy and two design strategies that support circularity.",
+        "back": [
+          "A linear economy extracts raw materials, manufactures, uses and disposes, treating materials as consumed at end of life.",
+          "A circular economy keeps materials in use through repair, reuse, remanufacture and recycling, so waste from one process becomes input to another.",
+          "Design for disassembly uses reversible joints and avoids mixed bonded materials so components can be separated and recovered.",
+          "Designing for repair, with replaceable wear parts and available spares, extends the useful life before recovery is needed at all."
+        ]
+      }
     },
     {
       "id": "S3",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Design for disassembly and repair",
       "detail": "Using reversible fastenings, minimising material variety, labelling components and making wear parts accessible and replaceable.",
       "questions": [
@@ -476,11 +733,22 @@
             "Label plastic components with their material type so they can be correctly sorted for recycling."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S3",
+        "title": "Design for disassembly and repair",
+        "front": "Explain four design decisions that make a product easier to repair and recycle.",
+        "back": [
+          "Use mechanical fasteners rather than adhesives and welds, so components can be separated without destroying them.",
+          "Minimise the number of different materials, and avoid permanently bonding dissimilar materials together.",
+          "Make wear components accessible and replaceable without specialist tools, and ensure spares remain available.",
+          "Label plastic components with their material type so they can be correctly sorted for recycling."
+        ]
+      }
     },
     {
       "id": "S4",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Obsolescence",
       "detail": "Planned, technological, functional and style obsolescence, and their environmental and ethical implications.",
       "questions": [
@@ -494,11 +762,22 @@
             "The ethical objection is that planned obsolescence knowingly generates avoidable waste and imposes recurring cost on consumers for the manufacturer's benefit."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S4",
+        "title": "Obsolescence",
+        "front": "Distinguish between planned obsolescence and technological obsolescence, and explain one ethical objection to planned obsolescence.",
+        "back": [
+          "Planned obsolescence is the deliberate design of a product to fail or become undesirable within a limited period so a replacement is purchased.",
+          "Technological obsolescence occurs when genuine advances make an existing product outdated, without any deliberate limitation of its life.",
+          "Style obsolescence relies on fashion to make a functioning product appear undesirable.",
+          "The ethical objection is that planned obsolescence knowingly generates avoidable waste and imposes recurring cost on consumers for the manufacturer's benefit."
+        ]
+      }
     },
     {
       "id": "S5",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Sustainable material choices",
       "detail": "Renewable, recycled and certified materials, embodied energy, local sourcing, and the trade-offs between competing sustainability measures.",
       "questions": [
@@ -512,11 +791,22 @@
             "Sustainability must therefore be assessed across the whole life cycle rather than by a single measure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S5",
+        "title": "Sustainable material choices",
+        "front": "Explain embodied energy and why the material with the lowest embodied energy is not always the most sustainable choice.",
+        "back": [
+          "Embodied energy is the total energy consumed in extracting, processing, manufacturing and transporting a material.",
+          "A material with low embodied energy may have a shorter service life, requiring earlier replacement and consuming more energy over time.",
+          "It may also perform worse in use, for example providing poorer insulation, increasing the product's operational impact.",
+          "Sustainability must therefore be assessed across the whole life cycle rather than by a single measure."
+        ]
+      }
     },
     {
       "id": "S6",
-      "area": "Sustainability and the product life cycle",
+      "area": "Unit 3: Ethical product design and development — AoS 2: Investigating opportunities for ethical design and production",
       "title": "Social sustainability and ethical sourcing",
       "detail": "Labour conditions in supply chains, fair trade and certification, and the social consequences of design and manufacturing decisions.",
       "questions": [
@@ -530,11 +820,22 @@
             "Designing for durability and repair also reduces the total volume produced, which reduces the pressure on labour and resources in the supply chain."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:S6",
+        "title": "Social sustainability and ethical sourcing",
+        "front": "Explain the social dimension of sustainability and two obligations a designer has in relation to supply chains.",
+        "back": [
+          "Social sustainability concerns the effect of production on the people who make, use and dispose of a product, including their safety, pay and conditions.",
+          "A designer should understand where materials and components originate, since choosing an untraceable supplier makes exploitation invisible rather than absent.",
+          "Specifying certified materials and audited suppliers shifts demand towards producers meeting labour and environmental standards.",
+          "Designing for durability and repair also reduces the total volume produced, which reduces the pressure on labour and resources in the supply chain."
+        ]
+      }
     },
     {
       "id": "E1",
-      "area": "Evaluation, testing and quality",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Testing the product",
       "detail": "Functional testing against the criteria, user trials, load and durability testing, and documenting results objectively.",
       "questions": [
@@ -548,11 +849,22 @@
             "Note the conditions of the test, since a result obtained under ideal conditions may not represent real use."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:E1",
+        "title": "Testing the product",
+        "front": "Describe how a product should be tested against its evaluation criteria.",
+        "back": [
+          "Test each criterion separately using a method that produces evidence, such as a measured load, a timed task or a user trial.",
+          "Involve the actual end user where the criterion concerns comfort, usability or aesthetics, since the designer cannot judge these on their behalf.",
+          "Record the result objectively, including failures, rather than reporting only what confirms the design worked.",
+          "Note the conditions of the test, since a result obtained under ideal conditions may not represent real use."
+        ]
+      }
     },
     {
       "id": "E2",
-      "area": "Evaluation, testing and quality",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Quality measures",
       "detail": "Dimensional accuracy, consistency of finish, structural integrity, and the standards against which quality is judged.",
       "questions": [
@@ -565,11 +877,21 @@
             "An expensive material poorly worked produces a low-quality product, while a modest material executed accurately can meet every requirement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:E2",
+        "title": "Quality measures",
+        "front": "Explain how the quality of a finished product is judged and why quality is not the same as expense.",
+        "back": [
+          "Quality is judged against the requirements of the brief, including dimensional accuracy, consistency of finish, sound joints and reliable function.",
+          "A product meets quality standards when it performs its intended function reliably for its intended life in its intended context.",
+          "An expensive material poorly worked produces a low-quality product, while a modest material executed accurately can meet every requirement."
+        ]
+      }
     },
     {
       "id": "E3",
-      "area": "Evaluation, testing and quality",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Evaluating against the brief",
       "detail": "Judging the finished product against each criterion, acknowledging shortcomings, and identifying improvements for a future iteration.",
       "questions": [
@@ -583,11 +905,22 @@
             "Specific improvements that would be made in a further iteration, which demonstrates critical understanding of the outcome."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:E3",
+        "title": "Evaluating against the brief",
+        "front": "Explain what a strong evaluation of a finished product contains.",
+        "back": [
+          "A judgement on each evaluation criterion individually, supported by the evidence from testing rather than by assertion.",
+          "Honest acknowledgement of criteria that were not met and an explanation of why, whether from design, material or production decisions.",
+          "Feedback from the end user, since the product was designed for them rather than for the designer.",
+          "Specific improvements that would be made in a further iteration, which demonstrates critical understanding of the outcome."
+        ]
+      }
     },
     {
       "id": "E4",
-      "area": "Evaluation, testing and quality",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Evaluating the process",
       "detail": "Reflecting on the effectiveness of the design process itself, including research, planning, time management and decision making.",
       "questions": [
@@ -600,11 +933,21 @@
             "The reflection should be specific about what would be done differently and why, rather than a general statement that more time was needed."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:E4",
+        "title": "Evaluating the process",
+        "front": "Explain why the design process should be evaluated as well as the finished product.",
+        "back": [
+          "A satisfactory product can result from a poor process that involved wasted time, avoidable rework or decisions made without evidence.",
+          "Identifying where the process failed, such as insufficient user research or an unrealistic schedule, improves future work.",
+          "The reflection should be specific about what would be done differently and why, rather than a general statement that more time was needed."
+        ]
+      }
     },
     {
       "id": "L1",
-      "area": "Legal, ethical and safety obligations",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Workplace safety",
       "detail": "Risk assessment, safe operating procedures, personal protective equipment, machine guarding and the reporting of hazards.",
       "questions": [
@@ -618,11 +961,22 @@
             "Review the assessment after any change to the process, material or equipment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:L1",
+        "title": "Workplace safety",
+        "front": "Outline the steps of a risk assessment for a workshop operation.",
+        "back": [
+          "Identify the hazards associated with the operation, including the machine, the material, dust, noise and the working environment.",
+          "Assess the risk of each hazard by considering the likelihood of harm and the severity of the consequence.",
+          "Apply controls in order of effectiveness: eliminate the hazard if possible, substitute a safer process, apply engineering controls such as guarding, then administrative controls, and personal protective equipment last.",
+          "Review the assessment after any change to the process, material or equipment."
+        ]
+      }
     },
     {
       "id": "L2",
-      "area": "Legal, ethical and safety obligations",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 1: Managing production for ethical designs",
       "title": "Product safety and standards",
       "detail": "Australian Standards, mandatory safety requirements, testing and labelling, and the designer's duty of care to users.",
       "questions": [
@@ -635,11 +989,21 @@
             "This may involve structural margins beyond the intended load, guarding of hazardous parts, or warnings and instructions where the risk cannot be designed out."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:L2",
+        "title": "Product safety and standards",
+        "front": "Explain why a designer must consider foreseeable misuse as well as intended use.",
+        "back": [
+          "Users will use a product in ways the designer did not intend, including standing on furniture or using a tool for an unintended task.",
+          "A designer owes a duty of care to anticipate reasonably foreseeable misuse and to design so that it does not cause serious harm.",
+          "This may involve structural margins beyond the intended load, guarding of hazardous parts, or warnings and instructions where the risk cannot be designed out."
+        ]
+      }
     },
     {
       "id": "L3",
-      "area": "Legal, ethical and safety obligations",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Intellectual property",
       "detail": "Copyright, design registration, patents and trade marks, and the obligation not to copy the protected work of others.",
       "questions": [
@@ -653,11 +1017,22 @@
             "A designer must check that a concept does not infringe existing rights, since independent creation is not a defence to infringement of a registered right."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:L3",
+        "title": "Intellectual property",
+        "front": "Distinguish between a patent, a registered design and a trade mark.",
+        "back": [
+          "A patent protects a new invention or the way something works, giving the owner exclusive rights for a limited period.",
+          "A registered design protects the visual appearance of a product, including its shape, configuration, pattern and ornamentation.",
+          "A trade mark protects a sign that distinguishes a trader's goods or services, such as a name, logo or shape used as a brand.",
+          "A designer must check that a concept does not infringe existing rights, since independent creation is not a defence to infringement of a registered right."
+        ]
+      }
     },
     {
       "id": "L4",
-      "area": "Legal, ethical and safety obligations",
+      "area": "Unit 4: Production and evaluation of ethical designs — AoS 2: Evaluation and speculative design",
       "title": "Cultural respect and appropriate use of designs",
       "detail": "Protocols for using Aboriginal and Torres Strait Islander designs and cultural material, and the obligation to consult and obtain permission.",
       "questions": [
@@ -671,7 +1046,18 @@
             "Any agreement should address attribution, the scope of use and fair remuneration, and the designer should not proceed if permission is refused."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:L4",
+        "title": "Cultural respect and appropriate use of designs",
+        "front": "Explain the obligations a designer has when considering the use of Aboriginal and Torres Strait Islander designs or motifs.",
+        "back": [
+          "Such designs carry cultural meaning and may belong to a specific community or individual with the authority to use them.",
+          "Use without permission is appropriation, regardless of whether it infringes copyright, because the harm is cultural rather than only legal.",
+          "The designer must identify the community concerned, consult through appropriate channels and obtain informed permission.",
+          "Any agreement should address attribution, the scope of use and fair remuneration, and the designer should not proceed if permission is refused."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -688,7 +1074,17 @@
             "Evaluate requires weighing advantages against disadvantages and reaching a supported judgement, which must be stated explicitly."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:X1",
+        "title": "Command terms and mark allocation",
+        "front": "Explain how 'describe', 'explain' and 'evaluate' differ in Product Design responses.",
+        "back": [
+          "Describe requires an account of what something is or how it is done, without reasons.",
+          "Explain requires the reasoning: how the process works or why the decision produces the outcome.",
+          "Evaluate requires weighing advantages against disadvantages and reaching a supported judgement, which must be stated explicitly."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -706,7 +1102,18 @@
             "Acknowledge the trade-off accepted, such as higher cost or greater difficulty in machining, which demonstrates evaluated judgement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:X2",
+        "title": "Justifying material and process choices",
+        "front": "Explain the structure of a strong justification for a material choice.",
+        "back": [
+          "Name the specific material rather than a general category, for example stainless steel rather than metal.",
+          "Name the property that makes it suitable, such as corrosion resistance or high strength to weight ratio.",
+          "Link that property to the specific requirement in the brief or the context of use it satisfies.",
+          "Acknowledge the trade-off accepted, such as higher cost or greater difficulty in machining, which demonstrates evaluated judgement."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -723,7 +1130,17 @@
             "Constraint and consideration: a constraint is a fixed requirement, while a consideration is a factor that allows judgement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "product-design-34:X3",
+        "title": "Using correct technical terminology",
+        "front": "Give three pairs of commonly confused Product Design terms and distinguish each.",
+        "back": [
+          "Strength and hardness: strength resists applied force, while hardness resists surface indentation and wear.",
+          "Thermoplastic and thermoset: thermoplastics can be reheated and reformed, thermosets cannot.",
+          "Constraint and consideration: a constraint is a fixed requirement, while a consideration is a factor that allows judgement."
+        ]
+      }
     }
   ]
 }

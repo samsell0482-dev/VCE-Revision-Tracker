@@ -2,23 +2,23 @@
   "id": "business-management-34",
   "name": "Business Management",
   "areas": [
-    "Unit 3 AoS 1 — Business foundations",
-    "Unit 3 AoS 2 — Managing employees",
-    "Unit 3 AoS 3 — Operations management",
-    "Unit 4 AoS 1 — Reviewing performance and the need for change",
-    "Unit 4 AoS 2 — Implementing change",
+    "Unit 3: Managing a business — AoS 1: Business foundations",
+    "Unit 3: Managing a business — AoS 2: Human resource management",
+    "Unit 3: Managing a business — AoS 3: Operations management",
+    "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
+    "Unit 4: Transforming a business — AoS 2: Implementing change",
     "Exam technique and case study skills"
   ],
   "short": {
-    "Unit 3 AoS 1 — Business foundations": "U3 Foundations",
-    "Unit 3 AoS 2 — Managing employees": "U3 Employees",
-    "Unit 3 AoS 3 — Operations management": "U3 Operations",
-    "Unit 4 AoS 1 — Reviewing performance and the need for change": "U4 Reviewing",
-    "Unit 4 AoS 2 — Implementing change": "U4 Implementing",
+    "Unit 3: Managing a business — AoS 1: Business foundations": "U1 Business foundations",
+    "Unit 3: Managing a business — AoS 2: Human resource management": "U2 Human resource management",
+    "Unit 3: Managing a business — AoS 3: Operations management": "U3 Operations management",
+    "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change": "U1 Reviewing performance – the",
+    "Unit 4: Transforming a business — AoS 2: Implementing change": "U2 Implementing change",
     "Exam technique and case study skills": "Exam technique"
   },
   "source": "Adapted revision checklist based on VCAA's VCE Business Management Study Design, Units 3 and 4. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/business-management",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/business-management/vce-business-management",
   "sourceLabel": "VCAA Business Management study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use class resources and past examinations for official practice.",
   "theme": {
@@ -29,7 +29,7 @@
   "points": [
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Types of business",
       "detail": "Sole trader, partnership, private limited company, public listed company, social enterprise and government business enterprise, and the features that distinguish them.",
       "questions": [
@@ -43,11 +43,22 @@
             "A private limited company can raise capital by issuing shares to a limited number of shareholders, whereas a sole trader relies on personal funds and borrowing."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.1",
+        "title": "Types of business",
+        "front": "Compare a sole trader with a private limited company in terms of legal status, liability and access to finance.",
+        "back": [
+          "A sole trader is an unincorporated business owned and operated by one person, and the owner and the business are the same legal entity.",
+          "A private limited company is incorporated and is a separate legal entity from its owners, who are shareholders.",
+          "A sole trader has unlimited liability, so personal assets are at risk, while shareholders in a private limited company have limited liability restricted to the value of their shares.",
+          "A private limited company can raise capital by issuing shares to a limited number of shareholders, whereas a sole trader relies on personal funds and borrowing."
+        ]
+      }
     },
     {
       "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Business objectives",
       "detail": "Making a profit, increasing market share, fulfilling a market need, fulfilling a social need and meeting shareholder expectations, and how objectives differ between types of business.",
       "questions": [
@@ -60,11 +71,21 @@
             "A social enterprise still needs to remain financially viable, so it pursues profit alongside its social objective rather than instead of it."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.2",
+        "title": "Business objectives",
+        "front": "Explain why the objectives of a social enterprise differ from those of a public listed company.",
+        "back": [
+          "A public listed company must meet shareholder expectations, so profit and share price growth are primary objectives.",
+          "A social enterprise exists primarily to fulfil a social need, and profit is a means of funding that mission rather than an end in itself.",
+          "A social enterprise still needs to remain financially viable, so it pursues profit alongside its social objective rather than instead of it."
+        ]
+      }
     },
     {
       "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Stakeholders and their interests",
       "detail": "Owners, managers, employees, customers, suppliers, the general community and their potentially conflicting interests in a business.",
       "questions": [
@@ -78,11 +99,22 @@
             "The conflict arises because the same decision advances one stakeholder's interest while damaging another's, so management must weigh them."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.3",
+        "title": "Stakeholders and their interests",
+        "front": "Identify two stakeholders whose interests may conflict when a business relocates manufacturing overseas, and explain the conflict.",
+        "back": [
+          "Shareholders have an interest in higher profits and returns, which lower overseas wage costs may deliver.",
+          "Employees have an interest in job security and fair conditions, and relocation places their employment at risk.",
+          "The general community also has an interest in local employment and economic activity, which relocation reduces.",
+          "The conflict arises because the same decision advances one stakeholder's interest while damaging another's, so management must weigh them."
+        ]
+      }
     },
     {
       "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Corporate social responsibility",
       "detail": "Going beyond legal obligations to consider social, ethical and environmental consequences, and the tension between corporate social responsibility and short-term profit.",
       "questions": [
@@ -95,11 +127,21 @@
             "An example is voluntarily auditing overseas suppliers for fair working conditions, which no Australian law requires."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.4",
+        "title": "Corporate social responsibility",
+        "front": "Distinguish between a business's legal obligations and corporate social responsibility, and give one example of each in employment.",
+        "back": [
+          "Legal obligations are the minimum standards a business must meet under law, such as paying at least the award wage and meeting occupational health and safety requirements.",
+          "Corporate social responsibility goes beyond legal minimums to consider the wider social and environmental consequences of decisions.",
+          "An example is voluntarily auditing overseas suppliers for fair working conditions, which no Australian law requires."
+        ]
+      }
     },
     {
       "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Management styles",
       "detail": "Autocratic, persuasive, consultative, participative and laissez-faire styles, and the level of communication, decision making and control associated with each.",
       "questions": [
@@ -113,11 +155,22 @@
             "A participative style suits a skilled, experienced workforce being asked to solve a complex problem, because it draws on their expertise and raises commitment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.5",
+        "title": "Management styles",
+        "front": "Compare an autocratic and a participative management style, and identify a situation in which each is appropriate.",
+        "back": [
+          "An autocratic manager makes decisions alone and communicates them one way, with tight control over employees.",
+          "A participative manager shares decision making with employees, using two-way communication and delegating authority.",
+          "An autocratic style suits a crisis or an emergency where a fast decision is essential and there is no time to consult.",
+          "A participative style suits a skilled, experienced workforce being asked to solve a complex problem, because it draws on their expertise and raises commitment."
+        ]
+      }
     },
     {
       "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Appropriateness of management styles",
       "detail": "Matching a style to the nature of the task, the time available, the experience of employees and the manager's own preference.",
       "questions": [
@@ -130,11 +183,21 @@
             "Where employees are highly experienced and the task is complex, a consultative or participative style produces better decisions and greater commitment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.6",
+        "title": "Appropriateness of management styles",
+        "front": "State three factors that determine which management style is appropriate, and explain how one of them affects the choice.",
+        "back": [
+          "The nature of the task, the time available, the experience of employees and the manager's preference all affect the choice.",
+          "Where time is short, consulting employees is not feasible, so an autocratic or persuasive style is more appropriate.",
+          "Where employees are highly experienced and the task is complex, a consultative or participative style produces better decisions and greater commitment."
+        ]
+      }
     },
     {
       "id": "3.1.7",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Management skills",
       "detail": "Communicating, delegating, planning, leading, decision making, interpersonal skills and problem solving, and how each skill supports particular management styles.",
       "questions": [
@@ -147,11 +210,21 @@
             "If a task is delegated without adequate authority, training or clear expectations, the work may not be completed to standard and the employee may become demotivated."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.7",
+        "title": "Management skills",
+        "front": "Explain why delegation is an essential management skill and state one risk of delegating poorly.",
+        "back": [
+          "Delegation transfers authority and responsibility for a task to an employee, freeing the manager to focus on higher-level work.",
+          "It develops employee skills and can increase motivation by demonstrating trust.",
+          "If a task is delegated without adequate authority, training or clear expectations, the work may not be completed to standard and the employee may become demotivated."
+        ]
+      }
     },
     {
       "id": "3.1.8",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "The relationship between management styles and skills",
       "detail": "How a chosen style requires particular skills, for example participative management depending on communicating, delegating and interpersonal skills.",
       "questions": [
@@ -164,11 +237,21 @@
             "Without strong communication skills employees may feel their views were ignored, which undermines the motivational benefit of the style."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.8",
+        "title": "The relationship between management styles and skills",
+        "front": "Explain the relationship between a consultative management style and the skill of communicating.",
+        "back": [
+          "A consultative manager seeks employee views before making the final decision themselves.",
+          "Two-way communication is therefore essential, both to gather input and to explain the reasoning behind the decision taken.",
+          "Without strong communication skills employees may feel their views were ignored, which undermines the motivational benefit of the style."
+        ]
+      }
     },
     {
       "id": "3.1.9",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Corporate culture",
       "detail": "Official and real corporate culture, the elements that create it, and strategies for developing and changing culture.",
       "questions": [
@@ -182,11 +265,22 @@
             "Recognition and reward programs, shared celebrations and involving employees in setting values also strengthen the desired culture."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.9",
+        "title": "Corporate culture",
+        "front": "Distinguish between official and real corporate culture and describe two strategies for improving corporate culture.",
+        "back": [
+          "Official corporate culture consists of the values a business formally states, such as a published mission statement or code of conduct.",
+          "Real corporate culture is what actually happens in the workplace, shown through the behaviour of managers and employees, rituals and the way disputes are handled.",
+          "Strategies include managers modelling the desired behaviour so that the official and real cultures align.",
+          "Recognition and reward programs, shared celebrations and involving employees in setting values also strengthen the desired culture."
+        ]
+      }
     },
     {
       "id": "3.1.10",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Decision making and problem solving",
       "detail": "The steps of identifying the issue, generating and evaluating options, choosing and implementing a course of action, and reviewing the outcome.",
       "questions": [
@@ -199,11 +293,21 @@
             "Poor decision making wastes resources, damages employee confidence in management and can prevent the business achieving its objectives."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.10",
+        "title": "Decision making and problem solving",
+        "front": "Explain why decision making is described as a management skill and state one consequence of poor decision making.",
+        "back": [
+          "Decision making is the ability to identify the options available and select the most appropriate course of action for the business.",
+          "It requires gathering relevant information, weighing the likely consequences of each option against the business objectives and committing to a choice.",
+          "Poor decision making wastes resources, damages employee confidence in management and can prevent the business achieving its objectives."
+        ]
+      }
     },
     {
       "id": "3.1.11",
-      "area": "Unit 3 AoS 1 — Business foundations",
+      "area": "Unit 3: Managing a business — AoS 1: Business foundations",
       "title": "Leading and interpersonal skills",
       "detail": "Influencing and motivating employees towards the objectives of the business, and building the trust and rapport on which cooperation depends.",
       "questions": [
@@ -216,11 +320,21 @@
             "Interpersonal skills build the trust and rapport that make employees willing to be led and willing to speak openly, so weak interpersonal skills undermine both."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.1.11",
+        "title": "Leading and interpersonal skills",
+        "front": "Distinguish between the skills of leading and of communicating, and explain why interpersonal skills support both.",
+        "back": [
+          "Leading is the ability to influence and motivate employees to work towards the objectives of the business.",
+          "Communicating is the ability to convey information clearly and to listen, so that instructions and feedback are understood.",
+          "Interpersonal skills build the trust and rapport that make employees willing to be led and willing to speak openly, so weak interpersonal skills undermine both."
+        ]
+      }
     },
     {
       "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "The link between managing employees and business objectives",
       "detail": "How effective human resource management supports the achievement of objectives such as profit, market share and meeting a market need.",
       "questions": [
@@ -233,11 +347,21 @@
             "Lower staff turnover also preserves knowledge and reduces recruitment costs, allowing resources to be directed to growth."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.1",
+        "title": "The link between managing employees and business objectives",
+        "front": "Explain how effective management of employees contributes to a business achieving its objective of increasing market share.",
+        "back": [
+          "Motivated and well-trained employees deliver higher quality products and better customer service.",
+          "This improves customer satisfaction and reputation, attracting customers from competitors.",
+          "Lower staff turnover also preserves knowledge and reduces recruitment costs, allowing resources to be directed to growth."
+        ]
+      }
     },
     {
       "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Maslow's Hierarchy of Needs",
       "detail": "The five levels of physiological, safety, social, esteem and self-actualisation needs, the requirement to satisfy lower levels first, and the strengths and weaknesses of the theory.",
       "questions": [
@@ -251,11 +375,22 @@
             "A limitation is that the hierarchy assumes a fixed order that may not apply to all individuals or cultures, and needs may be pursued simultaneously."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.2",
+        "title": "Maslow's Hierarchy of Needs",
+        "front": "Apply Maslow's Hierarchy of Needs to a business, identifying a strategy that addresses a lower-level and a higher-level need, and state one limitation of the theory.",
+        "back": [
+          "Lower level: providing a safe workplace and secure ongoing employment addresses safety needs.",
+          "Higher level: offering challenging projects and opportunities for creativity addresses self-actualisation needs.",
+          "A manager must satisfy lower-level needs before higher-level ones motivate behaviour.",
+          "A limitation is that the hierarchy assumes a fixed order that may not apply to all individuals or cultures, and needs may be pursued simultaneously."
+        ]
+      }
     },
     {
       "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Locke and Latham's Goal Setting Theory",
       "detail": "The five principles of clarity, challenge, commitment, feedback and task complexity, and how goal setting motivates by directing effort and persistence.",
       "questions": [
@@ -269,11 +404,22 @@
             "Regular feedback and employee commitment to the goal are required for the theory to work in practice."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.3",
+        "title": "Locke and Latham's Goal Setting Theory",
+        "front": "Explain how the principles of clarity and challenge in Locke and Latham's theory motivate employees, and one risk if challenge is set incorrectly.",
+        "back": [
+          "Clarity means goals are specific and measurable, so employees know exactly what is expected and can direct their effort accordingly.",
+          "Challenge means goals are demanding enough to be motivating, because employees exert greater effort for a goal that stretches them.",
+          "A goal set too high is seen as unachievable, so employees disengage rather than increase effort.",
+          "Regular feedback and employee commitment to the goal are required for the theory to work in practice."
+        ]
+      }
     },
     {
       "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Lawrence and Nohria's Four Drive Theory",
       "detail": "The drives to acquire, bond, learn and defend, their interaction, and how a business can address each drive simultaneously.",
       "questions": [
@@ -287,11 +433,22 @@
             "Drive to defend: transparent processes, job security and a fair grievance procedure that protect employees against threat."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.4",
+        "title": "Lawrence and Nohria's Four Drive Theory",
+        "front": "Name the four drives in Lawrence and Nohria's theory and give one workplace strategy that addresses each.",
+        "back": [
+          "Drive to acquire: performance bonuses and promotion opportunities that reward achievement relative to others.",
+          "Drive to bond: team-based work, social events and a collaborative culture that create a sense of belonging.",
+          "Drive to learn: training programs, job rotation and challenging assignments that satisfy curiosity.",
+          "Drive to defend: transparent processes, job security and a fair grievance procedure that protect employees against threat."
+        ]
+      }
     },
     {
       "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Comparing the motivation theories",
       "detail": "Similarities and differences between the three theories in their assumptions, their treatment of individual differences and their practical usefulness to managers.",
       "questions": [
@@ -305,11 +462,22 @@
             "Maslow's model is simpler to explain and helps a manager recognise that unmet basic needs will block higher-level motivation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.5",
+        "title": "Comparing the motivation theories",
+        "front": "Compare Maslow's Hierarchy of Needs with the Four Drive Theory on the order in which needs are addressed and the practicality of each for a manager.",
+        "back": [
+          "Maslow argues needs are addressed in a fixed sequence from lower to higher, whereas the Four Drive Theory argues all four drives must be addressed simultaneously and continuously.",
+          "Both recognise that money alone does not sustain motivation and that social and developmental needs matter.",
+          "The Four Drive Theory is arguably more practical because a manager can act on all four drives at once rather than diagnosing each employee's current level.",
+          "Maslow's model is simpler to explain and helps a manager recognise that unmet basic needs will block higher-level motivation."
+        ]
+      }
     },
     {
       "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Motivation strategies",
       "detail": "Performance-related pay, career advancement, investment in training, support and sanction, and the short-term and long-term effects of each on motivation and performance.",
       "questions": [
@@ -323,11 +491,22 @@
             "It may also lead employees to focus narrowly on the measured target at the expense of quality or customer service."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.6",
+        "title": "Motivation strategies",
+        "front": "Evaluate performance-related pay as a motivation strategy, including one short-term and one long-term effect.",
+        "back": [
+          "Performance-related pay links financial reward directly to measured achievement, which provides a clear and immediate incentive.",
+          "In the short term it usually raises effort and output because the reward is tangible and visible.",
+          "In the long term employees may come to expect the payment, so its motivational effect declines, and it can encourage competition that undermines teamwork.",
+          "It may also lead employees to focus narrowly on the measured target at the expense of quality or customer service."
+        ]
+      }
     },
     {
       "id": "3.2.7",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Training options",
       "detail": "On-the-job and off-the-job training, the advantages and disadvantages of each, and the link between training and business objectives.",
       "questions": [
@@ -341,11 +520,22 @@
             "An advantage of off-the-job training is access to specialist expertise and freedom from workplace distractions, which suits complex or technical skills."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.7",
+        "title": "Training options",
+        "front": "Compare on-the-job and off-the-job training, giving one advantage of each.",
+        "back": [
+          "On-the-job training takes place at the workplace while the employee performs their normal role, often alongside an experienced colleague.",
+          "Off-the-job training occurs away from the workplace, such as at a training provider or conference.",
+          "An advantage of on-the-job training is lower cost and immediate relevance, since the employee learns on the actual equipment and remains productive.",
+          "An advantage of off-the-job training is access to specialist expertise and freedom from workplace distractions, which suits complex or technical skills."
+        ]
+      }
     },
     {
       "id": "3.2.8",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Performance management strategies",
       "detail": "Management by objectives, appraisals, self-evaluation and employee observation, and the purpose of each in improving performance and supporting objectives.",
       "questions": [
@@ -359,11 +549,22 @@
             "A disadvantage is that it is time consuming to negotiate and review individual objectives, and it works poorly where outcomes are difficult to measure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.8",
+        "title": "Performance management strategies",
+        "front": "Explain how management by objectives works and state one advantage and one disadvantage.",
+        "back": [
+          "Management by objectives involves a manager and employee jointly setting individual objectives that align with the objectives of the business.",
+          "Progress is reviewed at agreed intervals and performance is assessed against the agreed objectives.",
+          "An advantage is that employees understand how their work contributes to the business, which increases commitment and provides clear direction.",
+          "A disadvantage is that it is time consuming to negotiate and review individual objectives, and it works poorly where outcomes are difficult to measure."
+        ]
+      }
     },
     {
       "id": "3.2.9",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Termination of employment",
       "detail": "Retirement, resignation, redundancy and dismissal; voluntary and involuntary termination; entitlement and transition considerations for departing employees.",
       "questions": [
@@ -377,11 +578,22 @@
             "Transition considerations include providing retraining, counselling and assistance finding new employment, which supports both the departing employee and the morale of remaining staff."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.9",
+        "title": "Termination of employment",
+        "front": "Distinguish between redundancy and dismissal, and outline two management considerations when an employee is made redundant.",
+        "back": [
+          "Redundancy occurs when the role itself is no longer required, for example because of restructuring or automation, and is not related to the employee's performance.",
+          "Dismissal occurs when an employee's conduct or performance is unacceptable, and it must follow a fair process to avoid an unfair dismissal claim.",
+          "Entitlement considerations include redundancy pay, accrued leave and notice periods as required by law or agreement.",
+          "Transition considerations include providing retraining, counselling and assistance finding new employment, which supports both the departing employee and the morale of remaining staff."
+        ]
+      }
     },
     {
       "id": "3.2.10",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Participants in workplace relations",
       "detail": "The roles of human resource managers, employees, employer associations, unions and the Fair Work Commission in the workplace relations system.",
       "questions": [
@@ -395,11 +607,22 @@
             "It also approves enterprise agreements and assists in resolving disputes through conciliation, mediation and arbitration."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.10",
+        "title": "Participants in workplace relations",
+        "front": "Describe the roles of a union and of the Fair Work Commission in workplace relations.",
+        "back": [
+          "A union is an organisation representing employees in a particular industry, negotiating on their behalf for improved wages and conditions.",
+          "Unions also provide advice and representation to members in disputes and may organise industrial action.",
+          "The Fair Work Commission is the national workplace relations tribunal that sets and reviews minimum wages and awards.",
+          "It also approves enterprise agreements and assists in resolving disputes through conciliation, mediation and arbitration."
+        ]
+      }
     },
     {
       "id": "3.2.11",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Awards and enterprise agreements",
       "detail": "Awards as industry-wide minimum conditions and enterprise agreements as negotiated workplace agreements, and the better off overall test.",
       "questions": [
@@ -412,11 +635,21 @@
             "The agreement must leave employees better off overall than they would be under the relevant award, and must be approved by the Fair Work Commission."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.11",
+        "title": "Awards and enterprise agreements",
+        "front": "Distinguish between an award and an enterprise agreement, and explain the requirement that an agreement must satisfy.",
+        "back": [
+          "An award sets legally enforceable minimum wages and conditions for an entire industry or occupation.",
+          "An enterprise agreement is collectively negotiated between a business and its employees, often with union involvement, and applies only at that workplace.",
+          "The agreement must leave employees better off overall than they would be under the relevant award, and must be approved by the Fair Work Commission."
+        ]
+      }
     },
     {
       "id": "3.2.12",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Dispute resolution",
       "detail": "Mediation, conciliation and arbitration, the role of a third party in each and whether the outcome is binding.",
       "questions": [
@@ -430,11 +663,22 @@
             "An arbitrated decision is legally binding on both parties, so arbitration is usually a last resort after the other methods fail."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.12",
+        "title": "Dispute resolution",
+        "front": "Compare mediation, conciliation and arbitration in terms of the role of the third party and whether the decision is binding.",
+        "back": [
+          "In mediation an impartial third party facilitates discussion but offers no suggested solution, and any agreement reached is not legally binding unless the parties formalise it.",
+          "In conciliation the third party is more active and may suggest possible solutions, but the parties still reach their own agreement.",
+          "In arbitration the third party hears both sides and imposes a decision.",
+          "An arbitrated decision is legally binding on both parties, so arbitration is usually a last resort after the other methods fail."
+        ]
+      }
     },
     {
       "id": "3.2.13",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Employer associations and human resource managers",
       "detail": "The role of employer associations in representing and advising businesses, and the role of the human resource manager in the workplace relations process.",
       "questions": [
@@ -447,11 +691,21 @@
             "The human resource manager also negotiates directly with employees and their representatives and ensures the business complies with awards and agreements."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.13",
+        "title": "Employer associations and human resource managers",
+        "front": "Explain the role of an employer association and of a human resource manager in workplace relations.",
+        "back": [
+          "An employer association represents businesses in an industry, providing advice on workplace relations law and representing members in negotiations and disputes.",
+          "A human resource manager manages the employment cycle within the business, including recruitment, training, performance management and termination.",
+          "The human resource manager also negotiates directly with employees and their representatives and ensures the business complies with awards and agreements."
+        ]
+      }
     },
     {
       "id": "3.2.14",
-      "area": "Unit 3 AoS 2 — Managing employees",
+      "area": "Unit 3: Managing a business — AoS 2: Human resource management",
       "title": "Managing employees and corporate culture",
       "detail": "How recruitment, training, performance management and termination practices shape the real corporate culture over time.",
       "questions": [
@@ -464,11 +718,21 @@
             "Providing transition support and communicating honestly about the reasons preserves morale and reinforces a culture in which employees feel valued."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.2.14",
+        "title": "Managing employees and corporate culture",
+        "front": "Explain how the way a business manages terminations affects its corporate culture.",
+        "back": [
+          "Remaining employees observe how departing colleagues are treated and draw conclusions about how the business values its people.",
+          "A termination handled without support or transparency generates fear and mistrust, damaging the real corporate culture regardless of stated values.",
+          "Providing transition support and communicating honestly about the reasons preserves morale and reinforces a culture in which employees feel valued."
+        ]
+      }
     },
     {
       "id": "3.3.1",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Operations and business objectives",
       "detail": "The operations system as the area of a business that produces goods or services, and the link between operations efficiency and effectiveness and the achievement of objectives.",
       "questions": [
@@ -481,11 +745,21 @@
             "A business can be efficient without being effective if it produces cheaply but the goods do not meet a market need, so both are required for success."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.1",
+        "title": "Operations and business objectives",
+        "front": "Distinguish between efficiency and effectiveness in operations and explain why a business needs both.",
+        "back": [
+          "Efficiency is how productively resources are used, that is producing the maximum output for the minimum input.",
+          "Effectiveness is the degree to which the business achieves its stated objectives.",
+          "A business can be efficient without being effective if it produces cheaply but the goods do not meet a market need, so both are required for success."
+        ]
+      }
     },
     {
       "id": "3.3.2",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Elements of an operations system",
       "detail": "Inputs, processes and outputs, and the identification of each within a manufacturing or service business.",
       "questions": [
@@ -498,11 +772,21 @@
             "Outputs: the finished loaves and pastries available for sale to customers."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.2",
+        "title": "Elements of an operations system",
+        "front": "Identify the inputs, processes and outputs for a bakery.",
+        "back": [
+          "Inputs: flour, yeast and other ingredients, labour of the bakers, ovens and mixing equipment, and capital.",
+          "Processes: mixing, proving, shaping and baking the dough, then packaging.",
+          "Outputs: the finished loaves and pastries available for sale to customers."
+        ]
+      }
     },
     {
       "id": "3.3.3",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Manufacturing and service operations",
       "detail": "Differences in tangibility, the ability to store output, customer contact and the measurement of quality between manufacturing and service businesses.",
       "questions": [
@@ -516,11 +800,22 @@
             "Quality measurement is therefore more objective in manufacturing and more dependent on customer perception in services."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.3",
+        "title": "Manufacturing and service operations",
+        "front": "Compare the operations systems of a manufacturing business and a service business on three characteristics.",
+        "back": [
+          "Output tangibility: manufacturing produces a physical good that can be seen and touched, whereas a service is intangible.",
+          "Storage: manufactured goods can be held in inventory, while services are produced and consumed simultaneously and cannot be stored.",
+          "Customer contact: services usually involve direct customer contact during production, whereas manufacturing is generally separated from the customer.",
+          "Quality measurement is therefore more objective in manufacturing and more dependent on customer perception in services."
+        ]
+      }
     },
     {
       "id": "3.3.4",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Technological developments in operations",
       "detail": "Automated production lines, robotics, computer-aided design, website development and online services, and their effects on efficiency, effectiveness and employees.",
       "questions": [
@@ -534,11 +829,22 @@
             "Employees may face redundancy in routine roles, while others require retraining to operate and maintain the new equipment."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.4",
+        "title": "Technological developments in operations",
+        "front": "Explain how introducing automated production lines affects both the efficiency and the effectiveness of operations, and one effect on employees.",
+        "back": [
+          "Efficiency improves because machines operate continuously at a consistent speed, reducing the labour cost and time per unit.",
+          "Effectiveness improves because output is more consistent, reducing defects and helping the business meet its quality and customer objectives.",
+          "The high initial cost of installation reduces short-term profitability and must be weighed against long-term savings.",
+          "Employees may face redundancy in routine roles, while others require retraining to operate and maintain the new equipment."
+        ]
+      }
     },
     {
       "id": "3.3.5",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Forecasting and master production schedule",
       "detail": "Using historical data and market research to predict demand, and planning the quantity and timing of production accordingly.",
       "questions": [
@@ -551,11 +857,21 @@
             "An inaccurate forecast leads either to excess stock that ties up capital and may spoil, or to stockouts that cost sales and damage customer relationships."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.5",
+        "title": "Forecasting and master production schedule",
+        "front": "Explain how forecasting improves the efficiency of operations and state one risk of inaccurate forecasting.",
+        "back": [
+          "Forecasting uses historical sales data and market research to predict future demand, so materials and labour can be scheduled to match it.",
+          "This reduces the cost of holding excess inventory and the disruption caused by shortages.",
+          "An inaccurate forecast leads either to excess stock that ties up capital and may spoil, or to stockouts that cost sales and damage customer relationships."
+        ]
+      }
     },
     {
       "id": "3.3.6",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Materials requirement planning and just in time",
       "detail": "Itemising the materials and components needed for production, and the just in time approach of receiving inputs only as required.",
       "questions": [
@@ -569,11 +885,22 @@
             "A risk is that the business has no buffer stock, so any supplier delay or transport disruption halts production immediately, which requires highly reliable supplier relationships."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.6",
+        "title": "Materials requirement planning and just in time",
+        "front": "Explain the just in time approach to materials management and evaluate one advantage and one risk.",
+        "back": [
+          "Just in time means inputs arrive from suppliers only at the moment they are needed in the production process.",
+          "An advantage is that the cost of holding, storing and insuring inventory is greatly reduced, freeing capital for other uses.",
+          "Waste from damaged or obsolete stock is also reduced, improving efficiency.",
+          "A risk is that the business has no buffer stock, so any supplier delay or transport disruption halts production immediately, which requires highly reliable supplier relationships."
+        ]
+      }
     },
     {
       "id": "3.3.7",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Quality management strategies",
       "detail": "Quality control, quality assurance and total quality management, and the differences between inspecting output, certifying processes and embedding a quality culture.",
       "questions": [
@@ -587,11 +914,22 @@
             "Total quality management aims to prevent defects occurring at all, which is more efficient in the long run but requires cultural change and training."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.7",
+        "title": "Quality management strategies",
+        "front": "Compare quality control with total quality management.",
+        "back": [
+          "Quality control involves inspecting products at points during or after production and removing those that do not meet standards.",
+          "Total quality management is an ongoing, business-wide commitment in which every employee takes responsibility for quality at every stage.",
+          "Quality control detects defects after they occur, so the cost of producing the defective item has already been incurred.",
+          "Total quality management aims to prevent defects occurring at all, which is more efficient in the long run but requires cultural change and training."
+        ]
+      }
     },
     {
       "id": "3.3.8",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Waste minimisation and lean management",
       "detail": "Reducing waste of materials, time, labour and space; the lean principles of pull, one-piece flow, takt time and zero defects.",
       "questions": [
@@ -605,11 +943,22 @@
             "Zero defects aims to eliminate errors at their source rather than correcting them later, reducing rework and scrap."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.8",
+        "title": "Waste minimisation and lean management",
+        "front": "Explain two lean management principles and how each reduces waste.",
+        "back": [
+          "Pull means production is triggered by actual customer demand rather than by a forecast, so nothing is made that is not needed and inventory waste is avoided.",
+          "One-piece flow means items move through the process one at a time rather than in large batches, which reveals defects immediately instead of after a whole batch is made.",
+          "Takt time sets the production pace to match the rate of customer demand, avoiding both overproduction and bottlenecks.",
+          "Zero defects aims to eliminate errors at their source rather than correcting them later, reducing rework and scrap."
+        ]
+      }
     },
     {
       "id": "3.3.9",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Global considerations in operations",
       "detail": "Global sourcing of inputs, overseas manufacture and global outsourcing, and the benefits and risks of each for cost, quality and reputation.",
       "questions": [
@@ -623,11 +972,22 @@
             "Both carry the risk of reduced control over quality and working conditions, and of reputational damage if suppliers are found to be exploiting workers."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.9",
+        "title": "Global considerations in operations",
+        "front": "Distinguish between global sourcing of inputs and global outsourcing, and state one risk common to both.",
+        "back": [
+          "Global sourcing of inputs means acquiring materials or components from overseas suppliers for use in the business's own production.",
+          "Global outsourcing means transferring an entire business function, such as manufacturing or a call centre, to an external overseas provider.",
+          "Both can substantially reduce costs and provide access to specialist capability not available locally.",
+          "Both carry the risk of reduced control over quality and working conditions, and of reputational damage if suppliers are found to be exploiting workers."
+        ]
+      }
     },
     {
       "id": "3.3.10",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Corporate social responsibility in operations",
       "detail": "Environmental sustainability of inputs and processes, ethical sourcing, waste and emissions, and the effect of responsible operations on reputation and cost.",
       "questions": [
@@ -640,11 +1000,21 @@
             "Negatively, audited suppliers usually charge more, raising input costs and reducing short-term profit margins."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.10",
+        "title": "Corporate social responsibility in operations",
+        "front": "Explain one corporate social responsibility consideration in operations and how it may affect the business both positively and negatively.",
+        "back": [
+          "Sourcing materials from suppliers audited for fair pay and safe conditions is an ethical sourcing consideration beyond legal requirements.",
+          "Positively, it protects the business's reputation, appeals to socially conscious customers and reduces the risk of a damaging supply chain scandal.",
+          "Negatively, audited suppliers usually charge more, raising input costs and reducing short-term profit margins."
+        ]
+      }
     },
     {
       "id": "3.3.11",
-      "area": "Unit 3 AoS 3 — Operations management",
+      "area": "Unit 3: Managing a business — AoS 3: Operations management",
       "title": "Supply chain management",
       "detail": "Coordinating suppliers, inventory and distribution so that inputs arrive reliably, and the trade-off between cost and reliability when selecting suppliers.",
       "questions": [
@@ -657,11 +1027,21 @@
             "Such a business must therefore invest in long-term supplier relationships and may accept a higher input price in exchange for reliability."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:3.3.11",
+        "title": "Supply chain management",
+        "front": "Explain why supplier reliability matters more to a business using just in time than to one holding buffer stock.",
+        "back": [
+          "A just in time business holds minimal inventory, so there is no buffer to draw on if a delivery is late or defective.",
+          "Any supplier failure halts production immediately, causing lost output and unmet customer orders.",
+          "Such a business must therefore invest in long-term supplier relationships and may accept a higher input price in exchange for reliability."
+        ]
+      }
     },
     {
       "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Key performance indicators",
       "detail": "Percentage of market share, net profit figures, rate of productivity growth, number of sales, rates of staff absenteeism, level of staff turnover, level of wastage, number of customer complaints and number of workplace accidents.",
       "questions": [
@@ -675,11 +1055,22 @@
             "Both indicate that the business is not achieving its objectives and that change is required."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.1",
+        "title": "Key performance indicators",
+        "front": "A business reports rising staff turnover and rising customer complaints. Explain what each indicator suggests and how they may be linked.",
+        "back": [
+          "A rising level of staff turnover indicates that employees are leaving at an increasing rate, suggesting problems with motivation, culture or conditions.",
+          "A rising number of customer complaints indicates declining product quality or service standards.",
+          "The two may be linked because high turnover means inexperienced staff are serving customers, and remaining staff are overworked.",
+          "Both indicate that the business is not achieving its objectives and that change is required."
+        ]
+      }
     },
     {
       "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Transformation and the need for change",
       "detail": "Proactive and reactive change, the pressure to transform, and the link between key performance indicator data and the decision to change.",
       "questions": [
@@ -692,11 +1083,21 @@
             "Proactive change is generally preferable because the business has time to plan, consult employees and fund the change, whereas reactive change is rushed, more costly and more likely to be resisted."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.2",
+        "title": "Transformation and the need for change",
+        "front": "Distinguish between proactive and reactive change and explain why proactive change is generally preferable.",
+        "back": [
+          "Proactive change is initiated in anticipation of future conditions, before a problem has affected performance.",
+          "Reactive change is a response to a problem that has already arisen or to pressure that has already been applied.",
+          "Proactive change is generally preferable because the business has time to plan, consult employees and fund the change, whereas reactive change is rushed, more costly and more likely to be resisted."
+        ]
+      }
     },
     {
       "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Force Field Analysis",
       "detail": "Lewin's technique of identifying driving and restraining forces, weighting each, and using the analysis to decide whether and how to proceed with change.",
       "questions": [
@@ -710,11 +1111,22 @@
             "Management then develops strategies to strengthen the driving forces and reduce the restraining forces before implementing the change."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.3",
+        "title": "Force Field Analysis",
+        "front": "Describe the steps in conducting a Force Field Analysis and explain how the weightings are used.",
+        "back": [
+          "Identify the proposed change clearly, then list all driving forces pushing for the change and all restraining forces resisting it.",
+          "Assign a weighting to each force according to its strength or importance.",
+          "Total the weightings on each side to judge whether the change is likely to succeed as currently proposed.",
+          "Management then develops strategies to strengthen the driving forces and reduce the restraining forces before implementing the change."
+        ]
+      }
     },
     {
       "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Driving forces for change",
       "detail": "Owners, managers, employees, competitors, legislation, pursuit of profit, reduction of costs, globalisation, technology, innovation and societal attitudes.",
       "questions": [
@@ -727,11 +1139,21 @@
             "Both create pressure because failing to respond results in lost sales and a declining competitive position."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.4",
+        "title": "Driving forces for change",
+        "front": "Explain how competitors and technology can each act as driving forces for change in a retail business.",
+        "back": [
+          "Competitors act as a driving force when a rival introduces lower prices or a superior offering, forcing the business to change to retain market share.",
+          "Technology acts as a driving force when new systems such as online ordering or automated inventory become available and customers come to expect them.",
+          "Both create pressure because failing to respond results in lost sales and a declining competitive position."
+        ]
+      }
     },
     {
       "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Restraining forces",
       "detail": "Managers, employees, time, organisational inertia, legislation and financial considerations as forces that resist or slow change.",
       "questions": [
@@ -745,11 +1167,22 @@
             "Inertia can be reduced by visible leadership commitment and by demonstrating early wins that show the new way works."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.5",
+        "title": "Restraining forces",
+        "front": "Explain why employees and organisational inertia commonly restrain change, and suggest one strategy to reduce each.",
+        "back": [
+          "Employees resist change because of fear of job loss, loss of status or uncertainty about new expectations.",
+          "Organisational inertia is the tendency for established routines, structures and culture to persist because they are familiar and comfortable.",
+          "Employee resistance can be reduced through communication, consultation and training that address the uncertainty directly.",
+          "Inertia can be reduced by visible leadership commitment and by demonstrating early wins that show the new way works."
+        ]
+      }
     },
     {
       "id": "4.1.6",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Porter's Generic Strategies",
       "detail": "Lower cost and differentiation as two approaches to competitive advantage, and how each is implemented and sustained.",
       "questions": [
@@ -763,11 +1196,22 @@
             "Attempting both risks becoming stuck in the middle, with costs too high to compete on price and a product insufficiently distinctive to justify a premium."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.6",
+        "title": "Porter's Generic Strategies",
+        "front": "Explain Porter's two generic strategies and state one risk of attempting both at once.",
+        "back": [
+          "A lower cost strategy aims to produce at a lower cost than competitors, allowing the business to price competitively while maintaining margins.",
+          "A differentiation strategy aims to make the product distinctive in quality, features, service or brand, allowing a premium price to be charged.",
+          "Porter argues a business must commit to one strategy and align all its operations to it.",
+          "Attempting both risks becoming stuck in the middle, with costs too high to compete on price and a product insufficiently distinctive to justify a premium."
+        ]
+      }
     },
     {
       "id": "4.1.7",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Implementing a lower cost strategy",
       "detail": "Strategies such as reviewing suppliers, improving productivity, reducing waste and adopting technology to lower the cost per unit.",
       "questions": [
@@ -780,11 +1224,21 @@
             "Investing in automation raises productivity so that fixed costs are spread over more units, lowering the average cost."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.7",
+        "title": "Implementing a lower cost strategy",
+        "front": "Describe two ways a manufacturing business could pursue a lower cost strategy without reducing quality.",
+        "back": [
+          "Adopting lean management to eliminate waste in materials, time and movement reduces the cost per unit while leaving the product unchanged.",
+          "Renegotiating supplier contracts or sourcing inputs globally can lower input costs, provided quality specifications are maintained.",
+          "Investing in automation raises productivity so that fixed costs are spread over more units, lowering the average cost."
+        ]
+      }
     },
     {
       "id": "4.1.8",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "The Learning Organisation",
       "detail": "Senge's five principles of systems thinking, personal mastery, mental models, shared vision and team learning, and how they support continuous adaptation.",
       "questions": [
@@ -798,11 +1252,22 @@
             "Employees are then more willing to accept change, because they see how it advances a goal they are invested in."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.8",
+        "title": "The Learning Organisation",
+        "front": "Explain systems thinking and shared vision as principles of the Learning Organisation, and how each supports transformation.",
+        "back": [
+          "Systems thinking means viewing the business as an interconnected whole, so managers anticipate how a change in one area affects others.",
+          "This prevents solutions that fix one problem while creating another elsewhere.",
+          "Shared vision means all employees understand and commit to a common picture of the future.",
+          "Employees are then more willing to accept change, because they see how it advances a goal they are invested in."
+        ]
+      }
     },
     {
       "id": "4.1.9",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Strategies to develop a Learning Organisation",
       "detail": "Encouraging open communication, cross-functional teams, reflection on errors, ongoing training and empowering employees to experiment.",
       "questions": [
@@ -815,11 +1280,21 @@
             "Ongoing training and development supports personal mastery by building individual capability."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.9",
+        "title": "Strategies to develop a Learning Organisation",
+        "front": "Describe two strategies a business could use to become more of a Learning Organisation.",
+        "back": [
+          "Establishing cross-functional teams brings employees from different departments together, supporting team learning and systems thinking.",
+          "Treating mistakes as learning opportunities rather than occasions for blame encourages employees to surface problems and challenge existing mental models.",
+          "Ongoing training and development supports personal mastery by building individual capability."
+        ]
+      }
     },
     {
       "id": "4.1.10",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Low-risk and high-risk change strategies",
       "detail": "Communication, empowerment, support and incentives as low-risk strategies, compared with manipulation and threat as high-risk strategies.",
       "questions": [
@@ -833,11 +1308,22 @@
             "However, they damage trust and corporate culture, increase staff turnover and are likely to produce only superficial compliance rather than genuine acceptance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.10",
+        "title": "Low-risk and high-risk change strategies",
+        "front": "Distinguish between low-risk and high-risk strategies for overcoming employee resistance, giving an example of each and evaluating the high-risk approach.",
+        "back": [
+          "Low-risk strategies such as communication, support, incentives and empowerment build employee understanding and commitment.",
+          "High-risk strategies such as manipulation, threat and coercion pressure employees into compliance.",
+          "High-risk strategies may produce fast compliance and are sometimes used when time is very short.",
+          "However, they damage trust and corporate culture, increase staff turnover and are likely to produce only superficial compliance rather than genuine acceptance."
+        ]
+      }
     },
     {
       "id": "4.1.11",
-      "area": "Unit 4 AoS 1 — Reviewing performance and the need for change",
+      "area": "Unit 4: Transforming a business — AoS 1: Reviewing performance – the need for change",
       "title": "Relating generic strategies to the Learning Organisation",
       "detail": "How the principles of the Learning Organisation support the successful pursuit of either a lower cost or a differentiation strategy.",
       "questions": [
@@ -851,11 +1337,22 @@
             "A shared vision keeps that innovation directed at the same distinctive position in the market rather than fragmenting effort."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.1.11",
+        "title": "Relating generic strategies to the Learning Organisation",
+        "front": "Explain how the principles of the Learning Organisation support a business pursuing a differentiation strategy.",
+        "back": [
+          "Differentiation depends on continually offering something rivals do not, which requires ongoing innovation.",
+          "Personal mastery and team learning build the individual and collective capability needed to generate new ideas.",
+          "Challenging mental models encourages employees to question existing assumptions about the product and the customer.",
+          "A shared vision keeps that innovation directed at the same distinctive position in the market rather than fragmenting effort."
+        ]
+      }
     },
     {
       "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Lewin's Three Step Change Model",
       "detail": "Unfreeze, change and refreeze, and the management actions required at each stage to make change permanent.",
       "questions": [
@@ -869,11 +1366,22 @@
             "Without refreezing, employees tend to revert to previous practices once attention shifts elsewhere."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.1",
+        "title": "Lewin's Three Step Change Model",
+        "front": "Describe Lewin's Three Step Change Model and give one management action appropriate to each step.",
+        "back": [
+          "Unfreeze: prepare employees by communicating why change is necessary and reducing restraining forces, for example by explaining the performance data driving the decision.",
+          "Change: implement the new processes, providing training and support while employees adjust to the new way of working.",
+          "Refreeze: embed the change so it becomes the new normal, for example by updating procedures, rewarding the new behaviours and reporting improved results.",
+          "Without refreezing, employees tend to revert to previous practices once attention shifts elsewhere."
+        ]
+      }
     },
     {
       "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Management strategies to respond to key performance indicators",
       "detail": "Selecting strategies that target the specific indicators that have declined, and justifying the choice with reference to the evidence.",
       "questions": [
@@ -887,11 +1395,22 @@
             "A justification must connect the chosen strategy to each indicator rather than describing the strategy in general terms."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.2",
+        "title": "Management strategies to respond to key performance indicators",
+        "front": "A business has a rising level of wastage and a falling rate of productivity growth. Recommend one strategy and justify it with reference to both indicators.",
+        "back": [
+          "Recommend introducing lean management, specifically the elimination of waste in materials and process time.",
+          "Lean directly reduces the level of wastage by identifying and removing sources of scrap, rework and unnecessary movement.",
+          "Removing non-value-adding steps raises output per unit of input, improving the rate of productivity growth.",
+          "A justification must connect the chosen strategy to each indicator rather than describing the strategy in general terms."
+        ]
+      }
     },
     {
       "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Effects of change on stakeholders",
       "detail": "The differing effects of a transformation on owners, managers, employees, customers, suppliers and the general community, and the management of competing interests.",
       "questions": [
@@ -905,11 +1424,22 @@
             "Management must weigh these competing effects and manage the employee impact responsibly to protect culture and reputation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.3",
+        "title": "Effects of change on stakeholders",
+        "front": "A business automates its warehouse. Analyse the effect on two stakeholder groups.",
+        "back": [
+          "Employees: some warehouse roles become redundant, causing job loss and anxiety, while others require retraining to operate the new systems.",
+          "Owners and shareholders: after a significant initial capital outlay, lower ongoing labour costs improve profitability and returns.",
+          "Customers benefit from faster and more accurate order fulfilment, which supports the business's objectives.",
+          "Management must weigh these competing effects and manage the employee impact responsibly to protect culture and reputation."
+        ]
+      }
     },
     {
       "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Corporate social responsibility during change",
       "detail": "Considering the social and environmental consequences of a transformation, including the treatment of redundant employees and the effect on the local community.",
       "questions": [
@@ -922,11 +1452,21 @@
             "Responsible and honest communication about the decision and its timing protects the business's reputation with remaining employees and the wider community."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.4",
+        "title": "Corporate social responsibility during change",
+        "front": "Explain two corporate social responsibility considerations when a business closes a local plant.",
+        "back": [
+          "The business should provide transition support to affected employees beyond the legal minimum, such as retraining, counselling and assistance finding new work.",
+          "It should consider the effect on the local community, which may lose a major employer and the associated economic activity.",
+          "Responsible and honest communication about the decision and its timing protects the business's reputation with remaining employees and the wider community."
+        ]
+      }
     },
     {
       "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Reviewing the effect of transformation",
       "detail": "Comparing key performance indicator data before and after the change, evaluating whether objectives were achieved, and deciding on further action.",
       "questions": [
@@ -940,11 +1480,22 @@
             "If indicators have not improved, management reviews whether the strategy was appropriate or whether implementation was incomplete."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.5",
+        "title": "Reviewing the effect of transformation",
+        "front": "Explain how a business evaluates whether a transformation was successful.",
+        "back": [
+          "The same key performance indicators used to identify the need for change are measured again after the change has been implemented.",
+          "Post-change data is compared with the pre-change baseline to determine the direction and size of any improvement.",
+          "The comparison must allow sufficient time for the change to take effect and should consider external factors that may explain the movement.",
+          "If indicators have not improved, management reviews whether the strategy was appropriate or whether implementation was incomplete."
+        ]
+      }
     },
     {
       "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Business case study over time",
       "detail": "Analysing an actual business that has undergone transformation in recent years: the driving forces, the strategies used and the measured effects.",
       "questions": [
@@ -958,11 +1509,22 @@
             "The measured effect on performance and on named stakeholder groups, supported by concrete detail rather than generalisation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.6",
+        "title": "Business case study over time",
+        "front": "Outline what you must be able to provide about your chosen contemporary business case study in an examination response.",
+        "back": [
+          "The name of the business and the specific transformation it undertook, with an approximate timeframe.",
+          "The key performance indicators or circumstances that indicated the need for change.",
+          "The specific management strategies used to implement the change and how employee resistance was managed.",
+          "The measured effect on performance and on named stakeholder groups, supported by concrete detail rather than generalisation."
+        ]
+      }
     },
     {
       "id": "4.2.7",
-      "area": "Unit 4 AoS 2 — Implementing change",
+      "area": "Unit 4: Transforming a business — AoS 2: Implementing change",
       "title": "Communication and consultation during change",
       "detail": "Keeping employees informed of the reasons, timing and effects of a change, and involving them in decisions about how it is implemented.",
       "questions": [
@@ -976,7 +1538,18 @@
             "Employees involved in shaping the change are far more likely to accept it, which supports the unfreeze stage of Lewin's model."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:4.2.7",
+        "title": "Communication and consultation during change",
+        "front": "Explain how communication and consultation reduce employee resistance during a transformation.",
+        "back": [
+          "Communication explains why the change is necessary, which addresses the uncertainty and rumour that drive much resistance.",
+          "It also sets out the timing and the effect on individual roles, so employees can prepare rather than fear the worst.",
+          "Consultation invites employees to contribute to how the change is implemented, which gives them a degree of control and increases ownership of the outcome.",
+          "Employees involved in shaping the change are far more likely to accept it, which supports the unfreeze stage of Lewin's model."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -994,7 +1567,18 @@
             "A response that only describes will not earn full marks for analyse or evaluate, and evaluate answers must state a conclusion."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:X1",
+        "title": "Command terms",
+        "front": "Explain the difference between 'explain', 'analyse' and 'evaluate' and what each requires in a response.",
+        "back": [
+          "Explain requires a clear account of how or why something occurs, giving reasons and linking cause to effect.",
+          "Analyse requires breaking the issue into components and examining the relationships between them, showing how parts affect one another.",
+          "Evaluate requires weighing strengths against weaknesses or advantages against disadvantages and reaching a supported judgement.",
+          "A response that only describes will not earn full marks for analyse or evaluate, and evaluate answers must state a conclusion."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -1011,7 +1595,17 @@
             "Strong responses quote or paraphrase specific evidence from the case, such as a named indicator or a stated management decision."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:X2",
+        "title": "Applying theory to a case study",
+        "front": "Explain why a response that states correct theory but does not refer to the case study will lose marks.",
+        "back": [
+          "Application marks are awarded for linking the theory to the specific circumstances, names and data in the stimulus.",
+          "A generic answer does not demonstrate that the student can select the theory appropriate to that situation.",
+          "Strong responses quote or paraphrase specific evidence from the case, such as a named indicator or a stated management decision."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -1028,7 +1622,17 @@
             "Allocate roughly one and a half minutes per mark, leaving time to reread the question and ensure every command term has been addressed."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "business-management-34:X3",
+        "title": "Structuring extended responses",
+        "front": "Describe a reliable structure for a 10-mark response and explain how time should be allocated.",
+        "back": [
+          "Address each element of the question in its own paragraph, with a clear topic statement, an explanation of the theory and application to the case.",
+          "A ten-mark question typically requires several distinct points rather than one point developed at length, so check how many elements the question contains.",
+          "Allocate roughly one and a half minutes per mark, leaving time to reread the question and ensure every command term has been addressed."
+        ]
+      }
     }
   ]
 }

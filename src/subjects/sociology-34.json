@@ -4,23 +4,23 @@
   "areas": [
     "Sociological concepts and perspectives",
     "Sociological research methods",
-    "Unit 3 AoS 1 — Crime and deviance",
-    "Unit 3 AoS 2 — Social movements",
-    "Unit 4 AoS 1 — Community, social change and social cohesion",
-    "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+    "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
+    "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+    "Unit 4: Community, social movements and social change — AoS 1: Community",
+    "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
     "Exam technique"
   ],
   "short": {
     "Sociological concepts and perspectives": "Concepts",
-    "Sociological research methods": "Methods",
-    "Unit 3 AoS 1 — Crime and deviance": "U3 Crime",
-    "Unit 3 AoS 2 — Social movements": "U3 Movements",
-    "Unit 4 AoS 1 — Community, social change and social cohesion": "U4 Community",
-    "Unit 4 AoS 2 — Australian Indigenous cultures and experience": "U4 Indigenous",
-    "Exam technique": "Exam technique"
+    "Sociological research methods": "Research",
+    "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures": "U3 Indigenous",
+    "Unit 3: Culture and ethnicity — AoS 2: Ethnicity": "U3 Ethnicity",
+    "Unit 4: Community, social movements and social change — AoS 1: Community": "U4 Community",
+    "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change": "U4 Movements",
+    "Exam technique": "Exam"
   },
-  "source": "Adapted revision checklist based on VCAA's VCE Sociology Study Design, Units 3 and 4. Areas here are topic groupings, and checklist numbers are internal tracker IDs. Use current data and your own case studies, since sociological examples date quickly.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/sociology",
+  "source": "Adapted revision checklist based on VCAA's VCE Sociology Study Design, Units 3 and 4. Unit and Area of Study labels follow the current study design; checklist numbers are internal tracker IDs. Use current data and your own case studies, since sociological examples date quickly.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/sociology/sociology",
   "sourceLabel": "VCAA Sociology study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Statistics quoted are indicative only; use current figures and the case studies your class has covered.",
   "theme": {
@@ -45,7 +45,18 @@
             "If a quarter of the town is unemployed after a factory closes, the cause lies in economic structure rather than individual failings, and the remedy is social rather than personal."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:C1",
+        "title": "The sociological imagination",
+        "front": "Explain the sociological imagination and apply it to unemployment.",
+        "back": [
+          "The sociological imagination connects personal experience to the wider social structures and historical conditions that shape it.",
+          "It distinguishes personal troubles, which concern an individual's immediate circumstances, from public issues, which affect many people and arise from social structures.",
+          "If one person in a town is unemployed, that may be a personal trouble reflecting their circumstances.",
+          "If a quarter of the town is unemployed after a factory closes, the cause lies in economic structure rather than individual failings, and the remedy is social rather than personal."
+        ]
+      }
     },
     {
       "id": "C2",
@@ -63,7 +74,18 @@
             "Primary socialisation occurs in early childhood within the family, while secondary socialisation continues through the other agents across life."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:C2",
+        "title": "Socialisation, norms and values",
+        "front": "Distinguish between norms and values, and name three agents of socialisation.",
+        "back": [
+          "Values are shared beliefs about what is important and desirable, such as honesty or independence.",
+          "Norms are the specific expected behaviours that express those values in particular situations, such as queuing or not interrupting.",
+          "Agents of socialisation include family, schools, peer groups, the media, workplaces and religious institutions.",
+          "Primary socialisation occurs in early childhood within the family, while secondary socialisation continues through the other agents across life."
+        ]
+      }
     },
     {
       "id": "C3",
@@ -81,7 +103,18 @@
             "Strict cultural relativism is criticised for making it impossible to criticise any practice, including those causing serious harm, which is why most sociologists apply it as a method of understanding rather than a moral position."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:C3",
+        "title": "Culture, subculture and ethnocentrism",
+        "front": "Define ethnocentrism and cultural relativism, and explain a limitation of each.",
+        "back": [
+          "Ethnocentrism is judging another culture by the standards of one's own and treating one's own practices as natural or superior.",
+          "Cultural relativism is understanding a practice within the context of the culture in which it occurs.",
+          "Ethnocentrism produces distorted description and underpins prejudice, since difference is read as deficiency.",
+          "Strict cultural relativism is criticised for making it impossible to criticise any practice, including those causing serious harm, which is why most sociologists apply it as a method of understanding rather than a moral position."
+        ]
+      }
     },
     {
       "id": "C4",
@@ -99,7 +132,18 @@
             "Agency also reproduces and occasionally changes structure, since structures persist only through what people repeatedly do, which is why sociologists treat the two as interdependent."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:C4",
+        "title": "Social structure, power and inequality",
+        "front": "Explain the relationship between social structure and individual agency.",
+        "back": [
+          "Social structure refers to the enduring patterns and institutions that shape people's opportunities, including class, education systems and labour markets.",
+          "Agency is the capacity of individuals to make choices and act on them.",
+          "Structure constrains agency by distributing resources and opportunities unequally, so the same choice is far more available to some people than others.",
+          "Agency also reproduces and occasionally changes structure, since structures persist only through what people repeatedly do, which is why sociologists treat the two as interdependent."
+        ]
+      }
     },
     {
       "id": "C5",
@@ -117,7 +161,18 @@
             "Each perspective directs attention to different evidence, so a full account usually requires more than one."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:C5",
+        "title": "Sociological perspectives",
+        "front": "Explain how functionalist, conflict and interactionist perspectives would each approach the institution of education.",
+        "back": [
+          "A functionalist asks what education contributes to the stability of society, such as transmitting shared values and allocating people to roles by ability.",
+          "A conflict theorist asks whose interests it serves, arguing that it reproduces existing inequality by advantaging those with resources.",
+          "An interactionist examines everyday interaction within schools, such as how teacher expectations and labelling shape student outcomes.",
+          "Each perspective directs attention to different evidence, so a full account usually requires more than one."
+        ]
+      }
     },
     {
       "id": "M1",
@@ -135,7 +190,18 @@
             "Their strength is depth, revealing how people understand their own situations, which numerical data cannot capture; many studies combine both."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:M1",
+        "title": "Quantitative and qualitative methods",
+        "front": "Compare quantitative and qualitative methods, giving one strength of each.",
+        "back": [
+          "Quantitative methods generate numerical data from large samples, allowing patterns to be measured and generalised to a population.",
+          "Their strength is scale and comparability, making it possible to identify trends and test relationships statistically.",
+          "Qualitative methods generate detailed data about meaning and experience from smaller numbers of participants.",
+          "Their strength is depth, revealing how people understand their own situations, which numerical data cannot capture; many studies combine both."
+        ]
+      }
     },
     {
       "id": "M2",
@@ -153,7 +219,18 @@
             "Findings therefore describe the groups reached rather than the whole population, which must be stated when reporting results."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:M2",
+        "title": "Sampling and representativeness",
+        "front": "Explain snowball sampling, when it is used and its main limitation.",
+        "back": [
+          "Snowball sampling asks initial participants to recruit others from their own networks.",
+          "It is used to reach populations that are hard to identify or reluctant to participate, such as people involved in stigmatised activity.",
+          "Its limitation is that participants recruit people like themselves, so the sample is drawn from connected networks and is not representative.",
+          "Findings therefore describe the groups reached rather than the whole population, which must be stated when reporting results."
+        ]
+      }
     },
     {
       "id": "M3",
@@ -171,7 +248,18 @@
             "Researchers reduce these effects through neutral wording, anonymity, prolonged observation so behaviour normalises, and reflecting on their own position in the report."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:M3",
+        "title": "Validity, reliability and researcher effects",
+        "front": "Explain two ways a researcher can unintentionally influence the data they collect.",
+        "back": [
+          "The Hawthorne effect occurs when participants change their behaviour because they know they are being observed.",
+          "Interviewer effects occur when a participant adjusts their answers to what they believe the researcher wants or will approve of.",
+          "Leading question wording can also shape responses by suggesting an expected answer.",
+          "Researchers reduce these effects through neutral wording, anonymity, prolonged observation so behaviour normalises, and reflecting on their own position in the report."
+        ]
+      }
     },
     {
       "id": "M4",
@@ -189,7 +277,18 @@
             "Power imbalance matters because researchers are often more educated and resourced than participants, so apparent consent may reflect deference rather than genuine agreement."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:M4",
+        "title": "Ethics in sociological research",
+        "front": "Explain three ethical obligations in sociological research and why power imbalance requires particular attention.",
+        "back": [
+          "Informed consent requires participants to understand the purpose, procedure and risks before agreeing, and to be free to withdraw.",
+          "Confidentiality requires data to be stored securely and reported so that individuals cannot be identified.",
+          "Avoiding harm requires consideration of distress caused by discussing sensitive experiences, and of consequences if participation becomes known.",
+          "Power imbalance matters because researchers are often more educated and resourced than participants, so apparent consent may reflect deference rather than genuine agreement."
+        ]
+      }
     },
     {
       "id": "M5",
@@ -207,353 +306,22 @@
             "Does the study establish a correlation only, and if so, what alternative explanations for the pattern have been considered?"
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:M5",
+        "title": "Evaluating sociological evidence",
+        "front": "State four questions to ask when evaluating a piece of sociological evidence.",
+        "back": [
+          "Who conducted and funded the research, since funding can shape which questions are asked and how findings are presented.",
+          "What method and sample were used, and can the findings reasonably be generalised beyond that sample?",
+          "When was the data collected, since social conditions change and older data may no longer describe the present.",
+          "Does the study establish a correlation only, and if so, what alternative explanations for the pattern have been considered?"
+        ]
+      }
     },
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Defining crime and deviance",
-      "detail": "The difference between illegal acts and acts that break social norms, and the social construction of both categories.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Distinguish crime from deviance and explain why both categories are socially constructed.",
-          "answer": [
-            "Crime is behaviour that breaks the law and is subject to formal punishment by the state.",
-            "Deviance is behaviour that departs from social norms and attracts informal sanction such as disapproval or exclusion.",
-            "The categories overlap but are not identical: some crimes attract little social disapproval, while some deviant behaviour is entirely legal.",
-            "Both are socially constructed because what counts as criminal or deviant varies across societies and changes over time, as shifting laws on alcohol, homosexuality and drug use demonstrate."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Measuring crime",
-      "detail": "Official statistics, victim surveys and self-report studies, the dark figure of crime, and the effect of reporting and recording practices.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why official crime statistics do not measure the true level of crime.",
-          "answer": [
-            "Many offences are never reported, because victims fear reprisal, feel shame, doubt police will act or do not recognise the act as criminal.",
-            "Reported incidents are not always recorded, since police exercise discretion about whether to proceed.",
-            "The difference between actual and recorded crime is known as the dark figure of crime.",
-            "Changes in the statistics may therefore reflect changes in reporting, policing priorities or recording rules rather than changes in offending, which is why victim surveys are used alongside them."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Functionalist explanations of crime",
-      "detail": "Crime as inevitable and even functional, boundary maintenance, anomie and strain between goals and legitimate means.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain strain theory and one criticism of it.",
-          "answer": [
-            "Strain theory holds that societies promote shared goals, such as material success, while distributing the legitimate means of achieving them unequally.",
-            "People who accept the goals but lack access to legitimate means experience strain, and some respond by using illegitimate means.",
-            "This explains why property crime concentrates in groups with restricted opportunity, without attributing it to individual defect.",
-            "A criticism is that it explains utilitarian crime better than violent or expressive crime, and does not account for crime committed by those who already have ample legitimate means."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Conflict explanations of crime",
-      "detail": "Law as reflecting the interests of powerful groups, selective enforcement, and the treatment of corporate compared with street crime.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the conflict perspective on crime, using the comparison between corporate and street crime.",
-          "answer": [
-            "Conflict theorists argue that laws and their enforcement reflect the interests of powerful groups rather than a neutral consensus.",
-            "Street crime is heavily policed and punished, while corporate offences causing far greater financial and physical harm are often handled through regulators and fines.",
-            "Corporate offenders have the resources to contest charges and to influence how the law is written, which shapes what counts as criminal in the first place.",
-            "The perspective therefore explains crime statistics as evidence of who is policed as much as of who offends."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Labelling theory",
-      "detail": "Primary and secondary deviance, the master status, self-fulfilling prophecy and the consequences of official reaction.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain labelling theory using the concepts of primary and secondary deviance.",
-          "answer": [
-            "Primary deviance is a rule-breaking act that has not been publicly labelled, and which the person does not treat as defining who they are.",
-            "If the act is detected and labelled, the label can become a master status that overrides other aspects of the person's identity.",
-            "Others respond to the label, restricting opportunities in employment and relationships and reinforcing association with similarly labelled people.",
-            "Secondary deviance is the further offending that results from this reaction, so the response to deviance can produce more of it, a self-fulfilling prophecy."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.6",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Moral panic and media representation",
-      "detail": "The stages of a moral panic, folk devils, deviancy amplification and the influence of media framing on public perception and policy.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the concept of moral panic and the process of deviancy amplification.",
-          "answer": [
-            "A moral panic occurs when a group or behaviour is defined as a threat to societal values, and concern becomes disproportionate to the actual risk.",
-            "Media coverage identifies folk devils, presents isolated incidents as a pattern and calls for action.",
-            "Increased public concern produces intensified policing and reporting, which generates more recorded incidents.",
-            "Those figures appear to confirm the original concern, which is deviancy amplification, and often leads to legislation passed at the peak of the panic."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.1.7",
-      "area": "Unit 3 AoS 1 — Crime and deviance",
-      "title": "Responses to crime",
-      "detail": "Punishment, deterrence, rehabilitation and restorative justice, and the evidence on what reduces reoffending.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain restorative justice and how it differs from conventional punishment.",
-          "answer": [
-            "Restorative justice brings together the offender, the victim and affected community members to address the harm caused.",
-            "The focus is on acknowledging harm, making amends and reintegrating the offender rather than on imposing a proportionate penalty.",
-            "Conventional punishment asks what law was broken and what penalty is deserved, with the state as the injured party.",
-            "Restorative approaches ask who was harmed and what is needed to repair it, and evidence suggests they improve victim satisfaction and can reduce reoffending for some offence types."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.1",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "What a social movement is",
-      "detail": "Collective, sustained and organised action aimed at social change, distinguished from riots, interest groups and political parties.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Define a social movement and distinguish it from a political party and a spontaneous protest.",
-          "answer": [
-            "A social movement is an organised and sustained collective effort by people outside formal institutions to achieve or resist social change.",
-            "A political party seeks to win office and exercise state power, whereas a movement seeks to change policy, law or attitudes from outside.",
-            "A spontaneous protest is a single event, while a movement persists over time with continuing organisation, identity and strategy.",
-            "Movements often use protest as a tactic, but the sustained organisation and shared collective identity distinguish them from isolated events."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.2",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "Why movements emerge",
-      "detail": "Grievance, political opportunity, resource mobilisation and collective identity as explanations for the emergence of movements.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why grievance alone does not explain the emergence of a social movement.",
-          "answer": [
-            "Grievances are widespread and long-standing, while movements emerge at particular moments, so grievance cannot explain timing.",
-            "Resource mobilisation theory argues that movements require resources including money, organisation, skills, networks and media access.",
-            "Political opportunity theory argues that movements emerge when the political system becomes more open, elites divide or repression eases.",
-            "Collective identity is also required, since people must come to see the grievance as shared and as remediable through collective action."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.3",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "Movement strategies and tactics",
-      "detail": "Lobbying, litigation, media campaigns, direct action, civil disobedience and the trade-offs between disruptive and institutional tactics.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain the trade-off between disruptive and institutional tactics for a social movement.",
-          "answer": [
-            "Disruptive tactics such as blockades and civil disobedience attract media attention and force an issue onto the public agenda.",
-            "They also risk alienating potential supporters and inviting repression, which can shift attention from the issue to the movement's conduct.",
-            "Institutional tactics such as lobbying and litigation build credibility and can produce durable legal change.",
-            "They are slower, require resources and expertise, and risk the movement being absorbed into the system it sought to change, so most movements combine both."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.4",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "Movement organisation and leadership",
-      "detail": "Formal and informal structures, the role of leaders, the trade-off between centralisation and participation, and internal conflict.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain one advantage and one disadvantage of a movement having formal centralised leadership.",
-          "answer": [
-            "Centralised leadership allows coordinated strategy, consistent public messaging and effective negotiation with governments and media.",
-            "It also provides continuity, so the movement survives the departure of individual participants.",
-            "The disadvantage is that decision making excludes many participants, which can reduce commitment and provoke internal conflict.",
-            "Leaders can also be co-opted, targeted or discredited, and a movement dependent on a few figures is vulnerable to losing them."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.5",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "Counter-movements and opposition",
-      "detail": "The emergence of organised opposition, state responses including repression and accommodation, and the effect on movement strategy.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain why counter-movements emerge and how they affect the original movement.",
-          "answer": [
-            "A counter-movement emerges when a movement achieves enough success to threaten the interests or values of another group.",
-            "Counter-movements mobilise the same resources, including media, funding and political access, often with greater institutional support.",
-            "Their presence forces the original movement to defend gains rather than pursue new goals, consuming resources.",
-            "Conflict between the two also polarises public debate, which can increase support for both sides while making compromise harder to reach."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3.2.6",
-      "area": "Unit 3 AoS 2 — Social movements",
-      "title": "Assessing movement success",
-      "detail": "Policy change, legal change, shifts in attitudes and the establishment of enduring organisations as measures of success, and the difficulty of attribution.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain four measures of a social movement's success and one difficulty in assessing it.",
-          "answer": [
-            "Policy or legislative change that reflects the movement's demands is the most visible measure.",
-            "Changed public attitudes, measurable through surveys over time, indicate deeper success even without immediate legal change.",
-            "Gaining formal access to decision making, and establishing enduring organisations, represent structural success.",
-            "The difficulty is attribution, since social change has many causes and it is rarely possible to show that the movement rather than broader conditions produced the outcome."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Defining community",
-      "detail": "Geographic, interest-based and virtual communities, and the elements of membership, influence, shared needs and emotional connection.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain three types of community and the features that make a group a community rather than an aggregate.",
-          "answer": [
-            "Geographic communities are based on shared location, such as a town or neighbourhood.",
-            "Communities of interest are based on shared activity or identity regardless of location, such as a sporting club or a cultural group.",
-            "Virtual communities form through online interaction and can sustain strong identity without physical proximity.",
-            "A community requires membership and boundaries, shared needs or purpose, mutual influence and emotional connection, which distinguishes it from people who merely share a space."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Social capital",
-      "detail": "Bonding, bridging and linking social capital, how each is built, and their relationship to wellbeing and opportunity.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Distinguish bonding from bridging social capital and explain why a community needs both.",
-          "answer": [
-            "Bonding social capital consists of strong ties within a group of similar people, such as family and close community networks.",
-            "Bridging social capital consists of weaker ties across different groups, connecting people to those unlike themselves.",
-            "Bonding provides immediate support and belonging, but a community with only bonding ties can become inward-looking and exclusionary.",
-            "Bridging provides access to new information, opportunities and resources, which is why job opportunities more often arrive through weak ties than close ones."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Social cohesion and its indicators",
-      "detail": "Belonging, participation, inclusion, acceptance and a sense of worth as dimensions of cohesion, and the factors that strengthen or weaken it.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain what social cohesion means and name three factors that can weaken it.",
-          "answer": [
-            "Social cohesion refers to the willingness of members of a society to cooperate, and includes a sense of belonging, participation, inclusion and trust.",
-            "Economic inequality weakens cohesion by producing divergent experiences and reducing trust between groups.",
-            "Discrimination and racism weaken it by denying acceptance and belonging to particular groups.",
-            "Residential segregation and the decline of shared institutions reduce contact between groups, so bridging ties do not form."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Drivers of social change",
-      "detail": "Technological, economic, demographic, environmental, political and cultural drivers, and the uneven distribution of their effects.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain how technological change drives social change, and why its effects are unevenly distributed.",
-          "answer": [
-            "Technology changes how people work, communicate and organise, altering the structure of employment and everyday interaction.",
-            "Automation removes some occupations and creates others, which redistributes economic security between groups and regions.",
-            "Communication technology changes how communities form, allowing connection without proximity while reducing local interaction.",
-            "Effects are uneven because access to new technology and the skills to use it are distributed unequally, so the same change advantages some and displaces others."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Migration and multiculturalism",
-      "detail": "Patterns of migration, models of settlement including assimilation and multiculturalism, and the effects on community and cohesion.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Distinguish assimilation from multiculturalism as approaches to migrant settlement.",
-          "answer": [
-            "Assimilation expects migrants to abandon their language, customs and identity and adopt those of the receiving society.",
-            "Multiculturalism accepts the retention of cultural identity while participating fully in the shared institutions of the society.",
-            "Assimilation assumes cohesion requires uniformity, whereas multiculturalism holds that cohesion is compatible with diversity where inclusion and equal rights are secured.",
-            "Australia's official policy shifted from assimilation to multiculturalism during the 1970s, though debate about the balance continues."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.1.6",
-      "area": "Unit 4 AoS 1 — Community, social change and social cohesion",
-      "title": "Building and sustaining community",
-      "detail": "The role of local institutions, participation, volunteering and public space, and strategies for strengthening cohesion.",
-      "questions": [
-        {
-          "marks": 4,
-          "q": "Explain two strategies for strengthening social cohesion in a local community and why contact matters.",
-          "answer": [
-            "Creating shared public space and local institutions, such as libraries, clubs and community centres, generates regular contact between different groups.",
-            "Supporting participation through volunteering, local decision making and community events builds both bonding and bridging capital.",
-            "Contact matters because prejudice is reduced most effectively by sustained cooperative interaction between groups of equal standing towards a shared goal.",
-            "Strategies that provide only superficial contact, or that leave inequality between the groups intact, tend to be far less effective."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Diversity of Aboriginal and Torres Strait Islander cultures",
       "detail": "The many distinct nations, languages and cultural groups, and the error of treating Aboriginal and Torres Strait Islander peoples as a single culture.",
       "questions": [
@@ -567,11 +335,22 @@
             "Accurate discussion therefore names the specific nation or language group where it is known, rather than generalising."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.1",
+        "title": "Diversity of Aboriginal and Torres Strait Islander cultures",
+        "front": "Explain why it is inaccurate to refer to a single Aboriginal culture.",
+        "back": [
+          "Before colonisation the continent was home to hundreds of distinct nations, each with its own language, laws, territory and cultural practices.",
+          "Torres Strait Islander peoples are culturally and geographically distinct again, with their own languages and traditions.",
+          "Treating these as one culture erases that diversity and obscures the specific connections each group holds to particular Country.",
+          "Accurate discussion therefore names the specific nation or language group where it is known, rather than generalising."
+        ]
+      }
     },
     {
-      "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "id": "3.1.2",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Connection to Country",
       "detail": "Country as encompassing land, water, sky, ancestors and law, and the difference between this and Western concepts of property.",
       "questions": [
@@ -585,11 +364,22 @@
             "The difference explains why dispossession caused harm beyond economic loss, severing relationships, responsibilities and identity that could not be relocated."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.2",
+        "title": "Connection to Country",
+        "front": "Explain the concept of Country and how it differs from a Western concept of land ownership.",
+        "back": [
+          "Country encompasses land, waters, sky, animals, plants, ancestors, stories and law, and is understood as a living entity with which people are in relationship.",
+          "People belong to Country and hold responsibilities to care for it, rather than owning it as property.",
+          "Western property is a transferable economic asset that can be bought, divided and sold by its holder.",
+          "The difference explains why dispossession caused harm beyond economic loss, severing relationships, responsibilities and identity that could not be relocated."
+        ]
+      }
     },
     {
-      "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "id": "3.1.3",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Colonisation and its ongoing effects",
       "detail": "Dispossession, frontier violence, protection and assimilation policies, the Stolen Generations, and intergenerational trauma.",
       "questions": [
@@ -603,11 +393,22 @@
             "It explains why contemporary disparities cannot be understood as the product of present circumstances alone, and why responses must address historical as well as current causes."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.3",
+        "title": "Colonisation and its ongoing effects",
+        "front": "Explain the concept of intergenerational trauma and its relevance to contemporary outcomes.",
+        "back": [
+          "Intergenerational trauma is the transmission of the effects of traumatic experience from those who suffered it to later generations.",
+          "Forced removal of children disrupted parenting knowledge, kinship structures and cultural transmission, affecting families across generations.",
+          "The effects include grief, disrupted attachment, higher rates of mental illness and substance use, and reduced trust in government institutions.",
+          "It explains why contemporary disparities cannot be understood as the product of present circumstances alone, and why responses must address historical as well as current causes."
+        ]
+      }
     },
     {
-      "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "id": "3.1.4",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Land rights and native title",
       "detail": "The doctrine of terra nullius and its overturning, the recognition of native title, and the limits of the framework.",
       "questions": [
@@ -621,11 +422,22 @@
             "Native title can also be extinguished by prior grants such as freehold, and the rights recognised frequently coexist with other interests rather than conferring control."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.4",
+        "title": "Land rights and native title",
+        "front": "Explain the significance of the recognition of native title and two limitations of it.",
+        "back": [
+          "The High Court rejected the doctrine of terra nullius and recognised that rights to land under traditional law could survive the assertion of sovereignty.",
+          "This acknowledged continuing connection to Country and provided a legal basis for claims.",
+          "A limitation is the burden of proof, since claimants must demonstrate continuous connection according to traditional law, which dispossession itself often made impossible.",
+          "Native title can also be extinguished by prior grants such as freehold, and the rights recognised frequently coexist with other interests rather than conferring control."
+        ]
+      }
     },
     {
-      "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "id": "3.1.5",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Self-determination and community control",
       "detail": "Community-controlled organisations, the principle that affected communities should make decisions about their own affairs, and the evidence for its effectiveness.",
       "questions": [
@@ -639,11 +451,22 @@
             "Evidence consistently shows better outcomes where communities control programs, which is why self-determination is treated as a practical as well as a rights-based principle."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.5",
+        "title": "Self-determination and community control",
+        "front": "Explain the principle of self-determination and why community-controlled services tend to be more effective.",
+        "back": [
+          "Self-determination is the right of peoples to make decisions about matters affecting their own communities, including how services are designed and delivered.",
+          "Community-controlled organisations are governed by the communities they serve, so programs reflect local priorities rather than external assumptions.",
+          "They are culturally safe, employ local staff and build long-term relationships, which increases engagement and trust.",
+          "Evidence consistently shows better outcomes where communities control programs, which is why self-determination is treated as a practical as well as a rights-based principle."
+        ]
+      }
     },
     {
-      "id": "4.2.6",
-      "area": "Unit 4 AoS 2 — Australian Indigenous cultures and experience",
+      "id": "3.1.6",
+      "area": "Unit 3: Culture and ethnicity — AoS 1: Australian Indigenous cultures",
       "title": "Cultural continuity, revival and representation",
       "detail": "Language revival, cultural practice, art and media, and the importance of representation controlled by Aboriginal and Torres Strait Islander peoples.",
       "questions": [
@@ -657,7 +480,569 @@
             "Self-representation in media, art and research allows communities to define how they are understood, which affects public attitudes and policy."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:3.1.6",
+        "title": "Cultural continuity, revival and representation",
+        "front": "Explain why language revival matters and why control of representation is significant.",
+        "back": [
+          "Language carries knowledge, law, relationships to Country and ways of understanding the world that cannot be fully translated.",
+          "Revival restores access to that knowledge and strengthens identity and belonging, which research links to improved wellbeing.",
+          "Control of representation matters because portrayals produced by others have historically been stereotyped, deficit-focused or simply inaccurate.",
+          "Self-representation in media, art and research allows communities to define how they are understood, which affects public attitudes and policy."
+        ]
+      }
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Race, ethnicity and othering",
+      "detail": "The sociological meanings of race and ethnicity and the process by which groups are constructed as outsiders.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish race from ethnicity and explain how othering can shape an ethnic group’s experience.",
+          "answer": [
+            "Race commonly categorises people through socially interpreted physical characteristics; ethnicity concerns shared cultural heritage and identity.",
+            "Both are socially constructed rather than fixed biological facts.",
+            "Othering defines a group as different from and often inferior to a dominant in-group.",
+            "Explain a consequence for representation, belonging, inclusion or discrimination."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.1",
+        "title": "Race, ethnicity and othering",
+        "front": "Distinguish race from ethnicity and explain how othering can shape an ethnic group’s experience.",
+        "back": [
+          "Race commonly categorises people through socially interpreted physical characteristics; ethnicity concerns shared cultural heritage and identity.",
+          "Both are socially constructed rather than fixed biological facts.",
+          "Othering defines a group as different from and often inferior to a dominant in-group.",
+          "Explain a consequence for representation, belonging, inclusion or discrimination."
+        ]
+      }
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Cultural hybridity",
+      "detail": "Stuart Hall’s theory of cultural hybridity and the formation of dual or multiple cultural identities.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain Stuart Hall’s theory of cultural hybridity and apply it to an Australian example.",
+          "answer": [
+            "Cultural identity is dynamic rather than pure, fixed or inherited unchanged.",
+            "Contact among cultures can produce combined, negotiated or multiple identities.",
+            "Apply the theory to specific practices, identities or experiences.",
+            "Avoid treating every member of an ethnic group as having the same hybrid identity."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.2",
+        "title": "Cultural hybridity",
+        "front": "Explain Stuart Hall’s theory of cultural hybridity and apply it to an Australian example.",
+        "back": [
+          "Cultural identity is dynamic rather than pure, fixed or inherited unchanged.",
+          "Contact among cultures can produce combined, negotiated or multiple identities.",
+          "Apply the theory to specific practices, identities or experiences.",
+          "Avoid treating every member of an ethnic group as having the same hybrid identity."
+        ]
+      }
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Australia’s ethnic diversity",
+      "detail": "Using comparative perspectives to understand Australia’s contemporary ethnic diversity in relation to another country.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Use comparative evidence to outline Australia’s ethnic diversity.",
+          "answer": [
+            "Use an appropriate indicator such as birthplace, ancestry, language or religious affiliation.",
+            "Accurately compare Australia with another country.",
+            "Identify a similarity or difference rather than listing two datasets.",
+            "Explain a relevant historical or migration context."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.3",
+        "title": "Australia’s ethnic diversity",
+        "front": "Use comparative evidence to outline Australia’s ethnic diversity.",
+        "back": [
+          "Use an appropriate indicator such as birthplace, ancestry, language or religious affiliation.",
+          "Accurately compare Australia with another country.",
+          "Identify a similarity or difference rather than listing two datasets.",
+          "Explain a relevant historical or migration context."
+        ]
+      }
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Multiculturalism in Australia",
+      "detail": "The historical context and contemporary concept of multiculturalism.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the meaning or practice of multiculturalism in Australia has developed over time.",
+          "answer": [
+            "Define multiculturalism as a policy and social approach to cultural diversity.",
+            "Identify a relevant historical shift from exclusion or assimilation.",
+            "Explain a contemporary principle, policy or institution.",
+            "Connect the development to the experiences of ethnic groups."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.4",
+        "title": "Multiculturalism in Australia",
+        "front": "Explain how the meaning or practice of multiculturalism in Australia has developed over time.",
+        "back": [
+          "Define multiculturalism as a policy and social approach to cultural diversity.",
+          "Identify a relevant historical shift from exclusion or assimilation.",
+          "Explain a contemporary principle, policy or institution.",
+          "Connect the development to the experiences of ethnic groups."
+        ]
+      }
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Belonging and inclusion",
+      "detail": "How responses to cultural practices, media representations and political factors can enable or prevent belonging and inclusion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Analyse two factors that influence an ethnic group’s sense of belonging and inclusion.",
+          "answer": [
+            "Identify two relevant factors from cultural responses, media or politics.",
+            "Use specific evidence about the selected group.",
+            "Explain the social process linking each factor to belonging or exclusion.",
+            "Show that members can experience the same factor differently."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.5",
+        "title": "Belonging and inclusion",
+        "front": "Analyse two factors that influence an ethnic group’s sense of belonging and inclusion.",
+        "back": [
+          "Identify two relevant factors from cultural responses, media or politics.",
+          "Use specific evidence about the selected group.",
+          "Explain the social process linking each factor to belonging or exclusion.",
+          "Show that members can experience the same factor differently."
+        ]
+      }
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "A specific ethnic-group case study",
+      "detail": "Self-identification, material and non-material culture, and lived experience of one ethnic group in multicultural Australia.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Analyse the experience of a selected ethnic group in Australian society.",
+          "answer": [
+            "Explain how the group identifies itself.",
+            "Describe relevant material and non-material cultural features without stereotyping.",
+            "Analyse the impact of customs, media and/or political factors on belonging.",
+            "Support the analysis with credible sociological evidence."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.6",
+        "title": "A specific ethnic-group case study",
+        "front": "Analyse the experience of a selected ethnic group in Australian society.",
+        "back": [
+          "Explain how the group identifies itself.",
+          "Describe relevant material and non-material cultural features without stereotyping.",
+          "Analyse the impact of customs, media and/or political factors on belonging.",
+          "Support the analysis with credible sociological evidence."
+        ]
+      }
+    },
+    {
+      "id": "3.2.7",
+      "area": "Unit 3: Culture and ethnicity — AoS 2: Ethnicity",
+      "title": "Ethical research with ethnic groups",
+      "detail": "Voluntary participation, informed consent, privacy and confidentiality in research about ethnicity.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how an ethical methodology should be applied when researching a specific ethnic group.",
+          "answer": [
+            "Participation must be voluntary and based on informed consent.",
+            "Protect privacy and keep identifiable data confidential.",
+            "Use culturally respectful methods and avoid harm or coercion.",
+            "Explain how the safeguards affect data collection, storage or reporting."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:3.2.7",
+        "title": "Ethical research with ethnic groups",
+        "front": "Explain how an ethical methodology should be applied when researching a specific ethnic group.",
+        "back": [
+          "Participation must be voluntary and based on informed consent.",
+          "Protect privacy and keep identifiable data confidential.",
+          "Use culturally respectful methods and avoid harm or coercion.",
+          "Explain how the safeguards affect data collection, storage or reporting."
+        ]
+      }
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Defining community",
+      "detail": "Geographic, interest-based and virtual communities, and the elements of membership, influence, shared needs and emotional connection.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three types of community and the features that make a group a community rather than an aggregate.",
+          "answer": [
+            "Geographic communities are based on shared location, such as a town or neighbourhood.",
+            "Communities of interest are based on shared activity or identity regardless of location, such as a sporting club or a cultural group.",
+            "Virtual communities form through online interaction and can sustain strong identity without physical proximity.",
+            "A community requires membership and boundaries, shared needs or purpose, mutual influence and emotional connection, which distinguishes it from people who merely share a space."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.1",
+        "title": "Defining community",
+        "front": "Explain three types of community and the features that make a group a community rather than an aggregate.",
+        "back": [
+          "Geographic communities are based on shared location, such as a town or neighbourhood.",
+          "Communities of interest are based on shared activity or identity regardless of location, such as a sporting club or a cultural group.",
+          "Virtual communities form through online interaction and can sustain strong identity without physical proximity.",
+          "A community requires membership and boundaries, shared needs or purpose, mutual influence and emotional connection, which distinguishes it from people who merely share a space."
+        ]
+      }
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Social capital",
+      "detail": "Bonding, bridging and linking social capital, how each is built, and their relationship to wellbeing and opportunity.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish bonding from bridging social capital and explain why a community needs both.",
+          "answer": [
+            "Bonding social capital consists of strong ties within a group of similar people, such as family and close community networks.",
+            "Bridging social capital consists of weaker ties across different groups, connecting people to those unlike themselves.",
+            "Bonding provides immediate support and belonging, but a community with only bonding ties can become inward-looking and exclusionary.",
+            "Bridging provides access to new information, opportunities and resources, which is why job opportunities more often arrive through weak ties than close ones."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.2",
+        "title": "Social capital",
+        "front": "Distinguish bonding from bridging social capital and explain why a community needs both.",
+        "back": [
+          "Bonding social capital consists of strong ties within a group of similar people, such as family and close community networks.",
+          "Bridging social capital consists of weaker ties across different groups, connecting people to those unlike themselves.",
+          "Bonding provides immediate support and belonging, but a community with only bonding ties can become inward-looking and exclusionary.",
+          "Bridging provides access to new information, opportunities and resources, which is why job opportunities more often arrive through weak ties than close ones."
+        ]
+      }
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Social cohesion and its indicators",
+      "detail": "Belonging, participation, inclusion, acceptance and a sense of worth as dimensions of cohesion, and the factors that strengthen or weaken it.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what social cohesion means and name three factors that can weaken it.",
+          "answer": [
+            "Social cohesion refers to the willingness of members of a society to cooperate, and includes a sense of belonging, participation, inclusion and trust.",
+            "Economic inequality weakens cohesion by producing divergent experiences and reducing trust between groups.",
+            "Discrimination and racism weaken it by denying acceptance and belonging to particular groups.",
+            "Residential segregation and the decline of shared institutions reduce contact between groups, so bridging ties do not form."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.3",
+        "title": "Social cohesion and its indicators",
+        "front": "Explain what social cohesion means and name three factors that can weaken it.",
+        "back": [
+          "Social cohesion refers to the willingness of members of a society to cooperate, and includes a sense of belonging, participation, inclusion and trust.",
+          "Economic inequality weakens cohesion by producing divergent experiences and reducing trust between groups.",
+          "Discrimination and racism weaken it by denying acceptance and belonging to particular groups.",
+          "Residential segregation and the decline of shared institutions reduce contact between groups, so bridging ties do not form."
+        ]
+      }
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Drivers of social change",
+      "detail": "Technological, economic, demographic, environmental, political and cultural drivers, and the uneven distribution of their effects.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how technological change drives social change, and why its effects are unevenly distributed.",
+          "answer": [
+            "Technology changes how people work, communicate and organise, altering the structure of employment and everyday interaction.",
+            "Automation removes some occupations and creates others, which redistributes economic security between groups and regions.",
+            "Communication technology changes how communities form, allowing connection without proximity while reducing local interaction.",
+            "Effects are uneven because access to new technology and the skills to use it are distributed unequally, so the same change advantages some and displaces others."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.4",
+        "title": "Drivers of social change",
+        "front": "Explain how technological change drives social change, and why its effects are unevenly distributed.",
+        "back": [
+          "Technology changes how people work, communicate and organise, altering the structure of employment and everyday interaction.",
+          "Automation removes some occupations and creates others, which redistributes economic security between groups and regions.",
+          "Communication technology changes how communities form, allowing connection without proximity while reducing local interaction.",
+          "Effects are uneven because access to new technology and the skills to use it are distributed unequally, so the same change advantages some and displaces others."
+        ]
+      }
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Migration and multiculturalism",
+      "detail": "Patterns of migration, models of settlement including assimilation and multiculturalism, and the effects on community and cohesion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish assimilation from multiculturalism as approaches to migrant settlement.",
+          "answer": [
+            "Assimilation expects migrants to abandon their language, customs and identity and adopt those of the receiving society.",
+            "Multiculturalism accepts the retention of cultural identity while participating fully in the shared institutions of the society.",
+            "Assimilation assumes cohesion requires uniformity, whereas multiculturalism holds that cohesion is compatible with diversity where inclusion and equal rights are secured.",
+            "Australia's official policy shifted from assimilation to multiculturalism during the 1970s, though debate about the balance continues."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.5",
+        "title": "Migration and multiculturalism",
+        "front": "Distinguish assimilation from multiculturalism as approaches to migrant settlement.",
+        "back": [
+          "Assimilation expects migrants to abandon their language, customs and identity and adopt those of the receiving society.",
+          "Multiculturalism accepts the retention of cultural identity while participating fully in the shared institutions of the society.",
+          "Assimilation assumes cohesion requires uniformity, whereas multiculturalism holds that cohesion is compatible with diversity where inclusion and equal rights are secured.",
+          "Australia's official policy shifted from assimilation to multiculturalism during the 1970s, though debate about the balance continues."
+        ]
+      }
+    },
+    {
+      "id": "4.1.6",
+      "area": "Unit 4: Community, social movements and social change — AoS 1: Community",
+      "title": "Building and sustaining community",
+      "detail": "The role of local institutions, participation, volunteering and public space, and strategies for strengthening cohesion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain two strategies for strengthening social cohesion in a local community and why contact matters.",
+          "answer": [
+            "Creating shared public space and local institutions, such as libraries, clubs and community centres, generates regular contact between different groups.",
+            "Supporting participation through volunteering, local decision making and community events builds both bonding and bridging capital.",
+            "Contact matters because prejudice is reduced most effectively by sustained cooperative interaction between groups of equal standing towards a shared goal.",
+            "Strategies that provide only superficial contact, or that leave inequality between the groups intact, tend to be far less effective."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.1.6",
+        "title": "Building and sustaining community",
+        "front": "Explain two strategies for strengthening social cohesion in a local community and why contact matters.",
+        "back": [
+          "Creating shared public space and local institutions, such as libraries, clubs and community centres, generates regular contact between different groups.",
+          "Supporting participation through volunteering, local decision making and community events builds both bonding and bridging capital.",
+          "Contact matters because prejudice is reduced most effectively by sustained cooperative interaction between groups of equal standing towards a shared goal.",
+          "Strategies that provide only superficial contact, or that leave inequality between the groups intact, tend to be far less effective."
+        ]
+      }
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "What a social movement is",
+      "detail": "Collective, sustained and organised action aimed at social change, distinguished from riots, interest groups and political parties.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Define a social movement and distinguish it from a political party and a spontaneous protest.",
+          "answer": [
+            "A social movement is an organised and sustained collective effort by people outside formal institutions to achieve or resist social change.",
+            "A political party seeks to win office and exercise state power, whereas a movement seeks to change policy, law or attitudes from outside.",
+            "A spontaneous protest is a single event, while a movement persists over time with continuing organisation, identity and strategy.",
+            "Movements often use protest as a tactic, but the sustained organisation and shared collective identity distinguish them from isolated events."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.1",
+        "title": "What a social movement is",
+        "front": "Define a social movement and distinguish it from a political party and a spontaneous protest.",
+        "back": [
+          "A social movement is an organised and sustained collective effort by people outside formal institutions to achieve or resist social change.",
+          "A political party seeks to win office and exercise state power, whereas a movement seeks to change policy, law or attitudes from outside.",
+          "A spontaneous protest is a single event, while a movement persists over time with continuing organisation, identity and strategy.",
+          "Movements often use protest as a tactic, but the sustained organisation and shared collective identity distinguish them from isolated events."
+        ]
+      }
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "Why movements emerge",
+      "detail": "Grievance, political opportunity, resource mobilisation and collective identity as explanations for the emergence of movements.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why grievance alone does not explain the emergence of a social movement.",
+          "answer": [
+            "Grievances are widespread and long-standing, while movements emerge at particular moments, so grievance cannot explain timing.",
+            "Resource mobilisation theory argues that movements require resources including money, organisation, skills, networks and media access.",
+            "Political opportunity theory argues that movements emerge when the political system becomes more open, elites divide or repression eases.",
+            "Collective identity is also required, since people must come to see the grievance as shared and as remediable through collective action."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.2",
+        "title": "Why movements emerge",
+        "front": "Explain why grievance alone does not explain the emergence of a social movement.",
+        "back": [
+          "Grievances are widespread and long-standing, while movements emerge at particular moments, so grievance cannot explain timing.",
+          "Resource mobilisation theory argues that movements require resources including money, organisation, skills, networks and media access.",
+          "Political opportunity theory argues that movements emerge when the political system becomes more open, elites divide or repression eases.",
+          "Collective identity is also required, since people must come to see the grievance as shared and as remediable through collective action."
+        ]
+      }
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "Movement strategies and tactics",
+      "detail": "Lobbying, litigation, media campaigns, direct action, civil disobedience and the trade-offs between disruptive and institutional tactics.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the trade-off between disruptive and institutional tactics for a social movement.",
+          "answer": [
+            "Disruptive tactics such as blockades and civil disobedience attract media attention and force an issue onto the public agenda.",
+            "They also risk alienating potential supporters and inviting repression, which can shift attention from the issue to the movement's conduct.",
+            "Institutional tactics such as lobbying and litigation build credibility and can produce durable legal change.",
+            "They are slower, require resources and expertise, and risk the movement being absorbed into the system it sought to change, so most movements combine both."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.3",
+        "title": "Movement strategies and tactics",
+        "front": "Explain the trade-off between disruptive and institutional tactics for a social movement.",
+        "back": [
+          "Disruptive tactics such as blockades and civil disobedience attract media attention and force an issue onto the public agenda.",
+          "They also risk alienating potential supporters and inviting repression, which can shift attention from the issue to the movement's conduct.",
+          "Institutional tactics such as lobbying and litigation build credibility and can produce durable legal change.",
+          "They are slower, require resources and expertise, and risk the movement being absorbed into the system it sought to change, so most movements combine both."
+        ]
+      }
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "Movement organisation and leadership",
+      "detail": "Formal and informal structures, the role of leaders, the trade-off between centralisation and participation, and internal conflict.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain one advantage and one disadvantage of a movement having formal centralised leadership.",
+          "answer": [
+            "Centralised leadership allows coordinated strategy, consistent public messaging and effective negotiation with governments and media.",
+            "It also provides continuity, so the movement survives the departure of individual participants.",
+            "The disadvantage is that decision making excludes many participants, which can reduce commitment and provoke internal conflict.",
+            "Leaders can also be co-opted, targeted or discredited, and a movement dependent on a few figures is vulnerable to losing them."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.4",
+        "title": "Movement organisation and leadership",
+        "front": "Explain one advantage and one disadvantage of a movement having formal centralised leadership.",
+        "back": [
+          "Centralised leadership allows coordinated strategy, consistent public messaging and effective negotiation with governments and media.",
+          "It also provides continuity, so the movement survives the departure of individual participants.",
+          "The disadvantage is that decision making excludes many participants, which can reduce commitment and provoke internal conflict.",
+          "Leaders can also be co-opted, targeted or discredited, and a movement dependent on a few figures is vulnerable to losing them."
+        ]
+      }
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "Counter-movements and opposition",
+      "detail": "The emergence of organised opposition, state responses including repression and accommodation, and the effect on movement strategy.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why counter-movements emerge and how they affect the original movement.",
+          "answer": [
+            "A counter-movement emerges when a movement achieves enough success to threaten the interests or values of another group.",
+            "Counter-movements mobilise the same resources, including media, funding and political access, often with greater institutional support.",
+            "Their presence forces the original movement to defend gains rather than pursue new goals, consuming resources.",
+            "Conflict between the two also polarises public debate, which can increase support for both sides while making compromise harder to reach."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.5",
+        "title": "Counter-movements and opposition",
+        "front": "Explain why counter-movements emerge and how they affect the original movement.",
+        "back": [
+          "A counter-movement emerges when a movement achieves enough success to threaten the interests or values of another group.",
+          "Counter-movements mobilise the same resources, including media, funding and political access, often with greater institutional support.",
+          "Their presence forces the original movement to defend gains rather than pursue new goals, consuming resources.",
+          "Conflict between the two also polarises public debate, which can increase support for both sides while making compromise harder to reach."
+        ]
+      }
+    },
+    {
+      "id": "4.2.6",
+      "area": "Unit 4: Community, social movements and social change — AoS 2: Social movements and social change",
+      "title": "Assessing movement success",
+      "detail": "Policy change, legal change, shifts in attitudes and the establishment of enduring organisations as measures of success, and the difficulty of attribution.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain four measures of a social movement's success and one difficulty in assessing it.",
+          "answer": [
+            "Policy or legislative change that reflects the movement's demands is the most visible measure.",
+            "Changed public attitudes, measurable through surveys over time, indicate deeper success even without immediate legal change.",
+            "Gaining formal access to decision making, and establishing enduring organisations, represent structural success.",
+            "The difficulty is attribution, since social change has many causes and it is rarely possible to show that the movement rather than broader conditions produced the outcome."
+          ]
+        }
+      ],
+      "card": {
+        "key": "sociology-34:4.2.6",
+        "title": "Assessing movement success",
+        "front": "Explain four measures of a social movement's success and one difficulty in assessing it.",
+        "back": [
+          "Policy or legislative change that reflects the movement's demands is the most visible measure.",
+          "Changed public attitudes, measurable through surveys over time, indicate deeper success even without immediate legal change.",
+          "Gaining formal access to decision making, and establishing enduring organisations, represent structural success.",
+          "The difficulty is attribution, since social change has many causes and it is rarely possible to show that the movement rather than broader conditions produced the outcome."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -671,10 +1056,20 @@
           "answer": [
             "Precise terminology demonstrates understanding of the concept rather than an everyday impression of it.",
             "Norms and values are frequently confused: values are shared ideas about what is important, norms are the expected behaviours expressing them.",
-            "Crime and deviance are also confused: crime breaks the law, deviance breaks social norms, and the two overlap without being identical."
+            "Race and ethnicity are also confused: race is a social categorisation commonly based on perceived physical characteristics, while ethnicity concerns shared cultural heritage and identity."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:X1",
+        "title": "Using sociological terminology",
+        "front": "Explain why precise terminology matters in Sociology responses and give two commonly confused pairs.",
+        "back": [
+          "Precise terminology demonstrates understanding of the concept rather than an everyday impression of it.",
+          "Norms and values are frequently confused: values are shared ideas about what is important, norms are the expected behaviours expressing them.",
+          "Race and ethnicity are also confused: race is a social categorisation commonly based on perceived physical characteristics, while ethnicity concerns shared cultural heritage and identity."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -691,7 +1086,17 @@
             "It is directly relevant to the point being argued, and its limitations are acknowledged where the evidence is contested or drawn from a narrow sample."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:X2",
+        "title": "Using evidence and case studies",
+        "front": "Explain what makes evidence strong in a Sociology response.",
+        "back": [
+          "It is specific, naming the study, organisation or case rather than referring vaguely to research or statistics.",
+          "It is current, since social conditions change and outdated figures may no longer support the claim.",
+          "It is directly relevant to the point being argued, and its limitations are acknowledged where the evidence is contested or drawn from a narrow sample."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -709,7 +1114,18 @@
             "Reach an explicit judgement, since presenting perspectives without assessment describes theory rather than analysing the issue."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "sociology-34:X3",
+        "title": "Applying perspectives and reaching a judgement",
+        "front": "Explain how to use competing sociological perspectives in an extended response.",
+        "back": [
+          "Apply each perspective to the same issue, showing what each makes visible about it.",
+          "Support each with evidence, rather than describing the theory in the abstract.",
+          "Evaluate which better accounts for the available evidence, identifying what each perspective overlooks.",
+          "Reach an explicit judgement, since presenting perspectives without assessment describes theory rather than analysing the issue."
+        ]
+      }
     }
   ]
 }

@@ -3,26 +3,22 @@
   "name": "Accounting",
   "areas": [
     "Accounting assumptions and qualitative characteristics",
-    "Unit 3 AoS 1 — Recording financial data",
-    "Unit 3 AoS 1 — Inventory and GST",
-    "Unit 3 AoS 2 — Reporting and balance day adjustments",
-    "Unit 4 AoS 1 — Extension of recording and reporting",
-    "Unit 4 AoS 2 — Budgeting",
-    "Unit 4 AoS 2 — Analysis and decision making",
+    "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
+    "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
+    "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
+    "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
     "Exam technique"
   ],
   "short": {
     "Accounting assumptions and qualitative characteristics": "Assumptions",
-    "Unit 3 AoS 1 — Recording financial data": "U3 Recording",
-    "Unit 3 AoS 1 — Inventory and GST": "U3 Inventory",
-    "Unit 3 AoS 2 — Reporting and balance day adjustments": "U3 Reporting",
-    "Unit 4 AoS 1 — Extension of recording and reporting": "U4 Extension",
-    "Unit 4 AoS 2 — Budgeting": "U4 Budgeting",
-    "Unit 4 AoS 2 — Analysis and decision making": "U4 Analysis",
+    "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data": "U1 Recording and analysing fin",
+    "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports": "U2 Preparing and interpreting ",
+    "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting": "U1 Extension of recording and ",
+    "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making": "U2 Budgeting and decision-maki",
     "Exam technique": "Exam technique"
   },
   "source": "Adapted revision checklist based on VCAA's VCE Accounting Study Design, Units 3 and 4, covering a single activity sole trader trading business. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering.",
-  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/accounting",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/accounting/accounting",
   "sourceLabel": "VCAA Accounting study design",
   "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use class resources and past examinations for official practice.",
   "theme": {
@@ -47,7 +43,18 @@
             "For example, a credit sale is recognised as revenue at the date of sale, not at the date the debtor pays."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:A1",
+        "title": "The accounting entity and accrual assumptions",
+        "front": "Explain the accounting entity assumption and the accrual basis assumption, giving one example of each.",
+        "back": [
+          "The accounting entity assumption requires the records of the business to be kept separately from the personal records of the owner.",
+          "For example, the owner taking cash for personal use is recorded as drawings rather than as a business expense.",
+          "The accrual basis assumption requires revenues to be recognised when earned and expenses when incurred, regardless of when cash is received or paid.",
+          "For example, a credit sale is recognised as revenue at the date of sale, not at the date the debtor pays."
+        ]
+      }
     },
     {
       "id": "A2",
@@ -64,7 +71,17 @@
             "They are not reported at the amount that could be obtained in a forced sale, because no such sale is anticipated."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:A2",
+        "title": "Going concern and period assumptions",
+        "front": "Explain the going concern assumption and state one consequence for the way assets are reported.",
+        "back": [
+          "The going concern assumption presumes the business will continue operating into the foreseeable future and will not be wound up.",
+          "Non-current assets are therefore reported at their historical cost less accumulated depreciation, reflecting continued use in the business.",
+          "They are not reported at the amount that could be obtained in a forced sale, because no such sale is anticipated."
+        ]
+      }
     },
     {
       "id": "A3",
@@ -82,7 +99,18 @@
             "Verifiability requires independent observers to reach consensus, which may require waiting for confirming evidence, so reporting quickly can reduce the confidence in the information."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:A3",
+        "title": "Qualitative characteristics",
+        "front": "Explain relevance and faithful representation, and describe the tension that can arise between timeliness and verifiability.",
+        "back": [
+          "Relevance requires that financial information be capable of making a difference to the decisions of users, including material information only.",
+          "Faithful representation requires that information be complete, neutral and free from material error, corresponding to the real transaction.",
+          "Timeliness requires information to be available early enough to influence a decision.",
+          "Verifiability requires independent observers to reach consensus, which may require waiting for confirming evidence, so reporting quickly can reduce the confidence in the information."
+        ]
+      }
     },
     {
       "id": "A4",
@@ -100,11 +128,22 @@
             "Anything expected to remain beyond 12 months is classified as non-current, which is why a loan's next 12 months of repayments are separated out."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:A4",
+        "title": "Elements of the reports",
+        "front": "Define an asset and a liability, and explain the basis on which each is classified as current or non-current.",
+        "back": [
+          "An asset is a present economic resource controlled by the entity as a result of past events, with the potential to produce economic benefits.",
+          "A liability is a present obligation of the entity to transfer an economic resource as a result of past events.",
+          "An item is current if it is expected to be converted to cash, sold, consumed or settled within 12 months of the reporting date.",
+          "Anything expected to remain beyond 12 months is classified as non-current, which is why a loan's next 12 months of repayments are separated out."
+        ]
+      }
     },
     {
       "id": "3.1.1",
-      "area": "Unit 3 AoS 1 — Recording financial data",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Source documents",
       "detail": "Sales and purchase invoices, receipts, cheque butts or EFT records, memos, bank statements and credit notes, and the verification they provide.",
       "questions": [
@@ -117,11 +156,21 @@
             "A memo verifies an internal transaction with no external party, such as depreciation, drawings of inventory or an inventory write-down."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.1.1",
+        "title": "Source documents",
+        "front": "Name three source documents and state the transaction each verifies.",
+        "back": [
+          "A sales invoice verifies a credit sale of inventory to a customer.",
+          "A receipt verifies cash received, for example from a debtor or a cash sale.",
+          "A memo verifies an internal transaction with no external party, such as depreciation, drawings of inventory or an inventory write-down."
+        ]
+      }
     },
     {
       "id": "3.1.2",
-      "area": "Unit 3 AoS 1 — Recording financial data",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "The accounting equation and double entry",
       "detail": "Assets equal liabilities plus owner's equity, and the requirement that every transaction affect at least two items so the equation remains in balance.",
       "questions": [
@@ -135,11 +184,22 @@
             "Total assets increase by 4400 dollars and total liabilities increase by 4400 dollars, so the equation remains in balance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.1.2",
+        "title": "The accounting equation and double entry",
+        "front": "State the effect on the accounting equation of purchasing inventory on credit for 4400 dollars including GST.",
+        "back": [
+          "Inventory increases by 4000 dollars, being the GST-exclusive cost.",
+          "The GST clearing account is affected by 400 dollars, reducing the net amount owed to the tax authority or increasing the amount receivable.",
+          "Creditors, a liability, increase by the full 4400 dollars.",
+          "Total assets increase by 4400 dollars and total liabilities increase by 4400 dollars, so the equation remains in balance."
+        ]
+      }
     },
     {
       "id": "3.1.3",
-      "area": "Unit 3 AoS 1 — Recording financial data",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "The General Journal",
       "detail": "Recording transactions in journal form with debits before credits, appropriate narrations and correct treatment of GST.",
       "questions": [
@@ -153,11 +213,22 @@
             "The narration supports verifiability by allowing an independent party to trace the entry back to its supporting evidence."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.1.3",
+        "title": "The General Journal",
+        "front": "Explain the structure of a General Journal entry and why a narration is required.",
+        "back": [
+          "The debit entry or entries are recorded first, with the credit entry or entries indented beneath them.",
+          "The total debits must equal the total credits for every entry.",
+          "A narration briefly describes the transaction and identifies the source document that verifies it.",
+          "The narration supports verifiability by allowing an independent party to trace the entry back to its supporting evidence."
+        ]
+      }
     },
     {
       "id": "3.1.4",
-      "area": "Unit 3 AoS 1 — Recording financial data",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "The General Ledger",
       "detail": "Posting from the journal to ledger accounts, the use of cross-references, and balancing accounts at the end of the period.",
       "questions": [
@@ -170,11 +241,21 @@
             "This supports verifiability and makes errors easier to locate when the ledger does not balance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.1.4",
+        "title": "The General Ledger",
+        "front": "Explain the purpose of the cross-reference in a ledger account.",
+        "back": [
+          "The cross-reference names the other account affected by the same transaction.",
+          "It allows a reader to trace the double entry from one account to its corresponding account.",
+          "This supports verifiability and makes errors easier to locate when the ledger does not balance."
+        ]
+      }
     },
     {
       "id": "3.1.5",
-      "area": "Unit 3 AoS 1 — Recording financial data",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Subsidiary ledgers and schedules",
       "detail": "Maintaining individual debtor, creditor and inventory records, and reconciling their totals with the control accounts in the General Ledger.",
       "questions": [
@@ -188,11 +269,22 @@
             "A difference indicates a recording error, such as posting to the wrong debtor or omitting a posting, and must be investigated before reports are prepared."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.1.5",
+        "title": "Subsidiary ledgers and schedules",
+        "front": "Explain the relationship between the Debtors Control account and the debtors subsidiary ledger, and what a difference between them indicates.",
+        "back": [
+          "The Debtors Control account in the General Ledger records the total amount owed by all credit customers.",
+          "The subsidiary ledger contains a separate account for each individual debtor, showing what that customer owes.",
+          "The sum of the individual balances in the subsidiary ledger should equal the balance of the control account.",
+          "A difference indicates a recording error, such as posting to the wrong debtor or omitting a posting, and must be investigated before reports are prepared."
+        ]
+      }
     },
     {
       "id": "3.2.1",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "The perpetual inventory system",
       "detail": "Recording inventory movements continuously at cost, the dual entry required for sales, and the role of physical stocktakes.",
       "questions": [
@@ -206,11 +298,22 @@
             "This allows gross profit to be determined and the inventory asset to be stated at cost at all times."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.1",
+        "title": "The perpetual inventory system",
+        "front": "Explain why a credit sale of inventory requires two entries under a perpetual inventory system.",
+        "back": [
+          "The first entry records the revenue: Debtors Control is debited, and Sales and GST Clearing are credited at the selling price.",
+          "The second entry records the expense and the reduction in the asset: Cost of Sales is debited and Inventory is credited at cost price.",
+          "Two entries are required because the selling price and the cost price are different amounts recording different effects.",
+          "This allows gross profit to be determined and the inventory asset to be stated at cost at all times."
+        ]
+      }
     },
     {
       "id": "3.2.2",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Inventory cost assignment",
       "detail": "The first in first out method and the identified cost method, the circumstances in which each is appropriate, and the effect of each on cost of sales.",
       "questions": [
@@ -224,11 +327,22 @@
             "FIFO suits homogeneous, interchangeable items where tracking individual units is impractical, and it approximates the physical flow of perishable goods."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.2",
+        "title": "Inventory cost assignment",
+        "front": "Compare the FIFO and identified cost methods and state when each is appropriate.",
+        "back": [
+          "FIFO assumes the earliest units purchased are the first sold, so cost of sales is based on the oldest costs and closing inventory reflects the most recent costs.",
+          "Identified cost tracks the actual cost of each specific unit sold, usually by serial number or individual tag.",
+          "Identified cost suits high-value, individually distinguishable items such as vehicles or machinery.",
+          "FIFO suits homogeneous, interchangeable items where tracking individual units is impractical, and it approximates the physical flow of perishable goods."
+        ]
+      }
     },
     {
       "id": "3.2.3",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Product and period costs",
       "detail": "Distinguishing costs added to the value of inventory from costs expensed in the period they are incurred.",
       "questions": [
@@ -242,11 +356,22 @@
             "Advertising, delivery out to customers and general warehouse wages are period costs."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.3",
+        "title": "Product and period costs",
+        "front": "Distinguish between a product cost and a period cost, giving an example of each, and explain the test applied.",
+        "back": [
+          "A product cost is incurred to bring inventory into a condition and location ready for sale, and is added to the cost of the inventory.",
+          "Delivery in, customs duty and assembly costs are product costs, provided they can be allocated to specific units on a logical basis.",
+          "A period cost is not directly attributable to specific units and is reported as an expense in the period incurred.",
+          "Advertising, delivery out to customers and general warehouse wages are period costs."
+        ]
+      }
     },
     {
       "id": "3.2.4",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Inventory loss, gain and write-down",
       "detail": "Recording differences between the inventory card and the physical stocktake, and writing inventory down to net realisable value.",
       "questions": [
@@ -260,11 +385,22 @@
             "It is recorded by debiting Inventory Write-Down, an expense, and crediting Inventory for the difference between cost and net realisable value, which upholds faithful representation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.4",
+        "title": "Inventory loss, gain and write-down",
+        "front": "Explain the difference between an inventory loss and an inventory write-down, and the accounting treatment of each.",
+        "back": [
+          "An inventory loss occurs when the physical stocktake reveals fewer units than the inventory card shows, caused by theft, damage or recording error.",
+          "It is recorded by debiting Inventory Loss, an expense, and crediting Inventory at cost price, verified by a memo.",
+          "An inventory write-down occurs when the net realisable value of inventory falls below its cost, so the units remain but are worth less.",
+          "It is recorded by debiting Inventory Write-Down, an expense, and crediting Inventory for the difference between cost and net realisable value, which upholds faithful representation."
+        ]
+      }
     },
     {
       "id": "3.2.5",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "GST and the GST Clearing account",
       "detail": "GST collected on sales, GST paid on purchases, the net balance owing or receivable, and the settlement of the account.",
       "questions": [
@@ -278,11 +414,22 @@
             "A debit balance means the business has paid more GST than it has collected, so the account is a current asset representing a GST refund receivable."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.5",
+        "title": "GST and the GST Clearing account",
+        "front": "Explain the operation of the GST Clearing account and what a credit balance indicates.",
+        "back": [
+          "GST charged on sales is credited to GST Clearing, increasing the amount owed to the tax authority.",
+          "GST paid on purchases and expenses is debited to GST Clearing, reducing that amount.",
+          "A credit balance means GST collected exceeds GST paid, so the account is a current liability representing GST owing to the tax authority.",
+          "A debit balance means the business has paid more GST than it has collected, so the account is a current asset representing a GST refund receivable."
+        ]
+      }
     },
     {
       "id": "3.2.6",
-      "area": "Unit 3 AoS 1 — Inventory and GST",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 1: Recording and analysing financial data",
       "title": "Drawings of inventory and advertising use",
       "detail": "Recording the owner taking inventory for personal use, and inventory used for advertising or donation, at cost price by memo.",
       "questions": [
@@ -295,11 +442,21 @@
             "Drawings reduces owner's equity in accordance with the accounting entity assumption, since the benefit is personal rather than business."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.2.6",
+        "title": "Drawings of inventory and advertising use",
+        "front": "State the entry to record the owner taking inventory costing 500 dollars for personal use, and explain the reasoning.",
+        "back": [
+          "Debit Drawings 500 dollars and credit Inventory 500 dollars, verified by a memo.",
+          "The transaction is recorded at cost price because no sale has occurred and no revenue has been earned.",
+          "Drawings reduces owner's equity in accordance with the accounting entity assumption, since the benefit is personal rather than business."
+        ]
+      }
     },
     {
       "id": "3.3.1",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "The Income Statement",
       "detail": "Classified presentation of revenue, cost of sales, gross profit, adjusted gross profit and other expenses to arrive at net profit.",
       "questions": [
@@ -313,11 +470,22 @@
             "An inventory loss is deducted in arriving at adjusted gross profit, not treated as a general expense."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.1",
+        "title": "The Income Statement",
+        "front": "Explain how gross profit differs from net profit and where an inventory loss is reported.",
+        "back": [
+          "Gross profit is net sales less cost of sales, showing the margin earned on trading activity before other expenses.",
+          "Adjusted gross profit is gross profit adjusted for inventory loss or gain, since these relate directly to the trading of inventory.",
+          "Net profit is adjusted gross profit less all other expenses, including selling, administrative and financial expenses.",
+          "An inventory loss is deducted in arriving at adjusted gross profit, not treated as a general expense."
+        ]
+      }
     },
     {
       "id": "3.3.2",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "The Balance Sheet",
       "detail": "Classified presentation of current and non-current assets and liabilities, and owner's equity as capital plus net profit less drawings.",
       "questions": [
@@ -331,11 +499,22 @@
             "A net loss is deducted instead of profit being added, and any capital contribution during the period is also added."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.2",
+        "title": "The Balance Sheet",
+        "front": "Explain the classified presentation of a Balance Sheet and how owner's equity is calculated.",
+        "back": [
+          "Assets are separated into current and non-current, as are liabilities, based on whether they will be realised or settled within 12 months.",
+          "Classification allows users to assess liquidity, by comparing current assets against current liabilities.",
+          "Owner's equity equals opening capital plus net profit less drawings for the period.",
+          "A net loss is deducted instead of profit being added, and any capital contribution during the period is also added."
+        ]
+      }
     },
     {
       "id": "3.3.3",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "The Cash Flow Statement",
       "detail": "Classifying cash flows as operating, investing or financing, and reconciling to the change in the bank balance.",
       "questions": [
@@ -349,11 +528,22 @@
             "Interest paid is an operating outflow, as it is a cost of the ordinary activities of the period."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.3",
+        "title": "The Cash Flow Statement",
+        "front": "Classify the following as operating, investing or financing: cash paid to creditors; purchase of a vehicle; a capital contribution by the owner; interest paid.",
+        "back": [
+          "Cash paid to creditors is an operating outflow, since it relates to the day-to-day trading activity of buying inventory.",
+          "Purchase of a vehicle is an investing outflow, since it relates to the acquisition of a non-current asset.",
+          "A capital contribution by the owner is a financing inflow, since it relates to the funding of the business.",
+          "Interest paid is an operating outflow, as it is a cost of the ordinary activities of the period."
+        ]
+      }
     },
     {
       "id": "3.3.4",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "Cash profit and accrual profit",
       "detail": "Explaining why net cash flow from operations differs from net profit, and identifying the specific items causing the difference.",
       "questions": [
@@ -367,11 +557,22 @@
             "Conversely, large payments to creditors for inventory purchased in an earlier period reduce cash without reducing profit in this period."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.4",
+        "title": "Cash profit and accrual profit",
+        "front": "Explain why a business can report a net profit but a negative net cash flow from operating activities.",
+        "back": [
+          "Profit is determined on an accrual basis, so credit sales are recognised as revenue before the cash is received from debtors.",
+          "Expenses incurred but not yet paid, such as accrued wages, reduce profit without any cash outflow in the period.",
+          "Non-cash expenses such as depreciation reduce profit but involve no payment at all.",
+          "Conversely, large payments to creditors for inventory purchased in an earlier period reduce cash without reducing profit in this period."
+        ]
+      }
     },
     {
       "id": "3.3.5",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "Prepaid expenses",
       "detail": "Recording a payment in advance as an asset and transferring the consumed portion to expense at balance day.",
       "questions": [
@@ -385,11 +586,22 @@
             "The Balance Sheet reports Prepaid Insurance of 9000 dollars as a current asset, being the unconsumed future benefit."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.5",
+        "title": "Prepaid expenses",
+        "front": "A business pays 12000 dollars for 12 months of insurance on 1 October. State the balance day adjustment at 31 December and the reports affected.",
+        "back": [
+          "Three months have been consumed, so the expense for the period is 3000 dollars.",
+          "Debit Insurance Expense 3000 dollars and credit Prepaid Insurance 3000 dollars, verified by a memo.",
+          "The Income Statement reports insurance expense of 3000 dollars, applying the period assumption.",
+          "The Balance Sheet reports Prepaid Insurance of 9000 dollars as a current asset, being the unconsumed future benefit."
+        ]
+      }
     },
     {
       "id": "3.3.6",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "Accrued expenses",
       "detail": "Recognising an expense incurred but not yet paid at balance day, and the corresponding current liability.",
       "questions": [
@@ -402,11 +614,21 @@
             "Debit Wages Expense and credit Accrued Wages, a current liability, verified by a memo."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.6",
+        "title": "Accrued expenses",
+        "front": "Explain why accrued wages must be recorded at balance day and state the entry.",
+        "back": [
+          "The wages relate to work already performed by employees in the current period, so the expense has been incurred.",
+          "Under the accrual basis assumption the expense is recognised when incurred, not when paid, so profit is faithfully represented.",
+          "Debit Wages Expense and credit Accrued Wages, a current liability, verified by a memo."
+        ]
+      }
     },
     {
       "id": "3.3.7",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "Straight-line depreciation",
       "detail": "Calculating depreciation as cost less residual value divided by useful life, and reporting accumulated depreciation and carrying value.",
       "questions": [
@@ -420,11 +642,22 @@
             "The resulting carrying value after one year is 41000 dollars, which is not intended to represent market value."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.7",
+        "title": "Straight-line depreciation",
+        "front": "Equipment costs 50000 dollars, has a residual value of 5000 dollars and a useful life of 5 years. Calculate annual depreciation and explain the reporting treatment.",
+        "back": [
+          "Annual depreciation equals cost less residual value divided by useful life: 50000 minus 5000, divided by 5, which is 9000 dollars per year.",
+          "Debit Depreciation Expense 9000 dollars and credit Accumulated Depreciation 9000 dollars, verified by a memo.",
+          "Accumulated Depreciation is a negative asset deducted from the cost of the equipment in the Balance Sheet.",
+          "The resulting carrying value after one year is 41000 dollars, which is not intended to represent market value."
+        ]
+      }
     },
     {
       "id": "3.3.8",
-      "area": "Unit 3 AoS 2 — Reporting and balance day adjustments",
+      "area": "Unit 3: Financial accounting for a trading business — AoS 2: Preparing and interpreting accounting reports",
       "title": "Reducing balance depreciation",
       "detail": "Applying a fixed percentage to the carrying value each period, and the circumstances in which it better matches the pattern of benefit.",
       "questions": [
@@ -438,11 +671,22 @@
             "The choice affects the pattern of reported profit but not the total depreciation charged over the asset's life."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:3.3.8",
+        "title": "Reducing balance depreciation",
+        "front": "Compare straight-line and reducing balance depreciation and state when reducing balance is more appropriate.",
+        "back": [
+          "Straight-line allocates an equal amount of depreciation each period, assuming benefits are consumed evenly across the asset's life.",
+          "Reducing balance applies a fixed percentage to the declining carrying value, producing a higher expense in early years and lower in later years.",
+          "Reducing balance is more appropriate where the asset contributes more in its early years or where repair costs rise as it ages.",
+          "The choice affects the pattern of reported profit but not the total depreciation charged over the asset's life."
+        ]
+      }
     },
     {
       "id": "4.1.1",
-      "area": "Unit 4 AoS 1 — Extension of recording and reporting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
       "title": "Acquiring a non-current asset",
       "detail": "Determining the cost of a non-current asset by including all costs necessary to bring it to a location and condition ready for use.",
       "questions": [
@@ -456,11 +700,22 @@
             "The cost of the machine is 30000 plus 1200 plus 2000, which is 33200 dollars."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.1.1",
+        "title": "Acquiring a non-current asset",
+        "front": "A machine is purchased for 30000 dollars with delivery of 1200 dollars, installation of 2000 dollars and first-year insurance of 900 dollars. Calculate the cost of the asset.",
+        "back": [
+          "The cost includes all costs incurred to bring the asset to a location and condition ready for use.",
+          "Delivery of 1200 dollars and installation of 2000 dollars are therefore included in the cost of the asset.",
+          "Insurance of 900 dollars is an ongoing operating cost of using the asset, not a cost of acquiring it, so it is a period expense.",
+          "The cost of the machine is 30000 plus 1200 plus 2000, which is 33200 dollars."
+        ]
+      }
     },
     {
       "id": "4.1.2",
-      "area": "Unit 4 AoS 1 — Extension of recording and reporting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
       "title": "Disposal of a non-current asset",
       "detail": "Removing the asset and its accumulated depreciation, recognising proceeds and calculating the profit or loss on disposal.",
       "questions": [
@@ -474,11 +729,22 @@
             "A profit indicates it was depreciated too quickly; both arise because depreciation is an estimate, not a valuation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.1.2",
+        "title": "Disposal of a non-current asset",
+        "front": "Explain how a profit or loss on disposal of a non-current asset arises and what it indicates.",
+        "back": [
+          "The carrying value at the date of disposal is the cost less accumulated depreciation to that date, including depreciation for the part-year.",
+          "Profit or loss on disposal is the proceeds received less that carrying value.",
+          "A loss indicates the asset was depreciated too slowly, meaning the useful life or residual value estimate was too generous.",
+          "A profit indicates it was depreciated too quickly; both arise because depreciation is an estimate, not a valuation."
+        ]
+      }
     },
     {
       "id": "4.1.3",
-      "area": "Unit 4 AoS 1 — Extension of recording and reporting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
       "title": "Accrued revenue",
       "detail": "Recognising revenue earned but not yet received at balance day, and the corresponding current asset.",
       "questions": [
@@ -491,11 +757,21 @@
             "The Income Statement reports the full amount earned and the Balance Sheet reports the amount still to be received."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.1.3",
+        "title": "Accrued revenue",
+        "front": "Explain the treatment of accrued revenue at balance day and state the entry.",
+        "back": [
+          "Revenue that has been earned in the period but not yet received must be recognised under the accrual basis assumption.",
+          "Debit Accrued Revenue, a current asset, and credit the relevant revenue account, verified by a memo.",
+          "The Income Statement reports the full amount earned and the Balance Sheet reports the amount still to be received."
+        ]
+      }
     },
     {
       "id": "4.1.4",
-      "area": "Unit 4 AoS 1 — Extension of recording and reporting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
       "title": "Prepaid revenue",
       "detail": "Recording cash received in advance as a liability and recognising revenue only as the obligation is satisfied.",
       "questions": [
@@ -508,11 +784,21 @@
             "Revenue is recognised progressively as the obligation is satisfied, transferring the amount from Prepaid Revenue to the revenue account."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.1.4",
+        "title": "Prepaid revenue",
+        "front": "Explain why cash received in advance from a customer is recorded as a liability rather than revenue.",
+        "back": [
+          "The business has received the cash but has not yet provided the goods or services, so the revenue has not been earned.",
+          "An obligation exists to provide those goods or services, or to refund the customer, which meets the definition of a liability.",
+          "Revenue is recognised progressively as the obligation is satisfied, transferring the amount from Prepaid Revenue to the revenue account."
+        ]
+      }
     },
     {
       "id": "4.1.5",
-      "area": "Unit 4 AoS 1 — Extension of recording and reporting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 1: Extension of recording and reporting",
       "title": "Closing the ledger and the Profit and Loss Summary",
       "detail": "Closing revenue and expense accounts to the Profit and Loss Summary, transferring net profit to Capital, and closing Drawings.",
       "questions": [
@@ -526,11 +812,22 @@
             "Drawings is also closed to Capital, while asset, liability and equity accounts are balanced and carried forward rather than closed."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.1.5",
+        "title": "Closing the ledger and the Profit and Loss Summary",
+        "front": "Explain the purpose of closing entries and identify which accounts are closed.",
+        "back": [
+          "Closing entries reset revenue and expense accounts to zero so the next period's figures are recorded separately, applying the period assumption.",
+          "Revenue accounts are debited and the Profit and Loss Summary credited; expense accounts are credited and the Summary debited.",
+          "The balance of the Profit and Loss Summary, being net profit or loss, is transferred to the Capital account.",
+          "Drawings is also closed to Capital, while asset, liability and equity accounts are balanced and carried forward rather than closed."
+        ]
+      }
     },
     {
       "id": "4.2.1",
-      "area": "Unit 4 AoS 2 — Budgeting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "The purpose of budgeting",
       "detail": "Planning future activity, setting targets, allocating resources, anticipating cash shortfalls and providing a benchmark against which to assess performance.",
       "questions": [
@@ -544,11 +841,22 @@
             "They also coordinate activity, since purchasing, staffing and marketing plans must be consistent with the budgeted level of sales."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.2.1",
+        "title": "The purpose of budgeting",
+        "front": "Explain three benefits a small business gains from preparing budgeted reports.",
+        "back": [
+          "Budgets identify likely cash shortfalls in advance, so finance can be arranged before the shortage occurs.",
+          "They set measurable targets against which actual results can later be compared, enabling variance analysis.",
+          "They assist decision making by modelling the financial effect of a proposed change before it is committed to.",
+          "They also coordinate activity, since purchasing, staffing and marketing plans must be consistent with the budgeted level of sales."
+        ]
+      }
     },
     {
       "id": "4.2.2",
-      "area": "Unit 4 AoS 2 — Budgeting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Budgeted Cash Flow Statement",
       "detail": "Forecasting receipts from debtors and payments to creditors using expected collection and payment patterns, and projecting the closing bank balance.",
       "questions": [
@@ -562,11 +870,22 @@
             "Deduct any expected discount expense or bad debts, and the remainder of credit sales becomes the closing debtors balance."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.2.2",
+        "title": "Budgeted Cash Flow Statement",
+        "front": "Explain how receipts from debtors are estimated in a Budgeted Cash Flow Statement.",
+        "back": [
+          "Begin with the opening balance of Debtors Control, which is expected to be collected in the budget period.",
+          "Add budgeted credit sales for the period, including GST, since that is the amount customers will pay.",
+          "Apply the expected collection pattern, so only the proportion expected to be received in the period is included.",
+          "Deduct any expected discount expense or bad debts, and the remainder of credit sales becomes the closing debtors balance."
+        ]
+      }
     },
     {
       "id": "4.2.3",
-      "area": "Unit 4 AoS 2 — Budgeting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Budgeted Income Statement",
       "detail": "Forecasting sales, cost of sales and expenses on an accrual basis, and distinguishing budgeted profit from budgeted cash flow.",
       "questions": [
@@ -579,11 +898,21 @@
             "The two therefore differ in timing, in the treatment of GST and in the inclusion of cash sales and opening debtors."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.2.3",
+        "title": "Budgeted Income Statement",
+        "front": "Explain why the sales figure in a Budgeted Income Statement differs from receipts from debtors in a Budgeted Cash Flow Statement.",
+        "back": [
+          "Budgeted sales are recognised when the sale is expected to occur, on an accrual basis, and exclude GST.",
+          "Receipts from debtors are recognised when cash is expected to be received, include GST, and include collections of prior period sales.",
+          "The two therefore differ in timing, in the treatment of GST and in the inclusion of cash sales and opening debtors."
+        ]
+      }
     },
     {
       "id": "4.2.4",
-      "area": "Unit 4 AoS 2 — Budgeting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Budgeted Balance Sheet",
       "detail": "Projecting closing balances of assets, liabilities and owner's equity from the budgeted income and cash flow statements.",
       "questions": [
@@ -596,11 +925,21 @@
             "Deduct budgeted drawings for the period to arrive at the closing Capital figure."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.2.4",
+        "title": "Budgeted Balance Sheet",
+        "front": "Explain how the closing Capital figure in a Budgeted Balance Sheet is derived.",
+        "back": [
+          "Begin with the opening Capital balance from the actual Balance Sheet at the start of the period.",
+          "Add budgeted net profit from the Budgeted Income Statement, and add any expected capital contribution.",
+          "Deduct budgeted drawings for the period to arrive at the closing Capital figure."
+        ]
+      }
     },
     {
       "id": "4.2.5",
-      "area": "Unit 4 AoS 2 — Budgeting",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Variance reports",
       "detail": "Comparing actual with budgeted results, classifying variances as favourable or unfavourable, and investigating the causes.",
       "questions": [
@@ -614,11 +953,22 @@
             "Variances should therefore be investigated in relation to one another and to the level of activity actually achieved, not in isolation."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.2.5",
+        "title": "Variance reports",
+        "front": "Explain how a variance is classified as favourable or unfavourable, and why an unfavourable expense variance is not always a problem.",
+        "back": [
+          "A variance is favourable when the actual result improves profit relative to budget, such as higher revenue or lower expenses.",
+          "It is unfavourable when the actual result reduces profit relative to budget.",
+          "An unfavourable expense variance may be acceptable if it accompanies a favourable sales variance, since higher sales require higher variable costs.",
+          "Variances should therefore be investigated in relation to one another and to the level of activity actually achieved, not in isolation."
+        ]
+      }
     },
     {
       "id": "4.3.1",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Profitability indicators",
       "detail": "Gross profit margin, net profit margin, return on owner's investment and return on assets, and the interpretation of each.",
       "questions": [
@@ -632,11 +982,22 @@
             "A falling net profit margin therefore indicates other expenses have risen relative to sales, so the investigation should focus on operating expenses rather than pricing or supplier costs."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.1",
+        "title": "Profitability indicators",
+        "front": "Explain what gross profit margin and net profit margin measure, and what a falling net profit margin with a stable gross profit margin indicates.",
+        "back": [
+          "Gross profit margin is gross profit divided by net sales, expressed as a percentage, measuring the margin earned on trading.",
+          "Net profit margin is net profit divided by net sales, measuring the proportion of each sales dollar retained after all expenses.",
+          "A stable gross profit margin indicates the mark-up and cost of inventory are unchanged.",
+          "A falling net profit margin therefore indicates other expenses have risen relative to sales, so the investigation should focus on operating expenses rather than pricing or supplier costs."
+        ]
+      }
     },
     {
       "id": "4.3.2",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Liquidity indicators",
       "detail": "Working capital ratio and quick asset ratio, their calculation and the distinction between them.",
       "questions": [
@@ -650,11 +1011,22 @@
             "A business with an adequate working capital ratio but a poor quick asset ratio is holding a large amount of slow-moving inventory and may struggle to pay debts promptly."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.2",
+        "title": "Liquidity indicators",
+        "front": "Distinguish between the working capital ratio and the quick asset ratio and explain why both are useful.",
+        "back": [
+          "The working capital ratio is current assets divided by current liabilities, measuring the ability to meet short-term debts as they fall due.",
+          "The quick asset ratio excludes inventory and prepaid expenses from current assets, and excludes bank overdraft from current liabilities.",
+          "Inventory is excluded because it must first be sold and the resulting debt collected before it becomes cash.",
+          "A business with an adequate working capital ratio but a poor quick asset ratio is holding a large amount of slow-moving inventory and may struggle to pay debts promptly."
+        ]
+      }
     },
     {
       "id": "4.3.3",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Efficiency indicators",
       "detail": "Inventory turnover, debtors turnover, creditors turnover and asset turnover, and what each reveals about management of resources.",
       "questions": [
@@ -668,11 +1040,22 @@
             "The appropriate figure depends on the nature of the goods, since perishables must turn over far faster than durable items."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.3",
+        "title": "Efficiency indicators",
+        "front": "Explain what inventory turnover measures and the risks of a turnover that is too slow or too fast.",
+        "back": [
+          "Inventory turnover measures the average number of days taken to sell inventory, calculated using average inventory divided by cost of sales multiplied by 365.",
+          "A slow turnover ties up cash in stock, increases storage and insurance costs and raises the risk of obsolescence or write-down.",
+          "A very fast turnover may indicate insufficient inventory is being held, risking stockouts and lost sales.",
+          "The appropriate figure depends on the nature of the goods, since perishables must turn over far faster than durable items."
+        ]
+      }
     },
     {
       "id": "4.3.4",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Relationships between indicators",
       "detail": "Analysing how turnover, margin and liquidity interact, and avoiding conclusions based on a single indicator.",
       "questions": [
@@ -686,11 +1069,22 @@
             "Fixed expenses are spread across more sales, so net profit rises; the indicators must be read together rather than judged individually."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.4",
+        "title": "Relationships between indicators",
+        "front": "A business reduces its selling price, and gross profit margin falls while inventory turnover improves and net profit rises. Explain this outcome.",
+        "back": [
+          "Reducing the selling price lowers the margin earned on each unit, so gross profit margin falls.",
+          "The lower price increases sales volume, so inventory is sold more quickly and turnover improves.",
+          "Because more units are sold, total gross profit can rise even though the margin per unit is lower.",
+          "Fixed expenses are spread across more sales, so net profit rises; the indicators must be read together rather than judged individually."
+        ]
+      }
     },
     {
       "id": "4.3.5",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Strategies to improve performance",
       "detail": "Recommending specific strategies to improve profitability, liquidity or efficiency, and evaluating the trade-offs of each.",
       "questions": [
@@ -704,11 +1098,22 @@
             "Tightening terms preserves margin but risks losing customers to competitors offering more generous credit, so the effect on sales must be weighed."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.5",
+        "title": "Strategies to improve performance",
+        "front": "Recommend two strategies to improve a slow debtors turnover and evaluate one of them.",
+        "back": [
+          "Offer a settlement discount for early payment, which gives customers a financial incentive to pay sooner.",
+          "Tighten credit terms and enforce them with reminders, statements and stop-supply for overdue accounts.",
+          "A settlement discount improves cash flow and reduces the risk of bad debts, but the discount expense reduces net profit.",
+          "Tightening terms preserves margin but risks losing customers to competitors offering more generous credit, so the effect on sales must be weighed."
+        ]
+      }
     },
     {
       "id": "4.3.6",
-      "area": "Unit 4 AoS 2 — Analysis and decision making",
+      "area": "Unit 4: Recording, reporting, budgeting and decision-making — AoS 2: Budgeting and decision-making",
       "title": "Non-financial information and ethical considerations",
       "detail": "Using non-financial data in decisions, and considering the social and environmental consequences of accounting decisions.",
       "questions": [
@@ -722,7 +1127,18 @@
             "An ethical consideration is whether a strategy such as sourcing cheaper inventory relies on poor labour or environmental practices, which carries reputational and moral consequences beyond the reported figures."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:4.3.6",
+        "title": "Non-financial information and ethical considerations",
+        "front": "Explain why non-financial information matters in decision making and give two examples, plus one ethical consideration.",
+        "back": [
+          "Financial reports record only what can be measured in monetary terms, so they omit factors that affect future performance.",
+          "Examples include customer satisfaction levels, staff turnover, the number of repeat customers and environmental compliance.",
+          "These predict future revenue and cost, so a decision based solely on this period's profit may damage long-term performance.",
+          "An ethical consideration is whether a strategy such as sourcing cheaper inventory relies on poor labour or environmental practices, which carries reputational and moral consequences beyond the reported figures."
+        ]
+      }
     },
     {
       "id": "X1",
@@ -739,7 +1155,17 @@
             "Clear workings also let you check your own calculation quickly if the figure appears implausible."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:X1",
+        "title": "Showing workings and using correct formats",
+        "front": "Explain why workings should be shown even when a single figure is requested.",
+        "back": [
+          "Method marks are available for the correct approach even when the final figure is incorrect.",
+          "Without workings, an incorrect answer earns nothing and the examiner cannot identify where the error occurred.",
+          "Clear workings also let you check your own calculation quickly if the figure appears implausible."
+        ]
+      }
     },
     {
       "id": "X2",
@@ -757,7 +1183,18 @@
             "State the consequence for the reports, such as which report is affected and in what direction."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:X2",
+        "title": "Explaining and justifying answers",
+        "front": "Explain the structure of a strong response to a question asking you to justify a treatment with reference to an accounting assumption.",
+        "back": [
+          "Name the relevant assumption or qualitative characteristic precisely.",
+          "State its definition briefly and accurately.",
+          "Apply it to the specific transaction in the question, referring to the actual figures and items given.",
+          "State the consequence for the reports, such as which report is affected and in what direction."
+        ]
+      }
     },
     {
       "id": "X3",
@@ -775,7 +1212,18 @@
             "Misclassifying items as current or non-current; apply the 12-month test to each item, including splitting loan repayments."
           ]
         }
-      ]
+      ],
+      "card": {
+        "key": "accounting-34:X3",
+        "title": "Common errors",
+        "front": "Name four common errors in Accounting responses and state how to avoid each.",
+        "back": [
+          "Recording inventory at selling price rather than cost when it is withdrawn or lost; check whether a sale has actually occurred.",
+          "Omitting the cost of sales entry for a credit sale; remember every sale of inventory requires two entries.",
+          "Including GST in the Income Statement; GST affects the GST Clearing account and never revenue or expenses.",
+          "Misclassifying items as current or non-current; apply the 12-month test to each item, including splitting loan repayments."
+        ]
+      }
     }
   ]
 }
