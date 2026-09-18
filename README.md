@@ -1,6 +1,6 @@
 # VCE Revision Tracker
 
-A self-contained revision tracker for VCE Units 3 & 4. It helps students work through key knowledge points, rate their confidence over three revision passes, and focus on topics that still need attention.
+A React revision tracker for VCE Units 3 & 4. It helps students work through key knowledge points, rate their confidence over three revision passes, and focus on topics that still need attention.
 
 ## Subjects included
 
@@ -24,10 +24,17 @@ A self-contained revision tracker for VCE Units 3 & 4. It helps students work th
 
 ## Run locally
 
-No installation or build tools are required.
+Install Node.js 22.12+ (or Node.js 24) and run these commands from the project folder:
+
+```powershell
+npm ci
+npm run dev
+```
+
+Open http://127.0.0.1:5173 in your browser. Use the same address each time to retain access to browser-saved progress.
 
 1. Download or clone this repository.
-2. Open `My-VCE-revision-tracker.html` in a modern web browser.
+2. Install dependencies and start the development server as shown above.
 3. On your first visit, select the subjects you study and choose **Start revising**.
 4. Open a subject and click a numbered pass box to cycle through confidence levels.
 
@@ -38,14 +45,39 @@ Progress is stored in the browser using local storage. Use **Save a backup file*
 ## Project structure
 
 ```text
-My-VCE-revision-tracker.html  # Complete application: HTML, CSS, JavaScript, and study content
-vce-tracker-progress.json     # Progress backup that can be imported into the tracker
-README.md                     # Project documentation
+index.html                   # React application entry page
+src/App.jsx                  # React screens and interactive components
+src/storage.js               # Saved-progress validation and backup compatibility
+src/subjects.json            # Existing subject content and practice questions
+src/themes.json              # Original theme styles
+src/app.css                  # Shared component styles
+tests/                       # Storage and browser workflow checks
+My-VCE-revision-tracker.html  # Preserved standalone version for migration/backup
+vce-tracker-progress.json    # Compatible progress backup
 ```
 
 ## Technology
 
-The tracker uses plain HTML, CSS, and JavaScript, with Google Fonts loaded when an internet connection is available. All application logic and study content are contained in a single HTML file.
+The active application uses React and Vite, with Google Fonts loaded when available. React controls the interface, ratings, subject choices, practice answers, and themes. No account or backend is required.
+
+## Moving existing progress
+
+Before switching, open the original HTML tracker and choose **Save a backup file**. In the React app, choose **Load a backup file** and select that export. Ratings and practice answers use the existing storage keys and version-3 backup format; older subject-rating backups are also accepted.
+
+Browser storage belongs to a particular address. The original file, localhost, and a future hosted website have separate storage even on the same computer. Choose your subjects again on the new address and reconnect your OneDrive progress file if you use file sync.
+
+In Chrome or Edge, **Open sync file** loads an existing JSON file and **Create sync file** writes the current progress to a file. A saved connection can be reauthorized with **Reconnect sync file**. Avoid editing progress on both computers simultaneously.
+
+## Build and verify
+
+```powershell
+npm run build
+npm run preview
+npm test
+npm run test:browser
+```
+
+The build produces `dist/` for static hosting. Browser tests use installed Microsoft Edge. The React conversion does not yet include PWA installation or offline caching.
 
 ## Data and privacy
 

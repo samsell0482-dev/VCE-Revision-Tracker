@@ -1,0 +1,48 @@
+import {test,expect} from '@playwright/test';
+test('setup, rating persistence, practice, themes and selection changes',async({page})=>{
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('/');
+ await expect(page.getByRole('dialog')).toBeVisible();
+ await expect(page.getByRole('button',{name:'Start revising'})).toBeDisabled();
+ await page.getByRole('checkbox',{name:'English Language',exact:true}).check();
+ await page.getByRole('button',{name:'Start revising'}).click();
+ await expect(page.locator('#subject-list > button')).toHaveCount(1);
+ await page.locator('#subject-list > button').click();
+ await page.getByRole('button',{name:'Pass 1, 3.1.1: not rated',exact:true}).click();
+ await page.reload();
+ await expect(page.getByRole('dialog')).toHaveCount(0);
+ await expect(page.getByRole('button',{name:"Pass 1, 3.1.1: couldn't explain it",exact:true})).toBeVisible();
+ await page.getByRole('button',{name:'Practice',exact:true}).click();
+ await page.locator('textarea').first().fill('My saved answer');
+ await page.getByRole('button',{name:'Reveal answer guide'}).first().click();
+ await page.getByRole('combobox').first().selectOption('2');
+ await page.getByRole('button',{name:'Midnight',exact:true}).click();
+ await page.reload();
+ await expect(page.locator('html')).toHaveAttribute('data-theme','midnight');
+ await page.getByRole('button',{name:'Practice',exact:true}).click();
+ await expect(page.locator('textarea').first()).toHaveValue('My saved answer');
+ await expect(page.getByRole('combobox').first()).toHaveValue('2');
+ await page.getByRole('button',{name:'All subjects'}).click();
+ await page.getByRole('button',{name:'Change subjects'}).click();
+ await page.getByRole('checkbox',{name:'Physics',exact:true}).check();
+ await page.getByRole('checkbox',{name:'English Language',exact:true}).uncheck();
+ await page.getByRole('button',{name:'Save subjects'}).click();
+ await expect(page.locator('#subject-list > button')).toHaveCount(1);
+ await expect(page.locator('#subject-list')).toContainText('Physics');
+ await page.getByRole('button',{name:'Change subjects'}).click();
+ await page.getByRole('checkbox',{name:'English Language',exact:true}).check();
+ await page.getByRole('button',{name:'Save subjects'}).click();
+ await page.locator('#subject-list > button').filter({hasText:'English Language'}).click();
+ await expect(page.getByRole('button',{name:"Pass 1, 3.1.1: couldn't explain it",exact:true})).toBeVisible();
+ expect(errors).toEqual([]);
+});
+test('backup import and mobile layout',async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto('/');
+ await page.getByRole('checkbox',{name:'English Language',exact:true}).check();await page.getByRole('button',{name:'Start revising'}).click();
+ await page.locator('input[type=file]').setInputFiles('vce-tracker-progress.json');
+ await page.locator('#subject-list > button').click();
+ await expect(page.getByRole('button',{name:'Pass 1, 3.1.1: confident',exact:true})).toBeVisible();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.screenshot({path:'test-results/mobile-tracker.png',fullPage:false});
+});
+
