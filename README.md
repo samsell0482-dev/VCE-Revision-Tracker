@@ -4,11 +4,19 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 
 ## Subjects included
 
+- Biology
+- Business Management
+- Chemistry
+- Economics
 - English Language
 - General Mathematics
+- Health and Human Development
+- Legal Studies
 - Mathematical Methods
 - Physics
+- Psychology
 - Software Development
+- Specialist Mathematics
 
 ## Features
 
@@ -38,7 +46,11 @@ Open http://127.0.0.1:5173 in your browser. Use the same address each time to re
 3. On your first visit, select the subjects you study and choose **Start revising**.
 4. Open a subject and click a numbered pass box to cycle through confidence levels.
 
-Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the five subjects listed above.
+Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the thirteen subjects listed above.
+
+Biology, Business Management, Chemistry, Economics, Legal Studies, Psychology and Specialist Mathematics were added as full-depth subjects: each has 56 to 83 paraphrased revision checkpoints covering Units 3 and 4, and every checkpoint carries one original practice question with a suggested marking guide. Their checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and the practice questions are original revision exercises rather than official VCAA questions. Each subject links to its VCAA study design and examination resources. Chemistry, Specialist Mathematics, Business Management, Legal Studies and Economics group their checkpoints by topic rather than by official area of study title. Legal Studies and Economics cover areas where the law, policy settings and published figures change, so check current detail against VCAA and other official sources.
+
+Health and Human Development includes 49 paraphrased revision checkpoints across all four Units 3 & 4 areas of study, based on the [official VCAA study design accredited from 2025](https://www.vcaa.vic.edu.au/sites/default/files/2025-10/2025HealthHumanDevelopmentSD.docx), updated July 2024. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering. Four original starter questions with suggested marking guides are included; they are not official VCAA questions or a complete practice bank. The subject links to VCAA's study design and examination resources.
 
 Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
 
@@ -51,7 +63,7 @@ src/storage.js               # Saved-progress validation and backup compatibilit
 src/subjects.json            # Existing subject content and practice questions
 src/themes.json              # Original theme styles
 src/app.css                  # Shared component styles
-tests/                       # Storage and browser workflow checks
+tests/                       # Storage, subject data and browser workflow checks
 My-VCE-revision-tracker.html  # Preserved standalone version for migration/backup
 vce-tracker-progress.json    # Compatible progress backup
 ```

@@ -16,7 +16,7 @@ function Setup({selection,onSave,onCancel}){
  <form onSubmit={e=>{e.preventDefault();if(draft.length)onSave(draft);}}>
  <span className="tag">YOUR VCE REVISION</span><h2 id="setup-title">Choose your subjects.</h2><p>Build a tracker for what you study. You can change these any time.</p>
  <fieldset><legend>Select at least one subject</legend>{subjects.map(s=><label key={s.id}><input type="checkbox" checked={draft.includes(s.id)} onChange={e=>setDraft(e.target.checked?[...draft,s.id]:draft.filter(id=>id!==s.id))}/>{s.name}</label>)}</fieldset>
- <p>These five subjects have revision content ready. More subjects can be added later.</p><p role="status">{draft.length} subjects selected</p><div className="setup-actions"><button className="ghost" disabled={!draft.length}>{selection?'Save subjects':'Start revising'}</button>{selection&&<button type="button" className="ghost" onClick={onCancel}>Cancel</button>}</div>
+ <p>{subjects.length} subjects have revision content ready. More subjects can be added later.</p><p role="status">{draft.length} subjects selected</p><div className="setup-actions"><button className="ghost" disabled={!draft.length}>{selection?'Save subjects':'Start revising'}</button>{selection&&<button type="button" className="ghost" onClick={onCancel}>Cancel</button>}</div>
  </form></dialog>;
 }
 function Dashboard({active,ratings,onOpen,onSetup}){
@@ -71,8 +71,8 @@ function Subject({subject,ratings,onRate,onBack,attempts,onAttempt}){
  <div className="controls"><Chips label="Working on" options={[[0,'Pass 1'],[1,'Pass 2'],[2,'Pass 3']]} value={pass} onChange={setPass}/>{view==='rate'&&<Chips label="Showing" options={[['all','Everything'],['unrated','Not yet rated'],['weak','Red and amber']]} value={filter} onChange={setFilter}/>}<Chips label="View" options={[['rate','Rate'],['cards','Cue cards'],['practice','Practice']]} value={view} onChange={setView}/></div>
  {view==='rate'&&<section id="list">{subject.areas.map(area=>{const pts=subject.points.filter(p=>p.area===area&&visible(p));return pts.length>0&&<section className="area" key={area}><div className="area-head"><h3>{area}</h3><span className="area-count">{pts.length} points</span></div>{pts.map(p=><div className="point" id={'point-'+p.id} key={p.id}><div className="boxes">{[0,1,2].map(r=><button className="box" key={r} data-state={ratings[subject.id][p.id][r]} aria-label={'Pass '+(r+1)+', '+p.id+': '+states[ratings[subject.id][p.id][r]]} onClick={e=>onRate(subject.id,p.id,r,e.shiftKey||e.altKey?-1:1)}>{r+1}</button>)}</div><div><div className="point-id">{p.id}</div><h4 className="point-title">{p.title}</h4><p className="point-detail">{p.detail}</p></div></div>)}</section>;})}{!subject.points.some(visible)&&<div className="empty">No topics match this filter.</div>}</section>}
  {view==='cards'&&<CueCards subject={subject} ratings={ratings} pass={pass}/>}
- {view==='practice'&&<Practice subject={subject} ratings={ratings} pass={pass} attempts={attempts} onUpdate={onAttempt}/>}
- <p className="colophon">{subject.source}</p>{subject.papers&&<section className="papers"><h3>Practice exams</h3><p>{subject.papers}</p></section>}</div>;
+ {view==='practice'&&<>{subject.practiceNote&&<p className="deck-note">{subject.practiceNote}</p>}<Practice subject={subject} ratings={ratings} pass={pass} attempts={attempts} onUpdate={onAttempt}/></>}
+ <p className="colophon">{subject.source} {subject.sourceUrl&&<a href={subject.sourceUrl} target="_blank" rel="noreferrer">{subject.sourceLabel||'Official study design'}</a>}</p>{subject.papers&&<section className="papers"><h3>Practice exams</h3><p>{subject.papers}</p>{subject.papersUrl&&<a href={subject.papersUrl} target="_blank" rel="noreferrer">Official VCAA examination resources</a>}</section>}</div>;
 }
 
 export default function App(){

@@ -1,0 +1,22 @@
+import {test,expect} from '@playwright/test';
+test('Health setup, rating, cue card and practice answer persist',async({page})=>{
+ await page.goto('/');
+ await page.getByRole('checkbox',{name:'Health and Human Development',exact:true}).check();
+ await page.getByRole('button',{name:'Start revising'}).click();
+ await page.locator('#subject-list > button').click();
+ await expect(page.getByRole('heading',{name:'Health and Human Development',exact:true})).toBeVisible();
+ await expect(page.locator('#list .area')).toHaveCount(4);
+ await expect(page.locator('#list .point')).toHaveCount(49);
+ await page.getByRole('button',{name:'Pass 1, 3.1.1: not rated',exact:true}).click();
+ await page.getByRole('button',{name:'Cue cards',exact:true}).click();
+ await expect(page.locator('.qcard')).toHaveCount(1);
+ await page.getByRole('button',{name:'Practice',exact:true}).click();
+ await expect(page.getByText(/These four starter questions/)).toBeVisible();
+ await page.locator('textarea').fill('Health is subjective.');
+ await page.reload();
+ await page.getByRole('button',{name:'Practice',exact:true}).click();
+ await expect(page.locator('textarea')).toHaveValue('Health is subjective.');
+ await page.getByRole('button',{name:'All questions',exact:true}).click();
+ await expect(page.locator('.qz')).toHaveCount(4);
+ await expect(page.getByRole('link',{name:'VCAA study design (Word)'})).toHaveAttribute('href',/vcaa.*2025HealthHumanDevelopmentSD.docx/);
+});
