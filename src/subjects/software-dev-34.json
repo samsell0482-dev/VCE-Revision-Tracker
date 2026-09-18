@@ -1,0 +1,1729 @@
+{
+  "id": "software-dev-34",
+  "name": "Software Development",
+  "areas": [
+    "Cross-unit",
+    "Unit 3 AoS 1 — Programming",
+    "Unit 3 AoS 2 — Analysis and Design",
+    "Unit 4 AoS 1 — Development and Evaluation",
+    "Unit 4 AoS 2 — Cyber Security"
+  ],
+  "short": {
+    "Cross-unit": "Cross-unit",
+    "Unit 3 AoS 1 — Programming": "U3 Programming",
+    "Unit 3 AoS 2 — Analysis and Design": "U3 Analysis and design",
+    "Unit 4 AoS 1 — Development and Evaluation": "U4 Development and evaluation",
+    "Unit 4 AoS 2 — Cyber Security": "U4 Cyber security"
+  },
+  "points": [
+    {
+      "id": "X1",
+      "area": "Cross-unit",
+      "title": "The four stages of the problem-solving methodology",
+      "detail": "Analysis, design, development, evaluation. Know the purpose of each stage and that the process is iterative — you loop back, you don't just march forward.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name the four stages of the problem-solving methodology and explain why the process is described as iterative rather than linear.",
+          "answer": [
+            "Analysis, design, development, evaluation.",
+            "Iterative because work in a later stage often reveals a problem in an earlier one.",
+            "Testing during development may show a requirement was misunderstood, sending you back to analysis.",
+            "A purely linear reading of the PSM is a common error."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Cross-unit",
+      "title": "The activities inside each PSM stage",
+      "detail": "Analysis: solution requirements, constraints, scope. Design: solution design, evaluation criteria. Development: manipulation/coding, validation, testing, documentation. Evaluation: evaluation strategy, then the evaluation itself. Examiners ask which stage an activity belongs to.",
+      "questions": [
+        {
+          "marks": 1,
+          "q": "Determining the evaluation criteria for a solution occurs during which stage of the problem-solving methodology?",
+          "options": [
+            "Analysis",
+            "Design",
+            "Development",
+            "Evaluation"
+          ],
+          "answer": [
+            "B — design.",
+            "Evaluation criteria are written during design and applied during evaluation.",
+            "A common trap: the criteria are not created in the evaluation stage."
+          ]
+        },
+        {
+          "marks": 2,
+          "q": "Name the four stages of the problem-solving methodology in order and state one activity that occurs in the development stage.",
+          "answer": [
+            "Analysis, design, development, evaluation.",
+            "Development activities: manipulation (coding), validation, testing, documentation.",
+            "1 mark for the four stages in order, 1 mark for a correct development activity."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A0",
+        "title": "The activities inside each PSM stage",
+        "front": "Which activities belong to which stage of the problem-solving methodology?",
+        "back": [
+          "Analysis — solution requirements, constraints, scope",
+          "Design — solution design, evaluation criteria",
+          "Development — manipulation/coding, validation, testing, documentation",
+          "Evaluation — evaluation strategy, then the evaluation itself",
+          "Evaluation criteria are written in DESIGN, applied in EVALUATION",
+          "The evaluation strategy is planned before the solution is finished"
+        ]
+      }
+    },
+    {
+      "id": "X3",
+      "area": "Cross-unit",
+      "title": "\"Terms used in this study\" glossary",
+      "detail": "The VCAA definitions — especially efficiency (time, cost, effort), effectiveness (functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message), data vs information, and data integrity. Use their wording, not your own.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Define efficiency and effectiveness as the study design uses the terms, and list three measures of effectiveness.",
+          "answer": [
+            "Efficiency: how well a solution uses time, cost and effort.",
+            "Effectiveness: how well the solution achieves what it was intended to do.",
+            "Measures of effectiveness: functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message.",
+            "Use the study design's own wording — paraphrasing loses marks here."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X4",
+      "area": "Cross-unit",
+      "title": "Reading, writing and tracing pseudocode",
+      "detail": "Trace loops and selection by hand to produce the output, spot a logic error in given pseudocode, and write an algorithm from a described problem. No single mandated dialect, but stay consistent.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A pre-test loop is written as: WHILE count < 5 DO ... count ← count + 1 ... END WHILE, with count initialised to 0 and a running total increased by count on each pass. State the number of iterations and the final value of the total.",
+          "answer": [
+            "5 iterations — count takes the values 0, 1, 2, 3, 4.",
+            "Total = 0 + 1 + 2 + 3 + 4 = 10.",
+            "Build a trace table with one column per variable rather than tracking it mentally.",
+            "The loop exits when count reaches 5, so 5 is never added."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A1",
+        "title": "Reading and writing pseudocode",
+        "front": "How do you trace and write pseudocode under exam conditions?",
+        "back": [
+          "Build a trace table — one column per variable, one row per pass",
+          "Update every variable on every iteration; don't do it in your head",
+          "Check the loop condition: is it pre-test or post-test? Off-by-one lives here",
+          "Watch array indices and whether the loop is inclusive of the last value",
+          "When writing: consistent indentation, clear variable names, terminate the loop",
+          "Any consistent dialect is acceptable"
+        ]
+      }
+    },
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Emerging trends in programming using AI",
+      "detail": "Prompt-based code generation, automated debugging and testing, code optimisation. Know the benefits (speed, boilerplate, learning) and the risks (incorrect or insecure output, IP and attribution problems, over-reliance, the need to verify everything).",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A software development team begins using an AI coding assistant to generate sections of a new solution. Describe one benefit and two risks of this approach, and state one practice the team should adopt in response.",
+          "answer": [
+            "Benefit: speed — routine or boilerplate code is produced quickly, freeing time for design.",
+            "Risk: generated code may be plausible but incorrect, or contain security vulnerabilities.",
+            "Risk: intellectual property and attribution — the training data and ownership of output are unclear.",
+            "Practice: every generated section must be read, tested and understood before it is accepted."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A2",
+        "title": "Emerging trends in programming using AI",
+        "front": "How is AI used in programming, and what are the risks?",
+        "back": [
+          "Prompt-based code generation, automated debugging and testing, optimisation",
+          "Benefits: speed, boilerplate removed, a starting point when learning",
+          "Risk: output can be plausible and wrong, or insecure",
+          "Risk: IP and attribution — whose code was it trained on, who owns the output",
+          "Risk: over-reliance eroding the developer's own skill",
+          "Everything generated still has to be read, tested and understood"
+        ]
+      }
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Functional and non-functional requirements",
+      "detail": "Functional = what the solution must do. Non-functional = how well it does it (usability, reliability, portability, robustness, maintainability, security). Practise sorting statements from a case study into the two categories.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A client states: 'The system must produce a monthly sales report' and 'The system must be usable by staff with no training'. Classify each requirement and justify your classification.",
+          "answer": [
+            "Producing a monthly sales report is a functional requirement — it is something the solution must DO.",
+            "Being usable without training is a non-functional requirement — it describes how WELL the solution performs.",
+            "1 mark for each classification, 1 mark for each justification.",
+            "Test: a functional requirement can be checked with a pass/fail test case."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A3",
+        "title": "Functional and non-functional requirements",
+        "front": "Sort requirements into the two categories.",
+        "back": [
+          "Functional — what the solution must DO (calculate, store, display, validate)",
+          "Non-functional — how WELL it does it",
+          "Non-functional covers usability, reliability, portability, robustness, security, maintainability",
+          "Test: could you write a pass/fail test for a feature? Usually functional",
+          "'The system must respond within 2 seconds' is non-functional",
+          "Both come out of the analysis stage"
+        ]
+      }
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Design tools for representing modules",
+      "detail": "Mock-up (layout and appearance), IPO chart (inputs, processing, outputs), pseudocode (the logic), data dictionary (name, data type, size, format, validation, example), object description (class name, properties, methods). Know what each one does that the others don't.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A developer must document a single module before coding it. Name four design tools they could use and state what each one captures that the others do not.",
+          "answer": [
+            "Mock-up — the appearance and layout of the interface.",
+            "IPO chart — the inputs, the processing, and the outputs of the module.",
+            "Pseudocode — the logic and sequence of steps.",
+            "Data dictionary — each variable's name, data type, size, format and validation.",
+            "Also acceptable: object description — the class name, properties and methods."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Characteristics of data types",
+      "detail": "Integer, floating point, character, string, Boolean, date/time. Be able to justify a choice — phone numbers and postcodes as strings, not integers; why a Boolean beats a one-character flag.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State the most appropriate data type for each and justify one choice: an Australian mobile number; whether an order has been paid; a product price.",
+          "answer": [
+            "Mobile number — string. It is not used in arithmetic and a leading zero must be preserved, which an integer would discard.",
+            "Paid status — Boolean. Only two states are possible.",
+            "Product price — floating point (or a decimal/currency type) to hold cents."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Characteristics of data structures",
+      "detail": "One-dimensional arrays (many items of the same type, accessed by index), records (related fields of mixed types), files. When each is appropriate and how you iterate through them.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A program must store 200 temperature readings, then a set of customer records each holding a name, an age and an address. Name the appropriate data structure for each and justify your choices.",
+          "answer": [
+            "Temperatures — a one-dimensional array: many items of the same data type, accessed by index.",
+            "Customer records — a record: related fields of differing data types grouped as one unit.",
+            "An array of records would store many customers together."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Characteristics of data sources",
+      "detail": "Plain text, delimited (CSV), XML. Know the structure of each, the advantages and disadvantages, and roughly how a program reads from and writes to them.",
+      "questions": [
+        {
+          "marks": 1,
+          "q": "A solution must store hierarchical data where each record contains a variable number of nested sub-records. Which data source is most appropriate?",
+          "options": [
+            "Plain text",
+            "Delimited (CSV)",
+            "XML",
+            "A one-dimensional array"
+          ],
+          "answer": [
+            "C — XML.",
+            "Nested tags carry structure and meaning, so hierarchy is preserved.",
+            "CSV is flat — one record per line with fixed fields — so it cannot represent nesting."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A4",
+        "title": "Characteristics of data sources",
+        "front": "Compare plain text, CSV and XML.",
+        "back": [
+          "Plain text — simplest, no structure, the program must impose meaning",
+          "Delimited (CSV) — one record per line, fields separated by a delimiter",
+          "CSV is compact and widely supported but has no type information",
+          "XML — nested tags carry structure and meaning, self-describing",
+          "XML is verbose and heavier to parse but handles hierarchy",
+          "Choose by the shape of the data, not by habit"
+        ]
+      }
+    },
+    {
+      "id": "3.1.7",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Principles of object-oriented programming",
+      "detail": "Abstraction (model only what matters), encapsulation (data and methods bundled, access controlled), generalisation (pull shared features into a parent), inheritance (child gains the parent's properties and methods). Identify each from code or an object description.",
+      "questions": [
+        {
+          "marks": 1,
+          "q": "A class named Vehicle defines a method calculateRegistration(). A class named Motorcycle is written so that it automatically has access to that method without it being rewritten. Which principle of object-oriented programming does this demonstrate?",
+          "options": [
+            "Abstraction",
+            "Encapsulation",
+            "Inheritance",
+            "Generalisation"
+          ],
+          "answer": [
+            "C — inheritance.",
+            "A child class gains the properties and methods of its parent.",
+            "Generalisation is the design step of pulling shared features UP into the parent; inheritance is the child receiving them."
+          ]
+        },
+        {
+          "marks": 3,
+          "q": "A developer declares the fields of a class as private and provides public methods to read and change them. Name the OOP principle this demonstrates and explain two benefits of designing the class this way.",
+          "answer": [
+            "Encapsulation (1 mark).",
+            "Benefit: the internal representation can change without breaking code that uses the class.",
+            "Benefit: values can be validated before being written, protecting data integrity.",
+            "Either two benefits, clearly explained, for the remaining 2 marks."
+          ]
+        }
+      ],
+      "card": {
+        "key": "R0",
+        "title": "Principles of object-oriented programming",
+        "front": "Name the four OOP principles and define each.",
+        "back": [
+          "Abstraction — model only the features that matter, hide the rest",
+          "Encapsulation — bundle data with the methods acting on it, restrict access",
+          "Generalisation — pull shared features up into a parent class",
+          "Inheritance — a child class gains the parent's properties and methods",
+          "Be ready to point to each in a code sample or object description",
+          "Encapsulation is about access control; abstraction is about what you model"
+        ]
+      }
+    },
+    {
+      "id": "3.1.8",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Features of a programming language",
+      "detail": "Instructions; control structures — sequence, selection (if/else, case), iteration (pre-test, post-test, for); arithmetic, logical and conditional operators; variables vs constants; functions vs methods; classes and objects; GUI controls; file operations.",
+      "questions": [
+        {
+          "marks": 2,
+          "q": "Explain the difference between a pre-test and a post-test iteration structure, and give one situation where a post-test loop is the better choice.",
+          "answer": [
+            "A pre-test loop checks the condition before the body runs, so the body may execute zero times.",
+            "A post-test loop runs the body once before checking, so it always executes at least once.",
+            "Post-test suits input validation — you must prompt the user at least once before you can test the input."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A5",
+        "title": "Features of a programming language",
+        "front": "List what makes up a programming language.",
+        "back": [
+          "Control structures: sequence, selection (if/else, case), iteration (pre-test, post-test, for)",
+          "Operators: arithmetic, logical (AND OR NOT), conditional (= < > <= >= <>)",
+          "Variables and constants — and knowing when each is right",
+          "Functions and methods, classes and objects",
+          "GUI controls and event handling",
+          "File operations: open, read, write, close"
+        ]
+      }
+    },
+    {
+      "id": "3.1.9",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Naming conventions",
+      "detail": "Meaningful and consistently applied — camelCase, PascalCase, snake_case, prefixes for control types. Applies to variables, constants, functions, classes and files. Be ready to explain why it matters (readability, maintenance by others).",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A developer submits code in which variables are named a, temp1 and x2, with no comments. Explain why this is a problem and describe two specific changes that would improve it.",
+          "answer": [
+            "The code cannot be maintained by another developer, who must work out intent from the logic alone.",
+            "Change: meaningful identifiers applied to a consistent convention, e.g. totalSalePrice in camelCase.",
+            "Change: internal documentation explaining the intent of each module and justifying non-obvious choices.",
+            "Comments that restate the code add nothing — they must explain WHY."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A6",
+        "title": "Naming conventions and internal documentation",
+        "front": "What makes code readable to the next developer?",
+        "back": [
+          "Meaningful, consistently applied names for variables, functions, classes and files",
+          "A convention applied consistently: camelCase, PascalCase or snake_case",
+          "Comments explain INTENT and justify a choice",
+          "A comment restating the code adds nothing",
+          "Indentation and whitespace show structure",
+          "The purpose of both is maintenance by someone who isn't you"
+        ]
+      }
+    },
+    {
+      "id": "3.1.10",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Validation techniques",
+      "detail": "Existence (not blank), type (right data type), range (within acceptable bounds). Manual (proofreading, double entry) vs electronic. Know where validation sits in the code and what should happen when it fails.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A form accepts a delivery date. Describe the three validation techniques that should be applied and give an example of input each would reject.",
+          "answer": [
+            "Existence checking — rejects a blank field.",
+            "Type checking — rejects 'tomorrow' where a date is required.",
+            "Range checking — rejects a date in the past, or more than 12 months ahead.",
+            "Validation should occur before the data is used, with a clear message naming the problem."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.11",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Internal documentation",
+      "detail": "Comments, meaningful identifiers, indentation, whitespace. Good comments explain intent and justify a choice rather than restating the line of code. The purpose is future maintenance by someone else.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A developer writes the comment '// add 1 to counter' above the line counter = counter + 1. Explain why this comment has little value and write a more useful comment for a line that applies a 15% discount only to members.",
+          "answer": [
+            "The comment restates what the code already says — it adds no information a reader could not get from the line itself.",
+            "Useful comments explain INTENT or justify a decision.",
+            "Better: '// 15% member discount set by the 2025 loyalty policy; rate is stored as a constant so it can be updated in one place'.",
+            "Internal documentation exists so another developer can maintain the code later."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A6",
+        "title": "Naming conventions and internal documentation",
+        "front": "What makes code readable to the next developer?",
+        "back": [
+          "Meaningful, consistently applied names for variables, functions, classes and files",
+          "A convention applied consistently: camelCase, PascalCase or snake_case",
+          "Comments explain INTENT and justify a choice",
+          "A comment restating the code adds nothing",
+          "Indentation and whitespace show structure",
+          "The purpose of both is maintenance by someone who isn't you"
+        ]
+      }
+    },
+    {
+      "id": "3.1.12",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Sorting algorithms",
+      "detail": "Selection sort (repeatedly find the smallest remaining item and swap it into place — simple but slow on large sets) and quick sort (pick a pivot, partition, recurse — much faster on average). Compare their complexity and justify which suits a given data size.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A solution must sort a list of 500 000 customer records by surname. Name two sorting algorithms, compare their efficiency, and recommend one with justification.",
+          "answer": [
+            "Selection sort: repeatedly finds the smallest remaining item and swaps it into place. O(n²).",
+            "Quick sort: selects a pivot, partitions around it, then recurses. O(n log n) on average.",
+            "At 500 000 records the difference is enormous — selection sort performs on the order of n² comparisons.",
+            "Recommend quick sort, justified by the size of the data set."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A7",
+        "title": "Sorting algorithms",
+        "front": "Compare selection sort and quick sort.",
+        "back": [
+          "Selection sort — repeatedly find the smallest remaining item, swap it into place",
+          "Simple to implement and trace, but slow: O(n²)",
+          "Quick sort — pick a pivot, partition around it, recurse on both sides",
+          "Much faster on average: O(n log n)",
+          "Selection sort is fine for small data; quick sort for large",
+          "Justify by data size, not by preference"
+        ]
+      }
+    },
+    {
+      "id": "3.1.13",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Searching algorithms",
+      "detail": "Linear search (check each item in turn, works on unsorted data) vs binary search (requires sorted data, halves the search range each step). Justify the choice based on whether the data is sorted and how large it is.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A program repeatedly searches an unsorted array of 10 000 items. A developer proposes switching to binary search. Evaluate this proposal.",
+          "answer": [
+            "Binary search requires the data to be sorted, so the array must be sorted first.",
+            "Binary search is O(log n) against linear search's O(n), so each individual search is far faster.",
+            "If many searches are performed, sorting once then using binary search is worthwhile.",
+            "If only one or two searches are needed, the cost of sorting outweighs the benefit."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A8",
+        "title": "Searching algorithms",
+        "front": "Compare linear and binary search.",
+        "back": [
+          "Linear search — check each item in turn from the start",
+          "Works on unsorted data; O(n)",
+          "Binary search — compare to the middle, discard half, repeat",
+          "REQUIRES sorted data; O(log n)",
+          "For small or unsorted data linear is often the sensible choice",
+          "If you have to sort first, count the cost of sorting too"
+        ]
+      }
+    },
+    {
+      "id": "3.1.14",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Types of errors",
+      "detail": "Syntax (breaks the language rules, won't run), logic (runs but produces the wrong result), runtime (crashes mid-execution — divide by zero, missing file, bad index). Identify the type from the symptom described.",
+      "questions": [
+        {
+          "marks": 1,
+          "q": "A program compiles and runs, but a total displayed to the user is consistently $10 too high. This is an example of",
+          "options": [
+            "a syntax error.",
+            "a logic error.",
+            "a runtime error.",
+            "a validation error."
+          ],
+          "answer": [
+            "B — a logic error.",
+            "The program executes without crashing but produces the wrong result.",
+            "Syntax errors prevent the program running at all; runtime errors cause it to crash during execution."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A9",
+        "title": "Types of errors",
+        "front": "Identify the error type from the symptom.",
+        "back": [
+          "Syntax — breaks the language rules, so the program won't run at all",
+          "Logic — runs cleanly but produces the wrong result",
+          "Runtime — crashes partway through execution",
+          "Runtime causes: divide by zero, missing file, index out of range, bad type",
+          "Logic errors are the dangerous ones — nothing tells you they're there",
+          "Testing finds logic errors; the compiler finds syntax errors"
+        ]
+      }
+    },
+    {
+      "id": "3.1.15",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Debugging techniques",
+      "detail": "Breakpoints, stepping through line by line, watches, debugging output/print statements, commenting out sections. These locate the cause of a fault — they don't prove the solution is correct.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A solution crashes intermittently when processing a data file. Describe two debugging techniques the developer could use to locate the cause, and explain what each would reveal.",
+          "answer": [
+            "Breakpoints: pause execution at a chosen line and inspect variable values at that moment.",
+            "Reveals the state of the data immediately before the crash.",
+            "Debugging output statements: print variable values as the file is processed.",
+            "Reveals which record is being handled when the failure occurs — often a malformed or empty line.",
+            "Debugging locates the cause; it does not prove the solution is correct."
+          ]
+        },
+        {
+          "marks": 3,
+          "q": "Explain what test data should cover when testing a module that accepts a student mark between 0 and 100, and give one example of each type.",
+          "answer": [
+            "Valid data — a value the module should accept, e.g. 57.",
+            "Invalid data — a value it should reject, e.g. 150 or a non-numeric entry.",
+            "Boundary data — values at the edge of the accepted range, e.g. 0, 100, and just outside at -1 and 101.",
+            "Boundary values are where off-by-one errors surface."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A10",
+        "title": "Debugging and testing techniques",
+        "front": "What's the difference, and what does each involve?",
+        "back": [
+          "Debugging LOCATES the cause of a known fault",
+          "Breakpoints, stepping line by line, watches, debug output, commenting out code",
+          "Testing CHECKS whether the solution does what it should",
+          "Test cases record input, expected output, actual output, pass/fail",
+          "Test data must cover valid, invalid AND boundary values",
+          "The test table is your evidence that testing happened"
+        ]
+      }
+    },
+    {
+      "id": "3.1.16",
+      "area": "Unit 3 AoS 1 — Programming",
+      "title": "Testing techniques",
+      "detail": "Test cases recording input, expected output, actual output and pass/fail. Test data must cover valid, invalid and boundary values. The test table is your evidence that testing happened.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Design a test table with four test cases for a module that accepts a password of between 8 and 16 characters. State the input, the expected output and the type of test data for each.",
+          "answer": [
+            "8 characters — accepted — boundary (lower limit).",
+            "16 characters — accepted — boundary (upper limit).",
+            "12 characters — accepted — valid data.",
+            "7 characters (or 17) — rejected with an error message — invalid/boundary data.",
+            "A complete test table also records the ACTUAL output and a pass/fail result."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A10",
+        "title": "Debugging and testing techniques",
+        "front": "What's the difference, and what does each involve?",
+        "back": [
+          "Debugging LOCATES the cause of a known fault",
+          "Breakpoints, stepping line by line, watches, debug output, commenting out code",
+          "Testing CHECKS whether the solution does what it should",
+          "Test cases record input, expected output, actual output, pass/fail",
+          "Test data must cover valid, invalid AND boundary values",
+          "The test table is your evidence that testing happened"
+        ]
+      }
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Why individuals and organisations develop software",
+      "detail": "A new opportunity, inefficiency in a current system, changing user needs, legal or regulatory change, competitive advantage, cost reduction. Case study questions want the reason tied to that organisation.",
+      "questions": [
+        {
+          "marks": 2,
+          "q": "A retailer's current stock system requires staff to re-enter the same data into three separate spreadsheets. Identify the reason the organisation would develop a new solution and explain the benefit sought.",
+          "answer": [
+            "Reason: inefficiency in the current system — duplicated manual data entry.",
+            "Benefit: reduced staff time and fewer transcription errors, improving data integrity.",
+            "In a case study the reason must be tied to evidence in the stimulus material."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A11",
+        "title": "Why organisations develop software",
+        "front": "Give the reasons, and tie them to a case study.",
+        "back": [
+          "A new opportunity to exploit",
+          "Inefficiency or failure in the current system",
+          "Changing user needs or expectations",
+          "Legal or regulatory change forcing an update",
+          "Competitive advantage, or cost reduction",
+          "In a case study, name the reason AND the evidence for it in that organisation"
+        ]
+      }
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Features of a brief",
+      "detail": "Background/context, the problem or need, scope, stakeholders, constraints, timeline, deliverables. It's the agreed starting point that everything later is checked back against.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A community sports club has asked a developer to build a membership system. Describe four elements that should appear in the brief and explain the purpose of the brief overall.",
+          "answer": [
+            "Any four of: background/context, statement of the problem or opportunity, scope, stakeholders, constraints, timeline, deliverables.",
+            "Purpose: it is the agreed starting point that later work is checked back against.",
+            "It settles what the solution is expected to cover before design begins."
+          ]
+        }
+      ],
+      "card": {
+        "key": "R1",
+        "title": "Features of a brief",
+        "front": "What goes in a brief, and what is it for?",
+        "back": [
+          "Background and context of the organisation or situation",
+          "Statement of the problem, need or opportunity",
+          "Scope — what the solution will and won't cover",
+          "Stakeholders affected, and the constraints in play",
+          "Timeline and deliverables expected",
+          "It's the agreed starting point everything later is checked back against"
+        ]
+      }
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Project management using Gantt charts",
+      "detail": "Tasks, durations, dependencies, milestones, the critical path (the longest path with no slack) and slack/float. Be able to read a chart, find the critical path and work out the effect of a delay.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what the critical path on a Gantt chart represents, what slack means, and the effect of a three-day delay to a task with two days of slack.",
+          "answer": [
+            "The critical path is the longest sequence of dependent tasks, determining the minimum project duration.",
+            "Tasks on it have zero slack — any delay delays the whole project.",
+            "Slack is the time a task can be delayed without affecting the project end date.",
+            "A three-day delay on a task with two days of slack overruns by one day, so the project finishes one day late and that task becomes critical."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Techniques for collecting data",
+      "detail": "Interviews, surveys, observation, analysis of existing documents. Know the strengths and weaknesses of each so you can justify one for a given situation, plus ethical collection (consent, de-identification).",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A developer must gather requirements from 300 staff across five sites. Recommend two data collection techniques, justify each, and state one limitation of your combined approach.",
+          "answer": [
+            "Surveys — reach all 300 efficiently and produce quantitative data that can be compared across sites.",
+            "Interviews with a small sample — provide depth and allow follow-up questions surveys cannot.",
+            "Limitation: survey response rates may be low and self-selecting, and interviews cover only a few staff.",
+            "Also acceptable: observation, analysis of existing documents."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Functional and non-functional requirements in analysis",
+      "detail": "Same distinction as 3.1.2, but now you're deriving them from collected data and writing them into the SRS. They need to be specific and measurable enough to test against later.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Rewrite the vague requirement 'the system should be fast' as a measurable non-functional requirement, and explain why the original is unusable.",
+          "answer": [
+            "Measurable version: 'The system must return search results within 2 seconds for a database of up to 50 000 records.'",
+            "The original cannot be tested — there is no threshold to check against.",
+            "Requirements are applied as evaluation criteria later, so they must be measurable at the point they are written."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Constraints that influence solution development",
+      "detail": "Economic (budget), technical (hardware, software, speed, storage), social (user expectations and skill level), legal (privacy, copyright), usability. Know the difference between a constraint and a requirement.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A school has a fixed budget of $8000, existing servers running an older operating system, and staff with limited technical skills. Classify each of these as a type of constraint and explain how each would shape the solution.",
+          "answer": [
+            "$8000 budget — economic constraint; limits the tools, licences and development time available.",
+            "Older operating system — technical constraint; limits the languages and frameworks that can be deployed.",
+            "Limited staff skills — social/usability constraint; the interface must be simple and training minimal.",
+            "A constraint limits HOW the solution is built; a requirement states what it must do."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A12",
+        "title": "Constraints and solution scope",
+        "front": "Distinguish a constraint from a requirement, and define scope.",
+        "back": [
+          "Constraints: economic, technical, social, legal, usability",
+          "A requirement is what the solution must do; a constraint LIMITS how you do it",
+          "Scope is the boundary — what's in, and explicitly what's out",
+          "Constraints shape the scope directly",
+          "A clear scope is what protects you from scope creep",
+          "Write out-of-scope statements, not just in-scope ones"
+        ]
+      }
+    },
+    {
+      "id": "3.2.7",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Characteristics of solution scope",
+      "detail": "The boundary — what the solution will and won't do. Shaped directly by the constraints, and the thing that protects you from scope creep. Be able to write in-scope and out-of-scope statements.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A client asks for a booking system, then later requests an added payroll module. Explain how a clearly defined scope protects the project, and write one out-of-scope statement for this solution.",
+          "answer": [
+            "Scope defines the boundary of what the solution will and will not do, agreed before design begins.",
+            "It gives an objective basis for refusing or re-negotiating additions, preventing scope creep.",
+            "Out-of-scope statement: 'The solution will not process staff payroll or salary payments.'",
+            "Changes beyond scope require a renegotiated timeline and budget."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A12",
+        "title": "Constraints and solution scope",
+        "front": "Distinguish a constraint from a requirement, and define scope.",
+        "back": [
+          "Constraints: economic, technical, social, legal, usability",
+          "A requirement is what the solution must do; a constraint LIMITS how you do it",
+          "Scope is the boundary — what's in, and explicitly what's out",
+          "Constraints shape the scope directly",
+          "A clear scope is what protects you from scope creep",
+          "Write out-of-scope statements, not just in-scope ones"
+        ]
+      }
+    },
+    {
+      "id": "3.2.8",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Context diagrams",
+      "detail": "One process representing the whole system, the external entities around it, and the data flows between them. No data stores, no internal processes. Know the conventions well enough to spot errors.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A student draws a context diagram showing two processes, an external entity and a data store. Identify two errors and explain the correct convention in each case.",
+          "answer": [
+            "Error: a context diagram must contain exactly ONE process, representing the whole system.",
+            "Error: a context diagram contains NO data stores — those appear only in the data flow diagram.",
+            "External entities and labelled data flows in and out are correct.",
+            "1 mark for each error identified, 1 for each correct convention stated."
+          ]
+        },
+        {
+          "marks": 3,
+          "q": "Explain what it means for a data flow diagram to 'balance' with its context diagram, and state one consequence of it failing to balance.",
+          "answer": [
+            "The DFD must show the same external entities as the context diagram.",
+            "The data flows crossing the system boundary must be the same in both, in name and direction.",
+            "If they do not balance, the two documents describe different systems, so the design cannot be trusted or built from."
+          ]
+        }
+      ],
+      "card": {
+        "key": "R2",
+        "title": "Context diagrams and data flow diagrams",
+        "front": "Give the conventions for both, and the rule connecting them.",
+        "back": [
+          "Context diagram: ONE process = the whole system, with external entities around it",
+          "Context diagram has NO data stores and no internal processes",
+          "DFD: numbered processes, data stores, external entities, labelled data flows",
+          "Every flow must be labelled with the data it carries",
+          "The DFD must BALANCE with the context diagram — same entities, same external flows",
+          "Data cannot flow entity to entity, or store to store, without a process"
+        ]
+      }
+    },
+    {
+      "id": "3.2.9",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Data flow diagrams",
+      "detail": "Numbered processes, data stores, external entities, data flows. Must balance with the context diagram — same entities, same external flows. Common convention errors are a favourite exam question.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "In a level 1 data flow diagram, a student draws a data flow directly from the external entity 'Customer' to the data store 'Orders'. Identify the error, explain the correct convention, and state two other conventions a DFD must follow.",
+          "answer": [
+            "Error: data cannot flow directly between an external entity and a data store.",
+            "A process must sit between them — something in the system must handle the data before it is stored.",
+            "Convention: every data flow must be labelled with the data it carries.",
+            "Convention: processes are numbered, and the diagram must balance with the context diagram."
+          ]
+        }
+      ],
+      "card": {
+        "key": "R2",
+        "title": "Context diagrams and data flow diagrams",
+        "front": "Give the conventions for both, and the rule connecting them.",
+        "back": [
+          "Context diagram: ONE process = the whole system, with external entities around it",
+          "Context diagram has NO data stores and no internal processes",
+          "DFD: numbered processes, data stores, external entities, labelled data flows",
+          "Every flow must be labelled with the data it carries",
+          "The DFD must BALANCE with the context diagram — same entities, same external flows",
+          "Data cannot flow entity to entity, or store to store, without a process"
+        ]
+      }
+    },
+    {
+      "id": "3.2.10",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Use case diagrams",
+      "detail": "Actors, use cases, the system boundary, and include/extend relationships. Shows what each type of user can do with the system, not how it works internally.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A use case diagram for a library system shows an actor 'Member' connected to 'Borrow item', which has an «include» relationship to 'Verify membership'. Explain what the diagram is communicating.",
+          "answer": [
+            "Member is an actor — a role interacting with the system from outside the boundary.",
+            "Borrow item is a use case — something the system does for that actor.",
+            "«include» means verifying membership ALWAYS occurs as part of borrowing an item.",
+            "The diagram shows what a user can do, not how the system performs it."
+          ]
+        }
+      ],
+      "card": {
+        "key": "R3",
+        "title": "Use case diagrams",
+        "front": "What does a use case diagram show, and what are its parts?",
+        "back": [
+          "Actors — the people or systems interacting, drawn as stick figures outside",
+          "Use cases — what the system does for them, drawn as ovals inside",
+          "System boundary — the box separating inside from outside",
+          "Include — one use case always invokes another",
+          "Extend — optional or conditional behaviour",
+          "It shows WHAT a user can do, never how the system does it"
+        ]
+      }
+    },
+    {
+      "id": "3.2.11",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Software requirements specification",
+      "detail": "Pulls together the brief, functional and non-functional requirements, constraints, scope and the analysis diagrams into one agreed document that the design stage is built from. Know its purpose and typical contents.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State the purpose of a software requirements specification and name three components it contains.",
+          "answer": [
+            "Purpose: it is the agreed and documented basis from which the design stage proceeds.",
+            "Any three of: functional requirements, non-functional requirements, constraints, scope, the analysis diagrams, background from the brief.",
+            "It is signed off before design so that 'done' is defined in advance."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A13",
+        "title": "Software requirements specification",
+        "front": "What goes into an SRS and what is it for?",
+        "back": [
+          "The brief and the background it came from",
+          "Functional and non-functional requirements",
+          "Constraints and scope",
+          "The analysis diagrams: context diagram, DFD, use case diagram",
+          "It's the agreed basis the design stage is built from",
+          "Signed off before design starts — it settles what 'done' means"
+        ]
+      }
+    },
+    {
+      "id": "3.2.12",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Key legal requirements around privacy and ownership of data",
+      "detail": "Privacy Act 1988 (Cwlth) and the APPs (especially APP 11, security), Health Records Act 2001 (HPPs), Privacy and Data Protection Act 2014 (IPPs, Victorian public sector), Copyright Act 1968 (ownership of code and content). Know which applies to which kind of organisation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A Victorian medical clinic is developing software that stores patient records. Name two pieces of legislation that apply and state one specific obligation each imposes on the developer.",
+          "answer": [
+            "Health Records Act 2001 (Vic) — governs handling of health information through the Health Privacy Principles.",
+            "Privacy Act 1988 (Cwlth) — the Australian Privacy Principles; APP 11 requires reasonable steps to secure personal information.",
+            "Also acceptable: Privacy Amendment (Notifiable Data Breaches) Act 2017 — eligible breaches must be reported to the OAIC and affected individuals.",
+            "The obligation must be specific, not just the name of the Act."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A14",
+        "title": "Legislation affecting data and software",
+        "front": "Name the Acts and who each applies to.",
+        "back": [
+          "Privacy Act 1988 (Cwlth) — the Australian Privacy Principles; APP 11 is security",
+          "Privacy Amendment (Notifiable Data Breaches) Act 2017 — must report eligible breaches",
+          "Health Records Act 2001 (Vic) — health information, the HPPs",
+          "Privacy and Data Protection Act 2014 (Vic) — Victorian public sector, the IPPs",
+          "Copyright Act 1968 — ownership of code, content and designs",
+          "Say which Act applies to THAT organisation and what it obliges them to do"
+        ]
+      }
+    },
+    {
+      "id": "3.2.13",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "File management techniques",
+      "detail": "Meaningful file naming, logical folder structures, version control (e.g. Git/GitHub), backups, archiving and disposal. Tie these to protecting work in progress on a long project.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A team of four developers is working on the same codebase over six months. Describe three file management techniques they should use and the risk each addresses.",
+          "answer": [
+            "Version control (e.g. Git): tracks changes and allows rollback; addresses overwriting each other's work.",
+            "Regular offsite or cloud backups: addresses loss of work through hardware failure.",
+            "Consistent naming and folder structure: addresses time lost locating files and accidental duplication.",
+            "Also acceptable: archiving completed work, secure disposal of superseded files."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A15",
+        "title": "File management techniques",
+        "front": "How is work protected across a long project?",
+        "back": [
+          "Meaningful, consistent file naming",
+          "A logical folder structure agreed by the team",
+          "Version control — Git or similar, with a history you can roll back",
+          "Regular backups, ideally offsite or cloud",
+          "Archiving completed work and disposing of what's no longer needed securely",
+          "Tie these to protecting work in progress, not just tidiness"
+        ]
+      }
+    },
+    {
+      "id": "3.2.14",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Techniques for generating design ideas",
+      "detail": "Ideation tools — brainstorming, mind mapping, sketching, SCAMPER, rapid prototyping. The point is divergence: several genuinely different ideas before you narrow down to one.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name two techniques for generating design ideas and explain why divergence matters before a design is chosen.",
+          "answer": [
+            "Any two of: brainstorming, mind mapping, sketching, SCAMPER, rapid prototyping.",
+            "Divergence produces several genuinely different ideas rather than variations on the first one.",
+            "Committing to the first idea risks missing a better approach, and leaves no basis for justifying the choice made."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.15",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Criteria for evaluating efficiency and effectiveness",
+      "detail": "Measurable criteria written from the requirements. Efficiency covers time, cost and effort; effectiveness covers functionality, accuracy, usability, completeness, readability, attractiveness and timeliness. Written in Unit 3, applied in Unit 4.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Write two evaluation criteria for a school timetabling solution — one measuring efficiency and one measuring effectiveness — and explain how each would be measured.",
+          "answer": [
+            "Efficiency criterion, e.g. the solution generates a full timetable in under 60 seconds. Measured by timing test runs.",
+            "Effectiveness criterion, e.g. no student is scheduled into two classes in the same period. Measured by checking generated timetables for clashes.",
+            "Efficiency covers time, cost and effort; effectiveness covers functionality, accuracy, usability and completeness.",
+            "Criteria must be measurable or they cannot be applied in the evaluation."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A16",
+        "title": "Efficiency and effectiveness",
+        "front": "Define both and list what each covers.",
+        "back": [
+          "Efficiency — time, cost and effort used to achieve the result",
+          "Effectiveness — whether it actually does the job",
+          "Effectiveness covers functionality, accuracy, usability, completeness",
+          "Also readability, attractiveness, timeliness, communication of message",
+          "A solution can be efficient and ineffective, or the reverse",
+          "Criteria are written in Unit 3 design and applied in Unit 4"
+        ]
+      }
+    },
+    {
+      "id": "3.2.16",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Tools for turning design ideas into detailed designs",
+      "detail": "Data dictionaries, mock-ups, object descriptions, IPO charts, pseudocode. The test of a detailed design: could another competent developer build the solution from it without asking you questions?",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State the test of whether a detailed design is complete, and name three tools that contribute to meeting it.",
+          "answer": [
+            "Test: another competent developer could build the solution from the design without asking questions.",
+            "Data dictionary — every variable's type, size, format and validation.",
+            "Mock-ups and object descriptions — the interface and the structure of each class.",
+            "Pseudocode and IPO charts — the logic and the data movement through each module."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.17",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Characteristics of user experiences",
+      "detail": "Usefulness, usability, accessibility/findability, desirability, credibility. Be able to explain how each one affects user satisfaction and whether people keep using the software.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain three characteristics of user experience and describe how each affects whether a solution continues to be used.",
+          "answer": [
+            "Usefulness — if it does not solve a real problem, users abandon it regardless of quality.",
+            "Usability — if operating it requires training, users make errors and disengage.",
+            "Accessibility — if users with differing abilities cannot operate it, part of the audience is excluded.",
+            "Also acceptable: desirability, credibility."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A18",
+        "title": "Characteristics of user experiences",
+        "front": "Name the qualities of a good user experience.",
+        "back": [
+          "Usefulness — does it solve a real problem for this user",
+          "Usability — can they operate it without training",
+          "Accessibility — can people with differing abilities use it",
+          "Desirability — do they want to use it",
+          "Credibility — do they trust it with their data",
+          "Explain how each affects whether people keep using the software"
+        ]
+      }
+    },
+    {
+      "id": "3.2.18",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Design principles influencing appearance",
+      "detail": "Alignment, repetition, contrast, space, balance. Apply them to a given mock-up and explain what a specific change would improve.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A mock-up has headings in four different fonts, controls at varied indents, and no space between sections. Identify two design principles being breached and describe a specific change to correct each.",
+          "answer": [
+            "Repetition is breached — use a single consistent heading font and style throughout.",
+            "Alignment is breached — align all controls to a common left edge or grid.",
+            "Also acceptable: space — add white space between sections to group related content.",
+            "Marks are for naming the principle AND describing a specific corrective change."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A19",
+        "title": "Design principles",
+        "front": "Split the principles into appearance and functionality.",
+        "back": [
+          "Appearance: alignment, repetition, contrast, space, balance",
+          "Functionality: navigation, ease of use, error tolerance, robustness, accessibility",
+          "Error tolerance — the solution survives bad input and helps the user recover",
+          "Robustness — it keeps working under unexpected conditions",
+          "Security features like authentication trade off against ease of use",
+          "Apply them to a given mock-up and say what a specific change would improve"
+        ]
+      }
+    },
+    {
+      "id": "3.2.19",
+      "area": "Unit 3 AoS 2 — Analysis and Design",
+      "title": "Design principles influencing functionality",
+      "detail": "Navigation, ease of use, error tolerance, robustness, accessibility. Also how security features like user authentication or encryption affect functionality and the user experience.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what is meant by error tolerance and describe two features that would improve the error tolerance of a data entry form.",
+          "answer": [
+            "Error tolerance: the solution anticipates mistakes, prevents damage, and helps the user recover.",
+            "Feature: validation with a clear message identifying which field is wrong and why.",
+            "Feature: confirmation before a destructive action, or an undo function.",
+            "Also acceptable: retaining entered data when a form is rejected rather than clearing it."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A19",
+        "title": "Design principles",
+        "front": "Split the principles into appearance and functionality.",
+        "back": [
+          "Appearance: alignment, repetition, contrast, space, balance",
+          "Functionality: navigation, ease of use, error tolerance, robustness, accessibility",
+          "Error tolerance — the solution survives bad input and helps the user recover",
+          "Robustness — it keeps working under unexpected conditions",
+          "Security features like authentication trade off against ease of use",
+          "Apply them to a given mock-up and say what a specific change would improve"
+        ]
+      }
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Characteristics of efficient and effective solutions",
+      "detail": "Efficiency is measured in time, cost and effort. Effectiveness is whether it actually does the job — functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message. A solution can easily be one without the other.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A solution produces correct output but takes 40 seconds to load and requires users to re-enter data on every screen. Evaluate this solution in terms of efficiency and effectiveness.",
+          "answer": [
+            "Effective in part — it is functional and accurate, producing correct output.",
+            "Not effective in usability — repeated re-entry frustrates users and increases error rates.",
+            "Not efficient — 40 seconds of loading wastes user time and effort.",
+            "A solution can be effective without being efficient, and the reverse."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A16",
+        "title": "Efficiency and effectiveness",
+        "front": "Define both and list what each covers.",
+        "back": [
+          "Efficiency — time, cost and effort used to achieve the result",
+          "Effectiveness — whether it actually does the job",
+          "Effectiveness covers functionality, accuracy, usability, completeness",
+          "Also readability, attractiveness, timeliness, communication of message",
+          "A solution can be efficient and ineffective, or the reverse",
+          "Criteria are written in Unit 3 design and applied in Unit 4"
+        ]
+      }
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Data types, structures and sources for input, storage and output",
+      "detail": "Choosing structures that make manipulation efficient across a whole solution, not one module — how data comes in, how it's held while the program runs, how it's written back out.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A solution reads a CSV of sales records, totals them by region, and writes a summary file. Identify an appropriate data source, data structure and data type for this process.",
+          "answer": [
+            "Data source: a delimited (CSV) file — flat records with fixed fields suit tabular sales data.",
+            "Data structure: an array of records, or an associative array keyed by region for accumulating totals.",
+            "Data type: floating point for the monetary totals; string for the region name."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Features of a programming language in a full solution",
+      "detail": "Modularity, functions and methods, classes, error/exception handling, GUI elements, file input and output — used together to build something complete rather than as isolated exercises.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why exception handling is needed in a solution that reads from an external data file, and describe what should happen when the file cannot be found.",
+          "answer": [
+            "Without handling, a missing or malformed file causes a runtime error and the program crashes.",
+            "The exception should be caught and the failure handled gracefully.",
+            "The user should see a clear message identifying the problem, with the solution remaining usable.",
+            "Robustness: the solution keeps working under unexpected conditions."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A20",
+        "title": "A programming language in a full solution",
+        "front": "What does building a complete solution require beyond isolated modules?",
+        "back": [
+          "Modularity — the solution broken into functions, methods and classes",
+          "Error and exception handling so it fails gracefully",
+          "A GUI with event handling wired to the logic",
+          "File input and output for persistence",
+          "Validation at every point where data enters",
+          "The parts working together, not just each working alone"
+        ]
+      }
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Established and innovative approaches to software development",
+      "detail": "APIs, libraries, frameworks, public code repositories, AI-based coding assistants. Benefits (speed, reuse, tested code) against risks (dependency, access revoked or the API changed, licensing and IP, security holes, unverified output).",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A developer plans to use a third-party API for payment processing. Describe two benefits and two risks of this approach.",
+          "answer": [
+            "Benefit: development is faster — the payment logic is already built and tested.",
+            "Benefit: security and compliance are handled by a specialist provider.",
+            "Risk: dependency — if the API changes or access is revoked, the solution breaks.",
+            "Risk: licensing, cost and data sovereignty — customer data passes through a third party."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A21",
+        "title": "Established and innovative approaches",
+        "front": "What are the options, and what does each risk?",
+        "back": [
+          "APIs, libraries, frameworks, public code repositories, AI coding assistants",
+          "Benefits: speed, reuse, well-tested code, features you couldn't build alone",
+          "Risk: dependency on something outside your control",
+          "Risk: the API changes or access is revoked mid-project",
+          "Risk: licensing and IP — can you legally ship it",
+          "Risk: security holes and unverified code entering your solution"
+        ]
+      }
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Validation techniques",
+      "detail": "Existence, type and range checking applied at every input point in the solution, with clear feedback to the user when input is rejected.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why validation must be applied at every point where data enters a solution, and describe what should happen when input is rejected.",
+          "answer": [
+            "Any unvalidated entry point allows invalid data into the system, corrupting stored data and causing runtime errors later.",
+            "Validating in one place only is defeated by a second input path.",
+            "On rejection: the user should see a clear message naming the field and the problem, with their other entries retained rather than cleared."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.6",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Debugging and alpha testing techniques",
+      "detail": "Alpha testing is internal — done by you or the development team before release, in a controlled environment. Paired with debugging tools to find and fix faults before real users see them.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Distinguish between alpha and beta testing, and explain why both are conducted.",
+          "answer": [
+            "Alpha testing is internal — carried out by the developer or team in a controlled environment before release.",
+            "Beta testing uses real users in a real environment after alpha testing is complete.",
+            "Both are needed because they find different classes of problem: alpha catches known faults, beta catches uses the developer never imagined.",
+            "Beta testing requires a plan — who tests, what tasks, how feedback is collected."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A22",
+        "title": "Debugging and alpha testing",
+        "front": "What is alpha testing and how does it differ from beta?",
+        "back": [
+          "Alpha testing is INTERNAL — the developer or team, before release",
+          "Carried out in a controlled environment on an incomplete or complete build",
+          "Paired with debugging tools to find and fix faults",
+          "Beta testing comes after: real users, real environment",
+          "Alpha catches the faults; beta catches what the developer couldn't imagine",
+          "Both are needed — they find different classes of problem"
+        ]
+      }
+    },
+    {
+      "id": "4.1.7",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Conducting beta testing",
+      "detail": "Real users, real environment, after alpha. Needs a plan: who tests, what tasks they do, how feedback is collected, and how you respond to what comes back. Know how it differs from alpha testing and why both are needed.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe what a beta testing plan should include, and explain why beta testing finds problems alpha testing cannot.",
+          "answer": [
+            "Who the testers are and how they are selected; the tasks they will perform.",
+            "How feedback will be collected, and how the team will respond to it.",
+            "Beta uses real users in real environments, on hardware and with data the developer never anticipated.",
+            "Developers know how the solution is meant to be used, so they do not test the ways real users get it wrong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.8",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Features of evaluation strategies",
+      "detail": "Three parts: the criteria themselves, what data you'll collect and how, and the timeline plus who is responsible for collecting it. The strategy is planned before the evaluation happens.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name the three components of an evaluation strategy and explain when the strategy is created.",
+          "answer": [
+            "The evaluation criteria themselves.",
+            "What data will be collected and how it will be collected.",
+            "The timeline for collection and who is responsible for it.",
+            "The strategy is created during design, before the solution is finished — not after."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A23",
+        "title": "Features of evaluation strategies",
+        "front": "What are the three parts of an evaluation strategy?",
+        "back": [
+          "The evaluation criteria themselves",
+          "What data will be collected, and how it will be collected",
+          "The timeline, and who is responsible for collecting it",
+          "Planned BEFORE the evaluation happens, during design",
+          "Data sources: user surveys, test results, usage logs, observation",
+          "A strategy without a timeline and an owner is incomplete"
+        ]
+      }
+    },
+    {
+      "id": "4.1.9",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Techniques for applying evaluation criteria",
+      "detail": "Gather evidence — test results, user feedback, usage data — and judge each criterion against it. An evaluation is a supported judgement, not an opinion about how you feel it went.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A developer writes in their evaluation: 'The solution works well and users seem happy with it.' Explain two weaknesses in this evaluation and describe what a stronger evaluation would include.",
+          "answer": [
+            "Weakness: it is an opinion, not a judgement supported by evidence.",
+            "Weakness: it does not reference the evaluation criteria established during design.",
+            "Stronger: each criterion addressed in turn, stating whether it was met, partly met or not met.",
+            "Stronger: supported by evidence — test results, user survey responses, usage data or timings."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A17",
+        "title": "Applying evaluation criteria",
+        "front": "How do you actually evaluate a solution?",
+        "back": [
+          "Take each criterion in turn and gather evidence against it",
+          "Evidence: test results, user feedback, usage data, timings",
+          "Make a judgement and support it with that evidence",
+          "An evaluation is not an opinion about how it felt to build",
+          "Criteria must be measurable or you can't apply them",
+          "Say whether the criterion was met, partly met or not met"
+        ]
+      }
+    },
+    {
+      "id": "4.1.10",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Factors influencing the effectiveness of project plans",
+      "detail": "Realistic time estimates, correct task sequencing and dependencies, identified milestones, resource and skill availability, contingency time, and unexpected events.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A project plan overruns by three weeks. Identify three factors that commonly cause this and explain how each could have been managed.",
+          "answer": [
+            "Unrealistic time estimates — use historical data from similar tasks rather than best-case guesses.",
+            "Missing or wrong dependencies — map predecessors properly so sequencing reflects reality.",
+            "No contingency time — build slack into the plan for tasks with uncertain scope.",
+            "Also acceptable: resource or skill availability, unexpected events, scope creep."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.11",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Techniques for recording the progress of projects",
+      "detail": "Annotated Gantt charts, project journals and logs, change logs, issue logs, version control history. These become the evidence you use when assessing the plan.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name three techniques for recording project progress and explain why the record matters at the end of the project.",
+          "answer": [
+            "Annotated Gantt chart showing actual versus planned dates.",
+            "A project journal or log recording decisions, problems and time spent.",
+            "Change and issue logs, plus version control history.",
+            "These are the evidence used to assess the plan afterwards — without them the evaluation is guesswork."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.12",
+      "area": "Unit 4 AoS 1 — Development and Evaluation",
+      "title": "Assessing the effectiveness of a project plan",
+      "detail": "Compare planned against actual using your logs — where did it slip, why, and what would you change next time. Needs specific evidence, not \"I ran out of time\".",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A student writes 'the plan worked well but I ran out of time at the end'. Explain two weaknesses in this assessment and describe what a stronger one would contain.",
+          "answer": [
+            "It contains no evidence — no comparison of planned against actual dates.",
+            "It identifies no cause, so nothing can be learned or changed next time.",
+            "Stronger: name the specific tasks that overran, by how long, and why.",
+            "Stronger: state what you would change — a revised estimate, an earlier start, or a reduced scope."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Goals and objectives of organisations",
+      "detail": "Goals are broad and long-term; objectives are specific and measurable. Be able to link secure development practices to the organisation's goals — business continuity, reputation, customer trust, legal compliance.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the difference between an organisation's goals and its objectives, and link secure development practices to one goal.",
+          "answer": [
+            "Goals are broad, long-term statements of what the organisation is trying to achieve.",
+            "Objectives are specific, measurable steps toward a goal, usually with a timeframe.",
+            "Example: a goal of maintaining customer trust is supported by secure development, since a breach of customer data would directly damage it.",
+            "Also acceptable: business continuity, legal compliance, reputation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Advantages and disadvantages of developing software in-house",
+      "detail": "For: control, customisation, retained IP, domain knowledge, data stays internal. Against: cost, time, staffing and skills, and the ongoing maintenance burden falls on you.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A medium-sized organisation is deciding whether to develop a new inventory system in-house or purchase an off-the-shelf product. Describe two advantages and two disadvantages of developing it in-house.",
+          "answer": [
+            "Advantage: the solution is customised exactly to the organisation's processes.",
+            "Advantage: intellectual property is retained and data never leaves the organisation.",
+            "Disadvantage: higher upfront cost and a longer timeline before it is usable.",
+            "Disadvantage: the organisation carries the ongoing maintenance and support burden."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A24",
+        "title": "Developing software in-house",
+        "front": "Weigh up in-house development.",
+        "back": [
+          "For: full control over the product and the timeline",
+          "For: customised exactly to the organisation's needs",
+          "For: IP retained, and data never leaves the organisation",
+          "For: developers who understand the business domain",
+          "Against: higher cost, longer timeline, staffing and skills needed",
+          "Against: the ongoing maintenance burden falls on you forever"
+        ]
+      }
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Vulnerabilities within insecure development environments",
+      "detail": "Weak access control, shared or hardcoded credentials, unpatched tools, unsecured or public repositories, no code review, real personal data used as test data, unvetted third-party libraries, insider threat.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "An audit of a development team finds that API keys are written directly into source code, the code repository is publicly visible, and the test database contains real customer records. Identify the vulnerability in each case and state the potential consequence.",
+          "answer": [
+            "Hardcoded credentials: anyone reading the code gains access to the connected service.",
+            "Public repository: the source and the embedded keys are exposed to the entire internet.",
+            "Real customer data in testing: a breach of the test environment exposes personal information, likely breaching the Privacy Act 1988.",
+            "1 mark per vulnerability identified with its consequence."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A25",
+        "title": "Vulnerabilities in development environments",
+        "front": "What makes a development environment insecure?",
+        "back": [
+          "Weak access control — everyone can reach everything",
+          "Shared or hardcoded credentials, including keys committed to a repo",
+          "Unpatched tools, libraries and operating systems",
+          "Unsecured or accidentally public code repositories",
+          "No code review, so flaws reach production unseen",
+          "Real personal data used as test data",
+          "Unvetted third-party libraries, and insider threat"
+        ]
+      }
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Security controls to protect practices and data",
+      "detail": "Physical (locks, biometrics, secure server rooms), software (firewalls, antivirus, encryption, multi-factor authentication, access logs), procedural (access policies, code review, patching schedules, backups, staff training). Sort controls into the three categories.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Classify each of the following as a physical, software or procedural security control: biometric access to the server room; multi-factor authentication; a mandatory code review before merging.",
+          "answer": [
+            "Biometric access to the server room — physical control.",
+            "Multi-factor authentication — software control.",
+            "Mandatory code review before merging — procedural control.",
+            "Procedural controls are the category most often omitted in answers."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A26",
+        "title": "Security controls",
+        "front": "Sort controls into the three categories.",
+        "back": [
+          "Physical — locks, biometrics, secure server rooms, cable locks",
+          "Software — firewalls, antivirus, encryption, MFA, access logs",
+          "Procedural — access policies, code review, patching schedules, backups, training",
+          "Procedural controls are the ones most often forgotten in answers",
+          "Name the control AND the specific threat it addresses",
+          "Layered controls: no single one is sufficient"
+        ]
+      }
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Principles of threat modelling",
+      "detail": "Systematically identify the assets worth protecting, who would attack them and how, and what the impact would be — then rank by likelihood and consequence so controls target real threats rather than guesses.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe the steps involved in threat modelling and explain why an organisation would carry it out before selecting security controls.",
+          "answer": [
+            "Identify the assets worth protecting — data, code, systems, reputation.",
+            "Identify who would attack them, how they would do it, and what the impact would be.",
+            "Rank the threats by likelihood and consequence.",
+            "Controls are then chosen against real, ranked threats rather than guesses, so limited budget is spent where risk is greatest."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A27",
+        "title": "Principles of threat modelling",
+        "front": "What are the steps of threat modelling?",
+        "back": [
+          "Identify the assets worth protecting — data, code, systems, reputation",
+          "Identify who would attack them and what they'd want",
+          "Identify how they'd do it — the attack vectors",
+          "Assess the impact if it succeeded",
+          "Rank by likelihood and consequence",
+          "Choose controls that address the real ranked threats, not guesses"
+        ]
+      }
+    },
+    {
+      "id": "4.2.6",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Criteria for evaluating the security of development practices",
+      "detail": "Confidentiality (only authorised people get access), integrity (data stays accurate and unaltered), availability (accessible when needed). Use these as the framework when a case study asks you to judge current practices.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "An organisation's daily backups have never been tested by restoring them. Using the criteria for evaluating security, explain which element is at risk and why.",
+          "answer": [
+            "Availability is at risk — data must be accessible when it is needed.",
+            "An untested backup may be corrupt or incomplete, so it provides no guarantee of recovery.",
+            "Integrity may also be compromised if a restored backup contains altered or partial data.",
+            "Confidentiality, integrity and availability are the three criteria."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A28",
+        "title": "Criteria for evaluating security",
+        "front": "Use the CIA triad to judge development practices.",
+        "back": [
+          "Confidentiality — only authorised people can access the data",
+          "Integrity — data stays accurate, complete and unaltered",
+          "Availability — data and systems are accessible when needed",
+          "Backups serve availability; encryption serves confidentiality",
+          "Version control and checksums serve integrity",
+          "Use all three as the framework when a case study asks you to judge"
+        ]
+      }
+    },
+    {
+      "id": "4.2.7",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Key legislation affecting organisations and data",
+      "detail": "Privacy Act 1988 (Cwlth) and the APPs, Privacy Amendment (Notifiable Data Breaches) Act 2017, Health Records Act 2001, Privacy and Data Protection Act 2014, Copyright Act 1968. Know which applies to which organisation and what it actually obliges them to do.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "An online retailer suffers a breach exposing customer names, addresses and card details. Name the legislation that governs their response and state two obligations it imposes.",
+          "answer": [
+            "Privacy Amendment (Notifiable Data Breaches) Act 2017, operating under the Privacy Act 1988 (Cwlth).",
+            "Obligation: assess whether the breach is likely to result in serious harm.",
+            "Obligation: notify the OAIC and the affected individuals as soon as practicable.",
+            "APP 11 also requires reasonable steps to have been taken to secure the information beforehand."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A14",
+        "title": "Legislation affecting data and software",
+        "front": "Name the Acts and who each applies to.",
+        "back": [
+          "Privacy Act 1988 (Cwlth) — the Australian Privacy Principles; APP 11 is security",
+          "Privacy Amendment (Notifiable Data Breaches) Act 2017 — must report eligible breaches",
+          "Health Records Act 2001 (Vic) — health information, the HPPs",
+          "Privacy and Data Protection Act 2014 (Vic) — Victorian public sector, the IPPs",
+          "Copyright Act 1968 — ownership of code, content and designs",
+          "Say which Act applies to THAT organisation and what it obliges them to do"
+        ]
+      }
+    },
+    {
+      "id": "4.2.8",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Ethical issues arising when developing software",
+      "detail": "Ethical is not the same as legal. Collecting more data than needed, using real customer data in testing, attribution of AI-generated or copied code, disclosing known vulnerabilities, developer responsibility for harm. The ACS Code of Professional Conduct is a useful reference point.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A development team wants to use a copy of the live customer database for testing. Explain why this is an ethical problem even if it is legal, and describe an alternative.",
+          "answer": [
+            "Customers consented to their data being used to provide a service, not for software testing.",
+            "The test environment usually has weaker controls, so the risk of exposure is higher than they agreed to.",
+            "Ethical practice includes data minimisation — use only the data actually needed.",
+            "Alternative: generate synthetic test data, or de-identify the copy so individuals cannot be re-identified."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.9",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Measures to reduce or eliminate threats and risks",
+      "detail": "Prevention, detection and response: patching, multi-factor authentication, encryption, least-privilege access, backups and disaster recovery planning, monitoring, and staff training.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe one preventative, one detective and one responsive measure an organisation could use to protect its development environment, and explain why all three categories are needed.",
+          "answer": [
+            "Preventative: multi-factor authentication and least-privilege access, stopping unauthorised entry.",
+            "Detective: access logging and monitoring, revealing an intrusion that prevention missed.",
+            "Responsive: tested backups and a documented incident response plan, limiting damage once a breach occurs.",
+            "No preventative control is perfect, so detection and response are needed for the breaches that get through."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A29",
+        "title": "Measures to reduce threats and risks",
+        "front": "Group your countermeasures.",
+        "back": [
+          "Prevention — patching, MFA, encryption, least-privilege access, training",
+          "Detection — monitoring, logging, intrusion detection, audits",
+          "Response — incident plan, backups, disaster recovery, breach notification",
+          "Least privilege: give each person the minimum access they need",
+          "Backups only count if they've been tested by restoring them",
+          "A good answer covers all three phases, not just prevention"
+        ]
+      }
+    },
+    {
+      "id": "4.2.10",
+      "area": "Unit 4 AoS 2 — Cyber Security",
+      "title": "Improving the security of software development practices",
+      "detail": "Each recommendation must be tied to a specific threat or vulnerability you identified in the case study, justified, and honest about its cost or limitations. Generic recommendations score poorly.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A case study describes a development team that shares one administrator account and has no patching schedule. Write two recommendations, each tied to a specific vulnerability, and note one limitation of your recommendations.",
+          "answer": [
+            "Recommendation: individual accounts with least-privilege access, addressing the shared administrator account — actions become attributable and a single compromise exposes less.",
+            "Recommendation: a scheduled patching cycle with a named owner, addressing the unpatched tools that leave known exploits open.",
+            "Limitation: both require staff time and may slow the team initially; patching can break existing dependencies.",
+            "Generic recommendations score poorly — each must name the vulnerability from the stimulus."
+          ]
+        }
+      ],
+      "card": {
+        "key": "A30",
+        "title": "Improving security practices",
+        "front": "What makes a recommendation score well?",
+        "back": [
+          "Tie it to a SPECIFIC threat or vulnerability you identified in the case study",
+          "Say what the control is and how it addresses that vulnerability",
+          "Justify why it's appropriate for this organisation",
+          "Acknowledge the cost, limitation or trade-off honestly",
+          "Generic recommendations ('use strong passwords') score poorly",
+          "Quote the detail from the stimulus — that's what shows you read it"
+        ]
+      }
+    }
+  ],
+  "source": "VCE Applied Computing Study Design 2025–2028.",
+  "theme": {
+    "paper": "#e9ece6",
+    "lift": "#f2f4ef",
+    "ink": "#1b2a27",
+    "soft": "#5c6b66",
+    "faint": "#626b67",
+    "rule": "#cfd5cb",
+    "ruleSoft": "#dde1d8",
+    "accent": "#2f6b4a",
+    "track": "#dfe2db"
+  },
+  "papers": "2025 VCE Applied Computing: Software Development examination. Section A is 20 multiple-choice, Section B is 5 short-answer, Section C is a 60-mark case study."
+}

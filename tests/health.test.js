@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import subjects from '../src/subjects.json' with {type:'json'};
+import {subjects} from './subjects.js';
 import {normalizeRatings,importBackup,cleanPractice,validSelection} from '../src/storage.js';
 const health=subjects.find(s=>s.id==='health-human-development-34');
 test('Health covers four areas with unique persistent IDs',()=>{

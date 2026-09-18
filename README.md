@@ -4,19 +4,35 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 
 ## Subjects included
 
+- Accounting
+- Ancient History
+- Applied Computing: Data Analytics
 - Biology
 - Business Management
 - Chemistry
 - Economics
+- English
 - English Language
+- Environmental Science
+- Food Studies
 - General Mathematics
+- Geography
+- Global Politics
 - Health and Human Development
+- History: Revolutions
 - Legal Studies
+- Literature
 - Mathematical Methods
+- Media
+- Philosophy
+- Physical Education
 - Physics
+- Product Design and Technology
 - Psychology
+- Sociology
 - Software Development
 - Specialist Mathematics
+- Visual Communication Design
 
 ## Features
 
@@ -46,11 +62,13 @@ Open http://127.0.0.1:5173 in your browser. Use the same address each time to re
 3. On your first visit, select the subjects you study and choose **Start revising**.
 4. Open a subject and click a numbered pass box to cycle through confidence levels.
 
-Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the thirteen subjects listed above.
+Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the twenty-nine subjects listed above.
 
 Biology, Business Management, Chemistry, Economics, Legal Studies, Psychology and Specialist Mathematics were added as full-depth subjects: each has 56 to 83 paraphrased revision checkpoints covering Units 3 and 4, and every checkpoint carries one original practice question with a suggested marking guide. Their checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and the practice questions are original revision exercises rather than official VCAA questions. Each subject links to its VCAA study design and examination resources. Chemistry, Specialist Mathematics, Business Management, Legal Studies and Economics group their checkpoints by topic rather than by official area of study title. Legal Studies and Economics cover areas where the law, policy settings and published figures change, so check current detail against VCAA and other official sources.
 
-Health and Human Development includes 49 paraphrased revision checkpoints across all four Units 3 & 4 areas of study, based on the [official VCAA study design accredited from 2025](https://www.vcaa.vic.edu.au/sites/default/files/2025-10/2025HealthHumanDevelopmentSD.docx), updated July 2024. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering. Four original starter questions with suggested marking guides are included; they are not official VCAA questions or a complete practice bank. The subject links to VCAA's study design and examination resources.
+English, History: Revolutions, Geography, Physical Education, Accounting, Applied Computing: Data Analytics, Visual Communication Design, Media and Product Design and Technology were added as skills-based subjects, with 36 to 59 checkpoints each and one original practice question per checkpoint. Because set texts, case studies and chosen revolutions differ between schools, many of their checkpoints ask you to apply a skill to your own texts and examples rather than testing recall of a particular one. English and English Language are separate subjects with separate saved progress.
+
+Ancient History, Literature, Global Politics, Philosophy, Environmental Science, Sociology and Food Studies were added most recently. Ancient History covers Egypt, Greece and Rome alongside shared skills and thematic areas, so use the societies your class studies. Health and Human Development, which originally carried only four practice questions across its 49 checkpoints, now has a question and marking guide on every point, so every subject in the tracker is at full depth.
 
 Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
 
@@ -60,13 +78,26 @@ Progress is stored in the browser using local storage. Use **Save a backup file*
 index.html                   # React application entry page
 src/App.jsx                  # React screens and interactive components
 src/storage.js               # Saved-progress validation and backup compatibility
-src/subjects.json            # Existing subject content and practice questions
+src/subjects/                # One file per subject: points, details, questions
+src/subjects-index.json      # Generated: ids, names and point ids only
+src/subject-loader.js        # Loads a subject's content when it is opened
+scripts/build-subject-index.mjs  # Regenerates the index from src/subjects/
 src/themes.json              # Original theme styles
 src/app.css                  # Shared component styles
 tests/                       # Storage, subject data and browser workflow checks
 My-VCE-revision-tracker.html  # Preserved standalone version for migration/backup
 vce-tracker-progress.json    # Compatible progress backup
 ```
+
+## How subject content loads
+
+Subject content is split so the app does not download all twenty-nine subjects to show the dashboard.
+
+`src/subjects/` holds one file per subject and is the only place subject content is edited. `src/subjects-index.json` is generated from those files and holds just each subject's id, name, accent colour and the id of every point. That is all the setup screen, the dashboard progress bars and saved-progress validation need, and it is about 4 kB compressed.
+
+A subject's full content, including the detail for each point and every practice question and marking guide, is fetched only when that subject is opened. Selected subjects are also fetched quietly in the background shortly after the dashboard appears, so opening one is usually instant. Subjects you do not study are never downloaded.
+
+To add or edit a subject, change the file in `src/subjects/` and run `npm run build:index`. The `dev`, `build` and `test` scripts run it automatically, and a test fails if the committed index does not match the subject files.
 
 ## Technology
 
@@ -83,6 +114,7 @@ In Chrome or Edge, **Open sync file** loads an existing JSON file and **Create s
 ## Build and verify
 
 ```powershell
+npm run build:index
 npm run build
 npm run preview
 npm test

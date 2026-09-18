@@ -1,0 +1,809 @@
+{
+  "id": "english-34",
+  "name": "English",
+  "areas": [
+    "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+    "Unit 3 AoS 2 — Creating texts",
+    "Unit 4 AoS 2 — Analysing argument",
+    "Writing craft and language skills",
+    "Exam technique"
+  ],
+  "short": {
+    "Unit 3 & 4 AoS 1 — Reading and responding to texts": "Text response",
+    "Unit 3 AoS 2 — Creating texts": "Creating texts",
+    "Unit 4 AoS 2 — Analysing argument": "Analysing argument",
+    "Writing craft and language skills": "Writing craft",
+    "Exam technique": "Exam technique"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE English and EAL Study Design, Units 3 and 4. Checkpoints are skills-based because set texts and Frameworks of Ideas differ between schools; apply each checkpoint to your own texts. Checklist numbers are internal tracker IDs, not VCAA numbering.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/english-and-eal",
+  "sourceLabel": "VCAA English and EAL study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Because your set texts differ, most questions ask you to apply a skill to a text you are studying rather than testing recall of a particular book.",
+  "theme": {
+    "accent": "#8a3a2a"
+  },
+  "papers": "The examination has three sections: analytical interpretation of a text, creating texts, and analysis of argument. Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/english-and-english-as-an-additional-language",
+  "points": [
+    {
+      "id": "TR1",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Understanding the whole text",
+      "detail": "Knowing plot, structure, setting and the arc of each major character well enough to select evidence from anywhere in the text without rereading it.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why a detailed knowledge of a text's structure, not just its plot, improves an analytical response.",
+          "answer": [
+            "Structure includes how the text is divided, the order in which information is revealed and where shifts in perspective or time occur.",
+            "Knowing structure lets you argue about the effect of authorial choices, such as why a revelation is withheld until the final chapter.",
+            "A response that only retells plot describes what happens, whereas analysis of structure explains how the author shapes the reader's response."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR2",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Authorial intent and construction",
+      "detail": "Treating the text as something deliberately made, and writing about the author's choices rather than about characters as if they were real people.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Rewrite the following in a way that shows the text is constructed: 'Macbeth becomes paranoid because he feels guilty about the murder.'",
+          "answer": [
+            "A constructed version: 'Shakespeare charts Macbeth's descent into paranoia to dramatise the corrosive effect of guilt on the conscience.'",
+            "The subject of the sentence becomes the author, and the verb names a deliberate choice such as charts, positions, constructs or undercuts.",
+            "This shifts the response from describing a person to analysing an authorial decision and its effect on the audience."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR3",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Views and values",
+      "detail": "Identifying what a text endorses, challenges or leaves ambiguous, and locating the textual evidence that reveals it.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how you would establish, with evidence, what a text values, and state one common error students make.",
+          "answer": [
+            "Look at which characters or behaviours are rewarded and which are punished by the narrative's outcome.",
+            "Look at the language used to describe them, since sympathetic or unsympathetic diction reveals the text's judgement.",
+            "Consider what the text leaves unsaid or unresolved, as ambiguity may itself be the position being taken.",
+            "A common error is assuming a character's views are the author's views; the author may present a view in order to criticise it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR4",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Unpacking the prompt",
+      "detail": "Identifying the key terms, the assumption embedded in the prompt and the scope it sets, before planning any argument.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Outline the steps in unpacking an essay prompt before you begin planning.",
+          "answer": [
+            "Identify the key words and define any that are contestable, since the definition often becomes part of your argument.",
+            "Identify the assumption the prompt makes and decide whether you agree with it fully, partly or not at all.",
+            "Note the scope: whether the prompt limits you to a character, a theme, a section of the text or the whole text.",
+            "Decide your contention, which should answer the prompt directly rather than restate it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR5",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Types of prompts",
+      "detail": "Recognising theme-based, character-based, quotation and 'how' prompts, and adapting the approach each requires.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how your approach differs between a prompt beginning 'To what extent' and one beginning 'How does the author'.",
+          "answer": [
+            "A 'to what extent' prompt invites a qualified position, so the essay should concede part of the statement before arguing the more significant qualification.",
+            "A 'how does the author' prompt is asking about method, so each paragraph must be organised around a technique or choice and its effect.",
+            "In both cases the contention must take a clear position rather than sitting on the fence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR6",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Writing a contention",
+      "detail": "Stating a single, arguable position that responds to the prompt and previews the line of reasoning the essay will follow.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what separates a strong contention from a weak one, and give an example of each in general terms.",
+          "answer": [
+            "A weak contention restates the prompt or lists the paragraph topics without taking a position.",
+            "A strong contention makes a claim that could be disagreed with, and signals the reasoning that supports it.",
+            "It should also be specific to the text, referring to the author's purpose rather than making a general observation about life."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR7",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Introductions",
+      "detail": "Opening with the text and author, establishing the contention, and signalling the argument without listing paragraph topics mechanically.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State what an effective text response introduction must contain and one thing it should avoid.",
+          "answer": [
+            "It must name the text, its form and the author, and state the contention in response to the prompt.",
+            "It should signal the line of reasoning, so the reader knows the direction the argument will take.",
+            "It should avoid broad opening generalisations about human nature and avoid mechanically listing 'firstly, secondly, thirdly'."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR8",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Topic sentences and paragraph structure",
+      "detail": "Opening each paragraph with a claim that advances the contention, then supporting it with evidence and analysis before linking back.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the function of a topic sentence and describe a reliable paragraph structure for a text response.",
+          "answer": [
+            "The topic sentence states the argument of the paragraph, not the events it will discuss, and it must advance the contention.",
+            "Follow it with evidence: a brief embedded quotation or a precise reference to a moment in the text.",
+            "Analyse the evidence by explaining the author's choice and its effect on the reader, rather than paraphrasing the quotation.",
+            "Close by linking the point back to the contention so the argument accumulates rather than restarting each paragraph."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR9",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Embedding evidence",
+      "detail": "Integrating short quotations into your own sentences so they read fluently, and selecting the most precise words rather than long passages.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why short embedded quotations are usually more effective than long block quotations in a text response.",
+          "answer": [
+            "A short embedded quotation lets you analyse specific word choices, which is where the analysis actually happens.",
+            "Long quotations consume words without demonstrating your reasoning, and the marker cannot tell which part you consider significant.",
+            "Embedding also keeps the sentence grammatical and shows control of the material rather than reliance on it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR10",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Analysing language and technique",
+      "detail": "Moving from identifying a technique to explaining its effect, and using precise metalanguage appropriate to the text's form.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the difference between identifying a technique and analysing it, and give the structure of an analytical sentence.",
+          "answer": [
+            "Identifying names the device, for example noting that the author uses a simile, which earns little credit on its own.",
+            "Analysing explains what the choice does: the connotation it carries, the response it creates and how it serves the author's purpose.",
+            "A useful structure is: the author's choice, the specific evidence, the connotation or effect, and the link to purpose or theme."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR11",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Metalanguage for prose",
+      "detail": "Narrative perspective, focalisation, free indirect discourse, tone, imagery, motif, symbolism, characterisation and structure in novels and short fiction.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the effect of a first person unreliable narrator and name the metalanguage you would use to discuss it.",
+          "answer": [
+            "A first person narrator restricts the reader to one character's perspective, so the reader receives only that character's interpretation of events.",
+            "Unreliability creates a gap between what the narrator claims and what the reader infers, which can generate irony or invite judgement.",
+            "Useful terms include narrative perspective, focalisation, dramatic irony, retrospective narration and free indirect discourse."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR12",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Metalanguage for drama",
+      "detail": "Stage directions, dramatic irony, soliloquy and aside, staging, lighting and sound, act and scene structure, and the audience rather than the reader.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why a response to a play should refer to the audience rather than the reader, and name two dramatic techniques worth analysing.",
+          "answer": [
+            "A play is written to be performed, so meaning is produced through staging, performance and the shared experience of an audience.",
+            "Soliloquy grants the audience privileged access to a character's interior thought, creating intimacy or complicity.",
+            "Dramatic irony, where the audience knows what a character does not, generates tension and invites judgement of that character."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR13",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Metalanguage for film",
+      "detail": "Mise en scene, framing and shot type, camera movement, editing, lighting, colour palette, sound and score, and the term viewer rather than reader.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name four film techniques and briefly state a typical effect of each.",
+          "answer": [
+            "A close-up isolates a face or object, directing attention to emotion or significance.",
+            "A low angle shot positions the viewer beneath the subject, conveying power, dominance or threat.",
+            "Non-diegetic score guides emotional response by cueing the viewer how to feel about the action on screen.",
+            "Editing pace, such as rapid cutting, builds tension, while a long take can create unease or intimacy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR14",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Metalanguage for poetry and memoir",
+      "detail": "Form, stanza and line break, enjambment, metre and rhythm, voice, persona, and the conventions of life writing.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the effect of enjambment and why the distinction between poet and persona matters.",
+          "answer": [
+            "Enjambment runs a sentence across a line break, creating momentum, hesitation or a moment of double meaning at the line's end.",
+            "The persona is the voice constructed within the poem and is not necessarily the poet themselves.",
+            "Maintaining the distinction allows you to analyse voice as a deliberate construction rather than as autobiography."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR15",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Context and its limits",
+      "detail": "Using historical, social and cultural context to illuminate the text's concerns, without letting background information displace textual analysis.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how context should be used in a text response and the most common way students misuse it.",
+          "answer": [
+            "Context should be used briefly to explain why a concern mattered to the author or original audience, sharpening the analysis.",
+            "It must be connected immediately to a specific choice in the text rather than presented as standalone background.",
+            "The common misuse is a paragraph of historical information with no textual evidence, which reads as a history answer rather than an English one."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR16",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Complexity and counter-argument",
+      "detail": "Acknowledging tension, ambiguity or counter-evidence in the text, and using it to produce a more nuanced position rather than a contradictory one.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to handle evidence that appears to contradict your contention.",
+          "answer": [
+            "Acknowledge it directly rather than ignoring it, since ignoring obvious counter-evidence weakens the argument.",
+            "Show why the apparent contradiction is consistent with a more precise version of your contention, for example that the text is ambivalent rather than wholly endorsing.",
+            "Use qualifying language such as 'while', 'although' and 'ultimately' to hold both ideas at once.",
+            "The strongest responses treat tension in the text as the subject of analysis rather than a problem to be hidden."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TR17",
+      "area": "Unit 3 & 4 AoS 1 — Reading and responding to texts",
+      "title": "Conclusions",
+      "detail": "Drawing the argument together, extending to the text's broader significance, and avoiding both mere repetition and the introduction of new evidence.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State what an effective conclusion does and two things it should not do.",
+          "answer": [
+            "It should restate the position in language different from the introduction and draw the strands of the argument together.",
+            "It may extend briefly to the text's wider significance or to what the author invites the audience to consider.",
+            "It should not introduce new evidence or a new argument, and it should not simply repeat the introduction word for word."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT1",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "The Framework of Ideas",
+      "detail": "Understanding the chosen Framework as a field of ideas to explore, and generating your own angle within it rather than writing to a fixed topic.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the purpose of a Framework of Ideas in Creating texts and how it differs from an essay topic.",
+          "answer": [
+            "The Framework provides a broad field of ideas that your writing explores, such as writing about country, protest, personal journeys or play.",
+            "It is not a question to answer; you develop your own angle, argument or narrative within that field.",
+            "The Framework sets the territory, while your purpose, audience, context and form are decisions you make."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT2",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Purpose, audience, context and form",
+      "detail": "Making deliberate decisions about why you are writing, for whom, in what circumstances and in what form, and keeping them consistent across the piece.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a decision about audience changes the writing that follows, using two specific features as examples.",
+          "answer": [
+            "Audience determines register: a piece for a specialist readership can assume shared knowledge, while a general audience needs explanation.",
+            "It determines the level of formality in vocabulary and syntax, including whether contractions, slang or first person are appropriate.",
+            "It determines what evidence or appeal will be persuasive, since different readers respond to different kinds of authority.",
+            "Inconsistency in these features is one of the clearest signals that a writer has not held their audience in mind."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT3",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Learning from mentor texts",
+      "detail": "Reading mentor texts as a writer, identifying the specific moves they make, and adapting those moves rather than imitating their content.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what it means to read a mentor text 'as a writer' and give two features worth borrowing.",
+          "answer": [
+            "Reading as a writer means noticing how the piece is built rather than only what it says, identifying choices you could reuse.",
+            "Structural moves are worth borrowing, such as opening with a concrete image before widening to an idea.",
+            "Voice features are also worth borrowing, such as the rhythm of short sentences after a long one, or a recurring motif that ties the piece together."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT4",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Voice and register",
+      "detail": "Constructing a consistent and deliberate voice through diction, syntax, rhythm and distance, and sustaining it across the whole piece.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name three elements that create voice in a piece of writing and explain how one of them can be varied for effect.",
+          "answer": [
+            "Voice is created through word choice, sentence length and rhythm, and the degree of distance or intimacy with the reader.",
+            "Sentence length can be varied deliberately: a sequence of longer sentences followed by a short one gives that short sentence weight.",
+            "Consistency matters, because an unexplained shift in voice reads as a loss of control rather than a deliberate effect."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT5",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Structure in creative and persuasive writing",
+      "detail": "Choosing a shape that serves the purpose: linear, fragmented, circular, framed or vignette, and controlling the reader's experience of time and revelation.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain one non-linear structure and the effect it can achieve.",
+          "answer": [
+            "A circular structure returns at the end to the image or moment that opened the piece.",
+            "The repetition invites the reader to reinterpret that opening in light of everything that has followed, producing a sense of change or of inescapability.",
+            "The structure itself carries meaning, so the choice should be justified by the piece's purpose rather than used for novelty."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT6",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Showing rather than telling",
+      "detail": "Conveying emotion and meaning through concrete detail, action and image rather than through abstract statement.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the principle of showing rather than telling and why it is more effective.",
+          "answer": [
+            "Telling states a feeling directly, for example that a character was nervous, which gives the reader a label but no experience.",
+            "Showing presents concrete detail from which the reader infers the feeling, such as an action, a physical sensation or a fragment of dialogue.",
+            "It is more effective because inference engages the reader in making meaning, and specific detail is more memorable than abstraction."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT7",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Vocabulary and precision",
+      "detail": "Choosing words for connotation as well as denotation, avoiding vague abstractions and resisting the impulse to inflate vocabulary artificially.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why the most impressive vocabulary is not always the most effective, and state the test to apply.",
+          "answer": [
+            "A word used for its impressiveness rather than its precision often carries connotations the writer did not intend.",
+            "Overly elevated diction can also clash with the voice and register established elsewhere in the piece.",
+            "The test is whether the word is the most precise available for the meaning intended, not whether it is the least common."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT8",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Experimentation and risk",
+      "detail": "Trying unfamiliar forms, perspectives and structures during the writing process, and judging which experiments serve the purpose.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the value of experimenting with form during Creating texts and how to judge whether an experiment has worked.",
+          "answer": [
+            "Experimentation develops range and often produces a more distinctive piece than the first, most obvious approach.",
+            "An experiment works when the unusual choice does something the conventional choice could not, such as a second person address creating complicity.",
+            "It fails when the reader's attention goes to the technique itself rather than to the meaning it was meant to create."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT9",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "Drafting, feedback and editing",
+      "detail": "Treating writing as a process of drafting and revision, using feedback critically, and editing at the level of structure before the level of the sentence.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why structural editing should come before sentence-level editing.",
+          "answer": [
+            "Structural editing decides what stays, what is cut and in what order material appears.",
+            "Polishing a sentence that will later be deleted wastes effort, so large decisions should be made first.",
+            "Once the shape is settled, sentence-level editing can sharpen word choice, rhythm and clarity within it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CT10",
+      "area": "Unit 3 AoS 2 — Creating texts",
+      "title": "The written commentary or reflection",
+      "detail": "Explaining the decisions made about purpose, audience, context, form and language, and justifying them with reference to your own text and your mentor texts.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "State what a written commentary on your own writing should contain.",
+          "answer": [
+            "An explicit statement of the intended purpose, audience, context and form of the piece.",
+            "Identification of specific choices you made in language, structure and voice, quoted or referenced from your own writing.",
+            "A justification of why each choice serves the purpose and audience you identified.",
+            "Acknowledgement of the mentor texts or Framework ideas that influenced the decisions, and of what you changed between drafts."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA1",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Identifying contention and arguments",
+      "detail": "Distinguishing the overall contention from the supporting arguments, and tracking how the arguments develop across the text.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the difference between a contention and an argument, and how to identify each in an opinion piece.",
+          "answer": [
+            "The contention is the writer's overall position, the single claim the whole piece exists to persuade the reader to accept.",
+            "Arguments are the separate reasons offered in support, usually one per section or paragraph.",
+            "The contention is often stated near the opening or the close, while arguments can be found by asking what each paragraph is trying to prove."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA2",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Audience, context and purpose",
+      "detail": "Identifying the intended audience and the issue's context, and considering what that audience already believes and what the writer needs to shift.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why identifying the intended audience improves an analysis of argument.",
+          "answer": [
+            "Persuasive effect depends on the reader: an appeal to tradition may reassure one audience and alienate another.",
+            "Knowing the audience lets you explain why the writer chose a particular appeal rather than simply naming it.",
+            "It also explains structural choices, such as conceding a point early to disarm readers who are likely to disagree."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA3",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Tone and its shifts",
+      "detail": "Naming tone precisely, tracking where and why it changes, and linking the shift to the writer's persuasive strategy.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to write about a shift in tone, and give three precise tone words that are more useful than 'negative'.",
+          "answer": [
+            "Identify where the shift occurs, name both tones precisely, and explain what the change is designed to achieve.",
+            "A shift from measured to indignant, for example, can signal that the writer has moved from establishing credibility to demanding action.",
+            "Precise alternatives include derisive, wry, conciliatory, sardonic, urgent and resigned.",
+            "Vague labels such as 'negative' or 'emotive' do not explain how the reader is being positioned."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA4",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Appeals and persuasive strategies",
+      "detail": "Appeals to fear, hip pocket nerve, family, patriotism, fairness, tradition and expertise, and the reasoning each invites the reader to accept.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how an appeal to fear positions a reader, and why naming the appeal alone earns few marks.",
+          "answer": [
+            "An appeal to fear presents an undesirable consequence as likely if the reader does not accept the writer's position.",
+            "It positions the reader to feel personally at risk, making the writer's proposal seem like protection rather than imposition.",
+            "Naming the appeal alone is mere identification; the analysis is in explaining the specific reasoning and response it invites.",
+            "Strong responses explain what the reader is encouraged to conclude and why that conclusion serves the contention."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA5",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Language techniques in argument",
+      "detail": "Inclusive language, rhetorical questions, repetition, anecdote, statistics, expert opinion, emotive diction, hyperbole and attacks, and the effect of each.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the persuasive effect of an anecdote and of statistics, and why a writer might use both.",
+          "answer": [
+            "An anecdote makes an abstract issue concrete and personal, inviting the reader to feel sympathy for an individual case.",
+            "Statistics create an impression of objectivity and scale, suggesting the individual case is representative rather than exceptional.",
+            "Used together, the anecdote supplies emotional engagement while the statistics supply apparent proof.",
+            "The combination positions the reader to accept both that the issue matters and that it is widespread."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA6",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Analysing visuals",
+      "detail": "Reading photographs, cartoons, graphs and layout for their persuasive contribution, and connecting the visual to the written argument.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to analyse a political cartoon and what must be included for full marks.",
+          "answer": [
+            "Describe only the details that matter persuasively, such as exaggeration of a figure, symbolic objects, labels and facial expression.",
+            "Explain the contention the cartoon advances and how the visual choices position the viewer to accept it.",
+            "Explain the relationship to the written text: whether the visual reinforces, extends or complicates the writer's argument.",
+            "A description of the image without analysis of its effect earns very little credit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA7",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Structuring an analysis of argument",
+      "detail": "Organising the response by the movement of the argument rather than by a list of techniques, and maintaining a sustained line of analysis.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why structuring an analysis around the argument's development is better than structuring it around a list of techniques.",
+          "answer": [
+            "A technique-by-technique structure produces a catalogue that repeats the same phrasing and loses sight of the writer's overall strategy.",
+            "Structuring by the development of the argument follows how the writer builds the case and shifts the reader over the course of the piece.",
+            "This allows you to explain sequence and cumulative effect, such as establishing credibility before making a contentious claim.",
+            "Techniques are then analysed where they occur, in service of the argument being made at that point."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA8",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Comparing two or more texts",
+      "detail": "Analysing how different writers position readers on the same issue, and comparing strategy, tone and appeal rather than summarising each in turn.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to compare two argument texts effectively.",
+          "answer": [
+            "Compare the contentions first, noting whether they oppose each other or differ in emphasis or scope.",
+            "Compare the strategies used to position the reader, such as one writer relying on expertise while the other relies on personal experience.",
+            "Integrate the comparison within paragraphs using connectives such as 'whereas' and 'by contrast', rather than analysing one text then the other.",
+            "Account for differences in audience and form, since these often explain why the strategies differ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AA9",
+      "area": "Unit 4 AoS 2 — Analysing argument",
+      "title": "Metalanguage of analysis",
+      "detail": "Using precise verbs for what a writer does to a reader, and avoiding the repeated formula of 'this makes the reader feel'.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Give four precise verbs for describing what a writer does to a reader and explain why they are preferable to 'makes the reader feel'.",
+          "answer": [
+            "Useful verbs include positions, invites, implies, aligns, undermines, concedes, dismisses and casts.",
+            "They describe the persuasive mechanism rather than asserting an emotional outcome the writer cannot guarantee.",
+            "'Makes the reader feel' overstates the effect and is usually followed by an unsupported claim about emotion rather than analysis of reasoning."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W1",
+      "area": "Writing craft and language skills",
+      "title": "Sentence variety and control",
+      "detail": "Varying sentence length and structure for rhythm and emphasis, and controlling complex sentences without losing clarity.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how sentence length can be used for emphasis and name one risk of long sentences.",
+          "answer": [
+            "A short sentence placed after several longer ones lands with emphasis because of the contrast in rhythm.",
+            "Long sentences can accumulate detail and hold ideas in relation to one another, which suits complex analysis.",
+            "The risk is losing grammatical control, so that the subject and verb become separated and the meaning blurs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "area": "Writing craft and language skills",
+      "title": "Cohesion and paragraph linking",
+      "detail": "Using connectives, pronoun reference and repeated key terms to carry an argument forward without mechanical signposting.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Name three ways to create cohesion between paragraphs and state one to avoid.",
+          "answer": [
+            "Repeat or vary a key term from the previous paragraph in the opening of the next, so the thread is visible.",
+            "Use logical connectives such as 'consequently', 'by contrast' or 'more troublingly' that signal the relationship between ideas.",
+            "Build a sequence in which each paragraph complicates or extends the previous one rather than simply adding another example.",
+            "Avoid mechanical signposting such as 'the second point I will discuss is', which announces structure without creating it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "area": "Writing craft and language skills",
+      "title": "Concision",
+      "detail": "Removing filler phrases, redundant qualifiers and empty openings so that every sentence carries meaning.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Identify the problem in this sentence and rewrite it: 'It is important to note that the author uses a range of different techniques in order to show the reader that the character is very isolated.'",
+          "answer": [
+            "The sentence opens with filler, uses redundant wording such as 'range of different' and 'in order to', and relies on the vague intensifier 'very'.",
+            "It also identifies techniques without naming any, so it makes no analytical claim.",
+            "A concise revision: 'The author's spare, fragmented syntax enacts the character's isolation.'"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W4",
+      "area": "Writing craft and language skills",
+      "title": "Punctuation for meaning",
+      "detail": "Using the colon, semicolon, dash and comma deliberately, and avoiding the comma splice and misplaced apostrophe.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the correct use of a semicolon and a colon, and identify what a comma splice is.",
+          "answer": [
+            "A semicolon joins two closely related independent clauses that could each stand as a sentence.",
+            "A colon introduces an explanation, elaboration or list that follows from the clause before it.",
+            "A comma splice incorrectly joins two independent clauses with only a comma; it is repaired with a full stop, a semicolon or a conjunction."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W5",
+      "area": "Writing craft and language skills",
+      "title": "Titles, tenses and conventions",
+      "detail": "Italicising or underlining titles correctly, writing about texts in the present tense, and using the author's surname after first full mention.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State three conventions for writing about texts in English responses.",
+          "answer": [
+            "Titles of novels, plays and films are italicised or underlined; titles of poems and short stories take quotation marks.",
+            "Write about events in a text in the present tense, since the text continues to do what it does on every reading.",
+            "Give the author's full name at first mention and the surname thereafter, and spell both the author's name and characters' names correctly."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Exam technique",
+      "title": "Using reading time",
+      "detail": "Allocating reading time across the three sections, choosing the text and prompt, and beginning to plan mentally before writing is permitted.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Describe how you would use the exam's reading time across the three sections.",
+          "answer": [
+            "Go first to the section that requires a choice, locating your text and reading both prompts before deciding.",
+            "Read the argument material next, since it is unseen and takes the longest to absorb, noting contention and tone as you read.",
+            "Use the remaining time to begin forming a contention for the text response, so writing can begin immediately."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Exam technique",
+      "title": "Timing and allocation",
+      "detail": "Dividing writing time roughly evenly across the three sections, and starting the next section on time even if the current one feels unfinished.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why finishing all three sections matters more than perfecting one, in terms of marks.",
+          "answer": [
+            "Each section is marked separately and carries the same weight, so an unwritten section scores zero.",
+            "The marks lost by leaving a section unattempted far exceed the marks gained by polishing a response that is already sound.",
+            "Moving on at the planned time, and returning later if time permits, protects the total score."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Exam technique",
+      "title": "Planning under time pressure",
+      "detail": "Producing a short plan that fixes the contention and the order of arguments, and knowing when planning has become procrastination.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State what a useful exam plan contains and roughly how long it should take.",
+          "answer": [
+            "A contention in one sentence, and three or four topic sentences or argument stubs in order.",
+            "Two or three pieces of specific evidence noted against the arguments they support.",
+            "It should take only a few minutes, since the purpose is direction rather than a draft."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X4",
+      "area": "Exam technique",
+      "title": "Common examiner criticisms",
+      "detail": "Retelling plot, listing techniques, generic introductions, ignoring part of the prompt and running out of time, and how to avoid each.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name four criticisms examiners commonly make of English responses and state how to avoid each.",
+          "answer": [
+            "Retelling rather than analysing: fix by starting each paragraph with a claim rather than an event.",
+            "Listing techniques without effect: fix by following every identification with its effect and link to purpose.",
+            "Ignoring part of the prompt: fix by underlining the key terms and checking the plan addresses all of them.",
+            "Running out of time: fix by allocating time per section in advance and keeping to it."
+          ]
+        }
+      ]
+    }
+  ]
+}

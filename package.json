@@ -4,9 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build:index": "node scripts/build-subject-index.mjs",
+    "predev": "npm run build:index",
     "dev": "vite --host 127.0.0.1",
+    "prebuild": "npm run build:index",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
+    "pretest": "npm run build:index",
     "test": "node --test tests/*.test.js",
     "test:browser": "playwright test"
   },

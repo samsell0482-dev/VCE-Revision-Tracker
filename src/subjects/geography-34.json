@@ -1,0 +1,717 @@
+{
+  "id": "geography-34",
+  "name": "Geography",
+  "areas": [
+    "Geographical concepts and skills",
+    "Unit 3 AoS 1 — Land use change",
+    "Unit 3 AoS 2 — Land cover change",
+    "Unit 4 AoS 1 — Introducing human wellbeing",
+    "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+    "Fieldwork and exam technique"
+  ],
+  "short": {
+    "Geographical concepts and skills": "Concepts and skills",
+    "Unit 3 AoS 1 — Land use change": "U3 Land use",
+    "Unit 3 AoS 2 — Land cover change": "U3 Land cover",
+    "Unit 4 AoS 1 — Introducing human wellbeing": "U4 Wellbeing",
+    "Unit 4 AoS 2 — Spatial variations in human wellbeing": "U4 Variations",
+    "Fieldwork and exam technique": "Fieldwork and exam"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Geography Study Design, Units 3 and 4. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering. Case studies differ between schools, so apply the skill-based checkpoints to the examples you have studied.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/geography",
+  "sourceLabel": "VCAA Geography study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Statistics quoted are indicative only; use current data and your own case studies in your answers.",
+  "theme": {
+    "accent": "#2d7a6a"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/geography",
+  "points": [
+    {
+      "id": "C1",
+      "area": "Geographical concepts and skills",
+      "title": "Place and space",
+      "detail": "Place as a location given meaning by people, and space as the arrangement and organisation of phenomena on the earth's surface.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Distinguish between the concepts of place and space, using an example.",
+          "answer": [
+            "Place refers to a location that has meaning attached to it by people, including its physical and human characteristics.",
+            "Space refers to how phenomena are arranged and organised across the earth's surface, including patterns of distribution.",
+            "For example, a wetland is a place with particular ecological and cultural meaning, while the distribution of wetlands across a catchment is a spatial pattern."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "area": "Geographical concepts and skills",
+      "title": "Scale",
+      "detail": "Analysing phenomena at local, regional, national and global scales, and recognising that processes and outcomes differ at different scales.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why the same issue can appear differently at a local and a global scale, using land cover change as an example.",
+          "answer": [
+            "At a local scale, deforestation may appear as the clearing of a particular forest for agriculture, affecting a specific community and habitat.",
+            "At a global scale, the same process aggregates into a contribution to atmospheric carbon dioxide and global climate change.",
+            "Analysing at a single scale can therefore obscure either the immediate human impact or the cumulative global significance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "area": "Geographical concepts and skills",
+      "title": "Environment and interconnection",
+      "detail": "The relationship between people and the physical environment, and the connections between places and phenomena across space.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the concept of interconnection using an example of land use change.",
+          "answer": [
+            "Interconnection refers to the links between places, people and processes, in which a change in one produces change in another.",
+            "Urban expansion on a city fringe, for example, is connected to population growth, transport investment and housing affordability elsewhere in the city.",
+            "It also connects to distant places through the demand for construction materials and the displacement of agricultural production."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "area": "Geographical concepts and skills",
+      "title": "Distribution, movement and region",
+      "detail": "Describing where phenomena are located, how they move over time, and how areas with common characteristics are grouped into regions.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how to describe a distribution shown on a map, and name three descriptive terms to use.",
+          "answer": [
+            "Describe the overall pattern first, stating whether it is concentrated, dispersed, linear, clustered or random.",
+            "Refer to specific locations and directions using compass points, and quantify where the map allows it.",
+            "Note any anomalies that depart from the general pattern, since these often reveal the underlying cause."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "area": "Geographical concepts and skills",
+      "title": "Change and process",
+      "detail": "Identifying the processes producing change, the rate and direction of change, and whether change is cyclical, incremental or abrupt.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Distinguish between a process and a change, using an example from land cover.",
+          "answer": [
+            "A process is the mechanism producing an outcome, such as salinisation, erosion or urbanisation.",
+            "A change is the observable outcome of that process over time, such as a decline in vegetation cover between two dates.",
+            "Identifying the process explains why the change occurred, which is necessary before management strategies can be evaluated."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C6",
+      "area": "Geographical concepts and skills",
+      "title": "Sustainability and spatial association",
+      "detail": "Evaluating whether a use of resources can be maintained over time, and identifying where the distributions of two phenomena correspond.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what a strong spatial association between two mapped distributions indicates and what it does not prove.",
+          "answer": [
+            "A strong spatial association means the two distributions correspond closely, with high values of one occurring where high values of the other occur.",
+            "It suggests a possible relationship, such as between rainfall and agricultural land use.",
+            "It does not prove causation, since a third factor may explain both, and the association should be described with reference to both the pattern and its exceptions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "area": "Geographical concepts and skills",
+      "title": "Interpreting maps and photographs",
+      "detail": "Using scale, area and grid references, compass direction, contour lines, cross-sections, and comparing oblique, vertical and satellite imagery over time.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to identify land use change by comparing two aerial photographs of the same area taken years apart.",
+          "answer": [
+            "Orient both images using a common fixed feature such as a road, coastline or river, and check the scale and direction of each.",
+            "Compare specific areas systematically rather than impressionistically, working across the image in sections.",
+            "Describe the change in terms of type, extent and location, quantifying it where a scale allows an estimate of area.",
+            "State the date of each image, since the rate of change cannot be described without the time interval."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C8",
+      "area": "Geographical concepts and skills",
+      "title": "Representing and interpreting data",
+      "detail": "Choosing and reading choropleth maps, proportional circles, climate graphs, population pyramids, scatter plots and line graphs.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State what a choropleth map shows and one limitation of the technique.",
+          "answer": [
+            "A choropleth map uses shading or colour intensity to show the value of a variable for defined areas such as countries or regions.",
+            "It shows spatial pattern clearly and allows quick comparison between areas.",
+            "A limitation is that it implies uniformity within each area, concealing significant internal variation, and the choice of class intervals can change the apparent pattern."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Characteristics of land",
+      "detail": "The physical and human characteristics that make land suitable for particular uses, including relief, soil, climate, water, accessibility and services.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain four characteristics that make an area of land suitable for residential development.",
+          "answer": [
+            "Relief: gently sloping or flat land is cheaper to build on and better suited to services and roads.",
+            "Access to infrastructure: proximity to transport routes, water, power and sewerage reduces development costs.",
+            "Proximity to employment, schools and services makes the location attractive to buyers.",
+            "Freedom from hazard, such as flooding, bushfire risk or contaminated soil, is required before approval will be granted."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Types of land use",
+      "detail": "Agricultural, residential, commercial, industrial, recreational, conservation and infrastructure uses, and the competition between them.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why competition for land occurs at the urban fringe and give two competing uses.",
+          "answer": [
+            "The urban fringe contains land that is suitable for more than one use and is rising in value as the city expands.",
+            "Agricultural use competes with residential development, since the same flat, well-serviced land suits both.",
+            "Conservation and recreation also compete, since remaining habitat and open space become scarcer as development proceeds, and the highest-value use usually prevails without planning intervention."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Causes of land use change",
+      "detail": "Population growth, economic development, technological change, government policy, changing values and environmental pressures.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how population growth and government policy each drive land use change on a city fringe.",
+          "answer": [
+            "Population growth increases demand for housing, raising land values and making conversion of agricultural land to residential use profitable.",
+            "It also increases demand for schools, shops and transport, producing further changes in surrounding land use.",
+            "Government policy directs where that growth occurs through planning schemes, urban growth boundaries and zoning.",
+            "Policy can accelerate change by releasing land for development or restrain it by protecting green wedges and agricultural land."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Impacts of land use change",
+      "detail": "Environmental, economic and social impacts, both positive and negative, and the identification of who gains and who bears the cost.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Analyse the environmental and social impacts of converting farmland on a city fringe into a residential estate.",
+          "answer": [
+            "Environmental: loss of vegetation and habitat, increased impervious surfaces raising stormwater runoff, and higher local temperatures from the urban heat island effect.",
+            "Environmental benefits may include remediation of degraded land and the creation of managed parkland and drainage wetlands.",
+            "Social: new housing supply and services benefit incoming residents, but existing residents may experience congestion and loss of rural amenity.",
+            "The costs and benefits are unevenly distributed, with developers and new residents gaining while adjacent farmers and the displaced face higher costs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Urban growth and planning responses",
+      "detail": "Urban consolidation, urban sprawl, growth boundaries, green wedges and infill development as responses to urban land use pressure.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Compare urban consolidation with urban sprawl and evaluate consolidation as a planning response.",
+          "answer": [
+            "Urban sprawl expands the built-up area outwards at low density, consuming agricultural land and lengthening travel distances.",
+            "Urban consolidation increases the density of existing urban areas through infill and higher density housing.",
+            "Consolidation reduces pressure on fringe land, uses existing infrastructure efficiently and supports public transport viability.",
+            "It can also increase pressure on local open space and services and meet resistance from existing residents, so it is rarely sufficient on its own."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Land use change",
+      "title": "Managing land use conflict",
+      "detail": "Zoning, overlays, buffers, environmental impact assessment and community consultation as tools for managing competing uses.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how zoning and buffers are used to manage conflict between incompatible land uses.",
+          "answer": [
+            "Zoning designates areas for particular categories of use, so that incompatible uses are separated at the planning stage.",
+            "Overlays add further controls to zoned land, for example to manage bushfire risk, heritage or environmental significance.",
+            "Buffers are strips of land, often vegetated, placed between conflicting uses to reduce noise, odour, dust or visual impact.",
+            "These tools reduce but do not eliminate conflict, since existing uses may predate the controls and enforcement requires resources."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Distinguishing land cover from land use",
+      "detail": "Land cover as the physical material at the surface, and land use as the human purpose to which land is put.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Distinguish between land cover and land use and explain why the distinction matters.",
+          "answer": [
+            "Land cover is the physical and biological material covering the surface, such as forest, grassland, water, ice, bare soil or built surfaces.",
+            "Land use is the purpose humans apply to the land, such as agriculture, conservation or housing.",
+            "The distinction matters because one land cover can support several uses, and a change in use often but not always produces a change in cover."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Deforestation",
+      "detail": "The causes of forest clearing, the scale and distribution of loss, and the environmental consequences including biodiversity and carbon release.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the causes and environmental consequences of deforestation.",
+          "answer": [
+            "Causes include clearing for commercial agriculture and grazing, logging for timber, subsistence farming, mining and infrastructure.",
+            "Population growth and global demand for commodities such as palm oil, soy and beef drive the process economically.",
+            "Consequences include loss of habitat and biodiversity, since tropical forests hold a large proportion of terrestrial species.",
+            "Carbon stored in biomass is released to the atmosphere, contributing to climate change, and soil is exposed to erosion with reduced local rainfall through diminished evapotranspiration."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Desertification",
+      "detail": "The degradation of land in dry regions, its causes in overgrazing, over-cultivation, deforestation and drought, and its human consequences.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the process of desertification and distinguish its human from its natural causes.",
+          "answer": [
+            "Desertification is the degradation of land in arid, semi-arid and dry sub-humid areas, resulting in a loss of biological productivity.",
+            "Human causes include overgrazing, over-cultivation that exhausts soil nutrients, deforestation for fuelwood and poorly managed irrigation causing salinisation.",
+            "Natural causes include prolonged drought and climate variability, which reduce vegetation cover and expose soil.",
+            "The two interact, since human pressure reduces the land's resilience so that a drought produces degradation that would otherwise be temporary."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Melting glaciers and ice sheets",
+      "detail": "The retreat of glaciers and ice cover, the albedo feedback, and the consequences for sea level, water supply and ecosystems.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the albedo feedback associated with melting ice and two consequences of glacial retreat.",
+          "answer": [
+            "Ice and snow have a high albedo, reflecting most incoming solar radiation back to space.",
+            "As ice melts it exposes darker ocean or rock with a low albedo, which absorbs more radiation and causes further warming and melting, a positive feedback loop.",
+            "Glacial retreat reduces the reliable seasonal meltwater supply on which downstream agriculture and cities depend.",
+            "Melting land-based ice contributes to sea level rise, threatening low-lying coastal settlements and ecosystems."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Salinity and land degradation",
+      "detail": "Dryland and irrigation salinity, the role of rising water tables after vegetation removal, and the effects on soil and waterways.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the removal of deep-rooted native vegetation causes dryland salinity.",
+          "answer": [
+            "Deep-rooted native vegetation uses large volumes of groundwater, keeping the water table well below the surface.",
+            "When it is replaced with shallow-rooted crops and pasture, less water is taken up and more infiltrates to the groundwater.",
+            "The water table rises, dissolving salts stored in the soil profile and bringing them towards the surface.",
+            "Salt concentrates in the root zone and at the surface as water evaporates, reducing plant growth and degrading soil and nearby waterways."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Climate change as a driver and a consequence",
+      "detail": "The enhanced greenhouse effect, the role of land cover change in emissions, and the feedback between changing climate and changing cover.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how land cover change is both a cause and a consequence of climate change.",
+          "answer": [
+            "As a cause, clearing vegetation releases stored carbon and removes a carbon sink, raising atmospheric greenhouse gas concentrations.",
+            "Changes in albedo and evapotranspiration also alter local and regional energy and water balances.",
+            "As a consequence, a warming and drying climate shifts vegetation ranges, increases fire frequency and can convert forest to grassland.",
+            "The relationship is therefore a feedback loop, in which each process can reinforce the other."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.7",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Measuring and monitoring land cover change",
+      "detail": "Using satellite imagery, remote sensing indices, GIS and ground truthing to detect and quantify change over time.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how satellite imagery and GIS are used to monitor land cover change, and why ground truthing is required.",
+          "answer": [
+            "Satellite imagery captured at intervals allows the same area to be compared over time at a consistent scale and resolution.",
+            "Spectral analysis distinguishes cover types, so vegetation, water and built surfaces can be classified and the area of each calculated.",
+            "GIS layers this classified data with other information, such as tenure or elevation, to analyse where and why change is occurring.",
+            "Ground truthing verifies the classification against observed conditions on site, since spectral signatures can be misclassified."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.8",
+      "area": "Unit 3 AoS 2 — Land cover change",
+      "title": "Responses to land cover change",
+      "detail": "Mitigation and adaptation, revegetation, protected areas, international agreements, carbon markets and Indigenous land management.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Evaluate two responses to land cover change, one local and one international.",
+          "answer": [
+            "Local: revegetation and fencing of waterways restores habitat, stabilises soil and lowers water tables, but works only at small scale and takes decades to mature.",
+            "Indigenous land management, including cultural burning, reduces fuel loads and maintains habitat mosaics using knowledge developed over millennia.",
+            "International: agreements and carbon markets can fund forest protection in countries where clearing is economically attractive.",
+            "Their effectiveness depends on enforcement, monitoring and whether protection in one location simply displaces clearing elsewhere."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Introducing human wellbeing",
+      "title": "Defining human wellbeing",
+      "detail": "Wellbeing as a multidimensional concept covering material conditions, health, education, security, participation and environmental quality.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why human wellbeing is described as multidimensional and why income alone is an inadequate measure.",
+          "answer": [
+            "Wellbeing includes material conditions such as income and shelter, but also health, education, security, freedom and environmental quality.",
+            "Two countries with the same average income can differ substantially in life expectancy, schooling and safety.",
+            "Income also says nothing about distribution, so a high average can conceal severe inequality and poor wellbeing for much of the population."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Introducing human wellbeing",
+      "title": "Measuring wellbeing with indicators",
+      "detail": "Single indicators such as life expectancy, infant mortality, literacy and GNI per capita, and their strengths and limitations.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why infant mortality rate is considered a sensitive indicator of overall wellbeing.",
+          "answer": [
+            "Infant mortality reflects the number of deaths of children under one year per 1000 live births.",
+            "It is sensitive because it depends on many underlying conditions at once: nutrition, maternal health, clean water, sanitation and access to health care.",
+            "A fall in the rate therefore indicates broad improvement across several dimensions rather than change in a single service.",
+            "Its limitation is that, like any single indicator, it is an average that conceals variation between regions and social groups within a country."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Introducing human wellbeing",
+      "title": "Composite indices",
+      "detail": "The Human Development Index and its components, the Gender Inequality Index and other composite measures, and what each captures and omits.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the dimensions of the Human Development Index and evaluate it as a measure of wellbeing.",
+          "answer": [
+            "The HDI combines a long and healthy life measured by life expectancy, knowledge measured by years of schooling, and a decent standard of living measured by gross national income per capita.",
+            "Its strength is that it combines several dimensions into one comparable figure, correcting the narrowness of income-only measures.",
+            "It is limited because it uses national averages and so conceals inequality within a country.",
+            "It also omits political freedom, security, gender equality and environmental quality, which is why complementary indices are used alongside it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Introducing human wellbeing",
+      "title": "Interpreting wellbeing data",
+      "detail": "Comparing indicator values between and within countries, describing spatial patterns, and recognising the limits of averages.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how to describe the global spatial pattern of a wellbeing indicator shown on a world choropleth map.",
+          "answer": [
+            "Describe the overall pattern first, noting the broad regions of high and low values rather than listing individual countries.",
+            "Quote specific values and name representative countries at each extreme to support the description.",
+            "Identify anomalies that depart from the general pattern, since these are often the most analytically interesting cases."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Variations between countries",
+      "detail": "The spatial pattern of wellbeing at a global scale, and the historical, economic, political and environmental factors producing it.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three factors that contribute to differences in wellbeing between countries.",
+          "answer": [
+            "Economic: the structure of the economy and level of income determine the resources available for health, education and infrastructure.",
+            "Political: stable governance, the absence of conflict and low corruption allow revenue to be collected and spent on services.",
+            "Historical: colonial history, patterns of trade and debt have shaped which countries accumulated capital and infrastructure.",
+            "Environmental: climate, disease burden, natural hazard exposure and resource endowment affect agricultural productivity and the cost of development."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Variations within countries",
+      "detail": "Rural and urban differences, regional disparities, and variation between social, cultural and economic groups within one country.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why wellbeing often varies between rural and urban areas within the same country.",
+          "answer": [
+            "Services such as hospitals, specialists and secondary schools concentrate in urban areas where population density makes them viable.",
+            "Employment opportunities and higher wages are also concentrated in cities, drawing working-age people and leaving ageing rural populations.",
+            "Distance raises the cost and time of accessing services, so rural residents may delay treatment or forgo education.",
+            "Infrastructure such as reliable water, power and internet is typically provided to urban areas first, compounding the disparity."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Gender and wellbeing",
+      "detail": "Differences in wellbeing outcomes by gender in education, health, income and political participation, and their causes and consequences.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how improving female education affects wellbeing beyond the individual.",
+          "answer": [
+            "Educated women have higher earning capacity, raising household income and the resources available for nutrition and health care.",
+            "Female education is strongly associated with lower fertility rates and longer birth intervals, which improves maternal and infant health.",
+            "Educated mothers are more likely to have their own children immunised and schooled, transmitting the benefit to the next generation.",
+            "At national scale, greater female participation in the workforce raises productivity and economic growth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Population characteristics and wellbeing",
+      "detail": "Reading population pyramids, the demographic transition, dependency ratios, and the implications for services and economic capacity.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe the shape of a population pyramid for a country with low wellbeing and explain the implications.",
+          "answer": [
+            "The pyramid has a very wide base and narrows sharply with age, indicating a high birth rate and high mortality.",
+            "Life expectancy is low, so few people survive to older age groups.",
+            "A high youth dependency ratio means a small working-age population supports many children, limiting savings and investment.",
+            "Demand for schooling, maternal health and child nutrition services is high relative to the tax base available to fund them."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Health, disease and wellbeing",
+      "detail": "The relationship between disease burden and wellbeing, the distinction between communicable and non-communicable disease, and the epidemiological transition.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the shift in the pattern of disease that accompanies improving wellbeing.",
+          "answer": [
+            "In countries with low wellbeing, communicable diseases such as malaria, diarrhoeal disease and respiratory infection dominate the disease burden, particularly among children.",
+            "These are closely linked to unsafe water, poor sanitation, undernutrition and limited access to health care.",
+            "As wellbeing improves, these causes decline and life expectancy rises, so more people live to ages at which non-communicable disease occurs.",
+            "Cardiovascular disease, diabetes and cancer then dominate, requiring a different and more expensive health system response."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.6",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Programs to improve wellbeing",
+      "detail": "Aid, non-government organisation programs, government policy, microfinance and international goals, and the criteria for evaluating them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the difference between emergency aid and development aid, and state two criteria for evaluating a wellbeing program.",
+          "answer": [
+            "Emergency aid provides immediate relief after a disaster or conflict, such as food, shelter and medical care, and addresses symptoms rather than causes.",
+            "Development aid funds longer-term capacity, such as schools, clean water infrastructure, training and health systems.",
+            "Evaluation criteria include sustainability, meaning whether the benefit continues once external funding ends.",
+            "Effectiveness criteria also include whether the program targets the underlying cause, whether it reaches the most disadvantaged, and whether the local community participated in its design."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.7",
+      "area": "Unit 4 AoS 2 — Spatial variations in human wellbeing",
+      "title": "Evaluating wellbeing interventions",
+      "detail": "Weighing the scale, cost, cultural appropriateness, community ownership and measurable outcomes of a program against its limitations.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why a wellbeing program designed without community involvement often fails.",
+          "answer": [
+            "A program designed externally may address a problem the community does not regard as its priority, so participation is low.",
+            "It may be culturally inappropriate or conflict with existing practices, leading to resistance or abandonment.",
+            "Without local training and ownership, the infrastructure or service ceases to function once external staff and funding withdraw.",
+            "Community involvement improves the fit of the program to actual needs and builds the local capacity required for it to continue."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "area": "Fieldwork and exam technique",
+      "title": "Planning fieldwork",
+      "detail": "Developing a fieldwork question, selecting a site, choosing primary data collection methods and considering safety and ethics.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Outline the decisions made when planning a geographical fieldwork investigation.",
+          "answer": [
+            "Develop a specific question that can be answered with data collectable at the chosen site within the time available.",
+            "Select methods appropriate to the question, such as land use mapping, transects, surveys, counts, photographs or measurements.",
+            "Decide the sampling approach, including where and how often data will be collected, so the data represents the site.",
+            "Address safety and ethics, including risk assessment, landholder permission and informed consent for any surveys."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "area": "Fieldwork and exam technique",
+      "title": "Primary and secondary data",
+      "detail": "Collecting primary data in the field and supplementing it with secondary data from census, satellite and agency sources, and evaluating reliability.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Distinguish between primary and secondary data in geography and state one advantage of each.",
+          "answer": [
+            "Primary data is collected first-hand by the investigator, such as field measurements, counts, surveys or photographs.",
+            "Secondary data is collected by others, such as census statistics, satellite imagery, agency reports and published maps.",
+            "Primary data is tailored exactly to the research question; secondary data provides scale, historical depth and comparison that fieldwork alone cannot deliver."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "area": "Fieldwork and exam technique",
+      "title": "Presenting fieldwork data",
+      "detail": "Choosing appropriate maps, graphs, annotated photographs and field sketches, and integrating them with written analysis.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what makes an annotated field sketch or photograph useful in a fieldwork report.",
+          "answer": [
+            "Annotations identify the specific features relevant to the investigation rather than describing everything visible.",
+            "Each annotation should name the feature and state its geographical significance in relation to the question.",
+            "The image needs a title, date, location and an indication of direction or scale so it can be interpreted independently."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Fieldwork and exam technique",
+      "title": "Using stimulus material",
+      "detail": "Reading maps, graphs, photographs and text provided in the examination, and quoting specific evidence from them in responses.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what a question directing you to 'refer to the data provided' requires.",
+          "answer": [
+            "Quote specific figures from the stimulus with their units, and name the places or dates they relate to.",
+            "State the pattern, trend or comparison those figures demonstrate rather than simply listing them.",
+            "Connect the evidence to the geographical explanation, since data without reasoning does not answer the question."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Fieldwork and exam technique",
+      "title": "Using case studies",
+      "detail": "Selecting an appropriate case study, recalling specific place names, dates and figures, and applying it precisely to the question asked.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State what makes a case study response strong and the most common weakness.",
+          "answer": [
+            "A strong response names the specific location, the time period and includes precise figures or measurable outcomes.",
+            "It selects only the details relevant to the question rather than reproducing everything known about the case.",
+            "The most common weakness is generic description that could apply to any location, which demonstrates no case-specific knowledge."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Fieldwork and exam technique",
+      "title": "Command terms and mark allocation",
+      "detail": "Matching response depth to the command term and marks available, and addressing every element of a multi-part question.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how 'describe', 'explain' and 'evaluate' differ in Geography responses.",
+          "answer": [
+            "Describe requires an account of the pattern, trend or characteristics, stating what is observed without giving causes.",
+            "Explain requires the reasons or processes behind the pattern, showing how or why it occurs.",
+            "Evaluate requires weighing strengths against limitations, or effectiveness against cost, and reaching a supported judgement."
+          ]
+        }
+      ]
+    }
+  ]
+}

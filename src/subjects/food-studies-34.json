@@ -1,0 +1,677 @@
+{
+  "id": "food-studies-34",
+  "name": "Food Studies",
+  "areas": [
+    "Unit 3 AoS 1 — Australia's food systems",
+    "Unit 3 AoS 2 — Food industry and production",
+    "Unit 4 AoS 1 — Food science and safety",
+    "Unit 4 AoS 2 — Navigating food information",
+    "Nutrition and health",
+    "Practical skills and food preparation",
+    "Exam technique"
+  ],
+  "short": {
+    "Unit 3 AoS 1 — Australia's food systems": "U3 Food systems",
+    "Unit 3 AoS 2 — Food industry and production": "U3 Industry",
+    "Unit 4 AoS 1 — Food science and safety": "U4 Food science",
+    "Unit 4 AoS 2 — Navigating food information": "U4 Food information",
+    "Nutrition and health": "Nutrition",
+    "Practical skills and food preparation": "Practical skills",
+    "Exam technique": "Exam technique"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Food Studies Study Design, Units 3 and 4. Areas here are topic groupings, and checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/food-studies",
+  "sourceLabel": "VCAA Food Studies study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Dietary guidance and food regulation change, so check current advice against official sources.",
+  "theme": {
+    "accent": "#9a4a2f"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/food-studies",
+  "points": [
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "The components of a food system",
+      "detail": "Production, processing, distribution, retail, consumption and waste, and the connections between each stage.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the stages of a food system and explain how a decision at one stage affects another.",
+          "answer": [
+            "The stages are production, processing, distribution, retail, consumption and waste management.",
+            "A decision at one stage constrains the others, since the whole system is interdependent.",
+            "For example, a retailer imposing strict cosmetic standards on produce causes growers to discard edible food at the production stage.",
+            "That decision increases waste and grower costs without any change in what consumers actually eat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "Primary production in Australia",
+      "detail": "Major agricultural industries, the influence of climate, soil and water, and the pressures facing Australian primary producers.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three factors that constrain agricultural production in Australia.",
+          "answer": [
+            "Water availability is the principal constraint, since much of the continent is arid and rainfall is highly variable between years.",
+            "Soil quality is generally poor and ancient, with low nutrient levels requiring fertiliser inputs to sustain yields.",
+            "Climate variability, including drought, flood and bushfire, produces large swings in output between seasons.",
+            "Distance from both domestic markets and export destinations adds transport cost and reduces the shelf life available for fresh produce."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "Environmental impacts of food production",
+      "detail": "Land clearing, water use, soil degradation, emissions and biodiversity loss associated with food production.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three environmental impacts of intensive food production.",
+          "answer": [
+            "Land clearing for agriculture removes habitat and releases stored carbon, contributing to biodiversity loss and emissions.",
+            "Irrigation draws heavily on rivers and groundwater, reducing environmental flows and contributing to salinity where water tables rise.",
+            "Fertiliser and effluent runoff causes eutrophication of waterways, producing algal blooms and oxygen depletion.",
+            "Livestock production generates methane, a potent greenhouse gas, and requires substantial land and feed inputs per unit of food produced."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "Food security and food sovereignty",
+      "detail": "The four dimensions of food security, the groups most at risk in Australia, and the distinct concept of food sovereignty.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the dimensions of food security and identify two groups in Australia at higher risk.",
+          "answer": [
+            "Food security requires availability of sufficient food, access to it physically and financially, utilisation including safe preparation and adequate nutrition, and stability of all three over time.",
+            "Low income households are at higher risk because food is the flexible item in a budget once rent and utilities are paid.",
+            "People in remote communities face higher prices, limited range and reduced quality because of freight distance and small market size.",
+            "People experiencing homelessness and those without cooking facilities face barriers at the utilisation dimension even where food is available."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "Food waste",
+      "detail": "Where waste occurs across the system, its environmental and economic costs, and strategies for reducing it.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain where food waste occurs across the food system and two strategies for reducing it.",
+          "answer": [
+            "Waste occurs at production through cosmetic rejection and harvest losses, at processing through trimming, at retail through overstocking and date labelling, and in households through over-purchasing and spoilage.",
+            "Households account for a large share of total waste, and it carries the greatest environmental cost because all upstream inputs have already been expended.",
+            "Relaxing cosmetic standards and redistributing surplus through food rescue organisations reduces waste at the retail and production stages.",
+            "Consumer education on the difference between best before and use by dates, meal planning and correct storage reduces household waste."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Australia's food systems",
+      "title": "Sustainable food systems",
+      "detail": "Balancing environmental, economic and social sustainability, and evaluating claims such as local, organic and regenerative.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Evaluate the claim that buying local food is always the more sustainable choice.",
+          "answer": [
+            "Local food reduces transport distance, which lowers emissions from freight and supports regional economies and producers.",
+            "However, transport is usually a small share of a food's total emissions compared with production methods.",
+            "Food grown in a heated glasshouse locally can carry higher emissions than food grown in a suitable climate and shipped in bulk.",
+            "The sustainable choice therefore depends on the whole life cycle, including growing conditions, method, seasonality and transport mode, rather than distance alone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Scales of food production",
+      "detail": "Primary production, small-scale and artisan processing, and large-scale industrial manufacturing, and the trade-offs between them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Compare small-scale artisan production with large-scale industrial food manufacturing.",
+          "answer": [
+            "Artisan production uses manual methods and small batches, allowing variation, distinctive character and close control of ingredients.",
+            "Industrial manufacturing uses mechanised, continuous processes designed for consistency and volume.",
+            "Industrial production achieves far lower unit costs through economies of scale, which makes food cheaper and more widely available.",
+            "It sacrifices variation and flexibility, requires standardised inputs, and often relies on additives to achieve consistency and shelf life."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Levels of food processing",
+      "detail": "Minimally processed, processed and ultra-processed foods, the purposes of processing and the nutritional consequences.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between processed and ultra-processed foods and explain why the distinction matters nutritionally.",
+          "answer": [
+            "Processed foods are made by adding ingredients such as salt, sugar or oil to whole foods, for example canned vegetables or cheese.",
+            "Ultra-processed foods are industrial formulations made largely from substances extracted from foods, with additives for colour, flavour and texture, and often bear little resemblance to their original ingredients.",
+            "Ultra-processed foods are typically energy dense, high in added sugar, salt and saturated fat and low in fibre and micronutrients.",
+            "They are also engineered for palatability, which encourages over-consumption, and diets high in them are associated with obesity and chronic disease."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Why food is processed",
+      "detail": "Preservation, safety, convenience, palatability, nutrition and cost as reasons for processing, and the trade-offs involved.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain four reasons food is processed and identify a trade-off in one of them.",
+          "answer": [
+            "Preservation extends shelf life, reducing waste and allowing food to be transported and stored.",
+            "Safety processing, such as pasteurisation, destroys pathogens that would otherwise cause illness.",
+            "Convenience reduces the time and skill required to prepare a meal, which suits time-poor households.",
+            "Fortification adds nutrients such as folate or iodine at population scale; the trade-off is that many processing methods that improve shelf life and palatability also reduce fibre and micronutrients and increase salt, sugar or fat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Preservation methods",
+      "detail": "Drying, freezing, canning, fermentation, chemical preservation and modified atmosphere packaging, and the principles behind each.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the principle behind drying and freezing as preservation methods.",
+          "answer": [
+            "Microbial growth requires available water, so drying removes moisture and lowers water activity below the level microorganisms need.",
+            "This inhibits bacteria, yeasts and moulds and also slows enzymic reactions, though it changes texture and can reduce heat-sensitive vitamins.",
+            "Freezing converts water to ice, which both removes available water and lowers temperature so far that microbial and enzymic activity nearly stops.",
+            "Freezing does not kill microorganisms, so they resume activity on thawing, which is why thawed food must be handled as fresh and not refrozen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Food regulation and labelling standards",
+      "detail": "The role of food standards in setting requirements for labelling, additives, contaminants and safety across Australia and New Zealand.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name four items required on a packaged food label and explain the purpose of the nutrition information panel.",
+          "answer": [
+            "Labels must show the name of the food, the ingredients list in descending order of weight, a date mark, and the nutrition information panel.",
+            "They must also show allergen declarations, storage directions, the country of origin and the name and address of the supplier.",
+            "The nutrition information panel gives the quantity of energy, protein, fat, saturated fat, carbohydrate, sugars and sodium per serve and per 100 grams.",
+            "The per 100 gram column is the basis for comparing products, since serving sizes differ between manufacturers and are not standardised."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3 AoS 2 — Food industry and production",
+      "title": "Food marketing and consumer influence",
+      "detail": "Advertising, packaging, placement, pricing and health claims as influences on food choice, and their effect on dietary patterns.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three ways food marketing influences consumer choice beyond advertising.",
+          "answer": [
+            "Placement in store, including end-of-aisle displays and checkout positioning, increases purchases of items consumers did not plan to buy.",
+            "Pricing strategies such as multi-buy discounts encourage larger purchases, which increases both consumption and waste.",
+            "Packaging design and front-of-pack claims direct attention to a favourable attribute while distracting from the nutrition information panel.",
+            "A product can be truthfully labelled low fat while being high in added sugar, so a single claim can create a misleading overall impression."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Food spoilage",
+      "detail": "Microbial, enzymic and chemical spoilage, the conditions that accelerate each, and the difference between spoilage and food poisoning.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish food spoilage from food poisoning and explain why the distinction matters for safety.",
+          "answer": [
+            "Spoilage is deterioration in quality caused by microorganisms, enzymes or chemical change, producing off odours, textures and flavours.",
+            "Food poisoning is illness caused by pathogenic microorganisms or their toxins in food.",
+            "The distinction matters because pathogenic organisms often produce no detectable change in appearance, smell or taste.",
+            "Food can therefore be dangerously contaminated while appearing perfectly fresh, which is why safe handling cannot rely on sensory judgement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Conditions for microbial growth",
+      "detail": "Food, acidity, temperature, time, oxygen and moisture as requirements for bacterial growth, and the temperature danger zone.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the conditions bacteria require to multiply and state the temperature danger zone and the two-hour four-hour guidance.",
+          "answer": [
+            "Bacteria require a food source, suitable acidity, favourable temperature, time, appropriate oxygen conditions and available moisture.",
+            "The temperature danger zone is between 5 and 60 degrees Celsius, where bacteria multiply most rapidly.",
+            "Potentially hazardous food held in the danger zone for under two hours may be refrigerated or used immediately.",
+            "Between two and four hours it must be used immediately, and beyond four hours it must be discarded, since the cumulative time in the zone is what matters."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Safe food handling",
+      "detail": "Cross-contamination, personal hygiene, cleaning and sanitising, safe thawing and reheating, and the storage of high risk foods.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain cross-contamination and four practices that prevent it.",
+          "answer": [
+            "Cross-contamination is the transfer of pathogens from one food, surface or person to ready-to-eat food.",
+            "Use separate boards, knives and utensils for raw meat and for ready-to-eat food, or wash and sanitise between uses.",
+            "Store raw meat on the lowest shelf of the refrigerator in sealed containers so juices cannot drip onto other foods.",
+            "Wash hands thoroughly between handling raw and ready-to-eat food, and clean then sanitise surfaces, since cleaning removes soil while sanitising reduces microorganisms."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Common foodborne pathogens",
+      "detail": "Salmonella, Campylobacter, Listeria, E. coli and Staphylococcus aureus, their typical sources and the groups most at risk.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name two foodborne pathogens with their typical sources, and explain why Listeria is of particular concern for some groups.",
+          "answer": [
+            "Salmonella is associated with raw poultry, eggs and unwashed produce, and causes gastrointestinal illness.",
+            "Campylobacter is associated particularly with raw and undercooked poultry and unpasteurised milk.",
+            "Listeria is of particular concern because it can grow at refrigeration temperatures, unlike most pathogens.",
+            "It poses serious risk to pregnant women, the elderly, infants and immunocompromised people, which is why these groups are advised to avoid soft cheeses, pre-prepared salads and cold cured meats."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Food allergies and intolerances",
+      "detail": "The distinction between an immune-mediated allergy and an intolerance, the major allergens and the requirements for allergen management.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish a food allergy from a food intolerance and explain why allergen declaration is mandatory.",
+          "answer": [
+            "A food allergy is an immune response to a protein in a food, which can cause anaphylaxis and be fatal in minutes.",
+            "A food intolerance is a non-immune adverse reaction, often digestive, which causes discomfort but is not life threatening.",
+            "Allergen declaration is mandatory because even trace amounts can trigger a severe reaction in a sensitised person.",
+            "Businesses must therefore declare the major allergens, prevent cross-contact during preparation and provide accurate information on request."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.6",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Functional properties of food components",
+      "detail": "Gelatinisation, denaturation and coagulation, caramelisation and the Maillard reaction, emulsification, aeration and gluten development.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain gelatinisation and the Maillard reaction, naming the components involved in each.",
+          "answer": [
+            "Gelatinisation occurs when starch granules are heated in liquid, absorbing water and swelling until they rupture and thicken the mixture.",
+            "It requires starch, liquid, heat and agitation, and is the principle behind thickening a sauce with flour or cornflour.",
+            "The Maillard reaction occurs between amino acids in protein and reducing sugars at high temperature in a relatively dry environment.",
+            "It produces the brown colour and complex flavours of roasted meat, bread crust and toasted grains, and is distinct from caramelisation, which involves sugar alone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.7",
+      "area": "Unit 4 AoS 1 — Food science and safety",
+      "title": "Sensory evaluation",
+      "detail": "Appearance, aroma, flavour, texture and sound as sensory properties, and the use of objective testing procedures.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a sensory evaluation should be conducted to produce reliable results.",
+          "answer": [
+            "Use a defined sensory panel and identical conditions for every sample, including portion size, temperature, lighting and serving vessel.",
+            "Code samples randomly so tasters do not know which product they are assessing, preventing expectation from influencing judgement.",
+            "Provide water or plain crackers between samples to clear the palate, and randomise the order in which samples are presented.",
+            "Use a structured scale or ranking sheet with defined descriptors, so results can be compared across tasters rather than recorded as opinion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Navigating food information",
+      "title": "Evaluating food information sources",
+      "detail": "Assessing the authority, evidence base, currency and commercial interest behind nutrition claims and dietary advice.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "State four questions to ask when evaluating a nutrition claim found online.",
+          "answer": [
+            "Who is making the claim, and do they hold relevant qualifications such as accredited practising dietitian status?",
+            "What evidence supports it, and is that evidence from controlled research on humans rather than testimonial or animal studies?",
+            "Is there a commercial interest, such as a product being sold alongside the advice?",
+            "Is the claim consistent with current national dietary guidance, and if it contradicts it, is the contradiction explained by evidence rather than assertion?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Navigating food information",
+      "title": "Fad diets and food trends",
+      "detail": "The common features of fad diets, why they appeal, and their nutritional and behavioural risks.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Identify three features common to fad diets and explain why they usually fail in the long term.",
+          "answer": [
+            "They promise rapid results, exclude whole food groups and often require the purchase of specific products or supplements.",
+            "They rely on testimonial rather than evidence, and frequently claim a single food or nutrient explains weight or health.",
+            "They usually produce short-term weight loss because they restrict energy intake, which sustains their reputation.",
+            "They fail long term because severe restriction is difficult to maintain, weight returns when normal eating resumes, and excluding food groups risks nutrient deficiency."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Navigating food information",
+      "title": "Health claims and front-of-pack labelling",
+      "detail": "Nutrition content claims, general and high level health claims, and interpreting front-of-pack rating systems.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish a nutrition content claim from a health claim, and explain a limitation of front-of-pack star ratings.",
+          "answer": [
+            "A nutrition content claim states the presence or level of a nutrient, such as good source of fibre or low in fat.",
+            "A health claim relates a food or nutrient to a health effect, and must be based on approved relationships supported by evidence.",
+            "Front-of-pack star ratings summarise a product's overall nutritional profile into a single figure, which makes comparison quick for consumers.",
+            "The limitation is that the algorithm compares within categories and can rate a highly processed product favourably relative to its peers, so it should be read alongside the ingredients list and nutrition information panel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Navigating food information",
+      "title": "Influences on food choice",
+      "detail": "Sensory, psychological, social, cultural, economic and practical influences, and the interaction between them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain four categories of influence on an individual's food choices.",
+          "answer": [
+            "Sensory influences include taste, aroma, texture and appearance, and are the most immediate determinant of whether a food is eaten again.",
+            "Psychological influences include mood, habit, food memories and the use of food for comfort or reward.",
+            "Social and cultural influences include family practices, religious requirements, peer expectations and the norms of the community.",
+            "Economic and practical influences include income, price, the time available to prepare food, cooking skills and physical access to shops."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4 AoS 2 — Navigating food information",
+      "title": "Behaviour change and food habits",
+      "detail": "Why knowledge alone does not change behaviour, and the role of environment, skill, cost and habit in sustaining dietary change.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why nutrition education alone rarely changes eating behaviour, and what else is required.",
+          "answer": [
+            "Most people already know broadly what constitutes a healthy diet, so lack of knowledge is rarely the limiting factor.",
+            "Behaviour is shaped by the surrounding environment, including what is available, affordable and convenient at the moment of choice.",
+            "Skills and time matter, since knowing what to eat does not help a person who cannot cook it or has no time to.",
+            "Sustained change therefore requires changes to the food environment, practical skills, affordability and small habitual changes rather than information alone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N1",
+      "area": "Nutrition and health",
+      "title": "Macronutrients",
+      "detail": "Carbohydrate, protein and fat: their functions, food sources, energy contribution and the effects of inadequate or excessive intake.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "State the primary function and energy value of each macronutrient.",
+          "answer": [
+            "Carbohydrate is the body's preferred energy source, providing about 17 kilojoules per gram, and fibre supports digestive health.",
+            "Protein provides amino acids for growth, repair and the synthesis of enzymes and antibodies, and provides about 17 kilojoules per gram.",
+            "Fat provides about 37 kilojoules per gram, supplies essential fatty acids, carries fat-soluble vitamins and provides insulation and organ protection.",
+            "Because fat is more than twice as energy dense, high fat foods contribute disproportionately to total energy intake."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "area": "Nutrition and health",
+      "title": "Micronutrients",
+      "detail": "Key vitamins and minerals including iron, calcium, folate, iodine and vitamins C and D, their functions and the consequences of deficiency.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the function of iron and calcium and the consequence of deficiency in each.",
+          "answer": [
+            "Iron forms part of haemoglobin, which transports oxygen in the blood, and deficiency causes anaemia with fatigue, pallor and reduced concentration.",
+            "Iron from animal sources is absorbed more readily than plant iron, and vitamin C consumed alongside plant sources improves absorption.",
+            "Calcium is required for bone and tooth structure, muscle contraction, nerve function and blood clotting.",
+            "Inadequate calcium, particularly during adolescence when peak bone mass is established, increases the risk of osteoporosis in later life."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "area": "Nutrition and health",
+      "title": "Dietary guidance",
+      "detail": "The Australian Dietary Guidelines and the Australian Guide to Healthy Eating, and how each is used.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish the Australian Dietary Guidelines from the Australian Guide to Healthy Eating and state two guidelines.",
+          "answer": [
+            "The Guidelines are written evidence-based recommendations about the types and amounts of food that promote health.",
+            "The Guide to Healthy Eating is a visual pie chart showing the proportions of the five food groups to be eaten daily.",
+            "One guideline is to enjoy a wide variety of nutritious foods from the five food groups every day.",
+            "Another is to limit intake of foods containing saturated fat, added salt, added sugars and alcohol."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N4",
+      "area": "Nutrition and health",
+      "title": "Diet-related conditions",
+      "detail": "The relationship between dietary patterns and overweight, type 2 diabetes, cardiovascular disease, some cancers and dental caries.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a diet high in ultra-processed foods contributes to type 2 diabetes.",
+          "answer": [
+            "Such diets are energy dense and highly palatable, which encourages intake beyond energy requirements and leads to weight gain.",
+            "Excess body fat, particularly around the abdomen, increases insulin resistance so cells respond less effectively to insulin.",
+            "Refined carbohydrates and added sugars produce rapid rises in blood glucose, increasing the demand placed on the pancreas.",
+            "Sustained over years, the pancreas cannot maintain sufficient insulin production, and blood glucose remains elevated, which is type 2 diabetes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N5",
+      "area": "Nutrition and health",
+      "title": "Nutritional needs across the lifespan",
+      "detail": "The differing requirements of children, adolescents, adults, older adults and pregnancy, and the reasons for those differences.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why adolescents and older adults have different nutritional priorities.",
+          "answer": [
+            "Adolescents undergo rapid growth and development, so energy, protein, calcium and iron requirements are high relative to body size.",
+            "Calcium intake during adolescence determines peak bone mass, and menstruating girls require additional iron.",
+            "Older adults have lower energy requirements as muscle mass and activity decline, but their requirements for most nutrients are unchanged or higher.",
+            "Their diets therefore need to be more nutrient dense, with attention to protein for muscle maintenance, calcium and vitamin D for bone, and fibre and fluid for digestive function."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "area": "Practical skills and food preparation",
+      "title": "Recipe interpretation and mise en place",
+      "detail": "Reading a recipe fully, preparing ingredients and equipment before commencing, and sequencing tasks efficiently.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain the practice of mise en place and why it improves a practical outcome.",
+          "answer": [
+            "Mise en place means preparing and measuring all ingredients and assembling equipment before cooking begins.",
+            "It prevents interruptions once cooking has started, when timing is critical and a delay can spoil the outcome.",
+            "It also reveals missing ingredients or equipment before the point at which they are needed, when substitution is still possible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "area": "Practical skills and food preparation",
+      "title": "Preparation and cooking techniques",
+      "detail": "Knife skills, dry and moist heat methods, and the effect of each method on texture, flavour and nutritional value.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Compare dry and moist heat cooking methods and explain the effect of each on a tough cut of meat.",
+          "answer": [
+            "Dry heat methods such as roasting, grilling and frying cook without added liquid and promote browning through the Maillard reaction.",
+            "Moist heat methods such as boiling, steaming, braising and stewing cook in liquid or steam at or below boiling point.",
+            "A tough cut is high in connective tissue, which requires long slow cooking in moisture to convert collagen to gelatine and tenderise the meat.",
+            "Dry heat applied quickly to such a cut leaves it tough, which is why braising and stewing are used for these cuts and grilling for tender ones."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "area": "Practical skills and food preparation",
+      "title": "Recipe modification",
+      "detail": "Adapting recipes for nutritional improvement, dietary requirements, cost or available ingredients, and predicting the effect on the outcome.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how you would modify a recipe to reduce saturated fat and what effect this may have on the product.",
+          "answer": [
+            "Substitute a mono or polyunsaturated oil for butter, or reduce the quantity of fat and replace part of it with a moist ingredient such as fruit puree.",
+            "Choose lean meat, trim visible fat and use reduced fat dairy where the recipe allows it.",
+            "Fat contributes tenderness, moisture, flavour and aeration, so reducing it can produce a drier, tougher or less flavoursome result.",
+            "The modification must therefore be tested and balanced, since a nutritionally improved product that is unpalatable will not be eaten."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "area": "Practical skills and food preparation",
+      "title": "Evaluating a food product",
+      "detail": "Assessing a practical outcome against sensory properties, the original intention and any dietary or cost requirements.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to evaluate a food product you have prepared.",
+          "answer": [
+            "Assess each sensory property separately: appearance, aroma, flavour, texture and where relevant sound.",
+            "Compare the outcome against the intended result and against any criteria set, such as a nutritional target or cost limit.",
+            "Identify the specific cause of any shortcoming, linking it to a preparation or cooking decision rather than describing the fault alone.",
+            "State what you would change in the process next time, which demonstrates understanding of the underlying food science."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Exam technique",
+      "title": "Command terms and mark allocation",
+      "detail": "Matching the depth of the response to the command term and the marks available, and addressing every part of a question.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how 'describe', 'explain' and 'evaluate' differ in Food Studies responses.",
+          "answer": [
+            "Describe requires an account of the features or process, stating what happens without giving reasons.",
+            "Explain requires the reasons or mechanism, showing how or why the outcome occurs, often referring to food science.",
+            "Evaluate requires weighing advantages against disadvantages and reaching a stated judgement, which must be explicit to earn full marks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Exam technique",
+      "title": "Using food science terminology",
+      "detail": "Naming reactions, properties and processes precisely rather than describing them in everyday language.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Give three pairs of commonly confused Food Studies terms and distinguish each.",
+          "answer": [
+            "Caramelisation involves sugar alone browning under heat, while the Maillard reaction requires both protein and reducing sugars.",
+            "Denaturation is the unfolding of a protein's structure, while coagulation is the subsequent setting as unfolded proteins bond together.",
+            "Cleaning removes visible soil and food residue, while sanitising reduces microorganisms to a safe level, and both are required."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Exam technique",
+      "title": "Applying knowledge to a scenario",
+      "detail": "Using the specific details of the scenario given, including the people, setting and constraints described, rather than answering generically.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why a generic answer scores poorly on a Food Studies scenario question.",
+          "answer": [
+            "Marks are awarded for applying knowledge to the particular circumstances described, such as the household's budget, time, skills or dietary needs.",
+            "A generic answer about healthy eating demonstrates recall but not the judgement the question is testing.",
+            "Strong responses refer directly to details from the scenario and explain why the recommendation suits those specific constraints."
+          ]
+        }
+      ]
+    }
+  ]
+}

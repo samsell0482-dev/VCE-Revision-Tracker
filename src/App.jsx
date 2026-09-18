@@ -1,5 +1,9 @@
 import React,{useState,useEffect,useRef} from 'react';
-import subjects from './subjects.json' with { type: 'json' };
+// The index holds each subject's identity and point ids, which is everything the
+// setup screen and the dashboard need. A subject's full content is fetched only
+// when it is opened. See subject-loader.js.
+import subjects from './subjects-index.json' with { type: 'json' };
+import {loadSubject,prefetchSubjects} from './subject-loader.js';
 import themes from './themes.json';
 import {read,loadRatings,ratingKey,selectionKey,practiceKey,validSelection,cleanPractice,importBackup,savedHandle} from './storage.js';
 
@@ -75,6 +79,17 @@ function Subject({subject,ratings,onRate,onBack,attempts,onAttempt}){
  <p className="colophon">{subject.source} {subject.sourceUrl&&<a href={subject.sourceUrl} target="_blank" rel="noreferrer">{subject.sourceLabel||'Official study design'}</a>}</p>{subject.papers&&<section className="papers"><h3>Practice exams</h3><p>{subject.papers}</p>{subject.papersUrl&&<a href={subject.papersUrl} target="_blank" rel="noreferrer">Official VCAA examination resources</a>}</section>}</div>;
 }
 
+function SubjectView({entry,...props}){
+ const [subject,setSubject]=useState(null),[error,setError]=useState(null);
+ useEffect(()=>{
+ let cancelled=false;setSubject(null);setError(null);
+ loadSubject(entry.id).then(s=>{if(!cancelled)setSubject(s);}).catch(e=>{if(!cancelled)setError(e.message);});
+ return()=>{cancelled=true;};
+ },[entry.id]);
+ if(error)return <div id="subject-view"><button className="backlink" onClick={props.onBack}>← All subjects</button><div className="empty"><strong>{entry.name} could not be loaded.</strong><span>{error} Check your connection and try again.</span></div></div>;
+ if(!subject)return <div id="subject-view"><button className="backlink" onClick={props.onBack}>← All subjects</button><header className="masthead subject-band"><h1 id="subject-title">{entry.name}</h1></header><div className="empty" role="status"><strong>Loading {entry.name}…</strong><span>Fetching this subject's points and practice questions.</span></div></div>;
+ return <Subject subject={subject} {...props}/>;
+}
 export default function App(){
  const [ratings,setRatings]=useState(loadRatings),[attempts,setAttempts]=useState(()=>cleanPractice(read(practiceKey,{})));
  const [selection,setSelection]=useState(()=>validSelection(read(selectionKey,null)));
@@ -90,6 +105,10 @@ export default function App(){
  useEffect(()=>{try{for(const s of subjects)localStorage.setItem(ratingKey(s.id),JSON.stringify(ratings[s.id]));localStorage.setItem(practiceKey,JSON.stringify(attempts));if(selection)localStorage.setItem(selectionKey,JSON.stringify(selection));localStorage.setItem('vce-revision-tracker-theme',theme);setStatus('Progress saved in this browser.');}catch{setStatus('Browser saving is unavailable. Export a backup before closing.');}},[ratings,attempts,selection,theme]);
  useEffect(()=>{document.documentElement.dataset.theme=theme;document.documentElement.style.setProperty('--accent',current?.theme.accent||(theme==='midnight'?'#b6acff':theme==='notebook'?'#315d82':'#657d74'));},[theme,current]);
  useEffect(()=>{let cancelled=false;savedHandle().then(h=>{if(h&&!cancelled)setPending(h);}).catch(()=>{});return()=>{cancelled=true;};},[]);
+ // Once the dashboard is up, quietly fetch the subjects this student selected so
+ // that opening one does not wait on a download. Failures are ignored here; the
+ // subject view reports them if the student opens a subject that did not load.
+ useEffect(()=>{if(!selection)return;const timer=setTimeout(()=>prefetchSubjects(selection),500);return()=>clearTimeout(timer);},[selection]);
  const envelope=()=>({app:'vce-tracker',version:3,savedAt:new Date().toISOString(),device:device.current,subjects:latest.current.ratings,practice:latest.current.attempts});
  function adopt(doc){const next=importBackup(doc,latest.current.ratings);setRatings(next.ratings);if(next.practice)setAttempts(next.practice);}
  async function readHandle(h){const f=await h.getFile();const doc=JSON.parse(await f.text());adopt(doc);stamp.current=f.lastModified;dirty.current=false;}
@@ -133,7 +152,7 @@ export default function App(){
  async function importFile(file){if(!file)return;try{adopt(JSON.parse(await file.text()));dirty.current=true;setStatus('Backup loaded.');}catch(e){setStatus('Backup could not be loaded: '+e.message);}}
  function reset(){if(!confirm('Clear all three passes for '+(current?current.name:'your selected subjects')+'?'))return;dirty.current=true;setRatings(prev=>{const next={...prev};for(const s of current?[current]:active)next[s.id]=Object.fromEntries(s.points.map(p=>[p.id,[0,0,0]]));return next;});}
  return <>{themes.map((style,i)=>{const id=/id="([^"]+)"/.exec(style.attributes)?.[1];const kind=id?.replace('theme-','');const enabled=!kind||kind==='glass'?theme!=='poster'||!kind:theme===kind;return <style key={i} media={enabled?'all':'not all'}>{style.css}</style>;})}
- <div className="wrap"><main id="views">{current?<Subject key={current.id} subject={current} ratings={ratings} onRate={rate} onBack={()=>navigate(null)} attempts={attempts} onAttempt={attempt}/>:<Dashboard active={active} ratings={ratings} onOpen={navigate} onSetup={()=>setSetup(true)}/>}</main>
+ <div className="wrap"><main id="views">{current?<SubjectView key={current.id} entry={current} ratings={ratings} onRate={rate} onBack={()=>navigate(null)} attempts={attempts} onAttempt={attempt}/>:<Dashboard active={active} ratings={ratings} onOpen={navigate} onSetup={()=>setSetup(true)}/>}</main>
  <section className="sync"><p className="sync-head">Sync between computers</p><p className="sync-status" role="status">{syncStatus}</p><div className="sync-actions">{supported?<>{handle?<><button className="ghost" onClick={async()=>{if(dirty.current&&!confirm('Replace pending local progress with the sync file? Export a backup first to keep it.'))return;try{await readHandle(handle);setSyncStatus('Reloaded progress.');}catch(e){setSyncStatus(e.message);}}}>Reload from file</button><button className="ghost" onClick={()=>{setHandle(null);savedHandle(null).catch(()=>{});setSyncStatus('File sync disconnected.');}}>Stop syncing</button></>:<>{pending&&<button className="ghost" onClick={()=>connect(false,pending)}>Reconnect sync file</button>}<button className="ghost" onClick={()=>connect(true)}>Create sync file</button><button className="ghost" onClick={()=>connect(false)}>Open sync file</button></>}</>:<p>Use Chrome or Edge for automatic file sync, or use the backup buttons below.</p>}</div></section>
  <footer><button className="ghost" onClick={exportFile}>Save a backup file</button><button className="ghost" onClick={()=>fileInput.current.click()}>Load a backup file</button><input hidden type="file" ref={fileInput} accept=".json,application/json" onChange={e=>{importFile(e.target.files[0]);e.target.value='';}}/><div className="footer-rating-actions"><button className="ghost danger" onClick={reset}>Clear ratings</button><div className="theme-picker"><span className="theme-picker-label">Theme</span><div className="theme-options" role="group" aria-label="Theme">{themesList.map(t=><button className="theme-option" key={t} aria-pressed={theme===t} onClick={()=>setTheme(t)}>{t[0].toUpperCase()+t.slice(1)}</button>)}</div></div></div><span className="status" role="status">{status}</span><p className="colophon">Shift-click a rating to step backwards. {active.reduce((n,s)=>n+s.points.length,0)} points across {active.length} selected subjects.</p></footer></div>
  {setup&&<Setup selection={selection} onSave={ids=>{setSelection(ids);setSetup(false);navigate(null);}} onCancel={()=>setSetup(false)}/>}</>;

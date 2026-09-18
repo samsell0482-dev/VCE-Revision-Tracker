@@ -1,0 +1,588 @@
+{
+  "id": "philosophy-34",
+  "name": "Philosophy",
+  "areas": [
+    "Arguments and reasoning",
+    "Unit 3 AoS 1 — Minds and bodies",
+    "Unit 3 AoS 2 — Personal identity",
+    "Unit 4 AoS 1 — The good life",
+    "Unit 4 AoS 2 — Contemporary debates",
+    "Reading and writing philosophy"
+  ],
+  "short": {
+    "Arguments and reasoning": "Reasoning",
+    "Unit 3 AoS 1 — Minds and bodies": "U3 Mind",
+    "Unit 3 AoS 2 — Personal identity": "U3 Identity",
+    "Unit 4 AoS 1 — The good life": "U4 Good life",
+    "Unit 4 AoS 2 — Contemporary debates": "U4 Debates",
+    "Reading and writing philosophy": "Writing"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Philosophy Study Design, Units 3 and 4. Set texts differ between schools, so checkpoints cover the arguments and skills rather than particular prescribed readings. Checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/philosophy",
+  "sourceLabel": "VCAA Philosophy study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Always check the specific arguments and passages your class has studied, since examiners expect engagement with the set texts.",
+  "theme": {
+    "accent": "#4f5b7a"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/philosophy",
+  "points": [
+    {
+      "id": "R1",
+      "area": "Arguments and reasoning",
+      "title": "Premises and conclusions",
+      "detail": "Identifying the conclusion of an argument and the premises offered in support, and distinguishing argument from assertion, explanation and description.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to identify the conclusion of an argument and distinguish an argument from an explanation.",
+          "answer": [
+            "The conclusion is the claim the passage is trying to establish; the premises are the reasons offered for accepting it.",
+            "Indicator words help: therefore, thus and hence precede conclusions, while because, since and given that precede premises.",
+            "An argument tries to persuade you that something is true, whereas an explanation assumes it is true and says why it happened.",
+            "The same sentence can serve either function, so the test is whether the surrounding passage is establishing the claim or accounting for it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "area": "Arguments and reasoning",
+      "title": "Validity and soundness",
+      "detail": "Validity as a property of argument structure, soundness as validity plus true premises, and the independence of the two.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish validity from soundness and explain how an argument can be valid but not sound.",
+          "answer": [
+            "An argument is valid when the conclusion must be true if the premises are true, which is a matter of structure alone.",
+            "An argument is sound when it is valid and all its premises are actually true.",
+            "A valid argument with a false premise is unsound, so its conclusion is not established even though the reasoning is correct.",
+            "Validity therefore concerns the relationship between premises and conclusion, not whether either is in fact true."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "area": "Arguments and reasoning",
+      "title": "Deductive and inductive reasoning",
+      "detail": "The difference between conclusions that follow necessarily and those supported with probability, and the standards appropriate to each.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish deductive from inductive arguments and state the standard by which each is assessed.",
+          "answer": [
+            "A deductive argument claims that the conclusion follows necessarily from the premises, and is assessed as valid or invalid.",
+            "An inductive argument claims only that the premises make the conclusion probable, and is assessed as strong or weak.",
+            "Criticising an inductive argument for not being valid misapplies the standard, since it never claimed necessity.",
+            "Inductive strength depends on the size and representativeness of the evidence and on whether counter-instances have been considered."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "area": "Arguments and reasoning",
+      "title": "Thought experiments",
+      "detail": "The use of imagined cases to test the implications of a claim, and the debate about how much weight intuitions about them should carry.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the purpose of a thought experiment in philosophy and one objection to relying on them.",
+          "answer": [
+            "A thought experiment isolates a variable by imagining a case in which everything else is held fixed, so the implications of a claim can be examined.",
+            "If a theory delivers a verdict that almost everyone finds unacceptable in the imagined case, that counts as evidence against the theory.",
+            "One objection is that intuitions about outlandish cases may be unreliable, since our judgements evolved for ordinary situations.",
+            "Another is that intuitions differ between people and cultures, so an appeal to what we would say may assume agreement that does not exist."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "area": "Arguments and reasoning",
+      "title": "Common fallacies",
+      "detail": "Begging the question, false dichotomy, straw man, ad hominem, equivocation and appeal to authority, and how to identify them precisely.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain begging the question and the straw man fallacy, and why each is a failure of reasoning.",
+          "answer": [
+            "Begging the question occurs when a premise assumes the truth of the conclusion, so the argument moves in a circle and establishes nothing.",
+            "A straw man misrepresents an opponent's position as weaker or cruder than it is and refutes that version instead.",
+            "It fails because defeating the misrepresentation leaves the actual position untouched.",
+            "Identifying a fallacy requires showing exactly where it occurs, since labelling an argument fallacious without demonstration is itself poor reasoning."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R6",
+      "area": "Arguments and reasoning",
+      "title": "Necessary and sufficient conditions",
+      "detail": "The distinction between what must be present and what guarantees an outcome, and its use in analysing definitions.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish necessary from sufficient conditions and explain how they are used to test a definition.",
+          "answer": [
+            "A necessary condition must be met for something to hold, though meeting it alone may not be enough.",
+            "A sufficient condition guarantees that something holds, though it may not be the only way it can hold.",
+            "A definition proposes conditions that are jointly necessary and sufficient, so it can be tested in two ways.",
+            "A counterexample lacking the proposed condition shows it is not necessary; a counterexample meeting the conditions but not the concept shows they are not sufficient."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "The mind-body problem",
+      "detail": "The question of how mental states relate to physical states, and why the apparent differences between them generate a problem.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "State the mind-body problem and explain why mental states appear difficult to identify with physical states.",
+          "answer": [
+            "The mind-body problem asks what the relationship is between mental states such as thoughts and sensations and physical states of the body and brain.",
+            "Mental states appear to have properties physical states lack, including subjective qualitative feel and being about something.",
+            "They also appear to be known in a different way, since a person has direct access to their own experience but learns about brains through observation.",
+            "Yet mental and physical states clearly interact, since injury causes pain and intention produces movement, so any account must explain that interaction."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "Substance dualism",
+      "detail": "The claim that mind and body are distinct substances, arguments offered in support, and the interaction problem.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain substance dualism and the interaction problem it faces.",
+          "answer": [
+            "Substance dualism holds that mind and body are two distinct kinds of substance: the body extended in space, the mind not.",
+            "Support is drawn from the apparent conceivability of existing without a body, and from the difficulty of accounting for consciousness physically.",
+            "The interaction problem asks how a non-physical mind could cause changes in a physical body.",
+            "Physical causation appears to involve contact and energy transfer, which a non-spatial substance cannot participate in, and any such causation would seem to violate the conservation of energy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "Physicalism and identity theory",
+      "detail": "The claim that mental states are physical states of the brain, the type-token distinction, and the objection from multiple realisability.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain identity theory and the objection from multiple realisability.",
+          "answer": [
+            "Identity theory holds that mental states are identical to brain states, so pain simply is a particular neural process.",
+            "This explains interaction straightforwardly, since mental causation is just physical causation described differently.",
+            "Multiple realisability objects that creatures with very different physiology, and possibly machines, could be in pain.",
+            "If pain can be realised by many different physical states, it cannot be identical to any one of them, which motivates functionalism instead."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "Functionalism",
+      "detail": "Mental states defined by their causal role between inputs, other mental states and behaviour, and the objections from qualia and understanding.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain functionalism and one major objection to it.",
+          "answer": [
+            "Functionalism defines a mental state by its causal role: what causes it, what other mental states it produces and what behaviour it leads to.",
+            "Pain is therefore whatever state is typically caused by injury and typically causes avoidance and distress, whatever it is made of.",
+            "This accommodates multiple realisability, since the same role can be occupied by different physical states.",
+            "The main objection is that a system could occupy all the right functional roles without any subjective experience, which suggests function does not exhaust what mental states are."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "Consciousness and qualia",
+      "detail": "The subjective character of experience, the knowledge argument, the explanatory gap and the hard problem of consciousness.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the hard problem of consciousness and how a physicalist might respond.",
+          "answer": [
+            "The hard problem asks why physical processing is accompanied by subjective experience at all, rather than occurring in the dark.",
+            "Explaining the functions of perception, attention and report is the comparatively easy problem; explaining why there is something it is like to undergo them is not obviously answered by any functional account.",
+            "A physicalist may respond that the gap is epistemic rather than metaphysical, reflecting the difference between first-person and third-person concepts of the same state.",
+            "Others argue our current concepts are simply inadequate, and that the apparent mystery reflects a limitation in us rather than a non-physical feature of the world."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Minds and bodies",
+      "title": "Artificial minds",
+      "detail": "Whether a machine could think, behavioural tests, the Chinese room argument and the distinction between simulation and understanding.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the Chinese room argument and a reply to it.",
+          "answer": [
+            "A person who does not understand Chinese manipulates Chinese symbols by following rules, producing responses indistinguishable from a native speaker's.",
+            "The person understands nothing, so the argument concludes that manipulating symbols according to syntax cannot produce genuine understanding.",
+            "The systems reply responds that the individual is only a component, and it is the whole system, including the rules and records, that understands.",
+            "Defenders answer that the person could internalise the entire system and still understand nothing, while critics argue this simply makes the case harder to judge rather than settling it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Personal identity",
+      "title": "The problem of personal identity",
+      "detail": "What makes a person at one time the same person at another, and the distinction between qualitative and numerical identity.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish qualitative from numerical identity and state the problem of personal identity over time.",
+          "answer": [
+            "Qualitative identity means being exactly similar, as two objects off the same production line are.",
+            "Numerical identity means being one and the same thing, as a person today is the same individual as the child they were.",
+            "The problem is that a person changes almost every physical and psychological property over a lifetime, yet remains numerically the same person.",
+            "An account must therefore identify what persists, or explain why persistence does not require anything to persist unchanged."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Personal identity",
+      "title": "Bodily and biological continuity",
+      "detail": "The view that identity consists in the continuity of the body or the living organism, and the objections from transplant cases.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the bodily continuity theory of personal identity and a standard objection.",
+          "answer": [
+            "The theory holds that a person at one time is the same as a person at another if there is continuity of the same body or living organism.",
+            "It has the advantage of matching ordinary practice, since we identify people by their bodies and treat that as sufficient.",
+            "The standard objection uses a brain or cerebrum transplant case: intuitively the person goes with the brain rather than remaining with the body.",
+            "This suggests that what matters is the continuity of psychological capacities rather than of the body as such."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Personal identity",
+      "title": "Psychological continuity",
+      "detail": "Memory and psychological connectedness as the basis of identity, the circularity objection and the problem of branching.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the psychological continuity theory and two objections to it.",
+          "answer": [
+            "The theory holds that personal identity consists in overlapping chains of psychological connections, especially memory, intention and character.",
+            "One objection is circularity: defining identity by genuine memory presupposes that the rememberer is the person who had the experience.",
+            "A second is branching: if the psychological chain could divide into two continuers, both would stand in the same relation to the original.",
+            "Since numerical identity cannot hold between one thing and two, either the theory fails or identity is not what fundamentally matters in survival."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Personal identity",
+      "title": "What matters in survival",
+      "detail": "The view that psychological continuity matters even where strict identity fails, and the implications for self-interest and moral responsibility.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the claim that identity is not what matters in survival and one implication if it is true.",
+          "answer": [
+            "In a branching case, each continuer has the psychological relations that ordinarily ground concern for one's future, yet identity cannot hold with both.",
+            "The claim is therefore that what we care about in surviving is psychological continuity itself, not the further fact of being numerically identical.",
+            "One implication concerns responsibility: if connections to a distant past self are weak, holding the present person fully accountable becomes harder to justify.",
+            "Another concerns self-interest, since prudential concern for one's distant future may be a matter of degree rather than all or nothing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Personal identity",
+      "title": "The self as narrative or as illusion",
+      "detail": "Accounts of the self as a construction of narrative or as a bundle of experiences without an underlying subject.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the bundle theory of the self and one objection.",
+          "answer": [
+            "The bundle theory holds that introspection reveals only particular perceptions, thoughts and feelings, never a self that has them.",
+            "The self is therefore a bundle or collection of experiences rather than a substance underlying them.",
+            "One objection is that experiences seem to require a subject to whom they belong, so a bundle without an owner is difficult to make sense of.",
+            "A second is that the unity of experience at a moment, and its apparent ownership, is left unexplained by a mere collection."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — The good life",
+      "title": "What the question asks",
+      "detail": "Distinguishing the good life as a life that goes well for the person living it from a morally good life, and the relation between them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish the question of what makes a life go well from the question of how one ought to act.",
+          "answer": [
+            "The first asks about wellbeing: what makes a life good for the person living it.",
+            "The second asks about morality: what a person is obliged to do, particularly in respect of others.",
+            "The two can come apart, since a life of successful wrongdoing might go well for the agent while being morally bad.",
+            "Some theories deny they come apart, arguing that virtue is necessary for genuine flourishing, which is itself a substantive philosophical claim."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — The good life",
+      "title": "Hedonism",
+      "detail": "The view that pleasure and the absence of pain constitute wellbeing, distinctions between pleasures, and the experience machine objection.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain hedonism about wellbeing and the experience machine objection.",
+          "answer": [
+            "Hedonism holds that wellbeing consists in pleasure and the absence of pain, and that everything else contributes only as a means to these.",
+            "The experience machine imagines a device producing any experiences you wish, indistinguishable from reality, for the rest of your life.",
+            "Most people report they would not plug in, which suggests they value actually doing things and genuinely relating to others, not merely the experience of doing so.",
+            "If that reaction is correct, pleasure is not the only thing that contributes to wellbeing, though hedonists reply that the reluctance reflects bias towards the familiar."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — The good life",
+      "title": "Desire satisfaction and objective list theories",
+      "detail": "Wellbeing as getting what you want, the problem of misinformed or adaptive desires, and objective accounts of what is good for a person.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain desire satisfaction theory and one objection, then state the alternative it motivates.",
+          "answer": [
+            "Desire satisfaction theory holds that a life goes well to the extent that a person's desires are fulfilled.",
+            "It accommodates the diversity of what people value, since it does not prescribe any particular content.",
+            "The objection is that desires can be misinformed or adaptive, so satisfying them may not benefit the person, as when someone desires something that would harm them.",
+            "This motivates objective list theories, which identify goods such as knowledge, friendship, achievement and health as good for a person whether or not they are desired."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — The good life",
+      "title": "Virtue and flourishing",
+      "detail": "Eudaimonia as activity in accordance with virtue, the doctrine of the mean, habituation and the role of practical wisdom.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the virtue-based account of the good life and the doctrine of the mean.",
+          "answer": [
+            "The account holds that flourishing consists in the exercise of virtue over a complete life, rather than in a feeling or a satisfied desire.",
+            "Virtues are stable traits of character developed through habituation and guided by practical wisdom.",
+            "The doctrine of the mean holds that each virtue lies between excess and deficiency, so courage lies between recklessness and cowardice.",
+            "The mean is relative to the person and situation rather than a fixed midpoint, which is why practical wisdom is required to identify it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4 AoS 1 — The good life",
+      "title": "Meaning in life",
+      "detail": "The distinction between meaning, happiness and moral goodness, and subjective, objective and hybrid accounts of what makes a life meaningful.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the difference between a happy life and a meaningful life, and outline a hybrid account of meaning.",
+          "answer": [
+            "A life can be pleasant while striking most people as empty, and a meaningful life can involve great difficulty and sacrifice.",
+            "Subjective accounts locate meaning in fulfilment or engagement, but appear to count trivial obsessions as meaningful.",
+            "Objective accounts locate it in engagement with things of genuine value, but seem to leave the person's own attitude irrelevant.",
+            "A hybrid account holds that meaning arises when subjective engagement meets objective value, so that a person is actively absorbed in something genuinely worthwhile."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Contemporary debates",
+      "title": "Applying philosophical analysis to a contemporary issue",
+      "detail": "Identifying the philosophical question beneath a practical controversy, and distinguishing conceptual from empirical disagreement.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to identify the philosophical question underlying a contemporary debate.",
+          "answer": [
+            "Separate the empirical disagreement, about what is in fact the case, from the conceptual and normative disagreement.",
+            "Identify the concepts doing the work, since disputes often turn on how terms such as harm, person or consent are defined.",
+            "Identify the value premises each side relies on, which are often assumed rather than argued for.",
+            "The philosophical question is usually the one that would remain even if all the factual disagreements were settled."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Contemporary debates",
+      "title": "Moral status and who counts",
+      "detail": "The criteria proposed for moral status, including sentience, rationality and species membership, and the implications of each.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain two criteria proposed for moral status and a difficulty facing each.",
+          "answer": [
+            "Sentience holds that the capacity to suffer confers moral status, which extends consideration to many animals.",
+            "The difficulty is drawing the boundary of sentience and weighing interests of very different kinds against one another.",
+            "Rationality holds that the capacity for reason and autonomy confers moral status, which distinguishes persons from other beings.",
+            "The difficulty is that it appears to exclude infants and people with severe cognitive impairment, which almost everyone rejects."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Contemporary debates",
+      "title": "Freedom, autonomy and paternalism",
+      "detail": "The harm principle, the conditions for genuine autonomy, and the justification of interference for a person's own good.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the harm principle and the strongest argument for limited paternalism.",
+          "answer": [
+            "The harm principle holds that the only justification for restricting a person's liberty is to prevent harm to others.",
+            "On this view a competent adult's self-regarding choices are not the state's business, however unwise they appear.",
+            "The strongest case for limited paternalism is that autonomy requires adequate information, capacity and freedom from coercion.",
+            "Where those conditions fail, as with addiction, misinformation or decisions made under pressure, interference may protect autonomy rather than override it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Contemporary debates",
+      "title": "Technology, responsibility and the self",
+      "detail": "Questions raised by artificial intelligence, enhancement and digital life about agency, responsibility and what we owe one another.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the responsibility gap raised by autonomous systems and two proposed responses.",
+          "answer": [
+            "When an autonomous system causes harm through a decision no person directly made, it is unclear who is responsible.",
+            "The system itself is not a moral agent, while designers and operators may not have foreseen or intended the specific outcome.",
+            "One response assigns strict responsibility to those who deploy the system, on the basis that they take the benefit and should bear the risk.",
+            "Another requires meaningful human control as a condition of deployment, so that a responsible agent remains in the decision loop."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W1",
+      "area": "Reading and writing philosophy",
+      "title": "Reconstructing an argument",
+      "detail": "Setting out an author's argument in numbered premises and conclusion, in the strongest form consistent with the text.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to reconstruct a philosophical argument fairly and why charity matters.",
+          "answer": [
+            "Identify the conclusion first, then locate the reasons offered for it and set them out as numbered premises.",
+            "Include premises the author assumes but does not state, marking them clearly as implicit.",
+            "Charity requires reconstructing the argument in its strongest plausible form rather than its weakest.",
+            "This matters because an objection only succeeds against the strongest version; defeating a weak reconstruction leaves the position untouched."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "area": "Reading and writing philosophy",
+      "title": "Evaluating an argument",
+      "detail": "Assessing whether the reasoning is valid or strong and whether the premises are true, and locating the objection precisely.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the two ways an argument can be criticised and how to state an objection precisely.",
+          "answer": [
+            "The reasoning can be criticised, by showing the conclusion does not follow even if the premises are true.",
+            "A premise can be criticised, by showing it is false or unsupported, which leaves the argument unsound.",
+            "A precise objection names the specific premise or inferential step at fault rather than disagreeing with the conclusion in general.",
+            "The strongest objections also anticipate the reply available to the author and explain why it does not succeed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "area": "Reading and writing philosophy",
+      "title": "Using examples and counterexamples",
+      "detail": "Constructing a counterexample that targets the claim precisely, and using examples to clarify rather than to substitute for argument.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what makes a counterexample effective against a universal claim.",
+          "answer": [
+            "A universal claim asserts that something holds in every case, so a single genuine counterexample refutes it.",
+            "The counterexample must satisfy the conditions the claim specifies while lacking the property the claim asserts.",
+            "It must also be a case the opponent would accept as possible, since a disputed or incoherent case can simply be denied.",
+            "Effective counterexamples are stated briefly and precisely, with the relevant features made explicit rather than left for the reader to infer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W4",
+      "area": "Reading and writing philosophy",
+      "title": "Structuring a philosophical essay",
+      "detail": "Stating a position, reconstructing the relevant arguments, raising and answering objections, and reaching a defended conclusion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe a reliable structure for a philosophy essay.",
+          "answer": [
+            "State the question and your position clearly at the outset, without a lengthy introduction.",
+            "Reconstruct the argument you are engaging with accurately and charitably, so the reader knows exactly what is being assessed.",
+            "Present your argument or objection, then raise the strongest reply available to the other side and respond to it.",
+            "Conclude by stating what has been established and acknowledging what remains unresolved, since overclaiming weakens a philosophical conclusion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W5",
+      "area": "Reading and writing philosophy",
+      "title": "Precision in philosophical writing",
+      "detail": "Defining terms, distinguishing similar concepts, avoiding ambiguity and qualifying claims to the strength the argument supports.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why precision in defining terms matters in philosophy, using an example.",
+          "answer": [
+            "Many philosophical disputes turn on ambiguity, so two parties can appear to disagree while using a key term differently.",
+            "Defining terms at the outset makes the claim testable and prevents the argument sliding between meanings, which is the fallacy of equivocation.",
+            "For example, an argument about whether people are free requires specifying whether freedom means the absence of external constraint or the ability to have done otherwise, since the answer differs depending on which is meant."
+          ]
+        }
+      ]
+    }
+  ]
+}

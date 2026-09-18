@@ -1,0 +1,1096 @@
+{
+  "id": "history-revolutions-34",
+  "name": "History: Revolutions",
+  "areas": [
+    "Revolutionary concepts and historical skills",
+    "Framework — Causes of revolution",
+    "Framework — Consequences of revolution",
+    "The American Revolution",
+    "The French Revolution",
+    "The Russian Revolution",
+    "The Chinese Revolution",
+    "Exam technique"
+  ],
+  "short": {
+    "Revolutionary concepts and historical skills": "Concepts and skills",
+    "Framework — Causes of revolution": "Causes",
+    "Framework — Consequences of revolution": "Consequences",
+    "The American Revolution": "American",
+    "The French Revolution": "French",
+    "The Russian Revolution": "Russian",
+    "The Chinese Revolution": "Chinese",
+    "Exam technique": "Exam technique"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE History Study Design, Units 3 and 4 Revolutions. You study two revolutions, so use the framework and skills areas plus the two revolution areas that apply to you. Checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and dates and figures should be checked against your class sources.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/history",
+  "sourceLabel": "VCAA History study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Historical detail and historiographical interpretation should be checked against your set texts and class materials.",
+  "theme": {
+    "accent": "#4a3f78"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/history",
+  "points": [
+    {
+      "id": "C1",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Defining revolution",
+      "detail": "Revolution as a fundamental and often rapid transformation of political, social and economic structures, distinguished from a coup, a rebellion or gradual reform.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Define revolution and distinguish it from a coup and from reform.",
+          "answer": [
+            "A revolution is a fundamental transformation of the political, social and economic structures of a society, usually rapid and often violent.",
+            "It involves the transfer of power to a new group and the replacement of the existing order with new institutions and ideas.",
+            "A coup replaces the individuals holding power without transforming the underlying structures of society.",
+            "Reform changes aspects of the existing system gradually and within its own rules, leaving the fundamental structure intact."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Ideology and revolutionary ideas",
+      "detail": "The role of ideas in providing a critique of the old order, a vision of the new and a language that mobilises support.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the role ideology plays in a revolution.",
+          "answer": [
+            "Ideology supplies a critique that identifies the existing order as unjust rather than merely unfortunate, transforming grievance into a cause.",
+            "It provides a vision of an alternative society, which gives the movement a goal beyond the removal of the current rulers.",
+            "It supplies a shared language and symbols that unite otherwise separate groups behind a common programme.",
+            "After the revolution, ideology is used to legitimise the new regime and to justify measures taken against its opponents."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Long-term and short-term causes",
+      "detail": "Distinguishing structural conditions that build over decades from immediate triggers, and explaining the relationship between them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the relationship between long-term causes and short-term triggers, and why a trigger alone does not cause a revolution.",
+          "answer": [
+            "Long-term causes are the structural conditions that accumulate over years or decades, such as economic inequality, an inflexible political system or ideological challenge.",
+            "Short-term triggers are specific events that convert latent discontent into open action, such as a harvest failure, a military defeat or a repressive act.",
+            "A trigger alone is insufficient, because without underlying structural weakness the regime absorbs the shock and recovers.",
+            "The strongest responses show how the trigger exposed or intensified the long-term weakness rather than listing the two separately."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "The role of individuals",
+      "detail": "Weighing the influence of leaders, agitators and rulers against structural forces, and avoiding both great-man and purely determinist explanations.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to assess the significance of an individual in a revolution without overstating their role.",
+          "answer": [
+            "Establish what the individual actually did and when, distinguishing decisions they made from outcomes they merely witnessed.",
+            "Ask whether the conditions that made those actions possible existed independently of them, since an individual acts within circumstances they did not create.",
+            "Consider the counterfactual: whether another leader in the same position would plausibly have produced a similar outcome.",
+            "A balanced judgement usually concludes that the individual shaped the form, timing or intensity of change while structural factors made change itself likely."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Popular movements and revolutionary crowds",
+      "detail": "The composition, motivations and agency of crowds, peasants, workers and soldiers, and the relationship between leaders and the masses.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why historians pay close attention to the composition and motivation of revolutionary crowds.",
+          "answer": [
+            "Crowds are not a single undifferentiated mass; their composition by occupation, gender and economic position reveals whose grievances were driving events.",
+            "Motivation is often material, such as the price of bread or the seizure of land, rather than purely ideological.",
+            "This matters because it explains why popular support could be withdrawn when the new regime failed to deliver material improvement.",
+            "It also establishes whether the crowd acted with its own agency or was directed by revolutionary leadership, a central point of historiographical dispute."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C6",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Using primary sources",
+      "detail": "Analysing origin, purpose, audience and perspective, distinguishing what a source reveals from what it claims, and assessing reliability and usefulness.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the difference between the reliability and the usefulness of a primary source.",
+          "answer": [
+            "Reliability concerns how far a source can be trusted as an accurate account of what occurred, which depends on the author's position, purpose and proximity to events.",
+            "Usefulness concerns what the source can tell a historian about the question being investigated.",
+            "An unreliable source can be highly useful, because propaganda reveals what a regime wanted people to believe and which arguments it thought persuasive.",
+            "The analysis should therefore state what the source reveals as evidence of attitudes and intentions, not simply whether it is trustworthy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Historical interpretations",
+      "detail": "Using the views of historians as contested interpretations, situating them in their own context, and deploying them to support an argument rather than as decoration.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a historian's interpretation should be used in an essay and the most common error students make.",
+          "answer": [
+            "An interpretation should be introduced because it supports, complicates or contrasts with the argument being advanced at that point.",
+            "State the historian's view accurately and briefly, then explain how the evidence supports or qualifies it.",
+            "The most common error is dropping a quotation in without engaging with it, so it decorates rather than advances the argument.",
+            "Interpretations should also be identified as interpretations, since two historians can read the same evidence differently depending on their approach and context."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C8",
+      "area": "Revolutionary concepts and historical skills",
+      "title": "Continuity and change",
+      "detail": "Assessing what a revolution actually transformed and what persisted, including institutions, social hierarchies, economic structures and mentalities.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why historians examine continuity as well as change when assessing a revolution.",
+          "answer": [
+            "A revolution's own claims of total transformation are propaganda, so its actual effects must be tested against evidence.",
+            "Many structures persist beneath a change of regime, including bureaucracies, legal traditions, landholding patterns and social attitudes.",
+            "Examining continuity allows a precise judgement about what was genuinely transformed and for whom.",
+            "It also explains why revolutions frequently disappoint their supporters, since the new order often reproduces features of the old under new names."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA1",
+      "area": "Framework — Causes of revolution",
+      "title": "Economic crisis and inequality",
+      "detail": "Fiscal crisis, inflation, food prices, taxation, landholding and the material grievances that convert hardship into political demand.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how economic crisis contributes to revolution, and why hardship alone is insufficient.",
+          "answer": [
+            "Economic crisis creates immediate material grievance, such as hunger, unemployment or unpayable taxes, which mobilises people who would otherwise be politically inactive.",
+            "Fiscal crisis also weakens the regime directly, since a government unable to pay its soldiers and officials cannot enforce its will.",
+            "Hardship alone is insufficient because societies endure severe hardship without revolution when the suffering is regarded as natural or unavoidable.",
+            "Revolution requires that the hardship be attributed to the regime and be seen as remediable, which is the work of ideology and political opposition."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA2",
+      "area": "Framework — Causes of revolution",
+      "title": "Political failure and inflexibility",
+      "detail": "The inability of a regime to reform, the exclusion of rising groups from power, and the loss of legitimacy through incompetence or repression.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why attempted reform can make a regime more vulnerable rather than more secure.",
+          "answer": [
+            "Reform concedes that the existing arrangements are unjust, which validates the critics' case and raises expectations of further change.",
+            "Partial reform mobilises groups previously resigned to the system, since change now appears achievable.",
+            "If reform is then withdrawn or proves inadequate, the resulting frustration is more dangerous than the original resignation.",
+            "Reform also divides the regime's own supporters between reformers and reactionaries, weakening its capacity for a united response."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA3",
+      "area": "Framework — Causes of revolution",
+      "title": "Ideological challenge",
+      "detail": "The circulation of ideas that delegitimise the existing order, and the role of print, education, clubs and networks in spreading them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how ideas spread before a revolution and why the means of circulation matters.",
+          "answer": [
+            "Ideas circulate through pamphlets, newspapers, clubs, salons, secret societies, schools and returning soldiers or exiles.",
+            "The means of circulation determines who receives the ideas and in what form, so a largely illiterate population encounters ideology through speech, song and symbol rather than text.",
+            "Networks also create organisation as well as opinion, since the groups formed to discuss ideas can act when a crisis arrives.",
+            "Attempts at censorship often increase the appeal of the suppressed ideas and confirm the critique of the regime as repressive."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA4",
+      "area": "Framework — Causes of revolution",
+      "title": "War and external pressure",
+      "detail": "The effect of military defeat, wartime economic strain and foreign example in exposing regime weakness and arming the population.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three ways war contributes to the outbreak of revolution.",
+          "answer": [
+            "Defeat destroys the regime's prestige and its claim to competence, since military failure is visible and difficult to explain away.",
+            "War strains the economy through taxation, requisition, inflation and shortages, spreading hardship across the whole population.",
+            "War arms and mobilises large numbers of men and concentrates them in units where grievance can become collective action.",
+            "If the army's loyalty fails, the regime loses the coercive power on which its survival ultimately depends."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA5",
+      "area": "Framework — Causes of revolution",
+      "title": "The loss of coercive power",
+      "detail": "The point at which the army, police or officials cease to enforce the regime's authority, and why this is usually decisive.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the loyalty of the armed forces is usually decisive in a revolutionary crisis.",
+          "answer": [
+            "A regime facing mass protest survives if it is willing and able to use force to disperse it.",
+            "When soldiers refuse orders, fraternise with crowds or join them, the regime's coercive capacity collapses and protest becomes insurrection.",
+            "Soldiers are frequently drawn from the same social groups as the protesters and share their material grievances, particularly in wartime.",
+            "Once the army's loyalty is lost, even a regime with substantial formal authority can fall within days."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CA6",
+      "area": "Framework — Causes of revolution",
+      "title": "The revolutionary situation",
+      "detail": "The convergence of crisis, opposition leadership, popular mobilisation and regime paralysis that turns discontent into the seizure of power.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what distinguishes a revolutionary situation from ordinary political discontent.",
+          "answer": [
+            "Multiple crises converge so that the regime cannot resolve one without worsening another, producing paralysis rather than response.",
+            "An organised alternative leadership exists that can direct discontent towards the seizure of power rather than isolated protest.",
+            "Popular mobilisation extends beyond a single group, so the regime faces opposition from several directions simultaneously.",
+            "The regime's means of coercion become unreliable, removing its final option for restoring order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO1",
+      "area": "Framework — Consequences of revolution",
+      "title": "Establishing a new regime",
+      "detail": "The immediate problems of authority, legitimacy, administration and order confronting a new government, and the compromises made.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the problems a new revolutionary regime faces immediately after seizing power.",
+          "answer": [
+            "It must establish authority over territory and institutions it does not yet control, often while the old administration is disintegrating.",
+            "It must establish legitimacy, since seizing power does not by itself confer the right to govern in the eyes of the population or foreign states.",
+            "It must deliver the material improvements promised, usually while the economy is disrupted by the upheaval itself.",
+            "It must decide how to treat former elites and rival revolutionary factions, a decision that frequently determines whether it faces civil war."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO2",
+      "area": "Framework — Consequences of revolution",
+      "title": "Radicalisation and factional conflict",
+      "detail": "The division of the revolutionary coalition once the old regime falls, and the process by which moderate leadership is displaced by more radical elements.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why revolutionary coalitions typically fracture after the old regime falls.",
+          "answer": [
+            "The coalition was united by opposition to the old order rather than by agreement on what should replace it.",
+            "Once that common enemy is removed, the incompatible aims of its component groups become apparent.",
+            "Moderates who have obtained what they wanted seek to halt the revolution, while radicals with unmet demands seek to extend it.",
+            "Continuing crisis favours the radicals, since they can argue that moderate compromise has failed and that more decisive measures are required."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO3",
+      "area": "Framework — Consequences of revolution",
+      "title": "Terror, repression and civil war",
+      "detail": "The use of violence against internal opponents, its justification in ideological terms, and its effects on the revolution's own supporters.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how revolutionary regimes justify the use of terror against their own populations, and one consequence.",
+          "answer": [
+            "Terror is justified as a defensive necessity against counter-revolution, foreign invasion and internal sabotage.",
+            "Ideology supplies categories of enemy defined by class or allegiance rather than by individual action, so whole groups can be targeted.",
+            "Emergency is presented as temporary, which allows the suspension of the rights the revolution claimed to establish.",
+            "A consequence is that the machinery and habits of repression outlast the emergency, and the same instruments are later used against the revolutionaries themselves."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO4",
+      "area": "Framework — Consequences of revolution",
+      "title": "Economic transformation and its costs",
+      "detail": "Land redistribution, nationalisation, requisition and planning, and the disruption, resistance and famine that frequently accompany them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why revolutionary economic policies frequently produce shortages and resistance.",
+          "answer": [
+            "Radical economic change disrupts existing networks of production, distribution and credit faster than new arrangements can replace them.",
+            "Requisition and price controls remove the incentive to produce for the market, so producers withhold goods or reduce output.",
+            "Those dispossessed by redistribution or nationalisation resist actively, and enforcement consumes resources and generates further violence.",
+            "The resulting shortages fall heaviest on the urban populations whose support the revolution depends upon, creating a political as well as an economic crisis."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO5",
+      "area": "Framework — Consequences of revolution",
+      "title": "Social change and its limits",
+      "detail": "Changes to legal status, class structure, religion, gender roles and education, and the gap between proclaimed equality and actual outcomes.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to assess whether a revolution genuinely transformed social relations.",
+          "answer": [
+            "Distinguish the regime's legal proclamations from the measurable outcomes experienced by ordinary people.",
+            "Examine whether the groups that held economic and social power before the revolution retained it under different titles afterwards.",
+            "Assess specific indicators such as landholding, literacy, legal status, access to office and the position of women and minorities.",
+            "Note the timeframe, since some changes proclaimed early were reversed within years, while others took decades to take effect."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO6",
+      "area": "Framework — Consequences of revolution",
+      "title": "Consolidation and the new order",
+      "detail": "The emergence of a stable regime, the role of a dominant leader or party, and the extent to which the new order resembles the old.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the argument that revolutions tend to end in authoritarian rule, and one counter-argument.",
+          "answer": [
+            "Revolutionary regimes govern under conditions of emergency, civil war and foreign threat that concentrate power and justify suppressing opposition.",
+            "The institutions built to defeat counter-revolution become permanent instruments of control once the emergency passes.",
+            "Factional conflict also tends to resolve in favour of whichever group controls the security apparatus and the party.",
+            "A counter-argument is that outcomes vary considerably with circumstance, and some revolutions produced durable representative institutions, so the pattern is a tendency rather than a law."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A1",
+      "area": "The American Revolution",
+      "title": "Colonial society and the imperial relationship",
+      "detail": "The structure of the thirteen colonies, colonial assemblies, the relationship with Britain and the effects of the Seven Years War on imperial finances.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the aftermath of the Seven Years War contributed to tension between Britain and the American colonies.",
+          "answer": [
+            "The war left Britain with a substantially increased national debt and a large standing army to maintain in North America.",
+            "Britain concluded the colonies should contribute to the cost of their own defence, leading to new revenue measures.",
+            "The removal of the French threat from North America also reduced the colonies' dependence on British military protection.",
+            "Colonists who had grown accustomed to a period of limited interference now experienced tighter imperial control, which they regarded as a change in the established relationship."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "area": "The American Revolution",
+      "title": "Taxation and colonial resistance",
+      "detail": "The Stamp Act, the Townshend duties, the Tea Act and the arguments over representation, consent and the authority of Parliament.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the colonial argument against parliamentary taxation and how colonists resisted it.",
+          "answer": [
+            "Colonists argued that taxation required the consent of the taxed, given through their own elected assemblies rather than a Parliament in which they were not represented.",
+            "They distinguished external duties regulating trade, which they accepted, from internal taxes levied purely for revenue, which they rejected.",
+            "Resistance took the form of petitions and assembly resolutions, non-importation agreements and boycotts that applied economic pressure.",
+            "Crowd action, intimidation of officials and the destruction of property escalated resistance beyond constitutional argument."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "area": "The American Revolution",
+      "title": "Ideas and propaganda",
+      "detail": "Enlightenment political thought, rights and consent, republicanism, and the circulation of pamphlets, newspapers and images.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the role of pamphlets and printed propaganda in the American Revolution.",
+          "answer": [
+            "Pamphlets translated constitutional argument into accessible language and reached a comparatively literate colonial population.",
+            "They shifted the terms of debate from grievances about particular taxes towards fundamental arguments about rights, consent and eventually independence.",
+            "Newspapers and engravings publicised incidents in a form designed to provoke outrage, spreading a shared interpretation of events across colonies.",
+            "Print created a common political vocabulary and sense of shared cause between colonies that had previously acted separately."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A4",
+      "area": "The American Revolution",
+      "title": "Escalation to armed conflict",
+      "detail": "The occupation of Boston, the confrontation of 1770, the destruction of tea, the Coercive Acts, the Continental Congress and the outbreak of fighting.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the British response to the destruction of tea in Boston escalated the crisis.",
+          "answer": [
+            "Britain responded with coercive legislation closing the port, altering the colony's government and requiring the quartering of troops.",
+            "The measures were intended to isolate and punish Massachusetts and deter other colonies from similar resistance.",
+            "Instead the severity united the colonies, since other colonies concluded their own charters and liberties were equally vulnerable.",
+            "Delegates assembled in a Continental Congress, creating an intercolonial political body and moving resistance from protest towards coordinated organisation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "area": "The American Revolution",
+      "title": "Independence and war",
+      "detail": "The Declaration of Independence, the conduct of the war, the role of foreign alliance and the achievement of victory.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the Declaration of Independence.",
+          "answer": [
+            "It transformed a rebellion seeking redress within the empire into a war for separate nationhood, removing the possibility of reconciliation.",
+            "It justified separation in terms of natural rights and government by consent, providing an ideological foundation for the new states.",
+            "It created a legal basis on which foreign powers could recognise and ally with the new nation.",
+            "It committed the signatories irrevocably, since they could now be treated as traitors rather than as subjects petitioning for redress."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A6",
+      "area": "The American Revolution",
+      "title": "Creating a new political order",
+      "detail": "State constitutions, the Articles of Confederation, the weaknesses of the confederation, the federal Constitution and the Bill of Rights.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the weaknesses of the Articles of Confederation and how the federal Constitution addressed them.",
+          "answer": [
+            "The confederation government could not levy taxes directly, so it depended on requisitions from states that were frequently unpaid.",
+            "It could not regulate interstate and foreign commerce, and had no independent executive or national judiciary to enforce its decisions.",
+            "Amending the Articles required unanimity, making reform effectively impossible.",
+            "The Constitution created a federal government with independent taxing power, an executive, a judiciary and supremacy over state law, while dividing power between branches and levels."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A7",
+      "area": "The American Revolution",
+      "title": "Continuity and the limits of change",
+      "detail": "The persistence of slavery, the position of women and Indigenous peoples, property qualifications, and debate over how revolutionary the Revolution was.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Assess the extent to which the American Revolution transformed American society.",
+          "answer": [
+            "Politically it was transformative, replacing monarchy with a republic, establishing written constitutions and expanding the franchise among white men.",
+            "Slavery persisted and expanded, and the new Constitution protected it, so the language of liberty and equality excluded a large enslaved population.",
+            "The position of women changed little in law, and Indigenous peoples faced accelerated dispossession as westward expansion resumed.",
+            "The revolution therefore transformed political structures substantially while leaving the social and racial hierarchy largely intact, which is the central historiographical debate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "area": "The French Revolution",
+      "title": "The Ancien Regime",
+      "detail": "The society of orders, the privileges of the First and Second Estates, the burdens on the Third Estate, and the structure of royal government.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the structure of the Ancien Regime and the grievances it generated.",
+          "answer": [
+            "French society was formally divided into three estates: the clergy, the nobility and everyone else, who comprised the overwhelming majority.",
+            "The first two estates enjoyed privileges including exemption from major taxes, access to senior office and seigneurial rights over peasants.",
+            "The Third Estate bore the weight of taxation while being excluded from the highest positions regardless of wealth or ability.",
+            "Prosperous bourgeois resented exclusion from office and status, while peasants resented feudal dues, producing grievances that were social as well as fiscal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "area": "The French Revolution",
+      "title": "Financial crisis",
+      "detail": "The cost of foreign wars, the structure of royal finance, failed attempts at fiscal reform, and the resistance of privileged bodies.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the French monarchy's financial crisis proved impossible to resolve.",
+          "answer": [
+            "Decades of expensive warfare, including support for the American colonies, left the crown with unsustainable debt and interest obligations.",
+            "The tax system exempted the wealthiest groups, so revenue could not be raised proportionately from those most able to pay.",
+            "Successive ministers proposed reforms extending taxation to the privileged orders, but these were blocked by the parlements and the notables.",
+            "Unable to reform taxation or to service its debt, the crown was forced to summon the Estates-General, which transferred the initiative to its critics."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "area": "The French Revolution",
+      "title": "Enlightenment ideas and public opinion",
+      "detail": "Critiques of absolutism and privilege, notions of sovereignty and the general will, and the circulation of ideas through pamphlets, salons and the press.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how Enlightenment ideas contributed to the French Revolution, and one limitation of the argument.",
+          "answer": [
+            "Enlightenment writing subjected absolutism, aristocratic privilege and church authority to rational criticism, undermining their claim to be natural or divinely ordained.",
+            "Concepts of popular sovereignty and the social contract supplied an alternative basis for legitimate government.",
+            "These ideas circulated through pamphlets, journals, salons and clubs, creating a critical public opinion among the educated.",
+            "A limitation is that ideas alone explain neither the timing nor the popular character of the revolution, since the crowds who acted in 1789 were driven principally by bread prices and fear."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "area": "The French Revolution",
+      "title": "1789: from Estates-General to National Assembly",
+      "detail": "The dispute over voting by order, the Tennis Court Oath, the formation of the National Assembly and the assertion of sovereignty.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the Third Estate's decision to constitute itself as a National Assembly.",
+          "answer": [
+            "The dispute over whether voting would be by order or by head would determine whether the privileged orders could outvote the majority.",
+            "By declaring itself a National Assembly, the Third Estate claimed to represent the nation rather than one order within it.",
+            "This asserted that sovereignty resided in the nation rather than in the king, a fundamental constitutional transformation.",
+            "The Tennis Court Oath committed members not to disperse until a constitution was written, defying royal authority directly."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "area": "The French Revolution",
+      "title": "Popular revolution of 1789",
+      "detail": "Bread prices and dearth, the storming of the Bastille, the Great Fear in the countryside and the October march to Versailles.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of popular intervention in 1789 for the course of the revolution.",
+          "answer": [
+            "Popular action defended the Assembly against the threat of royal military force, making the political revolution viable.",
+            "The storming of the Bastille demonstrated that royal authority could be defeated by force and became a potent symbol of that fact.",
+            "Rural unrest forced the Assembly to abolish feudal privileges, extending the revolution into the social and economic sphere.",
+            "The march to Versailles brought the royal family to Paris, subjecting the monarchy to the pressure of the capital's population and establishing the crowd as a recurring political force."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "area": "The French Revolution",
+      "title": "Reconstructing France",
+      "detail": "The Declaration of the Rights of Man and of the Citizen, the abolition of feudalism, the Civil Constitution of the Clergy and administrative reorganisation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the Civil Constitution of the Clergy proved so divisive.",
+          "answer": [
+            "It reorganised the church as a department of state, with clergy elected and paid by the state and dioceses redrawn.",
+            "The requirement that clergy swear an oath of loyalty forced every priest to choose between the revolution and the papacy.",
+            "The clergy divided into juring and refractory priests, and the pope's condemnation made opposition a matter of conscience for devout Catholics.",
+            "It converted many religious peasants who had supported the abolition of feudal dues into opponents of the revolution, contributing directly to later counter-revolution."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "area": "The French Revolution",
+      "title": "The failure of constitutional monarchy",
+      "detail": "The flight to Varennes, the declaration of war, the fall of the monarchy and the establishment of the republic.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the royal family's flight to Varennes.",
+          "answer": [
+            "The king's attempt to flee revealed that his acceptance of the constitution had been insincere.",
+            "It destroyed the credibility of constitutional monarchy, since a monarch who would not be bound could not be trusted with executive power.",
+            "It strengthened republican sentiment and fed suspicion of treason at the heart of government, encouraging radical politics.",
+            "Combined with the threat of foreign intervention, it helped propel France towards war and towards the overthrow of the monarchy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "area": "The French Revolution",
+      "title": "War, crisis and the Terror",
+      "detail": "Foreign invasion, federalist and Vendee revolt, the Committee of Public Safety, the Law of Suspects and the machinery of revolutionary government.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the arguments for viewing the Terror as a response to circumstance and as a product of ideology.",
+          "answer": [
+            "The circumstantial argument emphasises that France faced foreign invasion, internal revolt and economic crisis simultaneously, and that emergency government was a response to genuine threat.",
+            "On this view the Terror was an instrument of national defence that contracted once the military situation improved.",
+            "The ideological argument emphasises that revolutionary thought defined virtue and the general will in ways that made dissent treasonous rather than legitimate.",
+            "On this view terror was implicit in the project of remaking society according to a single vision, and circumstance provided the occasion rather than the cause."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F9",
+      "area": "The French Revolution",
+      "title": "Thermidor and the Directory",
+      "detail": "The fall of Robespierre, the dismantling of revolutionary government, the instability of the Directory and the path to Napoleon.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the Directory failed to establish a stable regime.",
+          "answer": [
+            "It was squeezed between royalist revival on one side and neo-Jacobin radicalism on the other, and annulled elections when results were unfavourable.",
+            "Repeated reliance on the army to overturn electoral outcomes destroyed its constitutional legitimacy.",
+            "Continuing inflation, corruption and war weariness eroded popular support, and it could not deliver stable prices or peace.",
+            "Dependence on military force to survive made it vulnerable to a general with prestige and ambition, which is how Napoleon came to power."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "area": "The French Revolution",
+      "title": "Assessing the French Revolution",
+      "detail": "The abolition of privilege, legal equality, the redistribution of land, the position of women, and the debate over how far French society was transformed.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Assess the extent to which the French Revolution transformed French society.",
+          "answer": [
+            "It permanently abolished the society of orders, seigneurial dues and legal privilege, establishing equality before the law for men.",
+            "Church land was redistributed and careers were opened to talent, consolidating the position of the property-owning bourgeoisie and some peasants.",
+            "Political instability persisted for decades, with monarchy restored twice, so its political settlement proved far less durable than its social changes.",
+            "Women gained some civil rights early but were excluded from political rights and saw gains reversed, illustrating the limits of revolutionary equality."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R1",
+      "area": "The Russian Revolution",
+      "title": "Tsarist autocracy and Russian society",
+      "detail": "The nature of autocracy, the structure of Russian society, peasant land hunger, rapid industrialisation and the conditions of urban workers.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the structural weaknesses of the Tsarist regime before 1917.",
+          "answer": [
+            "Autocracy concentrated authority in the Tsar personally, so the regime's competence depended on the individual holding the throne and reform required his consent.",
+            "Rapid industrialisation created a concentrated urban working class experiencing severe conditions, and it was organised in large factories where grievance spread quickly.",
+            "The peasantry, the great majority of the population, remained land hungry and resentful of redemption payments and landlord holdings.",
+            "A growing educated class was excluded from meaningful political participation, so opposition developed outside legal channels and became revolutionary."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "area": "The Russian Revolution",
+      "title": "1905 and its consequences",
+      "detail": "Defeat in the east, Bloody Sunday, the general strike, the October Manifesto, the Dumas and the reforms and repression that followed.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the 1905 revolution failed to remove the Tsar, and its longer-term significance.",
+          "answer": [
+            "The regime retained the loyalty of most of the army, which was used to suppress the risings once peace was concluded abroad.",
+            "The October Manifesto divided the opposition by granting a legislature, satisfying moderate liberals while radicals continued to demand more.",
+            "Once the immediate crisis passed, the Tsar reduced the Duma's powers and altered the franchise to secure a compliant assembly.",
+            "Its longer-term significance was that it demonstrated the regime's vulnerability, created the precedent of the soviet as a workers' institution and left the underlying grievances unresolved."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "area": "The Russian Revolution",
+      "title": "Revolutionary parties and ideas",
+      "detail": "Marxism in Russia, the split between Bolsheviks and Mensheviks, the Socialist Revolutionaries, and Lenin's conception of the party.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the differences between the Bolsheviks and the Mensheviks.",
+          "answer": [
+            "The Bolsheviks favoured a small, disciplined party of professional revolutionaries acting as a vanguard for the working class.",
+            "The Mensheviks favoured a broader party with looser membership, closer to a mass democratic organisation.",
+            "The Mensheviks argued that Russia must complete a bourgeois-democratic stage before socialism was possible, so cooperation with liberals was necessary.",
+            "The Bolsheviks under Lenin came to argue that the stages could be compressed, justifying an immediate seizure of power by a disciplined party."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "area": "The Russian Revolution",
+      "title": "The First World War and the February Revolution",
+      "detail": "Military failure, the Tsar's assumption of command, economic collapse in the cities, the February strikes and the abdication.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the First World War produced the February Revolution.",
+          "answer": [
+            "Military defeats and enormous casualties destroyed confidence in the regime's competence, and the Tsar's personal assumption of command attached the failures directly to him.",
+            "Transport and supply collapse produced severe food and fuel shortages in Petrograd during a harsh winter, converting war weariness into immediate hunger.",
+            "Strikes and bread demonstrations escalated into mass protest that the authorities ordered the garrison to suppress.",
+            "Soldiers refused to fire and joined the crowds, so the regime lost its coercive power and the Tsar was persuaded to abdicate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "area": "The Russian Revolution",
+      "title": "Dual power",
+      "detail": "The Provisional Government and the Petrograd Soviet, Order Number One, and the competing sources of authority between February and October.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the situation of dual power and why it made stable government impossible.",
+          "answer": [
+            "Authority was divided between the Provisional Government, which claimed formal legal authority, and the Petrograd Soviet, which commanded the loyalty of workers and soldiers.",
+            "Order Number One directed soldiers to obey the Provisional Government only where the Soviet agreed, so the government could not command the armed forces.",
+            "The government therefore had responsibility without effective power, while the Soviet had power without responsibility.",
+            "Neither body could implement a decisive programme, so the fundamental questions of land, bread and peace remained unresolved."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R6",
+      "area": "The Russian Revolution",
+      "title": "The failures of the Provisional Government",
+      "detail": "Continuation of the war, postponement of land reform, the June offensive, the July Days and the Kornilov affair.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the decision to continue the war destroyed the Provisional Government.",
+          "answer": [
+            "Continuing the war meant the shortages, casualties and economic dislocation that had caused the February Revolution persisted.",
+            "The failed June offensive discredited the government militarily and accelerated desertion and the breakdown of discipline.",
+            "Postponing land reform until a constituent assembly could meet alienated peasants and soldiers who wanted land immediately.",
+            "This allowed the Bolsheviks to distinguish themselves with the demand for peace, land and bread, gaining support as the only party offering an immediate solution."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R7",
+      "area": "The Russian Revolution",
+      "title": "The October Revolution",
+      "detail": "The Bolshevik decision to seize power, the role of the Military Revolutionary Committee, the events of October and the debate over its character.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Outline the debate over whether October was a popular revolution or a coup.",
+          "answer": [
+            "The coup interpretation emphasises that the seizure was executed by a small number of armed detachments taking key points with little popular participation and little resistance.",
+            "It notes that the Bolsheviks acted through the Military Revolutionary Committee and presented the Congress of Soviets with a decision already taken.",
+            "The popular interpretation emphasises the Bolsheviks' growing majorities in the Petrograd and Moscow soviets and in factory committees during the autumn.",
+            "On that view the seizure succeeded because the Provisional Government had lost all support, and Bolshevik slogans corresponded to what workers and soldiers already wanted."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R8",
+      "area": "The Russian Revolution",
+      "title": "Consolidating Bolshevik power",
+      "detail": "Early decrees, the dissolution of the Constituent Assembly, the peace treaty, the creation of the Cheka and the one-party state.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the dissolution of the Constituent Assembly.",
+          "answer": [
+            "The Constituent Assembly was elected by universal suffrage and produced a majority for the Socialist Revolutionaries rather than the Bolsheviks.",
+            "Its dissolution after a single day demonstrated that the Bolsheviks would not surrender power to an elected body.",
+            "It ended the possibility of a broad democratic settlement and drove other socialist parties into opposition.",
+            "It established the principle that the party's claim to represent the working class outweighed electoral outcomes, a foundation of the later one-party state."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R9",
+      "area": "The Russian Revolution",
+      "title": "Civil war and War Communism",
+      "detail": "The course of the civil war, the Red Terror, grain requisitioning, nationalisation, famine and the militarisation of the economy.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the policies of War Communism and their consequences.",
+          "answer": [
+            "Grain was requisitioned from peasants by force, industry was nationalised, private trade was banned and labour was militarised.",
+            "The policies were intended to supply the Red Army and the cities during the civil war, and were also consistent with Bolshevik ideology.",
+            "Peasants responded by reducing sowing, since surplus would be confiscated, which contributed to catastrophic famine.",
+            "Industrial output collapsed and urban populations fled to the countryside, producing the strikes and the Kronstadt rising that forced a change of policy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "area": "The Russian Revolution",
+      "title": "Kronstadt and the New Economic Policy",
+      "detail": "The Kronstadt rising, the retreat to the New Economic Policy, the ban on factions and the tension between economic concession and political tightening.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the Bolsheviks introduced the New Economic Policy and what it reveals about the regime.",
+          "answer": [
+            "Peasant revolts, urban strikes and the Kronstadt rising by former Bolshevik supporters demonstrated that War Communism was politically unsustainable.",
+            "The New Economic Policy replaced requisitioning with a tax in kind and permitted small-scale private trade and enterprise.",
+            "It restored production, but was an ideological retreat that many party members regarded as a betrayal of the revolution.",
+            "Significantly, economic liberalisation was accompanied by the banning of factions within the party, showing that concession in economics was paired with tightening political control."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "area": "The Russian Revolution",
+      "title": "Assessing the Russian Revolution",
+      "detail": "Changes to land ownership, the position of workers, women and nationalities, and the debate over continuity between Leninism and what followed.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Assess the extent to which the Russian Revolution transformed Russian society by the early 1920s.",
+          "answer": [
+            "Landlord estates were destroyed and peasants obtained land, a genuine and irreversible social transformation for the majority of the population.",
+            "The old nobility, church authority and the officer class were dispossessed, and legal reforms improved the formal position of women and non-Russian nationalities.",
+            "Politically, autocracy was replaced by a one-party state with a security apparatus, so the population remained excluded from real political power.",
+            "Historians divide over whether that outcome flowed from Bolshevik ideology and Lenin's conception of the party, or from the desperate circumstances of civil war and economic collapse."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H1",
+      "area": "The Chinese Revolution",
+      "title": "The end of imperial China",
+      "detail": "The decline of the Qing, foreign encroachment and unequal treaties, the 1911 revolution and the fragmentation of the warlord era.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the conditions in China following the fall of the Qing dynasty.",
+          "answer": [
+            "The collapse of imperial authority left no institution capable of governing the whole country, and the republic proved unable to establish control.",
+            "Regional military commanders exercised effective power over their own territories, taxing and conscripting the population.",
+            "Foreign powers retained privileged commercial and territorial rights obtained through earlier treaties, which nationalists regarded as humiliating.",
+            "The combination of disunity, foreign privilege and rural poverty generated a nationalist movement seeking both unification and the recovery of sovereignty."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H2",
+      "area": "The Chinese Revolution",
+      "title": "Nationalism, the GMD and the CCP",
+      "detail": "The May Fourth Movement, the founding of the Chinese Communist Party, the first united front and its violent collapse.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the collapse of the first united front between the GMD and the CCP.",
+          "answer": [
+            "The alliance had allowed the CCP to organise openly and to build support among urban workers.",
+            "Its violent destruction devastated the party's urban organisation and killed or dispersed much of its membership.",
+            "Survivors concluded that the urban working class could not be the basis of revolution in Chinese conditions.",
+            "The party turned to the countryside and to armed struggle, which reshaped its strategy, its social base and its leadership."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H3",
+      "area": "The Chinese Revolution",
+      "title": "Peasant revolution and the Long March",
+      "detail": "The rural base areas, Mao's analysis of the peasantry, the encirclement campaigns, the Long March and the emergence of Mao's leadership.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the significance of the Long March for the Chinese Communist Party.",
+          "answer": [
+            "It preserved the party and a core of its army from destruction, allowing it to re-establish a base in the north.",
+            "The enormous losses sustained meant the survivors were a hardened and committed cadre with strong shared identity.",
+            "Mao's authority within the party was consolidated during the retreat, establishing the leadership that would direct the revolution.",
+            "It later became a central element of party mythology, presenting the CCP as uniquely enduring and self-sacrificing in the national cause."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H4",
+      "area": "The Chinese Revolution",
+      "title": "War, civil war and the seizure of power",
+      "detail": "The Japanese invasion, the second united front, the CCP's wartime expansion, the resumption of civil war and the proclamation of the People's Republic.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the war against Japan strengthened the Chinese Communist Party relative to the Nationalists.",
+          "answer": [
+            "The Nationalist forces bore the brunt of conventional fighting and suffered enormous losses of troops and territory.",
+            "The CCP conducted guerrilla operations behind Japanese lines, expanding the territory and population under its administration.",
+            "In those base areas it built local government, implemented moderate land reform and recruited heavily, growing its army and membership enormously.",
+            "The CCP also claimed the patriotic credit of resistance while the Nationalist government became associated with corruption, inflation and military failure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H5",
+      "area": "The Chinese Revolution",
+      "title": "Consolidating the new state",
+      "detail": "Land reform, mass campaigns, the suppression of counter-revolutionaries, the marriage law and the extension of party control.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the purposes served by land reform in the early People's Republic.",
+          "answer": [
+            "It redistributed land from landlords to poor peasants, fulfilling the central promise that had won rural support.",
+            "It destroyed the landlord class as a social and economic force, removing the rural elite that might have resisted the new state.",
+            "The process of public accusation meetings implicated peasants directly in the destruction of the old order, binding them to the new regime.",
+            "It extended party organisation into every village, giving the state administrative reach that previous Chinese governments had never achieved."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H6",
+      "area": "The Chinese Revolution",
+      "title": "The Great Leap Forward",
+      "detail": "Collectivisation and communes, backyard production, exaggerated reporting, the resulting famine and the political consequences.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the causes of the famine associated with the Great Leap Forward.",
+          "answer": [
+            "Communes disrupted established agricultural practice, and labour was diverted from farming to industrial and infrastructure projects.",
+            "Local officials reported grossly inflated harvest figures, because reporting failure was politically dangerous.",
+            "The state procured grain on the basis of those inflated figures, removing food that villages actually needed to survive.",
+            "Criticism of the policy was treated as political disloyalty, so the errors went uncorrected for years while mortality rose catastrophically."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H7",
+      "area": "The Chinese Revolution",
+      "title": "Assessing the Chinese Revolution",
+      "detail": "National unification and sovereignty, land redistribution, changes in the position of women, literacy and health, weighed against political repression and famine.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Assess the extent to which the Chinese Revolution transformed Chinese society.",
+          "answer": [
+            "It unified the country under a single effective government for the first time in decades and ended foreign privilege, achieving the nationalist objective.",
+            "Land redistribution destroyed the landlord class and transformed rural property relations, and campaigns in literacy and basic health reached the village level.",
+            "The marriage law improved the formal legal position of women, though practice changed more slowly than law.",
+            "These gains were accompanied by the elimination of political pluralism, mass campaigns against designated enemies and a famine of enormous scale, so assessments depend heavily on which measures are weighted."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Exam technique",
+      "title": "Structuring the essay",
+      "detail": "Establishing a contention that answers the question, organising paragraphs around arguments rather than chronology, and sustaining the argument to a conclusion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why organising a revolutions essay by argument is more effective than organising it chronologically.",
+          "answer": [
+            "A chronological structure tends to produce narrative, recounting what happened rather than answering the question asked.",
+            "Organising by argument means each paragraph advances a distinct reason supporting the contention, with evidence selected to prove it.",
+            "Chronology can still be used within a paragraph where sequence matters to the argument.",
+            "Examiners reward analysis and judgement, so the structure must make the argument visible rather than requiring the reader to infer it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Exam technique",
+      "title": "Using evidence precisely",
+      "detail": "Deploying specific dates, names, events, figures and quotations rather than general assertions, and selecting evidence that proves the point being made.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain what makes historical evidence precise and why precision matters.",
+          "answer": [
+            "Precise evidence includes specific names, dates, places, figures, legislation or quoted phrases rather than general statements about conditions.",
+            "It demonstrates genuine knowledge rather than a plausible-sounding summary that could have been written without study.",
+            "Each piece of evidence must be chosen to prove the specific claim in the topic sentence, rather than included because it is known."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Exam technique",
+      "title": "Answering source analysis questions",
+      "detail": "Using the source and your own knowledge as directed, quoting briefly, and addressing origin, purpose, perspective and reliability where asked.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to answer a question asking what a source reveals about attitudes at the time, using your own knowledge.",
+          "answer": [
+            "Quote or paraphrase specific details from the source rather than describing it generally.",
+            "State what those details indicate about the attitudes, assumptions or fears of the author and intended audience.",
+            "Bring in your own knowledge to explain the context that produced those attitudes and to corroborate or challenge the source.",
+            "Address the source's perspective, since a partisan source reveals the views of its side rather than of the whole society."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X4",
+      "area": "Exam technique",
+      "title": "Command terms and evaluating a proposition",
+      "detail": "Responding to 'to what extent', 'evaluate' and 'analyse' prompts with a qualified judgement supported by evidence on both sides.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to answer a 'to what extent' question about the causes of a revolution.",
+          "answer": [
+            "Take a clear position on the extent, rather than concluding that all factors mattered equally, which is not an argument.",
+            "Devote the majority of the response to the factor or factors you consider most significant, arguing why they were decisive.",
+            "Acknowledge the competing factors genuinely and explain their contribution before showing why they were less important or dependent on the main factor.",
+            "Conclude with a judgement that restates the qualified position and its reasoning rather than summarising the paragraphs."
+          ]
+        }
+      ]
+    }
+  ]
+}

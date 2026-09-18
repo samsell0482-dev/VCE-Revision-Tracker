@@ -11,12 +11,12 @@ test('Health setup, rating, cue card and practice answer persist',async({page})=
  await page.getByRole('button',{name:'Cue cards',exact:true}).click();
  await expect(page.locator('.qcard')).toHaveCount(1);
  await page.getByRole('button',{name:'Practice',exact:true}).click();
- await expect(page.getByText(/These four starter questions/)).toBeVisible();
- await page.locator('textarea').fill('Health is subjective.');
+ await expect(page.getByText(/original revision exercises/)).toBeVisible();
+ await page.locator('textarea').first().fill('Health is subjective.');
  await page.reload();
  await page.getByRole('button',{name:'Practice',exact:true}).click();
- await expect(page.locator('textarea')).toHaveValue('Health is subjective.');
+ await expect(page.locator('textarea').first()).toHaveValue('Health is subjective.');
  await page.getByRole('button',{name:'All questions',exact:true}).click();
- await expect(page.locator('.qz')).toHaveCount(4);
+ await expect(page.locator('.qz')).toHaveCount(49);
  await expect(page.getByRole('link',{name:'VCAA study design (Word)'})).toHaveAttribute('href',/vcaa.*2025HealthHumanDevelopmentSD.docx/);
 });

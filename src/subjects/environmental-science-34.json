@@ -1,0 +1,622 @@
+{
+  "id": "environmental-science-34",
+  "name": "Environmental Science",
+  "areas": [
+    "Key science skills",
+    "Unit 3 AoS 1 — Energy and the environment",
+    "Unit 3 AoS 2 — Pollution and its management",
+    "Unit 4 AoS 1 — Climate change",
+    "Unit 4 AoS 2 — Biodiversity and ecosystems",
+    "Unit 4 AoS 3 — Scientific investigation"
+  ],
+  "short": {
+    "Key science skills": "Skills",
+    "Unit 3 AoS 1 — Energy and the environment": "U3 Energy",
+    "Unit 3 AoS 2 — Pollution and its management": "U3 Pollution",
+    "Unit 4 AoS 1 — Climate change": "U4 Climate",
+    "Unit 4 AoS 2 — Biodiversity and ecosystems": "U4 Biodiversity",
+    "Unit 4 AoS 3 — Scientific investigation": "U4 Investigation"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Environmental Science Study Design, Units 3 and 4. Areas here are topic groupings, and checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/environmental-science",
+  "sourceLabel": "VCAA Environmental Science study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Figures quoted are indicative; use current data in your own answers.",
+  "theme": {
+    "accent": "#3f7a5a"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/environmental-science",
+  "points": [
+    {
+      "id": "S1",
+      "area": "Key science skills",
+      "title": "Aims, hypotheses and variables",
+      "detail": "Writing a research question and testable hypothesis, and identifying independent, dependent and controlled variables in environmental investigations.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A student investigates the effect of distance from a road on lichen cover. Write a hypothesis and identify the variables.",
+          "answer": [
+            "Hypothesis: as distance from the road increases, the percentage cover of lichen on tree trunks will increase.",
+            "Independent variable: distance from the road, measured in metres.",
+            "Dependent variable: percentage cover of lichen, measured using a quadrat.",
+            "Controlled variables include tree species, trunk aspect, height above ground and time of sampling."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "area": "Key science skills",
+      "title": "Sampling in the field",
+      "detail": "Quadrats, transects, random and systematic sampling, sample size and the sources of bias in environmental fieldwork.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the difference between random and systematic sampling and when each is appropriate.",
+          "answer": [
+            "Random sampling places quadrats at coordinates chosen by chance, which avoids observer bias and suits a relatively uniform area.",
+            "Systematic sampling places them at fixed intervals, usually along a transect, which suits an area with an environmental gradient.",
+            "Systematic sampling is used to detect how a variable changes with distance, such as from a shoreline or pollution source.",
+            "Sample size matters in both, since too few quadrats produce results dominated by local variation rather than the pattern being investigated."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "area": "Key science skills",
+      "title": "Accuracy, precision and validity",
+      "detail": "Distinguishing these terms, identifying random and systematic error in field measurement, and evaluating environmental data.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A water quality meter consistently reads 0.4 pH units higher than a calibration standard. Classify the error and state the remedy.",
+          "answer": [
+            "This is a systematic error, since every reading is displaced in the same direction by a similar amount.",
+            "The results may be precise but they are not accurate, because they are consistently offset from the true value.",
+            "The remedy is to recalibrate the meter against known standards before use, and to recheck calibration during long sampling sessions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S4",
+      "area": "Key science skills",
+      "title": "Ethics and fieldwork responsibility",
+      "detail": "Minimising disturbance, permits for protected areas and species, respect for Traditional Owners and safe working practices in the field.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain three responsibilities a student has when conducting environmental fieldwork.",
+          "answer": [
+            "Minimise disturbance: avoid trampling vegetation, return moved objects and animals, and take only the samples required.",
+            "Obtain permission: access to private land, reserves and protected species usually requires permits and landholder consent, and engagement with Traditional Owners where relevant.",
+            "Work safely: complete a risk assessment covering terrain, weather, water and wildlife, and never conduct fieldwork alone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Energy sources and classification",
+      "detail": "Renewable and non-renewable sources, energy density, and the distinction between a primary energy source and an energy carrier.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between a renewable energy source and an energy carrier, and explain why hydrogen is a carrier.",
+          "answer": [
+            "A renewable source is replenished on a human timescale, such as solar, wind, hydro and biomass.",
+            "An energy carrier stores and transports energy that was generated elsewhere, rather than being a source in its own right.",
+            "Hydrogen is a carrier because it must be produced using energy, usually from electrolysis or reforming natural gas.",
+            "Its environmental value therefore depends entirely on the energy used to produce it, which is why green and grey hydrogen are distinguished."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Fossil fuels and their impacts",
+      "detail": "Formation, combustion, emissions of carbon dioxide and other pollutants, and impacts across extraction, transport and use.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three environmental impacts of coal-fired electricity generation across its life cycle.",
+          "answer": [
+            "Extraction disturbs land, destroys habitat and can contaminate groundwater and surface water with acid mine drainage.",
+            "Combustion releases carbon dioxide contributing to the enhanced greenhouse effect, plus sulfur and nitrogen oxides causing acid rain and particulates harming respiratory health.",
+            "Generation requires large volumes of cooling water and returns heated water, causing thermal pollution of waterways.",
+            "Ash and residues require long-term disposal, and heavy metals including mercury can enter food chains."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Solar and wind energy",
+      "detail": "How each generates electricity, capacity factors, intermittency, land and material requirements, and their environmental trade-offs.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the problem of intermittency in solar and wind generation and two ways it is managed.",
+          "answer": [
+            "Output depends on weather and time of day, so generation does not automatically match demand.",
+            "Storage manages this by capturing surplus generation in batteries or pumped hydro and releasing it when generation falls.",
+            "Interconnection across a wide geographic area also helps, since wind conditions differ between regions and averaging reduces variability.",
+            "Demand management and dispatchable backup generation complete the system, so intermittency is a system design problem rather than a barrier in itself."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Hydro, geothermal and bioenergy",
+      "detail": "The operation and environmental consequences of each, including river ecology, land use and the carbon balance of biomass.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why bioenergy is described as carbon neutral in principle, and why in practice it may not be.",
+          "answer": [
+            "Biomass absorbs carbon dioxide as it grows, so combustion in principle returns carbon that was recently removed from the atmosphere.",
+            "In practice, energy is consumed in cultivation, fertiliser production, harvesting, processing and transport, usually from fossil sources.",
+            "If forest is cleared for fuel crops, the carbon stored in the original vegetation and soil is released and takes decades to recover.",
+            "Land used for fuel also competes with food production, so the net benefit depends heavily on the feedstock and how it is grown."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Nuclear energy",
+      "detail": "Fission, the absence of operational carbon emissions, waste management, safety and the debate over its role in decarbonisation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Evaluate nuclear power as a low-carbon energy source, giving two advantages and two concerns.",
+          "answer": [
+            "Advantages: generation produces almost no greenhouse gases, and output is continuous rather than weather dependent, providing reliable baseload capacity.",
+            "It also has a very high energy density, so fuel and land requirements per unit of electricity are small.",
+            "Concerns: high-level waste remains hazardous for thousands of years and requires secure long-term storage that few countries have established.",
+            "Construction costs and timeframes are very large, and although serious accidents are rare their consequences are severe and long lasting."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Life cycle assessment of energy systems",
+      "detail": "Comparing energy sources across construction, operation, decommissioning and disposal rather than at the point of generation alone.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why energy sources must be compared using life cycle assessment rather than operational emissions alone.",
+          "answer": [
+            "Operational emissions capture only the generation stage, which favours technologies whose impacts occur during construction.",
+            "Manufacturing solar panels and wind turbines requires mining, refining and energy-intensive processing, which produces emissions before any electricity is generated.",
+            "Decommissioning and disposal impose further impacts, including waste from panels, blades and nuclear materials.",
+            "Only a whole-of-life comparison allows a fair judgement, and on that basis renewables and nuclear remain far lower than fossil fuels."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.7",
+      "area": "Unit 3 AoS 1 — Energy and the environment",
+      "title": "Energy efficiency and demand management",
+      "detail": "Reducing energy use through efficiency, behaviour and design, and the rebound effect that can offset savings.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the rebound effect and why efficiency alone may not reduce total energy consumption.",
+          "answer": [
+            "Efficiency reduces the energy needed to deliver a service, which reduces its cost to the user.",
+            "Lower running costs encourage greater use, so some of the expected saving is consumed by increased consumption.",
+            "For example, a more efficient vehicle costs less per kilometre, which may lead to more driving.",
+            "Efficiency therefore needs to be combined with pricing, regulation or behaviour change if total consumption is to fall."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Types and sources of pollution",
+      "detail": "Point and diffuse sources, primary and secondary pollutants, and the classification of pollution by medium and persistence.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between point source and diffuse source pollution, and explain why diffuse pollution is harder to manage.",
+          "answer": [
+            "Point source pollution enters the environment from an identifiable single location, such as a discharge pipe or a chimney.",
+            "Diffuse pollution enters from many dispersed sources across a wide area, such as fertiliser runoff from farmland or road runoff.",
+            "Point sources can be monitored, regulated and treated at the outlet, and responsibility is easy to assign.",
+            "Diffuse pollution has no single responsible party, varies with rainfall and land use, and requires changing practices across many landholders."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Water pollution and eutrophication",
+      "detail": "Nutrient enrichment, algal blooms, oxygen depletion and the effects on aquatic ecosystems.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the process of eutrophication and its effect on an aquatic ecosystem.",
+          "answer": [
+            "Nutrients, particularly nitrogen and phosphorus from fertiliser, sewage or detergents, enter the waterway and enrich it.",
+            "The nutrient supply allows rapid algal growth, producing a bloom that covers the surface and blocks light from reaching submerged plants.",
+            "When the algae die, decomposition by bacteria consumes dissolved oxygen, and oxygen concentrations fall sharply.",
+            "Fish and invertebrates suffocate or leave, biodiversity collapses, and some blooms also release toxins harmful to animals and people."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Air pollution",
+      "detail": "Particulates, oxides of sulfur and nitrogen, ozone and photochemical smog, their sources and their health and ecological effects.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how photochemical smog forms and one health effect of fine particulate pollution.",
+          "answer": [
+            "Nitrogen oxides and volatile organic compounds are emitted largely by vehicles and industry.",
+            "In the presence of sunlight they react to form ground-level ozone and other secondary pollutants, which is photochemical smog.",
+            "Formation is greatest on warm, still, sunny days, particularly where a temperature inversion traps air near the ground.",
+            "Fine particulates penetrate deep into the lungs and enter the bloodstream, causing and worsening respiratory and cardiovascular disease."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Soil degradation and contamination",
+      "detail": "Erosion, salinity, acidification, compaction and chemical contamination, and their effects on productivity and ecosystems.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain two causes of soil degradation and a management strategy for one of them.",
+          "answer": [
+            "Erosion occurs when vegetation cover is removed, leaving soil exposed to wind and water, and topsoil is lost far faster than it forms.",
+            "Salinity occurs when clearing deep-rooted vegetation raises the water table, bringing dissolved salts into the root zone.",
+            "Erosion is managed by maintaining ground cover, contour ploughing, windbreaks and controlled grazing that prevents overstocking.",
+            "Salinity is managed by revegetation with deep-rooted species, improved irrigation efficiency and drainage to lower water tables."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Bioaccumulation and biomagnification",
+      "detail": "The accumulation of persistent pollutants in organisms and their concentration up food chains.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish bioaccumulation from biomagnification and explain why top predators are most affected.",
+          "answer": [
+            "Bioaccumulation is the build-up of a substance within an individual organism over its lifetime, because intake exceeds the rate of breakdown or excretion.",
+            "Biomagnification is the increase in concentration at each successive trophic level of a food chain.",
+            "A predator consumes many prey animals, each already carrying an accumulated load, so the contaminant concentrates in its tissues.",
+            "Top predators therefore carry the highest concentrations, which is why species such as raptors and large fish are used as indicators of persistent pollution."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3 AoS 2 — Pollution and its management",
+      "title": "Managing pollution",
+      "detail": "Regulation and standards, market instruments, technology, remediation, and the principles of prevention, polluter pays and precaution.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the polluter pays and precautionary principles and one strength of each.",
+          "answer": [
+            "The polluter pays principle holds that the party causing pollution should bear the cost of managing or remedying it.",
+            "Its strength is that it internalises the external cost, creating a financial incentive to reduce pollution at source.",
+            "The precautionary principle holds that where there is a threat of serious or irreversible damage, a lack of full scientific certainty should not be used to postpone action.",
+            "Its strength is that it protects against irreversible harm during the period before evidence becomes conclusive, when waiting would foreclose the option of acting."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "The greenhouse effect",
+      "detail": "The natural greenhouse effect, the enhanced greenhouse effect, the major greenhouse gases and their relative warming potentials.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the difference between the natural and the enhanced greenhouse effect.",
+          "answer": [
+            "Solar radiation passes through the atmosphere and warms the surface, which re-emits energy as longer wavelength infrared radiation.",
+            "Greenhouse gases absorb some of this outgoing infrared radiation and re-emit it in all directions, warming the lower atmosphere.",
+            "This natural effect keeps the earth roughly 33 degrees warmer than it would otherwise be and makes life possible.",
+            "The enhanced effect is the additional warming caused by human emissions raising greenhouse gas concentrations, which traps more outgoing radiation and raises average temperatures."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "Evidence for climate change",
+      "detail": "Instrumental records, ice cores, tree rings, sea level and ice extent data, and the convergence of independent lines of evidence.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe three independent lines of evidence for recent climate change and explain why convergence matters.",
+          "answer": [
+            "Instrumental temperature records from land stations, ships and satellites show rising global average temperature since the industrial era.",
+            "Ice cores provide past temperature and atmospheric composition, showing current carbon dioxide concentrations far above the range of recent hundreds of thousands of years.",
+            "Physical indicators including glacier retreat, declining sea ice extent, rising sea level and earlier spring events corroborate the temperature record.",
+            "Convergence matters because these methods have different assumptions and error sources, so agreement between them cannot be explained by a fault in any single method."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "Feedback mechanisms",
+      "detail": "Positive feedbacks such as ice-albedo and permafrost methane release, negative feedbacks, and the concept of tipping points.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the ice-albedo feedback and why positive feedbacks make prediction difficult.",
+          "answer": [
+            "Ice and snow have high albedo and reflect most incoming solar radiation back to space.",
+            "Warming melts ice, exposing darker ocean or land with much lower albedo, which absorbs more radiation and causes further warming.",
+            "This is a positive feedback because the output of the process amplifies the input that produced it.",
+            "Positive feedbacks complicate prediction because the response is not proportional to the forcing, and beyond a tipping point the change may continue without further human emissions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "Impacts of climate change",
+      "detail": "Effects on temperature extremes, rainfall, sea level, ocean acidification, ecosystems, agriculture and human settlement.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain ocean acidification and its ecological consequences.",
+          "answer": [
+            "The ocean absorbs a substantial proportion of atmospheric carbon dioxide, which reacts with water to form carbonic acid.",
+            "This lowers ocean pH and reduces the concentration of carbonate ions available in the water.",
+            "Organisms that build shells and skeletons from calcium carbonate, including corals, molluscs and some plankton, find it harder to form and maintain those structures.",
+            "Because many of these species are at the base of marine food webs or build reef habitat, the effects propagate through entire ecosystems."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "Mitigation",
+      "detail": "Reducing emissions at source, carbon sequestration, changes in energy, transport, industry and land use, and the role of policy.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish mitigation from adaptation and give two examples of each.",
+          "answer": [
+            "Mitigation reduces the magnitude of climate change by reducing greenhouse gas emissions or removing gases from the atmosphere.",
+            "Examples include replacing fossil generation with renewables, and reforestation to sequester carbon.",
+            "Adaptation reduces the harm from changes that are already occurring or now unavoidable.",
+            "Examples include building sea walls and drainage for higher sea levels, and shifting to drought-tolerant crop varieties; both are needed, since past emissions commit the climate to further change."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.6",
+      "area": "Unit 4 AoS 1 — Climate change",
+      "title": "Responses and their evaluation",
+      "detail": "International agreements, national targets, carbon pricing and offsets, and criteria for judging whether a response is effective.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how carbon pricing is intended to reduce emissions and two criticisms of it.",
+          "answer": [
+            "Carbon pricing attaches a cost to emitting greenhouse gases, either through a tax or through a cap and trade market.",
+            "This internalises the external cost, making low-emission alternatives relatively cheaper and creating an incentive to abate wherever it is cheapest.",
+            "One criticism is that it is regressive, since energy costs consume a larger share of low income household budgets unless revenue is redistributed.",
+            "Another is that emissions may simply relocate to jurisdictions without a price, which is carbon leakage, so the global reduction is smaller than the national figures suggest."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Levels of biodiversity",
+      "detail": "Genetic, species and ecosystem diversity, how each is measured and why each matters for resilience.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the three levels of biodiversity and explain why genetic diversity matters for a population's survival.",
+          "answer": [
+            "The three levels are genetic diversity within a species, species diversity within an ecosystem and ecosystem diversity across a region.",
+            "Genetic diversity is the variation in alleles present within a population.",
+            "A population with high genetic diversity is more likely to contain individuals with alleles suited to new conditions such as disease or climate change.",
+            "A population with low diversity has less raw material for natural selection, so it is far more vulnerable to being eliminated by a single pressure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Ecosystem services",
+      "detail": "Provisioning, regulating, supporting and cultural services, and the difficulty of valuing them in economic decisions.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name the four categories of ecosystem service with an example of each, and explain why they are often undervalued.",
+          "answer": [
+            "Provisioning services supply tangible goods such as food, timber, fresh water and medicines.",
+            "Regulating services include climate regulation, pollination, water purification and flood control.",
+            "Supporting services such as soil formation and nutrient cycling underpin all the others, and cultural services include recreation and spiritual value.",
+            "They are undervalued because most are not traded in markets and have no price, so decisions based on financial cost alone treat them as free."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Threats to biodiversity",
+      "detail": "Habitat loss and fragmentation, invasive species, overexploitation, pollution and climate change, and their interaction.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how habitat fragmentation threatens biodiversity beyond the direct loss of area.",
+          "answer": [
+            "Fragmentation divides continuous habitat into isolated patches separated by cleared or developed land.",
+            "Small patches support smaller populations, which are more vulnerable to genetic drift, inbreeding and local extinction.",
+            "Isolation prevents movement between patches, so recolonisation after a local loss becomes unlikely and gene flow is restricted.",
+            "Increased edge relative to interior alters microclimate, light and wind and allows predators and weeds to penetrate, degrading the remaining habitat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Invasive species",
+      "detail": "The characteristics of successful invaders, their ecological and economic impacts, and management approaches.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why introduced species can become invasive and describe two management approaches.",
+          "answer": [
+            "An introduced species often arrives without the predators, parasites and competitors that limited it in its native range.",
+            "If it also reproduces rapidly, disperses widely and tolerates a range of conditions, its population can expand without natural control.",
+            "Prevention through biosecurity and border inspection is the most cost-effective approach, since eradication after establishment is far harder.",
+            "Control methods include physical removal, targeted baiting and biological control, though biological control requires extensive testing to ensure the agent does not attack native species."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Conservation strategies",
+      "detail": "Protected areas, wildlife corridors, captive breeding, revegetation, and the comparison of in situ and ex situ conservation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Compare in situ and ex situ conservation, giving an advantage and a limitation of each.",
+          "answer": [
+            "In situ conservation protects species within their natural habitat, through reserves, corridors and habitat restoration.",
+            "Its advantage is that it conserves the whole ecosystem and allows natural selection and ecological relationships to continue.",
+            "Ex situ conservation maintains species outside their habitat, in zoos, botanic gardens or seed banks.",
+            "Its advantage is protecting species whose habitat is too degraded to sustain them, but populations are small, adaptation to captivity can occur, and reintroduction often fails without habitat restoration."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.6",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Indigenous land management",
+      "detail": "The role of Traditional Owner knowledge and practice, including cultural burning, in maintaining ecosystems and biodiversity.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how cultural burning differs from hazard reduction burning and its ecological benefits.",
+          "answer": [
+            "Cultural burning uses frequent, low-intensity, small-scale fires timed according to detailed knowledge of season, weather and the condition of particular Country.",
+            "It is applied selectively rather than as broad-area treatment, and is guided by the requirements of specific plants and animals.",
+            "Ecologically it maintains a mosaic of vegetation at different stages, which supports species with different habitat requirements.",
+            "It also reduces fuel loads gradually, lowering the risk of high-intensity fire that destroys canopy, soil structure and seed banks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.7",
+      "area": "Unit 4 AoS 2 — Biodiversity and ecosystems",
+      "title": "Monitoring and indicator species",
+      "detail": "The use of indicator species, ecological surveys and long-term monitoring to detect environmental change.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what makes a species a useful environmental indicator and give an example.",
+          "answer": [
+            "A useful indicator is sensitive to the environmental change of interest, responding measurably before the wider ecosystem is affected.",
+            "It should be well studied, easily identified and sampled, and widely distributed so comparisons can be made across sites.",
+            "Aquatic macroinvertebrates are used to indicate water quality, since particular groups tolerate very different levels of pollution and oxygen.",
+            "The composition of the community therefore reflects conditions over time, rather than the single moment that a chemical test measures."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.3.1",
+      "area": "Unit 4 AoS 3 — Scientific investigation",
+      "title": "Designing an environmental investigation",
+      "detail": "Developing a question, selecting a methodology, planning field or laboratory work and identifying controls and limitations.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why controlling variables is harder in field investigations than in the laboratory, and how investigators respond.",
+          "answer": [
+            "Field conditions such as weather, soil, aspect and species composition vary continuously and cannot be held constant.",
+            "Investigators therefore control what they can, such as sampling at the same time of day and using the same technique at every site.",
+            "They increase the number of replicates so random variation averages out rather than dominating the result.",
+            "They also record uncontrolled conditions, so these can be considered when interpreting results and acknowledged as limitations."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.3.2",
+      "area": "Unit 4 AoS 3 — Scientific investigation",
+      "title": "Processing and presenting environmental data",
+      "detail": "Tabulating and graphing field data, calculating means and percentage cover, and choosing representations that show a pattern clearly.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "A student samples species richness at six distances along a transect. State the appropriate graph and justify the choice.",
+          "answer": [
+            "A line graph or scatter plot with a line of best fit is appropriate, with distance on the horizontal axis.",
+            "Distance is a continuous independent variable, so intermediate values are meaningful and a connected or fitted line shows the trend.",
+            "The graph should show every replicate or include error bars, so the variability behind each mean is visible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.3.3",
+      "area": "Unit 4 AoS 3 — Scientific investigation",
+      "title": "Analysing, evaluating and communicating",
+      "detail": "Identifying trends, distinguishing correlation from causation, evaluating the method and communicating findings to an audience.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "A student finds lichen cover increases with distance from a road and concludes vehicle pollution kills lichen. Evaluate this conclusion.",
+          "answer": [
+            "The data establish a correlation between distance and lichen cover, which is consistent with the hypothesis.",
+            "They do not establish causation, since the investigation did not manipulate pollution levels or exclude other variables.",
+            "Confounding factors could explain the pattern, including changes in light, humidity, tree age or disturbance with distance from the road.",
+            "The conclusion should state that the results are consistent with an effect of vehicle pollution, and identify what further evidence, such as direct air quality measurement, would be required."
+          ]
+        }
+      ]
+    }
+  ]
+}

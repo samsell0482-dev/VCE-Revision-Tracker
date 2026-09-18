@@ -1,0 +1,604 @@
+{
+  "id": "literature-34",
+  "name": "Literature",
+  "areas": [
+    "Unit 3 AoS 1 — Adaptations and transformations",
+    "Unit 3 AoS 2 — Developing interpretations",
+    "Unit 4 AoS 1 — Creative responses to texts",
+    "Unit 4 AoS 2 — Close analysis",
+    "Literary form and technique",
+    "Literary theory and critical lenses",
+    "Exam technique"
+  ],
+  "short": {
+    "Unit 3 AoS 1 — Adaptations and transformations": "U3 Adaptations",
+    "Unit 3 AoS 2 — Developing interpretations": "U3 Interpretations",
+    "Unit 4 AoS 1 — Creative responses to texts": "U4 Creative response",
+    "Unit 4 AoS 2 — Close analysis": "U4 Close analysis",
+    "Literary form and technique": "Form and technique",
+    "Literary theory and critical lenses": "Critical lenses",
+    "Exam technique": "Exam technique"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Literature Study Design, Units 3 and 4. Set texts differ between schools, so checkpoints are skills-based and should be applied to the texts you are studying. Checklist numbers are internal tracker IDs.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/literature",
+  "sourceLabel": "VCAA Literature study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Most ask you to apply a skill to a text you are studying rather than testing recall of a particular work.",
+  "theme": {
+    "accent": "#6d3f5e"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/literature",
+  "points": [
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Adaptations and transformations",
+      "title": "What changes in an adaptation",
+      "detail": "Identifying what is retained, altered, added and omitted when a text moves between forms, and treating each change as a deliberate choice.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the four categories of change to look for when comparing a text with its adaptation.",
+          "answer": [
+            "Retention: what has been kept, which indicates what the adapter judged essential to the work.",
+            "Alteration: what has been changed in sequence, emphasis, character or setting.",
+            "Addition: what the adaptation supplies that the original lacks, often to suit a new audience or the demands of the new form.",
+            "Omission: what has been cut, which is frequently the most revealing category, since it shows what the adapter considered dispensable or unrepresentable."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Adaptations and transformations",
+      "title": "The demands of the new form",
+      "detail": "How the conventions and limits of a form require change, and distinguishing changes forced by form from changes made for interpretation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between a change an adapter makes because the new form requires it and a change made for interpretive reasons.",
+          "answer": [
+            "Formal changes follow from the medium's constraints, such as compressing a long novel into a two-hour film or externalising interior thought as dialogue.",
+            "Interpretive changes alter meaning, such as making a morally ambiguous character straightforwardly sympathetic.",
+            "The distinction matters because only interpretive changes support an argument about how the adaptation reads the original.",
+            "Many changes are both, so the strongest analysis explains how a necessary formal decision was made in a way that also carries interpretation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Adaptations and transformations",
+      "title": "Context of production and reception",
+      "detail": "How the time, place and culture of each text shapes what it can say, and how the gap between the two contexts produces transformation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a gap in time between a text and its adaptation produces changes in meaning.",
+          "answer": [
+            "Values change, so material that the original audience accepted may read as offensive or absurd to a later one.",
+            "Adapters may therefore revise characters or resolutions to align with the later audience's expectations.",
+            "New concerns can be read back into the original, so an adaptation often emphasises themes the source treats only glancingly.",
+            "The adaptation therefore becomes evidence of its own moment as much as an interpretation of the original."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Adaptations and transformations",
+      "title": "Voice, perspective and focalisation in adaptation",
+      "detail": "How a change of narrator or point of view redistributes sympathy and knowledge between characters.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the effect of an adaptation shifting the narrative perspective from one character to another.",
+          "answer": [
+            "Perspective determines whose interiority the audience accesses and whose interpretation of events frames the narrative.",
+            "Shifting it grants the new focal character motive and complexity while reducing the former narrator to an object of observation.",
+            "Sympathy usually follows access, so the change redistributes the audience's allegiance.",
+            "It can also change the text's argument entirely, for example turning a story about a protagonist's triumph into one about its cost to others."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Adaptations and transformations",
+      "title": "Writing about both texts together",
+      "detail": "Structuring a comparative response around ideas rather than treating each text in turn, and using precise evidence from both.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to structure a response comparing a text and its adaptation.",
+          "answer": [
+            "Organise paragraphs around an idea, feature or effect rather than devoting the first half to one text and the second to the other.",
+            "Within each paragraph, move between the texts using comparative connectives such as whereas, by contrast and similarly.",
+            "Use precise evidence from both, quoting the written text and referring to specific moments and techniques in the adaptation.",
+            "Argue about the significance of the difference rather than simply noting that it exists."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Developing interpretations",
+      "title": "What an interpretation is",
+      "detail": "An argued reading of a text supported by textual evidence, distinguished from summary, personal response and received opinion.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what distinguishes an interpretation from a summary or a personal response.",
+          "answer": [
+            "A summary reports what happens in the text and makes no argument.",
+            "A personal response records the reader's reaction without necessarily grounding it in the text's construction.",
+            "An interpretation makes an arguable claim about the text's meaning and supports it with close reference to language, structure and form.",
+            "It must be contestable, since a claim no one could reasonably dispute is an observation rather than an interpretation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Developing interpretations",
+      "title": "Views and values",
+      "detail": "Identifying what a text endorses, questions or leaves unresolved, and locating the evidence in narrative outcome, structure and language.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three places in a text where its values become visible.",
+          "answer": [
+            "Narrative outcome: which characters are rewarded and which are punished functions as the text's judgement.",
+            "Language and tone: the diction used to describe a character or idea signals approval, irony or contempt.",
+            "Structure: what the text gives space to, what it withholds and where it ends all indicate what it treats as significant.",
+            "Silences matter too, since what a text cannot or will not address is itself evidence of the assumptions it works within."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Developing interpretations",
+      "title": "Using a supplementary reading",
+      "detail": "Engaging with a critical perspective as an argument to be tested, rather than as authority to be quoted for support.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a supplementary critical reading should be used in developing an interpretation.",
+          "answer": [
+            "Summarise the critic's argument accurately, identifying the claim rather than only quoting a striking phrase.",
+            "Test it against the text by examining passages that support it and passages that complicate it.",
+            "Use the engagement to sharpen your own position, which may extend, qualify or resist the critic's reading.",
+            "Dropping a quotation in for authority without engagement adds nothing, since the marks are for the reasoning it prompts."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Developing interpretations",
+      "title": "Ambiguity and complexity",
+      "detail": "Treating tension and contradiction within a text as material for interpretation rather than as a problem to be resolved or hidden.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to handle a passage that appears to contradict your interpretation.",
+          "answer": [
+            "Address it directly, since ignoring conspicuous counter-evidence weakens the argument and the examiner will notice the omission.",
+            "Consider whether the contradiction indicates that your claim needs refining rather than abandoning, for example from endorsement to ambivalence.",
+            "Argue that the tension is itself part of the text's meaning where the evidence supports that reading.",
+            "The most sophisticated interpretations treat contradiction as the subject of analysis rather than an obstacle to it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Developing interpretations",
+      "title": "Developing an interpretation over time",
+      "detail": "Revising a reading as evidence accumulates, and recognising that a first response is a starting point rather than a conclusion.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why a first reading of a text rarely produces a strong interpretation.",
+          "answer": [
+            "A first reading is occupied with following plot and establishing who is who, leaving little attention for construction.",
+            "Patterns such as recurring imagery, structural parallels and shifts in voice only become visible once the whole text is known.",
+            "Rereading with a question in mind directs attention to the evidence that matters, which is how an interpretation is built rather than guessed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Creative responses to texts",
+      "title": "Purpose of the creative response",
+      "detail": "Writing into a text to illuminate it, exploring a gap, a silenced perspective or an alternative outcome while remaining answerable to the original.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what makes a creative response to a text successful.",
+          "answer": [
+            "It demonstrates close understanding of the original through its handling of character, context and concerns.",
+            "It occupies a genuine opening in the original, such as an untold episode, a minor character's perspective or an unresolved ending.",
+            "It is answerable to the original, so characters behave consistently with what the text establishes unless departure is the point.",
+            "It uses the writing itself to advance an interpretation, so the creative decisions constitute an argument about the text."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Creative responses to texts",
+      "title": "Working with gaps and silences",
+      "detail": "Identifying what a text leaves out, whose perspective is absent and where the narrative declines to explain, as openings for creative work.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to identify a productive gap in a text for a creative response.",
+          "answer": [
+            "Look for characters who act significantly but are never given interiority, particularly those marginalised by the narrative.",
+            "Look for time the narrative skips, such as years between sections or events reported rather than shown.",
+            "Look for endings that withhold resolution, or explanations the text declines to give.",
+            "A productive gap is one where filling it changes how the original reads, rather than merely adding decorative detail."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Creative responses to texts",
+      "title": "Voice and style in the creative response",
+      "detail": "Matching, extending or deliberately departing from the original's voice, and sustaining that decision consistently.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the choice between imitating the original's style and writing in a deliberately different one.",
+          "answer": [
+            "Imitating the style demonstrates close attention to the original's diction, syntax and rhythm, and lets the response sit within the text's world.",
+            "A deliberately contrasting style can expose the limits of the original's voice, for example giving a modern idiom to a silenced character.",
+            "Either choice must be consistent and purposeful, since an unintended drift between styles reads as loss of control.",
+            "The reflective commentary should explain which was chosen and why it serves the interpretation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Creative responses to texts",
+      "title": "The reflective commentary",
+      "detail": "Explaining the interpretive decisions behind the creative piece with reference to both your own writing and the original text.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "State what a reflective commentary on a creative response must contain.",
+          "answer": [
+            "The interpretation of the original that the creative piece advances, stated explicitly.",
+            "The specific decisions made about form, voice, structure and perspective, quoted or referenced from your own writing.",
+            "Evidence from the original text showing what prompted or licensed those decisions.",
+            "An explanation of how the creative choices illuminate the original, rather than a narrative account of how the piece was written."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Close analysis",
+      "title": "Reading a passage closely",
+      "detail": "Attending to diction, syntax, imagery, rhythm, structure and shifts within a short extract, and building from detail to significance.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe the process of analysing a passage closely under exam conditions.",
+          "answer": [
+            "Read the passage first for its movement, noting where its tone, focus or voice shifts.",
+            "Mark specific features: unusual word choices, patterns of imagery, sentence length and structure, repetition and punctuation.",
+            "Ask what each feature does to the reader rather than simply naming it.",
+            "Build from those details to a claim about the passage's significance within the whole text, so the analysis argues rather than annotates."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Close analysis",
+      "title": "Selecting and linking passages",
+      "detail": "Choosing passages that let you build a cumulative argument, and connecting them so the response develops rather than repeats.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to choose and connect passages in a close analysis response.",
+          "answer": [
+            "Choose passages from different points in the text so the analysis can trace development rather than describing one moment three times.",
+            "Choose passages rich enough in language to sustain detailed analysis, rather than those that are merely eventful.",
+            "Connect them with an idea that each passage advances, so the response accumulates towards a position.",
+            "Explicit links should state what the second passage adds to or complicates in the first, rather than simply moving on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Close analysis",
+      "title": "From detail to argument",
+      "detail": "Ensuring each observation about language is connected to a claim about meaning, and avoiding technique-spotting.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why identifying techniques is not close analysis, and give the structure of an analytical sentence.",
+          "answer": [
+            "Naming a device records an observation but makes no claim about meaning, so it earns little credit on its own.",
+            "Close analysis explains what the choice does: the connotation carried, the effect produced and the contribution to the text's concerns.",
+            "A workable structure is the specific evidence, the effect of that choice, and the link to the interpretation being argued.",
+            "The test is whether the sentence would change if the technique were named differently; if not, the analysis is not doing any work."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Close analysis",
+      "title": "Placing a passage in the whole text",
+      "detail": "Explaining where a passage sits, what precedes and follows it, and how it contributes to the text's development.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why a close analysis must locate the passage within the whole text.",
+          "answer": [
+            "Meaning depends on position, since a passage reads differently before and after a revelation or a shift in the narrative.",
+            "Locating it allows you to argue about development, showing how the text's concerns have altered by this point.",
+            "It also demonstrates knowledge of the whole work rather than of three extracts, which examiners reward."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "area": "Literary form and technique",
+      "title": "Prose fiction",
+      "detail": "Narrative perspective, focalisation, free indirect discourse, tense, structure, characterisation, motif and symbolism in novels and short fiction.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain free indirect discourse and its effect on the reader's relationship with a character.",
+          "answer": [
+            "Free indirect discourse renders a character's thoughts in third person narration without quotation marks or attribution.",
+            "The narrative voice takes on the character's idiom and preoccupations while remaining formally outside them.",
+            "This creates intimacy, since the reader inhabits the character's perception, while retaining the possibility of ironic distance.",
+            "It allows a text to convey a character's self-justification while quietly indicating its inadequacy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "area": "Literary form and technique",
+      "title": "Poetry",
+      "detail": "Form, metre and rhythm, line break and enjambment, stanza, rhyme, sound patterning, image, persona and the relation of form to meaning.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the form of a poem can carry meaning, using two formal features.",
+          "answer": [
+            "Enjambment runs a sentence across a line break, creating momentum, hesitation or a double meaning at the line's end.",
+            "A fixed form such as the sonnet sets up expectations of turn and resolution, so departures from it are significant.",
+            "Metrical regularity can suggest control or constraint, and a break in the pattern draws attention to the word or moment where it occurs.",
+            "Form is therefore evidence, and analysis should explain what the formal choice does rather than merely identifying it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "area": "Literary form and technique",
+      "title": "Drama",
+      "detail": "Dialogue and subtext, stage directions, dramatic irony, soliloquy and aside, staging and the difference between reader and audience.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the concept of subtext in drama and how a reader identifies it.",
+          "answer": [
+            "Subtext is what a character means or feels beneath what they actually say.",
+            "It is identified through the gap between dialogue and situation, where a character's words do not match what the audience knows.",
+            "Stage directions, pauses, interruptions and evasions signal that the surface conversation is not the real one.",
+            "Analysis should explain what the gap reveals about the character and what it makes the audience understand that the characters do not say."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "area": "Literary form and technique",
+      "title": "Non-fiction and life writing",
+      "detail": "Memoir, essay and reportage, the construction of a narrating self, selection and shaping of real events, and the claims to truth these forms make.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why memoir should be read as a constructed text rather than a transparent record.",
+          "answer": [
+            "Memoir selects from a life, and selection is interpretation, since what is omitted shapes meaning as much as what is included.",
+            "The narrating self is a construction, often distinguishable from the remembered self, which allows retrospective judgement.",
+            "Structure imposes a shape on events that they did not possess as they happened, such as a trajectory towards insight.",
+            "Reading it as constructed does not accuse the writer of dishonesty; it recognises that shaping is intrinsic to the form."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "area": "Literary form and technique",
+      "title": "Genre and convention",
+      "detail": "How genre sets expectations, and how texts use, resist or subvert convention to produce meaning.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a text's relationship to genre conventions can carry meaning.",
+          "answer": [
+            "Genre creates expectations about setting, character type, plot pattern and resolution, which the reader brings to the text.",
+            "Fulfilling convention produces reassurance and allows the text to concentrate attention elsewhere.",
+            "Withholding an expected outcome, such as a romance that denies its union, makes the absence conspicuous and meaningful.",
+            "Subversion works only where the convention is well established, since the effect depends on the reader's prior expectation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "area": "Literary form and technique",
+      "title": "Structure and time",
+      "detail": "Linear and non-linear ordering, framing, parallel plots, ellipsis and repetition, and the reader's experience of revelation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the ordering of events in a narrative shapes meaning.",
+          "answer": [
+            "Order determines what the reader knows at each point, so it controls suspense, sympathy and judgement.",
+            "Beginning at the end shifts the question from what happens to how and why, directing attention to cause and character.",
+            "Withholding information allows later revelation to reinterpret everything preceding it, making rereading part of the design.",
+            "Parallel or framed structures invite comparison between strands, so the juxtaposition itself becomes an argument."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L1",
+      "area": "Literary theory and critical lenses",
+      "title": "Reading through a critical lens",
+      "detail": "Using a theoretical perspective to ask particular questions of a text, and recognising what each lens illuminates and obscures.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what it means to read a text through a critical lens and one risk of doing so.",
+          "answer": [
+            "A critical lens directs attention to particular features by asking a characteristic set of questions of the text.",
+            "A feminist reading asks how gender is constructed and whose perspective the text privileges; a Marxist reading asks about class, labour and material interest.",
+            "Each lens illuminates what it is designed to find and is less attentive to what falls outside its questions.",
+            "The risk is imposing the framework rather than testing it, so the reading must remain answerable to the text's actual language."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L2",
+      "area": "Literary theory and critical lenses",
+      "title": "Feminist and gender readings",
+      "detail": "Attending to the construction of gender, the distribution of agency and voice, and the assumptions a text makes about women and men.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe three questions a feminist reading would ask of a text.",
+          "answer": [
+            "Whose perspective does the narrative adopt, and which characters are granted interiority and voice?",
+            "Who acts and who is acted upon, and how is agency distributed between male and female characters?",
+            "What outcomes does the text assign to women who conform and to those who resist, and what does that reward pattern endorse?",
+            "What does the text treat as natural about gender, and is that assumption ever made visible or questioned within the work?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L3",
+      "area": "Literary theory and critical lenses",
+      "title": "Marxist and class readings",
+      "detail": "Attending to labour, property, economic interest and the representation of class, and to whose material conditions the text makes visible.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what a Marxist reading attends to in a text, using an example of the kind of evidence it uses.",
+          "answer": [
+            "It attends to class relations, material interest and who owns and labours within the text's world.",
+            "It asks whose work makes the depicted life possible, and whether that labour is visible or invisible in the narrative.",
+            "Evidence includes descriptions of property, servants who appear without names, and the source of a character's income when the text declines to specify it.",
+            "It also asks whether the text's resolution reinforces or challenges the existing distribution of wealth and power."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L4",
+      "area": "Literary theory and critical lenses",
+      "title": "Postcolonial readings",
+      "detail": "Attending to empire, cultural authority, the representation of colonised peoples, and whose perspective a text treats as central or universal.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Describe the concerns of a postcolonial reading of a text.",
+          "answer": [
+            "It examines how the text represents colonised peoples and places, and whether they are given voice or function as setting.",
+            "It asks whose perspective is treated as normal or universal and whose is marked as other.",
+            "It attends to the presence of empire even when the text does not discuss it, such as wealth derived from distant colonies.",
+            "It also considers the text's own position in a literary culture shaped by empire, including which works became canonical and why."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L5",
+      "area": "Literary theory and critical lenses",
+      "title": "Reader response and changing readings",
+      "detail": "Meaning produced in the interaction between reader and text, and why the same work is read differently across time and by different readers.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why the same text can produce very different readings, and what this implies for an interpretation.",
+          "answer": [
+            "Readers bring their own knowledge, values and experience, which shape which features they notice and how they weigh them.",
+            "Texts are often genuinely ambiguous, supporting more than one coherent reading from the same evidence.",
+            "Historical distance changes what is visible, so concerns invisible to earlier readers become central for later ones.",
+            "This does not mean any reading is as good as any other: an interpretation is judged by how well it accounts for the text's language and how much of the text it can explain."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Exam technique",
+      "title": "Time allocation and passage selection",
+      "detail": "Dividing time between sections, choosing passages quickly and leaving time to develop the final response.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Describe how to use reading time effectively in a Literature examination.",
+          "answer": [
+            "Identify your texts and read the passages or prompts available for each before committing to a choice.",
+            "Choose on the basis of which material you can analyse in detail, not which is most familiar as plot.",
+            "Begin forming a line of argument during reading time, so that writing can start immediately rather than with a blank plan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Exam technique",
+      "title": "Avoiding retelling",
+      "detail": "Keeping plot summary to the minimum needed to orient the reader, and ensuring every reference to the text does analytical work.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why retelling the plot loses marks, and how to tell whether you are doing it.",
+          "answer": [
+            "Retelling reports what happens and demonstrates familiarity rather than interpretation, which is what Literature assesses.",
+            "A reliable test is whether a sentence could be written by someone who had read a summary rather than the text itself.",
+            "Every reference should be followed by analysis of how the text constructs that moment and what it means for your argument."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Exam technique",
+      "title": "Writing about texts with precision",
+      "detail": "Naming techniques and forms accurately, quoting briefly and correctly, and observing the conventions for titles and tense.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "State three conventions for writing about literary texts.",
+          "answer": [
+            "Write about the text in the present tense, since it continues to do what it does on every reading.",
+            "Italicise or underline titles of novels, plays and collections, and use quotation marks for individual poems and short stories.",
+            "Quote briefly and embed quotations within your own sentences, and attribute techniques to the author rather than to characters."
+          ]
+        }
+      ]
+    }
+  ]
+}

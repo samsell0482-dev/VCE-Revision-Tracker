@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test';
-import subjects from '../../src/subjects.json' with {type:'json'};
+import {subjects} from '../subjects.js';
 const added=['biology-34','chemistry-34','psychology-34','specialist-maths-34','business-management-34','legal-studies-34','economics-34'].map(id=>subjects.find(s=>s.id===id));
 test('every added subject is offered at setup and opens with all of its content',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));

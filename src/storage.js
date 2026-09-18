@@ -1,4 +1,7 @@
-import subjects from './subjects.json' with { type: 'json' };
+// The index carries every subject's point ids and question shapes, which is all
+// that validating saved progress requires. Full subject content is loaded on
+// demand by subject-loader.js and is never needed here.
+import subjects from './subjects-index.json' with { type: 'json' };
 export const selectionKey='vce-tracker:subjects:v1';
 export const practiceKey='vce-tracker:practice:v1';
 export const ratingKey=id=>'vce-tracker:'+id+':ratings';
@@ -12,7 +15,7 @@ export function cleanPractice(raw={}){
  const result={};
  for(const s of subjects)for(const p of s.points)for(const [i,q]of(p.questions||[]).entries())for(let r=0;r<3;r++){
  const key=[s.id,p.id,i,r].join('|'),a=raw?.[key];if(!a||typeof a!=='object')continue;
- result[key]={text:typeof a.text==='string'?a.text:'',choice:Number.isInteger(a.choice)&&a.choice>=0&&a.choice<(q.options?.length||0)?a.choice:null,revealed:a.revealed===true,score:Number.isInteger(a.score)&&a.score>=0&&a.score<=(q.marks||1)?a.score:null,checks:(q.answer||[]).map((_,j)=>!!a.checks?.[j])};
+ result[key]={text:typeof a.text==='string'?a.text:'',choice:Number.isInteger(a.choice)&&a.choice>=0&&a.choice<(q.options||0)?a.choice:null,revealed:a.revealed===true,score:Number.isInteger(a.score)&&a.score>=0&&a.score<=(q.marks||1)?a.score:null,checks:Array.from({length:q.answer||0},(_,j)=>!!a.checks?.[j])};
  }return result;
 }
 export function loadRatings(){return normalizeRatings(Object.fromEntries(subjects.map(s=>[s.id,read(ratingKey(s.id),{})])));}

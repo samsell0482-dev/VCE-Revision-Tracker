@@ -1,0 +1,587 @@
+{
+  "id": "global-politics-34",
+  "name": "Global Politics",
+  "areas": [
+    "Key concepts and actors",
+    "Unit 3 AoS 1 — Global actors and power",
+    "Unit 3 AoS 2 — Power in the Asia-Pacific",
+    "Unit 4 AoS 1 — Ethical issues and debates",
+    "Unit 4 AoS 2 — Global crises and responses",
+    "Exam technique and case studies"
+  ],
+  "short": {
+    "Key concepts and actors": "Concepts",
+    "Unit 3 AoS 1 — Global actors and power": "U3 Actors and power",
+    "Unit 3 AoS 2 — Power in the Asia-Pacific": "U3 Asia-Pacific",
+    "Unit 4 AoS 1 — Ethical issues and debates": "U4 Ethical issues",
+    "Unit 4 AoS 2 — Global crises and responses": "U4 Crises",
+    "Exam technique and case studies": "Exam technique"
+  },
+  "source": "Adapted revision checklist based on VCAA's VCE Australian and Global Politics Study Design, Units 3 and 4 Global Politics. Areas here are topic groupings, and checklist numbers are internal tracker IDs. Global politics changes rapidly, so verify current examples and events against news and official sources.",
+  "sourceUrl": "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/australian-and-global-politics",
+  "sourceLabel": "VCAA Australian and Global Politics study design",
+  "practiceNote": "These practice questions and marking guides are original revision exercises, not VCAA examination questions. Use current, specific contemporary examples in your own answers, since examiners expect recent evidence.",
+  "theme": {
+    "accent": "#2f5f7a"
+  },
+  "papers": "Use the VCAA examination specifications, past examinations and examination reports for official assessment resources.",
+  "papersUrl": "https://www.vcaa.vic.edu.au/assessment/vce/examination-specifications-past-examinations-and-examination-reports/australian-and-global-politics",
+  "points": [
+    {
+      "id": "C1",
+      "area": "Key concepts and actors",
+      "title": "Sovereignty",
+      "detail": "The supreme authority of a state over its territory and population, the difference between internal and external sovereignty, and the pressures that erode it.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Define sovereignty and explain two ways it is challenged in contemporary global politics.",
+          "answer": [
+            "Sovereignty is the supreme authority of a state over its territory and population, free from external interference.",
+            "Internal sovereignty is authority within borders; external sovereignty is recognition as an equal by other states.",
+            "Membership of international organisations requires states to accept rules and rulings they may not prefer, limiting their freedom of action.",
+            "Transnational forces such as global capital, climate change, migration and digital communication cross borders regardless of state consent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "area": "Key concepts and actors",
+      "title": "The state and the national interest",
+      "detail": "States as the primary actors, the components of national interest including security, economic prosperity and international standing.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what is meant by the national interest and why states may define it differently.",
+          "answer": [
+            "The national interest is what a state judges to be of greatest benefit to its people and its continued security and prosperity.",
+            "It typically includes national security, economic prosperity, regional stability and the promotion of national values or standing.",
+            "States define it differently because their geography, resources, history, alliances and domestic politics differ.",
+            "Definitions also shift with government, so the same state may pursue different priorities after an election."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "area": "Key concepts and actors",
+      "title": "Types of power",
+      "detail": "Hard, soft and smart power, economic and military instruments, and the relationship between capability and influence.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between hard power and soft power, giving an example of each, and explain smart power.",
+          "answer": [
+            "Hard power is coercion through military force or economic pressure, such as sanctions, tariffs or the deployment of armed forces.",
+            "Soft power is attraction, achieved through culture, values, diplomacy and aid, so that other actors want what you want.",
+            "Smart power combines both, using coercive capability alongside attraction and legitimacy to achieve objectives.",
+            "Capability does not automatically produce influence, since a state with great military power may still fail to change another state's behaviour."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "area": "Key concepts and actors",
+      "title": "Non-state actors",
+      "detail": "Intergovernmental organisations, non-government organisations, transnational corporations, terrorist organisations and social movements.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Name four types of non-state actor and explain how one of them exercises power.",
+          "answer": [
+            "Non-state actors include intergovernmental organisations, non-government organisations, transnational corporations, terrorist organisations and social movements.",
+            "Transnational corporations exercise power through control of capital, employment and supply chains across many states.",
+            "They can relocate investment and production, which gives them leverage over governments seeking jobs and revenue.",
+            "They also shape regulation through lobbying and through setting de facto global standards in their industries."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "area": "Key concepts and actors",
+      "title": "Realism and liberalism",
+      "detail": "The competing perspectives on why states behave as they do, and what each predicts about cooperation and conflict.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Compare realist and liberal explanations of state behaviour.",
+          "answer": [
+            "Realism holds that the international system is anarchic, so states pursue power and security and can rely ultimately only on themselves.",
+            "It predicts recurring competition, arms racing and limited durable cooperation, since agreements last only while they serve state interests.",
+            "Liberalism holds that cooperation is possible and rational, through institutions, trade, law and shared democratic values that reduce the incentive for conflict.",
+            "It predicts that interdependence and international organisations can constrain states, while realists reply that such constraints fail when core interests are at stake."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.1",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "The United Nations",
+      "detail": "The Security Council, General Assembly, Secretariat and agencies, the veto power and the debate about reform and effectiveness.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the structure of the UN Security Council and how the veto affects its effectiveness.",
+          "answer": [
+            "The Security Council has five permanent members holding the veto and ten elected non-permanent members serving two-year terms.",
+            "It is the only UN body whose resolutions are binding on member states, including the authorisation of force and sanctions.",
+            "Any permanent member can block a resolution regardless of majority support, so action is impossible where a permanent member's interests are engaged.",
+            "The veto was designed to keep great powers inside the organisation, but it means the Council is least able to act precisely in the conflicts that most involve major powers."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "International law and its enforcement",
+      "detail": "Treaties, customary law, the International Court of Justice and International Criminal Court, and the problem of enforcement without a global authority.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why international law is difficult to enforce and why states comply with it nonetheless.",
+          "answer": [
+            "There is no global authority above states with the power to compel compliance, so enforcement depends on states themselves.",
+            "Courts such as the ICJ generally require state consent to jurisdiction, and judgments cannot be enforced against an unwilling great power.",
+            "States nonetheless comply most of the time because law provides predictability and reciprocity that serve their interests.",
+            "Reputation also matters, since a state known for breaking agreements finds future cooperation, trade and alliance harder to obtain."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.3",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "Regional and economic organisations",
+      "detail": "The role of bodies such as the EU, ASEAN, the WTO and international financial institutions in shaping state behaviour.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how membership of a regional or economic organisation constrains and benefits a state.",
+          "answer": [
+            "Membership requires accepting common rules, dispute mechanisms and sometimes shared decision making, which limits independent action.",
+            "States accept these constraints because access to a larger market, investment and collective bargaining power outweighs the loss of autonomy.",
+            "Organisations also provide forums for managing disputes short of conflict and for coordinating responses to shared problems.",
+            "The trade-off becomes contested when domestic groups bear the costs of compliance, which is why membership is often politically divisive."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.4",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "Non-government organisations and social movements",
+      "detail": "How NGOs and movements influence agendas through advocacy, expertise, service delivery and mobilisation, and the limits on their power.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how NGOs influence global politics and one limitation on their influence.",
+          "answer": [
+            "They shape agendas by researching and publicising issues that states would prefer to ignore, and by supplying expertise to negotiations.",
+            "They deliver services directly in areas where states are absent or unwilling, which gives them operational knowledge and legitimacy.",
+            "They mobilise public opinion, which pressures governments through domestic electorates.",
+            "Their limitation is that they hold no sovereign authority and depend on funding and access, so states can exclude, defund or ignore them."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.5",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "Transnational corporations",
+      "detail": "Economic scale, mobility of capital, supply chains, tax practices and the relationship between corporate and state power.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the sources of transnational corporate power and how states attempt to constrain it.",
+          "answer": [
+            "Their power derives from capital, employment, technology and control of supply chains spanning many jurisdictions.",
+            "Mobility allows them to shift production and profit between states, so governments compete to attract them with tax and regulatory concessions.",
+            "States attempt to constrain them through competition law, environmental and labour regulation, and coordinated international tax agreements.",
+            "Constraint is difficult because a single state acting alone risks losing the investment, which is why cooperation between states is required."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.1.6",
+      "area": "Unit 3 AoS 1 — Global actors and power",
+      "title": "Terrorist organisations and asymmetric power",
+      "detail": "How non-state armed groups exert influence disproportionate to their resources, and the difficulties states face in responding.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why states find it difficult to respond to non-state armed groups.",
+          "answer": [
+            "Such groups have no territory to defend or population to protect, so conventional deterrence has little purchase.",
+            "They operate across borders and among civilian populations, making military force imprecise and politically costly.",
+            "Their aim is often to provoke an overreaction that damages the state's legitimacy and recruits support for their cause.",
+            "Effective responses therefore require intelligence, policing, disruption of finance and addressing grievances, which are slower and less visible than force."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.1",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "Defining the region",
+      "detail": "The Asia-Pacific and Indo-Pacific as contested geographic and strategic concepts, and the political significance of how the region is defined.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain why the definition of a region such as the Indo-Pacific is itself politically significant.",
+          "answer": [
+            "Defining a region determines which states are treated as central participants and which are peripheral or excluded.",
+            "The shift from Asia-Pacific to Indo-Pacific brings India into the strategic frame, which changes the balance of the grouping.",
+            "Definitions therefore reflect and advance strategic preferences rather than simply describing geography."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "The rise of China",
+      "detail": "Economic growth, military modernisation, infrastructure investment and diplomatic initiatives, and the debate about intentions.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain three instruments China uses to build influence in the Asia-Pacific.",
+          "answer": [
+            "Economic instruments: trade relationships, investment and infrastructure financing create dependence and goodwill.",
+            "Military instruments: naval expansion and the construction and fortification of features in contested waters assert claims and capability.",
+            "Diplomatic instruments: bilateral agreements, regional groupings and development assistance build partnerships outside existing alliance structures.",
+            "Soft power, through cultural institutes, education and media, seeks to make Chinese leadership appear attractive rather than coercive."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.3",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "The role of the United States",
+      "detail": "Alliance networks, forward-deployed forces, economic relationships and the debate about American commitment to the region.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the United States exercises power in the Asia-Pacific and why regional states question its commitment.",
+          "answer": [
+            "It maintains bilateral alliances and basing arrangements with partners including Japan, South Korea and Australia, providing security guarantees.",
+            "It deploys naval and air forces to assert freedom of navigation and to deter coercion.",
+            "Its economic weight and its role in international financial institutions extend influence beyond the military dimension.",
+            "Regional states question commitment because American domestic politics is volatile, priorities shift between administrations, and attention is often drawn to other regions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.4",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "Regional flashpoints",
+      "detail": "Maritime disputes, the Korean peninsula, Taiwan and border disputes, and the mechanisms that manage or escalate them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why maritime disputes are difficult to resolve, using the features common to such disputes.",
+          "answer": [
+            "Competing claims rest on different legal bases, including historical usage, continental shelf entitlements and exclusive economic zones.",
+            "The waters contain fisheries, hydrocarbons and major shipping routes, so the material stakes are high.",
+            "Claims are tied to national identity and domestic legitimacy, which makes compromise politically costly for any government.",
+            "International rulings can be rejected without effective enforcement, so legal processes do not settle the dispute in practice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.5",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "Middle powers and regional groupings",
+      "detail": "The strategies available to middle powers, including alliance, hedging and multilateralism, and the role of regional institutions.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the strategy of hedging and why middle powers in the region adopt it.",
+          "answer": [
+            "Hedging means avoiding a firm commitment to one great power while maintaining useful relationships with several.",
+            "Middle powers adopt it when their security partner and their largest trading partner are strategic rivals.",
+            "It preserves economic benefit while retaining security insurance, and avoids provoking either power unnecessarily.",
+            "The risk is that as competition sharpens, both powers demand clearer alignment and the space for hedging narrows."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.2.6",
+      "area": "Unit 3 AoS 2 — Power in the Asia-Pacific",
+      "title": "Australia's regional position",
+      "detail": "Australia's alliance relationships, economic dependence on regional trade, aid and diplomacy, and the tensions between them.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the central tension in Australia's regional strategic position.",
+          "answer": [
+            "Australia's principal security relationship and its largest trading relationship are with states that are strategic competitors.",
+            "Security alignment brings intelligence sharing, technology access and deterrence, which Australia's own capabilities could not provide alone.",
+            "Economic dependence means that deterioration in the trading relationship imposes real domestic costs, as trade restrictions have demonstrated.",
+            "Australia therefore attempts to sustain both, which requires careful management and produces criticism that it is committing too far in one direction or the other."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.1",
+      "area": "Unit 4 AoS 1 — Ethical issues and debates",
+      "title": "Human rights",
+      "detail": "The Universal Declaration and core treaties, the distinction between civil-political and economic-social rights, and the tension with sovereignty.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the tension between universal human rights and state sovereignty.",
+          "answer": [
+            "Human rights are claimed as universal, held by all people regardless of the state they live in.",
+            "Sovereignty holds that a state's treatment of its own population is a matter of domestic jurisdiction.",
+            "When a state abuses its population, these principles conflict directly, since acting to protect rights means interfering in another state's affairs.",
+            "Some states argue that universality reflects particular cultural assumptions, though critics respond that this argument is most often used by governments seeking to escape scrutiny."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "area": "Unit 4 AoS 1 — Ethical issues and debates",
+      "title": "Humanitarian intervention and the responsibility to protect",
+      "detail": "The doctrine that sovereignty entails responsibility, the criteria for intervention, and the record of its application.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the responsibility to protect doctrine and two criticisms of it.",
+          "answer": [
+            "The doctrine holds that states have a responsibility to protect their populations from genocide, war crimes, ethnic cleansing and crimes against humanity.",
+            "Where a state manifestly fails to do so, that responsibility passes to the international community, including collective action through the Security Council.",
+            "One criticism is inconsistency: intervention occurs where powerful states have interests and does not occur elsewhere, which undermines its claim to principle.",
+            "Another is that intervention can exceed its mandate and produce prolonged instability, which has made some states reluctant to authorise it again."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.3",
+      "area": "Unit 4 AoS 1 — Ethical issues and debates",
+      "title": "People movement and refugees",
+      "detail": "The definition of a refugee, the principle of non-refoulement, the distinction from other migrants, and the politics of border control.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Distinguish between a refugee and other categories of migrant, and explain the principle of non-refoulement.",
+          "answer": [
+            "A refugee is a person outside their country of nationality with a well-founded fear of persecution on specified grounds who cannot obtain protection there.",
+            "Internally displaced people have fled but remain within their own country, so they fall outside the refugee definition.",
+            "Economic migrants move primarily to improve living standards and do not attract the same protection obligations.",
+            "Non-refoulement prohibits returning a person to a place where they face persecution, and is the central obligation of the refugee protection regime."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.4",
+      "area": "Unit 4 AoS 1 — Ethical issues and debates",
+      "title": "Development and global inequality",
+      "detail": "Competing explanations for persistent inequality between states, and debates about aid, trade, debt and conditionality.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain two competing explanations for persistent inequality between states.",
+          "answer": [
+            "One explanation locates the causes internally, in governance, corruption, institutions, conflict and policy choices within poorer states.",
+            "A second locates them in the structure of the global economy, including terms of trade, debt, tariff barriers and the legacies of colonial extraction.",
+            "The two produce different prescriptions: internal explanations favour governance reform and conditional aid, structural explanations favour changing trade rules and debt relief.",
+            "Most analysts accept that both operate, and the disagreement concerns their relative weight and therefore what should be done."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.1.5",
+      "area": "Unit 4 AoS 1 — Ethical issues and debates",
+      "title": "Arms control and weapons of mass destruction",
+      "detail": "Non-proliferation regimes, deterrence theory, verification, and the difficulty of restraining states that perceive existential threat.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why non-proliferation regimes struggle to prevent states acquiring nuclear weapons.",
+          "answer": [
+            "A state that perceives an existential threat may regard nuclear weapons as the only reliable guarantee of survival.",
+            "Regimes rest on voluntary treaty commitments, and states can withdraw or refuse to join.",
+            "Verification requires intrusive inspection that states resist as an infringement of sovereignty, and civilian nuclear technology is dual-use.",
+            "Enforcement is inconsistent, since existing nuclear powers retain their own arsenals, which weakens the moral and political authority of the regime."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.1",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Climate change as a global crisis",
+      "detail": "The collective action problem, differentiated responsibility, international agreements and the gap between commitment and implementation.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why climate change is difficult to address through international cooperation.",
+          "answer": [
+            "It is a collective action problem: the benefits of mitigation are shared globally while the costs fall on the state that acts.",
+            "Every state therefore has an incentive to let others bear the cost, which weakens ambition across the board.",
+            "Responsibility is contested, since developed states produced most historical emissions while developing states argue they need growth.",
+            "Agreements rely largely on voluntary national commitments without effective enforcement, so pledges routinely exceed implementation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Armed conflict and its changing character",
+      "detail": "Interstate and intrastate conflict, proxy war, civil war internationalised by external intervention, and the effects on civilians.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how the character of armed conflict has changed and why this complicates international responses.",
+          "answer": [
+            "Most contemporary conflict is intrastate rather than between states, involving governments, armed groups and militias.",
+            "External powers frequently intervene indirectly by supporting proxies, which prolongs conflict while avoiding direct confrontation.",
+            "Fighting occurs among civilian populations, so casualties and displacement are high and combatants are difficult to distinguish.",
+            "International mechanisms were designed largely for interstate war, so their tools of recognition, negotiation and peacekeeping fit these conflicts poorly."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Terrorism and counter-terrorism",
+      "detail": "Definitional contestation, causes, state responses and the tension between security measures and civil liberties.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain why defining terrorism is politically contested and one consequence of that contest.",
+          "answer": [
+            "Definitions turn on the use of violence against civilians for political purposes, but states disagree on whether state violence is included.",
+            "Groups regarded as terrorists by one government are regarded as legitimate resistance by another, so the label is itself a political act.",
+            "No universally accepted definition exists in international law, which obstructs coordinated legal responses.",
+            "It also allows governments to apply counter-terrorism powers to domestic political opponents, which is why the definitional question has practical consequences for civil liberties."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.4",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Pandemics and global health security",
+      "detail": "The cross-border character of disease, the role of the WHO, vaccine distribution and the tension between national and collective responses.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the tension between national and collective responses to a pandemic.",
+          "answer": [
+            "Governments are accountable to their own populations, so they prioritise securing supplies and protecting citizens first.",
+            "Border closures, export restrictions and the purchase of vaccine supply beyond domestic need follow from that accountability.",
+            "Collectively, this is self-defeating, since uncontrolled transmission anywhere generates variants that cross borders regardless.",
+            "Effective collective action requires surveillance, sharing and equitable distribution, but no authority can compel states to prioritise it over domestic demands."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.5",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Economic crises and global governance",
+      "detail": "The transmission of financial shocks, the role of international financial institutions and debates about their governance and conditionality.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how a financial crisis in one state transmits internationally and what international institutions do in response.",
+          "answer": [
+            "Financial institutions hold assets and liabilities across borders, so losses in one market impose losses on institutions elsewhere.",
+            "Trade and investment links transmit the shock to the real economy, reducing demand for exports and withdrawing capital from vulnerable economies.",
+            "International financial institutions provide emergency lending to stabilise currencies and prevent default.",
+            "Such lending is usually conditional on policy changes, which is criticised for imposing austerity that deepens hardship and for reflecting the priorities of the institutions' largest shareholders."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.2.6",
+      "area": "Unit 4 AoS 2 — Global crises and responses",
+      "title": "Evaluating the effectiveness of responses",
+      "detail": "Assessing whether a global response achieved its objectives, using criteria of authority, resources, compliance and measurable outcomes.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain the criteria you would use to evaluate the effectiveness of an international response to a global crisis.",
+          "answer": [
+            "Whether the response had a clear mandate and the legal authority to act, since contested authority undermines compliance.",
+            "Whether the resources committed matched the scale of the problem, as pledges frequently exceed actual disbursement.",
+            "Whether states complied in practice, which can be measured against their stated commitments.",
+            "Whether measurable outcomes improved, and whether improvement can be attributed to the response rather than to other factors."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X1",
+      "area": "Exam technique and case studies",
+      "title": "Using contemporary evidence",
+      "detail": "Supporting every claim with specific, recent and accurately dated examples rather than general assertions about global politics.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain what makes evidence strong in a Global Politics response.",
+          "answer": [
+            "It names the specific actors, the action taken and approximately when it occurred.",
+            "It is recent, since examiners expect contemporary evidence and the study design emphasises current global politics.",
+            "It is directly relevant to the claim being made, rather than included because it is well known.",
+            "It is accurate, since a misremembered event or date undermines the credibility of the whole argument."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X2",
+      "area": "Exam technique and case studies",
+      "title": "Building an argument with perspectives",
+      "detail": "Using realist and liberal perspectives to structure analysis, and reaching a supported judgement rather than presenting both sides neutrally.",
+      "questions": [
+        {
+          "marks": 4,
+          "q": "Explain how to use competing perspectives in an essay without simply describing both.",
+          "answer": [
+            "Use each perspective to generate an explanation of the same event, showing what each makes visible.",
+            "Test both against the evidence, identifying which better accounts for what actually occurred.",
+            "Reach a judgement about which is more persuasive in this case, and explain why.",
+            "Presenting both without evaluation describes theory rather than analysing politics, and does not answer an evaluative question."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X3",
+      "area": "Exam technique and case studies",
+      "title": "Command terms and mark allocation",
+      "detail": "Matching depth to the command term and marks available, and addressing every element of a multi-part question.",
+      "questions": [
+        {
+          "marks": 3,
+          "q": "Explain how 'analyse' and 'evaluate' differ in Global Politics responses.",
+          "answer": [
+            "Analyse requires breaking the issue into components and examining how they relate, showing causes, effects and interactions.",
+            "Evaluate requires weighing effectiveness, significance or validity and reaching an explicit supported judgement.",
+            "An evaluative response that stops at analysis, without stating a conclusion, cannot access the highest marks."
+          ]
+        }
+      ]
+    }
+  ]
+}
