@@ -28,7 +28,10 @@ No installation or build tools are required.
 
 1. Download or clone this repository.
 2. Open `My-VCE-revision-tracker.html` in a modern web browser.
-3. Choose a subject and click a numbered pass box to cycle through confidence levels.
+3. On your first visit, select the subjects you study and choose **Start revising**.
+4. Open a subject and click a numbered pass box to cycle through confidence levels.
+
+Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the five subjects listed above.
 
 Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
 

@@ -879,7 +879,7 @@ h1{font-size:clamp(38px,5.6vw,66px)}
     </header>
     <p class="readout" id="home-readout" aria-live="polite"></p>
 
-    <p class="section-label">Subjects</p>
+    <p class="section-label">Your subjects <button class="ghost" id="manage-subjects" type="button">Change subjects</button></p>
     <div id="subject-list"></div>
   </div>
 
@@ -1003,10 +1003,20 @@ function tally(points, subjectId, r) {
 }
 function tallyAll(r) {
   const c = [0,0,0,0];
-  for (const s of SUBJECTS) { const t = tally(s.points, s.id, r); for (let i=0;i<4;i++) c[i]+=t[i]; }
+  for (const s of activeSubjects()) { const t = tally(s.points, s.id, r); for (let i=0;i<4;i++) c[i]+=t[i]; }
   return c;
 }
-const totalPoints = SUBJECTS.reduce((n,s) => n + s.points.length, 0);
+const SELECTION_KEY = 'vce-tracker:subjects:v1';
+let selectedSubjects = null;
+try {
+  const saved = JSON.parse(lsGet(SELECTION_KEY));
+  if (Array.isArray(saved)) {
+    const valid = [...new Set(saved.filter(id => Object.hasOwn(byId,id)))];
+    if (valid.length) selectedSubjects = valid;
+  }
+} catch (e) {}
+const activeSubjects = () => SUBJECTS.filter(s => !selectedSubjects || selectedSubjects.includes(s.id));
+let totalPoints = activeSubjects().reduce((n,s) => n + s.points.length, 0);
 
 /* ── overview ── */
 function bar(counts, total) {
@@ -1022,6 +1032,9 @@ function bar(counts, total) {
 }
 
 function renderHome() {
+  const subjects = activeSubjects();
+  totalPoints = subjects.reduce((n,s) => n + s.points.length, 0);
+  document.getElementById("colophon").textContent = "Shift-click a box to step backwards. " + totalPoints + " key knowledge points across " + subjects.length + " selected subjects.";
   const host = document.getElementById("totals");
   host.innerHTML = "";
   for (let r=0;r<3;r++) {
@@ -1042,12 +1055,12 @@ function renderHome() {
 
   const done = tallyAll(0)[0] === totalPoints;
   document.getElementById("home-readout").innerHTML = done
-    ? "Nothing rated yet. " + SUBJECTS.length + " subjects, " + totalPoints + " key knowledge points."
-    : SUBJECTS.length + " subjects, <b>" + totalPoints + "</b> key knowledge points.";
+    ? "Nothing rated yet. " + subjects.length + " subjects, " + totalPoints + " key knowledge points."
+    : subjects.length + " subjects, <b>" + totalPoints + "</b> key knowledge points.";
 
   const list = document.getElementById("subject-list");
   list.innerHTML = "";
-  for (const s of SUBJECTS) {
+  for (const s of subjects) {
     const b = document.createElement("button");
     b.className = "subject"; b.type = "button";
     if (s.theme) b.style.setProperty("--swatch", swatchFor(s.theme));
@@ -1078,7 +1091,7 @@ function renderHome() {
 
 /* ── routing ── */
 function go(id) {
-  if (id && byId[id]) { current = byId[id]; location.hash = id; }
+  if (id && byId[id] && (!selectedSubjects || selectedSubjects.includes(id))) { current = byId[id]; location.hash = id; }
   else { current = null; if (location.hash) location.hash = ""; }
   render();
 }
@@ -1838,9 +1851,9 @@ document.getElementById("export").addEventListener("click", exportFile);
 document.getElementById("import").addEventListener("click", () => document.getElementById("file").click());
 document.getElementById("file").addEventListener("change", e => { if (e.target.files[0]) importFile(e.target.files[0]); e.target.value=""; });
 document.getElementById("reset").addEventListener("click", () => {
-  const what = current ? current.name : "every subject";
+  const what = current ? current.name : "your selected subjects";
   if (!confirm("Clear all three passes for " + what + "? This cannot be undone.")) return;
-  const list = current ? [current] : SUBJECTS;
+  const list = current ? [current] : activeSubjects();
   for (const s of list) { for (const p of s.points) ratings[s.id][p.id] = [0,0,0]; save(s.id); }
   scheduleWrite();
   if (current) { buildMap(); applyView(); summarise(); } else renderHome();
@@ -1850,7 +1863,79 @@ document.getElementById("colophon").textContent =
   "Shift-click a box to step backwards. " + totalPoints + " key knowledge points across " +
   SUBJECTS.length + " subjects, from the current VCE study designs.";
 
+const setupStyle = document.createElement('style');
+setupStyle.textContent = `
+  #subject-setup{width:min(620px,calc(100% - 32px));max-height:calc(100dvh - 48px);overflow:auto;border:1px solid var(--rule);border-radius:20px;padding:clamp(24px,5vw,40px);background:var(--paper);color:var(--ink);font:inherit}
+  #subject-setup::backdrop{background:rgba(0,0,0,.6);backdrop-filter:blur(8px)}
+  #subject-setup h2{font-size:clamp(28px,5vw,40px);line-height:1.1;letter-spacing:-.03em;margin:8px 0 16px}
+  #subject-setup p{color:var(--ink-soft)}
+  #subject-setup fieldset{border:0;padding:0;margin:24px 0}
+  #subject-setup legend{font-size:13px;margin-bottom:10px;color:var(--ink-soft)}
+  .setup-choice{display:flex;gap:14px;align-items:center;padding:16px 12px;border-bottom:1px solid var(--rule);cursor:pointer}
+  .setup-choice:has(input:checked){background:var(--track)}
+  .setup-choice input{width:20px;height:20px;accent-color:var(--accent);flex-shrink:0}
+  .setup-choice input:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+  .setup-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:24px}
+  #setup-save{background:var(--ink);color:var(--paper);padding:12px 20px;min-height:44px}
+  #setup-save:disabled{opacity:.45;cursor:not-allowed}
+  #setup-count{font-size:13px;margin:0}
+  #manage-subjects{margin-left:12px;text-transform:none;letter-spacing:normal}
+`;
+document.head.appendChild(setupStyle);
+const setup = document.createElement('dialog');
+setup.id = 'subject-setup';
+setup.setAttribute('aria-labelledby', 'setup-title');
+setup.setAttribute('aria-describedby', 'setup-description');
+setup.innerHTML = `<form method="dialog">
+  <span class="tag">YOUR VCE REVISION</span>
+  <h2 id="setup-title" tabindex="-1">Choose your subjects.</h2>
+  <p id="setup-description">Build a tracker for what you study. You can change these any time.</p>
+  <fieldset><legend>Select at least one subject</legend><div id="setup-options"></div></fieldset>
+  <p>These five subjects have revision content ready. More subjects can be added later.</p>
+  <p id="setup-count" role="status" aria-live="polite"></p>
+  <div class="setup-actions"><button id="setup-save" class="ghost" type="submit">Start revising</button><button id="setup-cancel" class="ghost" type="button">Cancel</button></div>
+</form>`;
+document.body.appendChild(setup);
+function openSubjectSetup() {
+  const options = setup.querySelector('#setup-options');
+  options.replaceChildren();
+  for (const subject of SUBJECTS) {
+    const label = document.createElement('label');
+    label.className = 'setup-choice';
+    const input = document.createElement('input');
+    input.type = 'checkbox'; input.value = subject.id;
+    input.checked = !!selectedSubjects?.includes(subject.id);
+    label.append(input, document.createTextNode(subject.name));
+    options.append(label);
+  }
+  setup.querySelector('#setup-save').textContent = selectedSubjects ? 'Save subjects' : 'Start revising';
+  setup.querySelector('#setup-cancel').hidden = !selectedSubjects;
+  updateSetupCount();
+  setup.showModal();
+  setup.querySelector('#setup-title').focus();
+}
+function updateSetupCount() {
+  const count = setup.querySelectorAll('input:checked').length;
+  setup.querySelector('#setup-count').textContent = count ? count + (count === 1 ? ' subject selected' : ' subjects selected') : 'Choose at least one subject to continue.';
+  setup.querySelector('#setup-save').disabled = !count;
+}
+setup.addEventListener('change', updateSetupCount);
+setup.addEventListener('cancel', event => { if (!selectedSubjects) event.preventDefault(); });
+setup.querySelector('#setup-cancel').addEventListener('click', () => setup.close());
+setup.querySelector('form').addEventListener('submit', event => {
+  event.preventDefault();
+  const choices = [...setup.querySelectorAll('input:checked')].map(input => input.value);
+  if (!choices.length) return;
+  selectedSubjects = choices;
+  lsSet(SELECTION_KEY, JSON.stringify(choices));
+  setup.close();
+  go(null);
+  document.getElementById('manage-subjects').focus();
+  if (!canSave) document.getElementById('status').textContent = 'Browser saving is unavailable. Your subject choices apply for this visit only.';
+});
+document.getElementById('manage-subjects').addEventListener('click', openSubjectSetup);
 go(location.hash.replace(/^#/,"") || null);
+if (!selectedSubjects) openSubjectSetup();
 bootSync();
 </script>
 </body>
