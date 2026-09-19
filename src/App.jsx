@@ -8,8 +8,10 @@ import Setup from './components/Setup.jsx';
 import Welcome from './components/Welcome.jsx';
 import AppFooter from './components/AppFooter.jsx';
 import useTrackerData from './hooks/useTrackerData.js';
+import useDesktopFullscreen from './hooks/useDesktopFullscreen.js';
 
 export default function App(){
+ useDesktopFullscreen();
  const tracker=useTrackerData(),[setup,setSetup]=useState(false),[welcome,setWelcome]=useState(()=>tracker.ready&&!tracker.selection),[route,setRoute]=useState(()=>location.hash.slice(1));
  const active=subjects.filter(subject=>!tracker.selection||tracker.selection.includes(subject.id)),current=active.find(subject=>subject.id===route);
  useEffect(()=>{const listener=()=>setRoute(location.hash.slice(1));window.addEventListener('hashchange',listener);return()=>window.removeEventListener('hashchange',listener);},[]);
