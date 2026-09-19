@@ -1,9 +1,10 @@
 import {test,expect} from '@playwright/test';
 import {subjects} from '../subjects.js';
+import {openSubjectSetup} from './onboarding.js';
 const added=['biology-34','chemistry-34','psychology-34','specialist-maths-34','business-management-34','legal-studies-34','economics-34'].map(id=>subjects.find(s=>s.id===id));
 test('every added subject is offered at setup and opens with all of its content',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
- await page.goto('/');
+ await openSubjectSetup(page);
  for(const s of added)await page.getByRole('checkbox',{name:s.name,exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await expect(page.locator('#subject-list > button')).toHaveCount(added.length);
@@ -18,7 +19,7 @@ test('every added subject is offered at setup and opens with all of its content'
 });
 test('a new subject rates, builds a cue card and saves a practice answer',async({page})=>{
  const bio=subjects.find(s=>s.id==='biology-34'),first=bio.points[0];
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Biology',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await page.locator('#subject-list > button').click();
@@ -35,7 +36,7 @@ test('a new subject rates, builds a cue card and saves a practice answer',async(
  await expect(page.getByRole('link',{name:bio.sourceLabel})).toHaveAttribute('href',bio.sourceUrl);
 });
 test('added subjects do not disturb an existing subject saved earlier',async({page})=>{
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'English Language',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await page.locator('#subject-list > button').click();

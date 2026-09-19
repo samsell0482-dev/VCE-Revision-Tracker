@@ -4,6 +4,16 @@ dialog.setup::backdrop{background:#0009;backdrop-filter:blur(8px)}
 .setup fieldset{border:0;padding:0;margin:24px 0}.setup label{display:flex;gap:14px;align-items:center;padding:16px 12px;border-bottom:1px solid var(--rule);cursor:pointer}
 .setup input{width:20px;height:20px;accent-color:var(--accent)}.setup label:has(input:checked){background:var(--track)}
 .setup-actions{display:flex;gap:12px;margin-top:24px}.setup button{min-height:44px}button:disabled{opacity:.45;cursor:not-allowed}
+.welcome{min-height:100dvh;display:grid;align-content:center;gap:42px;padding:64px 0 72px}
+.welcome-hero{max-width:790px}.welcome-hero h1{max-width:11ch;margin:14px 0 22px;font-size:clamp(48px,8vw,88px);line-height:.94;letter-spacing:-.055em}
+.welcome-hero>p{max-width:58ch;margin:0;color:var(--ink-soft);font-size:clamp(16px,2vw,19px);line-height:1.65}
+.welcome-action{display:inline-flex;align-items:center;gap:30px;margin-top:32px;padding:14px 19px;border:1px solid var(--ink);border-radius:var(--r-pill);background:var(--ink);color:var(--paper);font-weight:600;transition:transform 180ms var(--ease-spring),gap 180ms var(--ease-out)}
+.welcome-action:hover{gap:38px}.welcome-action:active{transform:scale(.97)}.welcome-action:focus-visible{outline:2px solid var(--focus);outline-offset:4px}
+.welcome-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.welcome-steps article{padding:24px 26px 26px 0}.welcome-steps article+article{padding-left:26px;border-left:1px solid var(--rule)}
+.welcome-steps span{font-family:var(--mono);font-size:11px;color:var(--accent)}.welcome-steps h2{margin:10px 0 7px;font-size:20px;letter-spacing:-.025em}.welcome-steps p{margin:0;color:var(--ink-soft);font-size:13.5px;line-height:1.55}
+.welcome-privacy{max-width:62ch;margin:-20px 0 0;color:var(--ink-faint);font-size:12.5px}
+@media(max-width:700px){.welcome{padding:42px 0 60px;gap:32px}.welcome-steps{grid-template-columns:1fr}.welcome-steps article,.welcome-steps article+article{padding:18px 0;border-left:0;border-bottom:1px solid var(--rule-soft)}.welcome-steps article:last-child{border-bottom:0}.welcome-privacy{margin:-10px 0 0}}
 .subject-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:32px}.subject-heading .section-label{margin:0}
 .legend-key span{font-size:12px}.rating-map{display:flex;flex-wrap:wrap;gap:3px}.rating-map button{width:15px;height:18px;border:0;background:var(--track);border-radius:3px;padding:0}
 .rating-map [data-s="1"]{background:var(--red)}.rating-map [data-s="2"]{background:var(--amber)}.rating-map [data-s="3"]{background:var(--green)}

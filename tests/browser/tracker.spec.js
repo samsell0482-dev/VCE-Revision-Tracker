@@ -1,7 +1,11 @@
 import {test,expect} from '@playwright/test';
+import {openSubjectSetup} from './onboarding.js';
 test('setup, rating persistence, practice, themes and selection changes',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.goto('/');
+ await expect(page.getByRole('heading',{name:'Know what to revise next.'})).toBeVisible();
+ await expect(page.getByText('Your progress is saved locally.')).toBeVisible();
+ await page.getByRole('button',{name:'Choose my subjects'}).click();
  await expect(page.getByRole('dialog')).toBeVisible();
  await expect(page.getByRole('button',{name:'Start revising'})).toBeDisabled();
  await page.getByRole('checkbox',{name:'English Language',exact:true}).check();
@@ -37,7 +41,7 @@ test('setup, rating persistence, practice, themes and selection changes',async({
  expect(errors).toEqual([]);
 });
 test('backup import and mobile layout',async({page})=>{
- await page.setViewportSize({width:390,height:844});await page.goto('/');
+ await page.setViewportSize({width:390,height:844});await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'English Language',exact:true}).check();await page.getByRole('button',{name:'Start revising'}).click();
  await page.locator('input[type=file]').setInputFiles('vce-tracker-progress.json');
  await page.locator('#subject-list > button').click();
@@ -46,7 +50,7 @@ test('backup import and mobile layout',async({page})=>{
  await page.screenshot({path:'test-results/mobile-tracker.png',fullPage:false});
 });
 test('selected subjects use equal-sized dashboard cards in every theme',async({page})=>{
- await page.goto('/');
+ await openSubjectSetup(page);
  for(const name of ['English Language','Physics','Chemistry','Psychology'])await page.getByRole('checkbox',{name,exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  for(const theme of ['Glass','Poster','Midnight','Notebook']){

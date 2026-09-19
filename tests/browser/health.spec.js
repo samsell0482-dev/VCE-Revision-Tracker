@@ -1,6 +1,7 @@
 import {test,expect} from '@playwright/test';
+import {openSubjectSetup} from './onboarding.js';
 test('Health setup, rating, cue card and practice answer persist',async({page})=>{
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Health and Human Development',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await page.locator('#subject-list > button').click();

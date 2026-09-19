@@ -1,5 +1,6 @@
 import {test,expect} from '@playwright/test';
 import {subjects} from '../subjects.js';
+import {openSubjectSetup} from './onboarding.js';
 // Which subject content files the browser actually asked for. The dev server
 // serves them from /src/subjects/<id>.json; a built site serves hashed chunks
 // named after the id, so matching on the id covers both.
@@ -11,7 +12,7 @@ const watch=page=>{
 const card=(page,name)=>page.locator('#subject-list > button').filter({has:page.getByRole('heading',{name,exact:true})});
 test('the setup screen lists every subject without downloading any of their content',async({page})=>{
  const fetched=watch(page);
- await page.goto('/');
+ await openSubjectSetup(page);
  await expect(page.getByRole('dialog')).toBeVisible();
  await expect(page.getByRole('checkbox')).toHaveCount(subjects.length);
  await page.waitForTimeout(1500);
@@ -19,7 +20,7 @@ test('the setup screen lists every subject without downloading any of their cont
 });
 test('only the selected subjects are downloaded, never the rest',async({page})=>{
  const fetched=watch(page);
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Biology',exact:true}).check();
  await page.getByRole('checkbox',{name:'Media',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
@@ -33,7 +34,7 @@ test('only the selected subjects are downloaded, never the rest',async({page})=>
 test('opening a subject downloads it and shows its full content',async({page})=>{
  const bio=subjects.find(s=>s.id==='biology-34');
  const fetched=watch(page);
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Biology',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await expect(page.locator('#subject-list > button')).toHaveCount(1);
@@ -45,7 +46,7 @@ test('opening a subject downloads it and shows its full content',async({page})=>
  expect(fetched.has('biology-34')).toBe(true);
 });
 test('a subject already downloaded is not fetched again when reopened',async({page})=>{
- await page.goto('/');
+ await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Media',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await card(page,'Media').click();
