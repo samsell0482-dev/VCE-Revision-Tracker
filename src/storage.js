@@ -26,10 +26,11 @@ export function importBackup(doc,existing){
  if(!incoming&&doc.ratings)incoming=doc.subject?{[doc.subject]:doc.ratings}:Object.fromEntries(subjects.map(s=>[s.id,doc.ratings]));
  if(!incoming||!subjects.some(s=>s.points.some(p=>Array.isArray(incoming[s.id]?.[p.id]))))throw Error('No matching subject ratings in this backup.');
  const merged=Object.fromEntries(subjects.map(s=>[s.id,{...existing[s.id],...incoming[s.id]}]));
- return {ratings:normalizeRatings(merged),practice:doc.practice?cleanPractice(doc.practice):null};
+ const selection=validSelection(doc.settings?.selection);
+ const theme=['glass','poster','midnight','notebook'].includes(doc.settings?.theme)?doc.settings.theme:null;
+ return {ratings:normalizeRatings(merged),practice:doc.practice?cleanPractice(doc.practice):null,selection,theme};
 }
 export async function savedHandle(value){
  const db=await new Promise((resolve,reject)=>{const r=indexedDB.open('vce-tracker-all',1);r.onupgradeneeded=()=>r.result.createObjectStore('kv');r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});
  try{return await new Promise((resolve,reject)=>{const tx=db.transaction('kv',value===undefined?'readonly':'readwrite'),store=tx.objectStore('kv');const req=value===undefined?store.get('handle'):value===null?store.delete('handle'):store.put(value,'handle');tx.oncomplete=()=>resolve(req.result);tx.onerror=()=>reject(tx.error);});}finally{db.close();}
 }
-

@@ -43,6 +43,7 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 - Interactive practice questions with answer reveals
 - Four visual themes: Glass, Poster, Midnight, and Notebook
 - Automatic progress saving in the browser
+- Native desktop saving with atomic writes and rolling recovery snapshots
 - JSON backup and restore for moving progress between computers
 - Responsive, accessible, and print-friendly design
 
@@ -91,6 +92,10 @@ npm run app:build
 
 The finished files are copied to `desktop-build/VCE Revision Tracker.exe` and `desktop-build/VCE Revision Tracker Setup.exe`. Cargo's large compilation cache is kept under `%LOCALAPPDATA%\VCERevisionTracker\cargo-target` so it is not synced through OneDrive. The portable executable uses the Microsoft Edge WebView2 runtime included with current Windows 10 and Windows 11 installations.
 
+The desktop app saves progress independently in its Windows application-data folder. Writes are staged before replacing the main progress file, and the app keeps up to twelve recovery snapshots at least six hours apart. Subject selection and theme are included alongside ratings and practice answers.
+
+Desktop backup and OneDrive sync files use native Windows file dialogs. The selected sync path is remembered across launches. Before writing, the app checks whether OneDrive or another computer changed the file; conflicting local changes are never silently overwritten. The browser build retains its File System Access API and download/upload fallbacks.
+
 The website and desktop app use separate local storage. To move existing progress into the desktop app, export a backup from the website and import it in the desktop app.
 
 ## Project structure
@@ -98,6 +103,9 @@ The website and desktop app use separate local storage. To move existing progres
 ```text
 index.html                   # React application entry page
 src/App.jsx                  # React screens and interactive components
+src/components/              # Setup, dashboard, subject and app-shell UI
+src/hooks/useTrackerData.js  # Tracker state, persistence and sync orchestration
+src/services/desktop-storage.js # Typed boundary for native Tauri storage commands
 src/storage.js               # Saved-progress validation and backup compatibility
 src/subjects/                # One file per subject: points, details, questions
 src/subjects-index.json      # Generated: ids, names and point ids only

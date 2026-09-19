@@ -7,4 +7,10 @@ test('existing progress export imports without losing ratings',()=>{const result
 test('invalid imports are rejected and values are bounded',()=>{assert.throws(()=>importBackup({},normalizeRatings()));const r=normalizeRatings({'english-language-34':{'3.1.1':[-1,9,2]}});assert.deepEqual(r['english-language-34']['3.1.1'],[0,0,2]);});
 test('selection validates and deduplicates',()=>{assert.equal(validSelection(['unknown']),null);assert.deepEqual(validSelection(['physics-34','english-language-34','english-language-34']).filter(x=>x==='english-language-34'),['english-language-34']);});
 test('malformed practice is ignored',()=>assert.deepEqual(cleanPractice({bad:{}}),{}));
-
+test('backup settings restore valid subjects and themes',()=>{
+ const doc={...backup,settings:{selection:['physics-34','unknown'],theme:'midnight'}};
+ const result=importBackup(doc,normalizeRatings());
+ assert.deepEqual(result.selection,['physics-34']);
+ assert.equal(result.theme,'midnight');
+ assert.equal(importBackup({...backup,settings:{theme:'invalid'}},normalizeRatings()).theme,null);
+});
