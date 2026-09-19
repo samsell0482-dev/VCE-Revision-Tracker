@@ -1,6 +1,6 @@
 # VCE Revision Tracker
 
-A React revision tracker for VCE Units 3 & 4. It helps students work through key knowledge points, rate their confidence over three revision passes, and focus on topics that still need attention.
+A React and Tauri revision tracker for VCE Units 3 & 4. It helps students self-assess every key knowledge point, focus on weaker topics, practise questions, and track improvement over time.
 
 ## Subjects included
 
@@ -36,16 +36,27 @@ A React revision tracker for VCE Units 3 & 4. It helps students work through key
 
 ## Features
 
-- Three-pass confidence tracking for every key knowledge point
+- Current red, amber, and green confidence tracking with rating history
 - Red, amber, and green progress summaries
 - Filters for unrated and weaker topics
 - Authored cue-card decks for revision
-- Interactive practice questions with answer reveals
+- Practice questions with read-only marking guides, self-marking, and saved attempt history
 - Four visual themes: Glass, Poster, Midnight, and Notebook
-- Automatic progress saving in the browser
+- Automatic local progress saving
 - Native desktop saving with atomic writes and rolling recovery snapshots
 - JSON backup and restore for moving progress between computers
+- Optional OneDrive progress-file synchronisation
+- Custom Windows title bar with fullscreen controls and F11 support
 - Responsive, accessible, and print-friendly design
+
+## Downloading the Windows app
+
+Each GitHub release provides two Windows downloads:
+
+- **VCE Revision Tracker Setup.exe** — recommended for most users; installs the app for the current Windows account.
+- **VCE Revision Tracker.exe** — portable version that can be run without installation.
+
+The first release is not code-signed, so Windows SmartScreen may show an unknown-publisher warning. Only download release files from this repository.
 
 ## Run locally
 
@@ -60,10 +71,10 @@ Open http://127.0.0.1:5173 in your browser. Use the same address each time to re
 
 1. Download or clone this repository.
 2. Install dependencies and start the development server as shown above.
-3. On your first visit, select the subjects you study and choose **Start revising**.
-4. Open a subject and click a numbered pass box to cycle through confidence levels.
+3. On your first visit, choose **Self assess**, select the subjects you study, and choose **Start revising**.
+4. Open a subject and choose red, amber, or green for each knowledge point.
 
-Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered in this browser, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the twenty-nine subjects listed above.
+Use **Change subjects** on the dashboard to update your selection later. Your choices are remembered locally, and dashboard totals cover only your selected subjects. Removing a subject from the dashboard keeps its saved ratings, so you can add it back later. Setup currently offers the twenty-nine subjects listed above.
 
 Biology, Business Management, Chemistry, Economics, Legal Studies, Psychology and Specialist Mathematics were added as full-depth subjects: each has 56 to 83 paraphrased revision checkpoints covering Units 3 and 4, and every checkpoint carries one original practice question with a suggested marking guide. Their checklist numbers are internal tracker IDs, not VCAA syllabus numbering, and the practice questions are original revision exercises rather than official VCAA questions. Every subject uses the current official VCAA Unit and Area of Study names and links to its live study-design and examination-resource pages. Legal Studies and Economics cover areas where the law, policy settings and published figures change, so check current detail against VCAA and other official sources.
 
@@ -71,7 +82,7 @@ English, History: Revolutions, Geography, Physical Education, Accounting, Applie
 
 Ancient History, Literature, Politics, Philosophy, Environmental Science, Sociology and Food Studies were added most recently. Politics follows the current study implemented for Units 3 and 4 from 2025: Unit 3 covers one global issue and one contemporary humanitarian crisis, while Unit 4 covers one selected Indo-Pacific state and Australia's relationships with three regional states. Ancient History covers Egypt, Greece and Rome alongside shared skills and thematic areas, so use the societies your class studies. Health and Human Development, which originally carried only four practice questions across its 49 checkpoints, now has a question and marking guide on every point, so every subject in the tracker is at full depth.
 
-Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
+Progress is stored locally. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible legacy progress backup and is migrated when imported.
 
 ## Windows desktop app
 
@@ -90,7 +101,7 @@ Build the portable executable and per-user Windows installer:
 npm run app:build
 ```
 
-The finished files are copied to `desktop-build/VCE Revision Tracker.exe` and `desktop-build/VCE Revision Tracker Setup.exe`. Cargo's large compilation cache is kept under `%LOCALAPPDATA%\VCERevisionTracker\cargo-target` so it is not synced through OneDrive. The portable executable uses the Microsoft Edge WebView2 runtime included with current Windows 10 and Windows 11 installations.
+The finished files are copied to `desktop-build/VCE Revision Tracker.exe` and `desktop-build/VCE Revision Tracker Setup.exe`. The build also creates `desktop-build/SHA256SUMS.txt` so release downloads can be verified. Cargo's large compilation cache is kept under `%LOCALAPPDATA%\VCERevisionTracker\cargo-target` so it is not synced through OneDrive. The portable executable uses the Microsoft Edge WebView2 runtime included with current Windows 10 and Windows 11 installations.
 
 The desktop app saves progress independently in its Windows application-data folder. Writes are staged before replacing the main progress file, and the app keeps up to twelve recovery snapshots at least six hours apart. Subject selection and theme are included alongside ratings and practice answers.
 
@@ -137,7 +148,7 @@ The active application uses React and Vite, with Google Fonts loaded when availa
 
 ## Moving existing progress
 
-Before switching, open the original HTML tracker and choose **Save a backup file**. In the React app, choose **Load a backup file** and select that export. Ratings and practice answers use the existing storage keys and version-3 backup format; older subject-rating backups are also accepted.
+Before switching, open the original HTML tracker and choose **Save a backup file**. In the React app, choose **Load a backup file** and select that export. The current backup format is version 4. Older three-pass ratings are migrated into current confidence plus rating history, and older practice answers are migrated into question-level attempt history.
 
 Browser storage belongs to a particular address. The original file, localhost, and a future hosted website have separate storage even on the same computer. Choose your subjects again on the new address and reconnect your OneDrive progress file if you use file sync.
 
@@ -158,3 +169,9 @@ The build produces `dist/` for static hosting. Browser tests use installed Micro
 ## Data and privacy
 
 Ratings are stored locally in the browser and are not sent to a server by the application. Exported JSON backups contain revision progress, so treat them as personal study data when sharing them.
+
+## Copyright
+
+Copyright © 2026 Sam Sell. All rights reserved.
+
+This is proprietary software. It may not be copied, modified, redistributed, or sold without written permission from the copyright holder. See [COPYRIGHT.md](COPYRIGHT.md).

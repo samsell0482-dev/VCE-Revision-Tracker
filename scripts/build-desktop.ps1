@@ -26,8 +26,30 @@ if (-not (Test-Path -LiteralPath $appExe)) { throw "Built application not found 
 if (-not $installer) { throw 'Built NSIS installer was not found.' }
 
 New-Item -ItemType Directory -Force -Path $outputDir | Out-Null
-Copy-Item -LiteralPath $appExe -Destination (Join-Path $outputDir 'VCE Revision Tracker.exe') -Force
-Copy-Item -LiteralPath $installer.FullName -Destination (Join-Path $outputDir 'VCE Revision Tracker Setup.exe') -Force
+$portableOutput = Join-Path $outputDir 'VCE Revision Tracker.exe'
+$installerOutput = Join-Path $outputDir 'VCE Revision Tracker Setup.exe'
+$checksumsOutput = Join-Path $outputDir 'SHA256SUMS.txt'
+Copy-Item -LiteralPath $appExe -Destination $portableOutput -Force
+Copy-Item -LiteralPath $installer.FullName -Destination $installerOutput -Force
 
-Write-Output "Desktop application: $(Join-Path $outputDir 'VCE Revision Tracker.exe')"
-Write-Output "Windows installer: $(Join-Path $outputDir 'VCE Revision Tracker Setup.exe')"
+function Get-Sha256Hex([string]$path) {
+  $stream = [System.IO.File]::OpenRead($path)
+  $sha256 = [System.Security.Cryptography.SHA256]::Create()
+  try {
+    return -join ($sha256.ComputeHash($stream) | ForEach-Object { $_.ToString('x2') })
+  }
+  finally {
+    $sha256.Dispose()
+    $stream.Dispose()
+  }
+}
+
+$checksumLines = @($portableOutput, $installerOutput) | ForEach-Object {
+  $hash = Get-Sha256Hex $_
+  "$hash  $([System.IO.Path]::GetFileName($_))"
+}
+Set-Content -LiteralPath $checksumsOutput -Value $checksumLines -Encoding ascii
+
+Write-Output "Desktop application: $portableOutput"
+Write-Output "Windows installer: $installerOutput"
+Write-Output "SHA-256 checksums: $checksumsOutput"
