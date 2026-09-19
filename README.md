@@ -72,6 +72,27 @@ Ancient History, Literature, Politics, Philosophy, Environmental Science, Sociol
 
 Progress is stored in the browser using local storage. Use **Save a backup file** to export your progress and **Load a backup file** to restore it later. The included `vce-tracker-progress.json` file is a compatible progress backup.
 
+## Windows desktop app
+
+The React app is also packaged as a lightweight Windows desktop application with Tauri 2. Before building it on a new computer, install Rust and Microsoft's **Desktop development with C++** workload as described in the [Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/).
+
+Run the desktop app in development mode:
+
+```powershell
+npm ci
+npm run app:dev
+```
+
+Build the portable executable and per-user Windows installer:
+
+```powershell
+npm run app:build
+```
+
+The finished files are copied to `desktop-build/VCE Revision Tracker.exe` and `desktop-build/VCE Revision Tracker Setup.exe`. Cargo's large compilation cache is kept under `%LOCALAPPDATA%\VCERevisionTracker\cargo-target` so it is not synced through OneDrive. The portable executable uses the Microsoft Edge WebView2 runtime included with current Windows 10 and Windows 11 installations.
+
+The website and desktop app use separate local storage. To move existing progress into the desktop app, export a backup from the website and import it in the desktop app.
+
 ## Project structure
 
 ```text
@@ -82,6 +103,9 @@ src/subjects/                # One file per subject: points, details, questions
 src/subjects-index.json      # Generated: ids, names and point ids only
 src/subject-loader.js        # Loads a subject's content when it is opened
 scripts/build-subject-index.mjs  # Regenerates the index from src/subjects/
+scripts/run-desktop.ps1          # Starts the Tauri desktop app without syncing Cargo output
+scripts/build-desktop.ps1        # Builds and collects the Windows executables
+src-tauri/                       # Tauri configuration and Rust desktop shell
 src/themes.json              # Original theme styles
 src/app.css                  # Shared component styles
 tests/                       # Storage, subject data and browser workflow checks

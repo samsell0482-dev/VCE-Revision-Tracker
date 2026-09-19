@@ -94,7 +94,7 @@ export default function App(){
  const [ratings,setRatings]=useState(loadRatings),[attempts,setAttempts]=useState(()=>cleanPractice(read(practiceKey,{})));
  const [selection,setSelection]=useState(()=>validSelection(read(selectionKey,null)));
  const [setup,setSetup]=useState(!selection),[theme,setTheme]=useState(()=>{try{return localStorage.getItem('vce-revision-tracker-theme')||'glass';}catch{return 'glass';}});
- const [route,setRoute]=useState(()=>location.hash.slice(1)),[status,setStatus]=useState('Progress saves in this browser.'),[syncStatus,setSyncStatus]=useState('Connect a progress file in OneDrive to sync between computers.');
+ const [route,setRoute]=useState(()=>location.hash.slice(1)),[status,setStatus]=useState('Progress is saved locally.'),[syncStatus,setSyncStatus]=useState('Connect a progress file in OneDrive to sync between computers.');
  const [handle,setHandle]=useState(null),[pending,setPending]=useState(null),fileInput=useRef(null),latest=useRef(null),syncBusy=useRef(false),stamp=useRef(0),dirty=useRef(false);
  const active=subjects.filter(s=>!selection||selection.includes(s.id)),current=active.find(s=>s.id===route);
  const device=useRef((()=>{try{let id=localStorage.getItem('vce-tracker:device');if(!id){id=Math.random().toString(36).slice(2);localStorage.setItem('vce-tracker:device',id);}return id;}catch{return 'temporary';}})());
@@ -102,7 +102,7 @@ export default function App(){
  const supported=typeof window.showOpenFilePicker==='function';
  useEffect(()=>{const listener=()=>setRoute(location.hash.slice(1));window.addEventListener('hashchange',listener);return()=>window.removeEventListener('hashchange',listener);},[]);
  useEffect(()=>{if(route&&!current){location.hash='';setRoute('');}},[route,current]);
- useEffect(()=>{try{for(const s of subjects)localStorage.setItem(ratingKey(s.id),JSON.stringify(ratings[s.id]));localStorage.setItem(practiceKey,JSON.stringify(attempts));if(selection)localStorage.setItem(selectionKey,JSON.stringify(selection));localStorage.setItem('vce-revision-tracker-theme',theme);setStatus('Progress saved in this browser.');}catch{setStatus('Browser saving is unavailable. Export a backup before closing.');}},[ratings,attempts,selection,theme]);
+ useEffect(()=>{try{for(const s of subjects)localStorage.setItem(ratingKey(s.id),JSON.stringify(ratings[s.id]));localStorage.setItem(practiceKey,JSON.stringify(attempts));if(selection)localStorage.setItem(selectionKey,JSON.stringify(selection));localStorage.setItem('vce-revision-tracker-theme',theme);setStatus('Progress is saved locally.');}catch{setStatus('Browser saving is unavailable. Export a backup before closing.');}},[ratings,attempts,selection,theme]);
  useEffect(()=>{document.documentElement.dataset.theme=theme;document.documentElement.style.setProperty('--accent',current?.theme.accent||(theme==='midnight'?'#b6acff':theme==='notebook'?'#315d82':'#657d74'));},[theme,current]);
  useEffect(()=>{let cancelled=false;savedHandle().then(h=>{if(h&&!cancelled)setPending(h);}).catch(()=>{});return()=>{cancelled=true;};},[]);
  // Once the dashboard is up, quietly fetch the subjects this student selected so
