@@ -5,7 +5,7 @@ test('setup, rating persistence, practice, themes and selection changes',async({
  await page.goto('/');
  await expect(page.getByRole('heading',{name:'Know what to revise next.'})).toBeVisible();
  await expect(page.getByText('Your progress is saved locally.')).toBeVisible();
- await page.getByRole('button',{name:'Choose my subjects'}).click();
+ await page.getByRole('button',{name:'Self assess'}).click();
  await expect(page.getByRole('dialog')).toBeVisible();
  await expect(page.getByRole('button',{name:'Start revising'})).toBeDisabled();
  await page.getByRole('checkbox',{name:'English Language',exact:true}).check();
