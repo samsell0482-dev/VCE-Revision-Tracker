@@ -45,4 +45,13 @@ test('backup import and mobile layout',async({page})=>{
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
  await page.screenshot({path:'test-results/mobile-tracker.png',fullPage:false});
 });
-
+test('selected subjects use equal-sized dashboard cards in every theme',async({page})=>{
+ await page.goto('/');
+ for(const name of ['English Language','Physics','Chemistry','Psychology'])await page.getByRole('checkbox',{name,exact:true}).check();
+ await page.getByRole('button',{name:'Start revising'}).click();
+ for(const theme of ['Glass','Poster','Midnight','Notebook']){
+  await page.getByRole('button',{name:theme,exact:true}).click();
+  const widths=await page.locator('#subject-list > button').evaluateAll(cards=>cards.map(card=>card.getBoundingClientRect().width));
+  expect(Math.max(...widths)-Math.min(...widths),theme+' card widths').toBeLessThan(1);
+ }
+});

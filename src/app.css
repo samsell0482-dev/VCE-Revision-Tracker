@@ -9,5 +9,9 @@ dialog.setup::backdrop{background:#0009;backdrop-filter:blur(8px)}
 .rating-map [data-s="1"]{background:var(--red)}.rating-map [data-s="2"]{background:var(--amber)}.rating-map [data-s="3"]{background:var(--green)}
 .rating-map button:focus-visible{outline:2px solid var(--ink);outline-offset:2px}.map-pass{margin-bottom:12px}.map-pass>span{display:block;margin-bottom:6px}
 .sync-actions{flex-wrap:wrap}.practice-choice{min-height:44px}.setup :focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+/* Glass uses a two-column dashboard, but no subject is treated as a larger feature card. */
+html[data-theme="glass"] #subject-list .subject:first-child,
+html[data-theme="midnight"] #subject-list .subject:first-child{grid-column:auto;grid-template-columns:1fr;align-items:initial;gap:18px}
+html[data-theme="glass"] #subject-list .subject:first-child h2,
+html[data-theme="midnight"] #subject-list .subject:first-child h2{font-size:22px}
 @media print{dialog.setup{display:none}.subject-heading{display:none}}
-
