@@ -28,16 +28,16 @@ test('English and English Language appear as separate, independently rated subje
  await expect(page.locator('#subject-list > button')).toHaveCount(2);
  await card(page,'English').click();
  await expect(page.locator('#list .point')).toHaveCount(english.points.length);
- await page.getByRole('button',{name:'Pass 1, '+english.points[0].id+': not rated',exact:true}).click();
+ await page.getByRole('button',{name:'Mark '+english.points[0].id+" as couldn't explain it",exact:true}).click();
  await page.getByRole('button',{name:'All subjects'}).click();
  await card(page,'English Language').click();
  await expect(page.locator('#list .point')).toHaveCount(el.points.length);
- await expect(page.getByRole('button',{name:'Pass 1, 3.1.1: not rated',exact:true})).toBeVisible();
+ await expect(page.getByRole('button',{name:"Mark 3.1.1 as couldn't explain it",exact:true})).toHaveAttribute('aria-pressed','false');
  await page.reload();
  await expect(page.getByRole('heading',{name:'English Language',exact:true})).toBeVisible();
  await page.getByRole('button',{name:'All subjects'}).click();
  await card(page,'English').click();
- await expect(page.getByRole('button',{name:"Pass 1, "+english.points[0].id+": couldn't explain it",exact:true})).toBeVisible();
+ await expect(page.getByRole('button',{name:'Mark '+english.points[0].id+" as couldn't explain it",exact:true})).toHaveAttribute('aria-pressed','true');
 });
 test('a skills-based subject saves a practice answer and links to VCAA',async({page})=>{
  const pe=subjects.find(s=>s.id==='physical-education-34');

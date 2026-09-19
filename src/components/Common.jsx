@@ -2,7 +2,7 @@ import React from 'react';
 
 export const ratingStates=['not rated',"couldn't explain it",'somewhat confident','confident'];
 export const themeNames=['glass','poster','midnight','notebook'];
-export const tally=(subject,ratings,pass)=>subject.points.reduce((counts,point)=>(counts[ratings[subject.id][point.id][pass]]++,counts),[0,0,0,0]);
+export const tally=(subject,ratings)=>subject.points.reduce((counts,point)=>(counts[ratings[subject.id][point.id]]++,counts),[0,0,0,0]);
 
 export function Bar({counts}){
  const total=counts.reduce((sum,count)=>sum+count,0);

@@ -150,17 +150,17 @@ test('English and English Language are separate subjects',()=>{
  assert.ok(english&&el);
  assert.notEqual(english.name,el.name);
  const ratings=normalizeRatings({'english-language-34':{'3.1.1':[3,3,3]}});
- assert.deepEqual(ratings['english-language-34']['3.1.1'],[3,3,3]);
- assert.deepEqual(ratings['english-34'][english.points[0].id],[0,0,0]);
+ assert.equal(ratings['english-language-34']['3.1.1'],3);
+ assert.equal(ratings['english-34'][english.points[0].id],0);
 });
 test('added subjects get ratings and practice slots without disturbing existing ones',()=>{
  const ratings=normalizeRatings({'english-language-34':{'3.1.1':[3,2,1]}});
- assert.deepEqual(ratings['english-language-34']['3.1.1'],[3,2,1]);
+ assert.equal(ratings['english-language-34']['3.1.1'],1);
  for(const id of added){
   const s=subjects.find(x=>x.id===id);
   assert.equal(Object.keys(ratings[id]).length,s.points.length);
-  assert.deepEqual(ratings[id][s.points[0].id],[0,0,0]);
-  const key=[id,s.points[0].id,0,0].join('|');
-  assert.equal(cleanPractice({[key]:{text:'draft',revealed:true,score:1}})[key].text,'draft');
+  assert.equal(ratings[id][s.points[0].id],0);
+  const legacyKey=[id,s.points[0].id,0,0].join('|'),key=[id,s.points[0].id,0].join('|');
+  assert.equal(cleanPractice({[legacyKey]:{text:'draft',revealed:true,score:1}})[key].current.text,'draft');
  }
 });

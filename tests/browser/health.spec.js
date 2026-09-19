@@ -8,7 +8,7 @@ test('Health setup, rating, cue card and practice answer persist',async({page})=
  await expect(page.getByRole('heading',{name:'Health and Human Development',exact:true})).toBeVisible();
  await expect(page.locator('#list .area')).toHaveCount(4);
  await expect(page.locator('#list .point')).toHaveCount(49);
- await page.getByRole('button',{name:'Pass 1, 3.1.1: not rated',exact:true}).click();
+ await page.getByRole('button',{name:"Mark 3.1.1 as couldn't explain it",exact:true}).click();
  await page.getByRole('button',{name:'Cue cards',exact:true}).click();
  await expect(page.locator('.qcard')).toHaveCount(1);
  await page.getByRole('button',{name:'Practice',exact:true}).click();

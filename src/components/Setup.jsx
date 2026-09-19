@@ -3,7 +3,11 @@ import subjects from '../subjects-index.json' with {type:'json'};
 
 export default function Setup({selection,onSave,onCancel}){
  const [draft,setDraft]=useState(selection||[]),ref=useRef(null);
- useEffect(()=>{ref.current.showModal();},[]);
+ useEffect(()=>{
+  const html=document.documentElement,body=document.body,htmlOverflow=html.style.overflow,bodyOverflow=body.style.overflow;
+  html.style.overflow='hidden';body.style.overflow='hidden';ref.current.showModal();
+  return()=>{html.style.overflow=htmlOverflow;body.style.overflow=bodyOverflow;};
+ },[]);
  return <dialog className="setup" ref={ref} aria-labelledby="setup-title" onCancel={event=>{if(!selection)event.preventDefault();else onCancel();}}>
   <form onSubmit={event=>{event.preventDefault();if(draft.length)onSave(draft);}}>
    <span className="tag">YOUR VCE REVISION</span><h2 id="setup-title">Choose your subjects.</h2><p>Build a tracker for what you study. You can change these any time.</p>

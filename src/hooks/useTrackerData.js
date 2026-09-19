@@ -1,6 +1,6 @@
 import {useCallback,useEffect,useRef,useState} from 'react';
 import subjects from '../subjects-index.json' with {type:'json'};
-import {cleanPractice,importBackup,loadRatings,practiceKey,ratingKey,read,savedHandle,selectionKey,validSelection} from '../storage.js';
+import {cleanPractice,importBackup,loadRatingHistory,loadRatings,practiceKey,ratingHistoryKey,ratingKey,read,savedHandle,selectionKey,validSelection} from '../storage.js';
 import {connectDesktopSync,disconnectDesktopSync,exportDesktopBackup,importDesktopBackup,isDesktop,loadDesktopState,reloadDesktopSync,saveDesktopLocal,syncDesktop} from '../services/desktop-storage.js';
 
 function deviceId(){
@@ -8,23 +8,23 @@ function deviceId(){
 }
 
 export default function useTrackerData(){
- const [ratings,setRatings]=useState(loadRatings),[attempts,setAttempts]=useState(()=>cleanPractice(read(practiceKey,{})));
+ const [ratings,setRatings]=useState(loadRatings),[ratingHistory,setRatingHistory]=useState(loadRatingHistory),[attempts,setAttempts]=useState(()=>cleanPractice(read(practiceKey,{})));
  const [selection,setSelectionState]=useState(()=>validSelection(read(selectionKey,null)));
  const [theme,setThemeState]=useState(()=>{try{return localStorage.getItem('vce-revision-tracker-theme')||'glass';}catch{return 'glass';}});
  const [status,setStatus]=useState('Progress is saved locally.'),[syncStatus,setSyncStatus]=useState(isDesktop?'Loading desktop saves…':'Connect a progress file in OneDrive to sync between computers.');
  const [syncInfo,setSyncInfo]=useState({connected:false,name:null}),[pending,setPending]=useState(null),[desktopReady,setDesktopReady]=useState(!isDesktop),[conflict,setConflict]=useState(false);
  const latest=useRef(null),device=useRef(deviceId()),dirty=useRef(false),revision=useRef(0),stamp=useRef(null),syncBusy=useRef(false),conflictRef=useRef(false),webHandle=useRef(null);
- latest.current={ratings,attempts,selection,theme};
+ latest.current={ratings,ratingHistory,attempts,selection,theme};
 
- const buildDocument=useCallback(()=>({app:'vce-tracker',version:3,savedAt:new Date().toISOString(),device:device.current,subjects:latest.current.ratings,practice:latest.current.attempts,settings:{selection:latest.current.selection,theme:latest.current.theme}}),[]);
+ const buildDocument=useCallback(()=>({app:'vce-tracker',version:4,savedAt:new Date().toISOString(),device:device.current,subjects:latest.current.ratings,ratingHistory:latest.current.ratingHistory,practice:latest.current.attempts,settings:{selection:latest.current.selection,theme:latest.current.theme}}),[]);
  const markDirty=useCallback(()=>{dirty.current=true;revision.current+=1;conflictRef.current=false;setConflict(false);},[]);
- const adopt=useCallback((doc,shouldMark=false)=>{const next=importBackup(doc,latest.current.ratings);setRatings(next.ratings);if(next.practice)setAttempts(next.practice);if(next.selection)setSelectionState(next.selection);if(next.theme)setThemeState(next.theme);if(shouldMark)markDirty();},[markDirty]);
+ const adopt=useCallback((doc,shouldMark=false)=>{const next=importBackup(doc,latest.current.ratings,latest.current.ratingHistory);setRatings(next.ratings);setRatingHistory(next.ratingHistory);if(next.practice)setAttempts(next.practice);if(next.selection)setSelectionState(next.selection);if(next.theme)setThemeState(next.theme);if(shouldMark)markDirty();},[markDirty]);
 
  useEffect(()=>{if(!isDesktop)return;let cancelled=false;loadDesktopState().then(state=>{if(cancelled)return;if(state.document)adopt(state.document);stamp.current=state.syncModifiedMs??null;dirty.current=!!state.syncNeedsWrite;if(state.syncNeedsWrite)revision.current+=1;setSyncInfo({connected:!!state.syncPath,name:state.syncName||null});setSyncStatus(state.syncPath?'Connected to '+(state.syncName||'progress file')+'. Changes save automatically.':'Desktop progress is saved automatically with recovery snapshots.');setDesktopReady(true);}).catch(error=>{if(!cancelled){setStatus('Desktop save could not be loaded: '+error);setDesktopReady(true);}});return()=>{cancelled=true;};},[adopt]);
 
- useEffect(()=>{try{for(const subject of subjects)localStorage.setItem(ratingKey(subject.id),JSON.stringify(ratings[subject.id]));localStorage.setItem(practiceKey,JSON.stringify(attempts));if(selection)localStorage.setItem(selectionKey,JSON.stringify(selection));localStorage.setItem('vce-revision-tracker-theme',theme);if(!isDesktop)setStatus('Progress is saved locally.');}catch{setStatus('Local saving is unavailable. Export a backup before closing.');}},[ratings,attempts,selection,theme]);
+ useEffect(()=>{try{for(const subject of subjects)localStorage.setItem(ratingKey(subject.id),JSON.stringify(ratings[subject.id]));localStorage.setItem(ratingHistoryKey,JSON.stringify(ratingHistory));localStorage.setItem(practiceKey,JSON.stringify(attempts));if(selection)localStorage.setItem(selectionKey,JSON.stringify(selection));localStorage.setItem('vce-revision-tracker-theme',theme);if(!isDesktop)setStatus('Progress is saved locally.');}catch{setStatus('Local saving is unavailable. Export a backup before closing.');}},[ratings,ratingHistory,attempts,selection,theme]);
 
- useEffect(()=>{if(!isDesktop||!desktopReady)return;const value=buildDocument(),timer=setTimeout(()=>saveDesktopLocal(value).then(()=>setStatus('Progress is saved locally with recovery snapshots.')).catch(error=>setStatus('Desktop save failed: '+error)),450);return()=>clearTimeout(timer);},[ratings,attempts,selection,theme,desktopReady,buildDocument]);
+ useEffect(()=>{if(!isDesktop||!desktopReady)return;const value=buildDocument(),timer=setTimeout(()=>saveDesktopLocal(value).then(()=>setStatus('Progress is saved locally with recovery snapshots.')).catch(error=>setStatus('Desktop save failed: '+error)),450);return()=>clearTimeout(timer);},[ratings,ratingHistory,attempts,selection,theme,desktopReady,buildDocument]);
 
  useEffect(()=>{if(isDesktop)return;let cancelled=false;savedHandle().then(handle=>{if(handle&&!cancelled)setPending(handle);}).catch(()=>{});return()=>{cancelled=true;};},[]);
 
@@ -64,9 +64,13 @@ export default function useTrackerData(){
 
  function setSelection(value){markDirty();setSelectionState(value);}
  function setTheme(value){markDirty();setThemeState(value);}
- function rate(subjectId,pointId,pass,step){markDirty();setRatings(previous=>({...previous,[subjectId]:{...previous[subjectId],[pointId]:previous[subjectId][pointId].map((value,index)=>index===pass?(value+step+4)%4:value)}}));}
+ function rate(subjectId,pointId,state){
+  const next=Number(state);if(!Number.isInteger(next)||next<0||next>3||ratings[subjectId]?.[pointId]===next)return;
+  markDirty();setRatings(previous=>({...previous,[subjectId]:{...previous[subjectId],[pointId]:next}}));
+  setRatingHistory(previous=>({...previous,[subjectId]:{...previous[subjectId],[pointId]:[...(previous[subjectId]?.[pointId]||[]),{state:next,ratedAt:new Date().toISOString(),source:null}]}}));
+ }
  function attempt(key,value){markDirty();setAttempts(previous=>({...previous,[key]:value}));}
- function reset(current,active){if(!confirm('Clear all three passes for '+(current?current.name:'your selected subjects')+'?'))return;markDirty();setRatings(previous=>{const next={...previous};for(const subject of current?[current]:active)next[subject.id]=Object.fromEntries(subject.points.map(point=>[point.id,[0,0,0]]));return next;});}
+ function reset(current,active){if(!confirm('Clear confidence ratings and their history for '+(current?current.name:'your selected subjects')+'?'))return;markDirty();const targets=current?[current]:active;setRatings(previous=>{const next={...previous};for(const subject of targets)next[subject.id]=Object.fromEntries(subject.points.map(point=>[point.id,0]));return next;});setRatingHistory(previous=>{const next={...previous};for(const subject of targets)next[subject.id]=Object.fromEntries(subject.points.map(point=>[point.id,[]]));return next;});}
 
- return {ratings,attempts,selection,theme,status,ready:desktopReady,setSelection,setTheme,rate,attempt,reset,exportBackup,importFile,importDesktop,isDesktop,sync:{supported:isDesktop||typeof window.showOpenFilePicker==='function',connected:syncInfo.connected,pending,status:syncStatus,conflict,connect,reload,disconnect}};
+ return {ratings,ratingHistory,attempts,selection,theme,status,ready:desktopReady,setSelection,setTheme,rate,attempt,reset,exportBackup,importFile,importDesktop,isDesktop,sync:{supported:isDesktop||typeof window.showOpenFilePicker==='function',connected:syncInfo.connected,pending,status:syncStatus,conflict,connect,reload,disconnect}};
 }

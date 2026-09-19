@@ -1,9 +1,9 @@
 import React from 'react';
 
 const steps=[
- ['01','Choose','Build a tracker containing only the VCE subjects you study.'],
- ['02','Revise','Rate each knowledge point, use cue cards, and answer practice questions.'],
- ['03','Improve','Return for three passes and turn your weaker topics from red to green.']
+ ['01','Self assess','Rate each knowledge point so you can immediately see what needs attention.'],
+ ['02','Revise','Use focused cue cards to strengthen your red and amber topics.'],
+ ['03','Improve','Return regularly, retry questions and turn your weaker topics from red to green.']
 ];
 
 export default function Welcome({onContinue}){
