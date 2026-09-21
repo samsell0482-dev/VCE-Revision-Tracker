@@ -65,6 +65,19 @@ test('selected subjects use equal-sized dashboard cards in every theme',async({p
  for(const theme of ['Glass','Poster','Midnight','Notebook']){
   await page.getByRole('button',{name:theme,exact:true}).click();
   const widths=await page.locator('#subject-list > button').evaluateAll(cards=>cards.map(card=>card.getBoundingClientRect().width));
-  expect(Math.max(...widths)-Math.min(...widths),theme+' card widths').toBeLessThan(1);
+ expect(Math.max(...widths)-Math.min(...widths),theme+' card widths').toBeLessThan(1);
  }
+});
+test('the dashboard paginates large selections without page scrolling',async({page})=>{
+ await page.setViewportSize({width:1280,height:720});
+ await openSubjectSetup(page);
+ for(const name of ['Accounting','Biology','Chemistry','Economics','English','Geography','Media','Physics'])await page.getByRole('checkbox',{name,exact:true}).check();
+ await page.getByRole('button',{name:'Start revising'}).click();
+ await expect(page.getByRole('button',{name:'Next subject page'})).toBeVisible();
+ expect(await page.evaluate(()=>document.documentElement.scrollHeight<=innerHeight+1)).toBeTruthy();
+ const firstPage=await page.locator('#subject-list > button').count();
+ await page.getByRole('button',{name:'Next subject page'}).click();
+ expect(await page.locator('#subject-list > button').count()).toBeLessThanOrEqual(firstPage);
+ const performanceStyles=await page.evaluate(()=>({point:getComputedStyle(document.querySelector('.subject')).contentVisibility,background:getComputedStyle(document.body,'::before').transform}));
+ expect(performanceStyles.background).not.toBe('none');
 });

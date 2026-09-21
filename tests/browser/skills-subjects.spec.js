@@ -4,14 +4,23 @@ import {openSubjectSetup} from './onboarding.js';
 const ids=['english-34','history-revolutions-34','geography-34','physical-education-34','accounting-34','data-analytics-34','visual-communication-design-34','media-34','product-design-34'];
 const added=ids.map(id=>subjects.find(s=>s.id===id));
 const card=(page,name)=>page.locator('#subject-list > button').filter({has:page.getByRole('heading',{name,exact:true})});
+async function openDashboardSubject(page,name){
+ for(let index=0;index<10;index++){
+  const subject=card(page,name);
+  if(await subject.count()){await subject.click();return;}
+  const next=page.getByRole('button',{name:'Next subject page'});
+  if(!await next.count()||await next.isDisabled())throw new Error('Subject not found in dashboard pages: '+name);
+  await next.click();
+ }
+}
 test('every skills-based subject is offered at setup and opens with all of its content',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await openSubjectSetup(page);
  for(const s of added)await page.getByRole('checkbox',{name:s.name,exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
- await expect(page.locator('#subject-list > button')).toHaveCount(added.length);
+ await expect(page.locator('.readout')).toContainText(added.length+' subjects');
  for(const s of added){
-  await card(page,s.name).click();
+  await openDashboardSubject(page,s.name);
   await expect(page.getByRole('heading',{name:s.name,exact:true})).toBeVisible();
   await expect(page.locator('#list .area')).toHaveCount(s.areas.length);
   await expect(page.locator('#list .point')).toHaveCount(s.points.length);

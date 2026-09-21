@@ -48,8 +48,22 @@
         "key": "environmental-science-34:S1",
         "title": "Aims, hypotheses and variables",
         "front": "Aims, hypotheses and variables",
-        "back": [
-          "Writing a research question and testable hypothesis, and identifying independent, dependent and controlled variables in environmental investigations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Writing a research question and testable hypothesis, and identifying independent, dependent and controlled variables in environmental investigations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Hypothesis: as distance from the road increases, the percentage cover of lichen on tree trunks will increase.",
+              "Independent variable: distance from the road, measured in metres.",
+              "Dependent variable: percentage cover of lichen, measured using a quadrat.",
+              "Controlled variables include tree species, trunk aspect, height above ground and time of sampling."
+            ]
+          }
         ]
       }
     },
@@ -74,8 +88,22 @@
         "key": "environmental-science-34:S2",
         "title": "Sampling in the field",
         "front": "Sampling in the field",
-        "back": [
-          "Quadrats, transects, random and systematic sampling, sample size and the sources of bias in environmental fieldwork."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Quadrats, transects, random and systematic sampling, sample size and the sources of bias in environmental fieldwork."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Random sampling places quadrats at coordinates chosen by chance, which avoids observer bias and suits a relatively uniform area.",
+              "Systematic sampling places them at fixed intervals, usually along a transect, which suits an area with an environmental gradient.",
+              "Systematic sampling is used to detect how a variable changes with distance, such as from a shoreline or pollution source.",
+              "Sample size matters in both, since too few quadrats produce results dominated by local variation rather than the pattern being investigated."
+            ]
+          }
         ]
       }
     },
@@ -99,8 +127,21 @@
         "key": "environmental-science-34:S3",
         "title": "Accuracy, precision and validity",
         "front": "Accuracy, precision and validity",
-        "back": [
-          "Distinguishing these terms, identifying random and systematic error in field measurement, and evaluating environmental data."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Distinguishing these terms, identifying random and systematic error in field measurement, and evaluating environmental data."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "This is a systematic error, since every reading is displaced in the same direction by a similar amount.",
+              "The results may be precise but they are not accurate, because they are consistently offset from the true value.",
+              "The remedy is to recalibrate the meter against known standards before use, and to recheck calibration during long sampling sessions."
+            ]
+          }
         ]
       }
     },
@@ -124,8 +165,21 @@
         "key": "environmental-science-34:S4",
         "title": "Ethics and fieldwork responsibility",
         "front": "Ethics and fieldwork responsibility",
-        "back": [
-          "Minimising disturbance, permits for protected areas and species, respect for Traditional Owners and safe working practices in the field."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Minimising disturbance, permits for protected areas and species, respect for Traditional Owners and safe working practices in the field."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Minimise disturbance: avoid trampling vegetation, return moved objects and animals, and take only the samples required.",
+              "Obtain permission: access to private land, reserves and protected species usually requires permits and landholder consent, and engagement with Traditional Owners where relevant.",
+              "Work safely: complete a risk assessment covering terrain, weather, water and wildlife, and never conduct fieldwork alone."
+            ]
+          }
         ]
       }
     },
@@ -150,8 +204,22 @@
         "key": "environmental-science-34:3.1.1",
         "title": "Levels of biodiversity",
         "front": "Levels of biodiversity",
-        "back": [
-          "Genetic, species and ecosystem diversity, how each is measured and why each matters for resilience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Genetic, species and ecosystem diversity, how each is measured and why each matters for resilience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The three levels are genetic diversity within a species, species diversity within an ecosystem and ecosystem diversity across a region.",
+              "Genetic diversity is the variation in alleles present within a population.",
+              "A population with high genetic diversity is more likely to contain individuals with alleles suited to new conditions such as disease or climate change.",
+              "A population with low diversity has less raw material for natural selection, so it is far more vulnerable to being eliminated by a single pressure."
+            ]
+          }
         ]
       }
     },
@@ -176,8 +244,22 @@
         "key": "environmental-science-34:3.1.2",
         "title": "Ecosystem services",
         "front": "Ecosystem services",
-        "back": [
-          "Provisioning, regulating, supporting and cultural services, and the difficulty of valuing them in economic decisions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Provisioning, regulating, supporting and cultural services, and the difficulty of valuing them in economic decisions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Provisioning services supply tangible goods such as food, timber, fresh water and medicines.",
+              "Regulating services include climate regulation, pollination, water purification and flood control.",
+              "Supporting services such as soil formation and nutrient cycling underpin all the others, and cultural services include recreation and spiritual value.",
+              "They are undervalued because most are not traded in markets and have no price, so decisions based on financial cost alone treat them as free."
+            ]
+          }
         ]
       }
     },
@@ -202,8 +284,22 @@
         "key": "environmental-science-34:3.1.3",
         "title": "Threats to biodiversity",
         "front": "Threats to biodiversity",
-        "back": [
-          "Habitat loss and fragmentation, invasive species, overexploitation, pollution and climate change, and their interaction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Habitat loss and fragmentation, invasive species, overexploitation, pollution and climate change, and their interaction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fragmentation divides continuous habitat into isolated patches separated by cleared or developed land.",
+              "Small patches support smaller populations, which are more vulnerable to genetic drift, inbreeding and local extinction.",
+              "Isolation prevents movement between patches, so recolonisation after a local loss becomes unlikely and gene flow is restricted.",
+              "Increased edge relative to interior alters microclimate, light and wind and allows predators and weeds to penetrate, degrading the remaining habitat."
+            ]
+          }
         ]
       }
     },
@@ -228,8 +324,22 @@
         "key": "environmental-science-34:3.1.4",
         "title": "Invasive species",
         "front": "Invasive species",
-        "back": [
-          "The characteristics of successful invaders, their ecological and economic impacts, and management approaches."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The characteristics of successful invaders, their ecological and economic impacts, and management approaches."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An introduced species often arrives without the predators, parasites and competitors that limited it in its native range.",
+              "If it also reproduces rapidly, disperses widely and tolerates a range of conditions, its population can expand without natural control.",
+              "Prevention through biosecurity and border inspection is the most cost-effective approach, since eradication after establishment is far harder.",
+              "Control methods include physical removal, targeted baiting and biological control, though biological control requires extensive testing to ensure the agent does not attack native species."
+            ]
+          }
         ]
       }
     },
@@ -254,8 +364,22 @@
         "key": "environmental-science-34:3.1.5",
         "title": "Conservation strategies",
         "front": "Conservation strategies",
-        "back": [
-          "Protected areas, wildlife corridors, captive breeding, revegetation, and the comparison of in situ and ex situ conservation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Protected areas, wildlife corridors, captive breeding, revegetation, and the comparison of in situ and ex situ conservation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "In situ conservation protects species within their natural habitat, through reserves, corridors and habitat restoration.",
+              "Its advantage is that it conserves the whole ecosystem and allows natural selection and ecological relationships to continue.",
+              "Ex situ conservation maintains species outside their habitat, in zoos, botanic gardens or seed banks.",
+              "Its advantage is protecting species whose habitat is too degraded to sustain them, but populations are small, adaptation to captivity can occur, and reintroduction often fails without habitat restoration."
+            ]
+          }
         ]
       }
     },
@@ -280,8 +404,22 @@
         "key": "environmental-science-34:3.1.6",
         "title": "Indigenous land management",
         "front": "Indigenous land management",
-        "back": [
-          "The role of Traditional Owner knowledge and practice, including cultural burning, in maintaining ecosystems and biodiversity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of Traditional Owner knowledge and practice, including cultural burning, in maintaining ecosystems and biodiversity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cultural burning uses frequent, low-intensity, small-scale fires timed according to detailed knowledge of season, weather and the condition of particular Country.",
+              "It is applied selectively rather than as broad-area treatment, and is guided by the requirements of specific plants and animals.",
+              "Ecologically it maintains a mosaic of vegetation at different stages, which supports species with different habitat requirements.",
+              "It also reduces fuel loads gradually, lowering the risk of high-intensity fire that destroys canopy, soil structure and seed banks."
+            ]
+          }
         ]
       }
     },
@@ -306,8 +444,22 @@
         "key": "environmental-science-34:3.1.7",
         "title": "Monitoring and indicator species",
         "front": "Monitoring and indicator species",
-        "back": [
-          "The use of indicator species, ecological surveys and long-term monitoring to detect environmental change."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The use of indicator species, ecological surveys and long-term monitoring to detect environmental change."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A useful indicator is sensitive to the environmental change of interest, responding measurably before the wider ecosystem is affected.",
+              "It should be well studied, easily identified and sampled, and widely distributed so comparisons can be made across sites.",
+              "Aquatic macroinvertebrates are used to indicate water quality, since particular groups tolerate very different levels of pollution and oxygen.",
+              "The composition of the community therefore reflects conditions over time, rather than the single moment that a chemical test measures."
+            ]
+          }
         ]
       }
     },
@@ -332,8 +484,22 @@
         "key": "environmental-science-34:3.2.1",
         "title": "Dimensions and principles of sustainability",
         "front": "Dimensions and principles of sustainability",
-        "back": [
-          "Ecological, economic and sociocultural dimensions of sustainable development and the principles used to judge environmental management."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ecological, economic and sociocultural dimensions of sustainable development and the principles used to judge environmental management."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the ecological, economic and sociocultural dimensions and show that a sustainable decision considers all three.",
+              "Apply two relevant principles, such as intergenerational equity, conservation of biodiversity, efficient resource use, precaution or user pays.",
+              "Link each principle to a concrete feature or likely impact of the development.",
+              "Reach a supported judgement about whether the proposal is sustainable."
+            ]
+          }
         ]
       }
     },
@@ -358,8 +524,22 @@
         "key": "environmental-science-34:3.2.2",
         "title": "Earth systems and environmental impacts",
         "front": "Earth systems and environmental impacts",
-        "back": [
-          "Using interactions among the atmosphere, biosphere, hydrosphere and lithosphere to analyse beneficial and harmful impacts."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using interactions among the atmosphere, biosphere, hydrosphere and lithosphere to analyse beneficial and harmful impacts."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the affected Earth systems.",
+              "Explain the process linking an action in one system to a change in another.",
+              "Include at least one beneficial or harmful impact supported by evidence.",
+              "Recognise that feedbacks and indirect effects can extend beyond the development site."
+            ]
+          }
         ]
       }
     },
@@ -384,8 +564,22 @@
         "key": "environmental-science-34:3.2.3",
         "title": "Stakeholders and environmental decision-making",
         "front": "Stakeholders and environmental decision-making",
-        "back": [
-          "How stakeholder values, knowledge and priorities create interconnections and tensions in responsible environmental decisions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How stakeholder values, knowledge and priorities create interconnections and tensions in responsible environmental decisions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the stakeholders and their relevant values, knowledge or priorities.",
+              "Explain how those differences affect the evidence or impacts each prioritises.",
+              "Describe a genuine tension or trade-off between their positions.",
+              "Connect the disagreement to the eventual environmental-management decision."
+            ]
+          }
         ]
       }
     },
@@ -410,8 +604,22 @@
         "key": "environmental-science-34:3.2.4",
         "title": "Risk and cost-benefit analysis",
         "front": "Risk and cost-benefit analysis",
-        "back": [
-          "Qualitative risk analysis and cost-benefit analysis as tools for integrated sustainability assessment."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Qualitative risk analysis and cost-benefit analysis as tools for integrated sustainability assessment."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "For risk, consider likelihood and consequence rather than consequence alone.",
+              "For cost-benefit analysis, compare relevant environmental, economic and sociocultural costs and benefits.",
+              "Explain uncertainty or limitations in the available evidence.",
+              "Use both tools to justify a recommendation."
+            ]
+          }
         ]
       }
     },
@@ -436,8 +644,22 @@
         "key": "environmental-science-34:3.2.5",
         "title": "Circular economy and resource efficiency",
         "front": "Circular economy and resource efficiency",
-        "back": [
-          "Circular-economy thinking, resource efficiency and the challenge of reducing waste while maintaining useful services."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Circular-economy thinking, resource efficiency and the challenge of reducing waste while maintaining useful services."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Replace the linear take-make-dispose model with strategies that retain materials and value.",
+              "Apply reuse, repair, remanufacture, recycling or design-out-waste to the case.",
+              "Explain an environmental benefit and a possible economic or social trade-off.",
+              "Relate the strategy to efficient resource use or another sustainability principle."
+            ]
+          }
         ]
       }
     },
@@ -462,8 +684,22 @@
         "key": "environmental-science-34:3.2.6",
         "title": "Evaluating an environmental management strategy",
         "front": "Evaluating an environmental management strategy",
-        "back": [
-          "Using aims, monitoring data, regulation, technology and sustainability principles to evaluate the effectiveness of a case-study strategy."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using aims, monitoring data, regulation, technology and sustainability principles to evaluate the effectiveness of a case-study strategy."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State the strategy’s aim and the criteria used to judge it.",
+              "Use relevant monitoring data or other evidence to assess outcomes.",
+              "Consider implementation, regulation, stakeholder response, technology and unintended impacts.",
+              "Reach a balanced judgement linked to sustainability principles."
+            ]
+          }
         ]
       }
     },
@@ -488,8 +724,22 @@
         "key": "environmental-science-34:4.1.1",
         "title": "The greenhouse effect",
         "front": "The greenhouse effect",
-        "back": [
-          "The natural greenhouse effect, the enhanced greenhouse effect, the major greenhouse gases and their relative warming potentials."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The natural greenhouse effect, the enhanced greenhouse effect, the major greenhouse gases and their relative warming potentials."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Solar radiation passes through the atmosphere and warms the surface, which re-emits energy as longer wavelength infrared radiation.",
+              "Greenhouse gases absorb some of this outgoing infrared radiation and re-emit it in all directions, warming the lower atmosphere.",
+              "This natural effect keeps the earth roughly 33 degrees warmer than it would otherwise be and makes life possible.",
+              "The enhanced effect is the additional warming caused by human emissions raising greenhouse gas concentrations, which traps more outgoing radiation and raises average temperatures."
+            ]
+          }
         ]
       }
     },
@@ -514,8 +764,22 @@
         "key": "environmental-science-34:4.1.2",
         "title": "Evidence for climate change",
         "front": "Evidence for climate change",
-        "back": [
-          "Instrumental records, ice cores, tree rings, sea level and ice extent data, and the convergence of independent lines of evidence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Instrumental records, ice cores, tree rings, sea level and ice extent data, and the convergence of independent lines of evidence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Instrumental temperature records from land stations, ships and satellites show rising global average temperature since the industrial era.",
+              "Ice cores provide past temperature and atmospheric composition, showing current carbon dioxide concentrations far above the range of recent hundreds of thousands of years.",
+              "Physical indicators including glacier retreat, declining sea ice extent, rising sea level and earlier spring events corroborate the temperature record.",
+              "Convergence matters because these methods have different assumptions and error sources, so agreement between them cannot be explained by a fault in any single method."
+            ]
+          }
         ]
       }
     },
@@ -540,8 +804,22 @@
         "key": "environmental-science-34:4.1.3",
         "title": "Feedback mechanisms",
         "front": "Feedback mechanisms",
-        "back": [
-          "Positive feedbacks such as ice-albedo and permafrost methane release, negative feedbacks, and the concept of tipping points."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Positive feedbacks such as ice-albedo and permafrost methane release, negative feedbacks, and the concept of tipping points."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Ice and snow have high albedo and reflect most incoming solar radiation back to space.",
+              "Warming melts ice, exposing darker ocean or land with much lower albedo, which absorbs more radiation and causes further warming.",
+              "This is a positive feedback because the output of the process amplifies the input that produced it.",
+              "Positive feedbacks complicate prediction because the response is not proportional to the forcing, and beyond a tipping point the change may continue without further human emissions."
+            ]
+          }
         ]
       }
     },
@@ -566,8 +844,22 @@
         "key": "environmental-science-34:4.1.4",
         "title": "Impacts of climate change",
         "front": "Impacts of climate change",
-        "back": [
-          "Effects on temperature extremes, rainfall, sea level, ocean acidification, ecosystems, agriculture and human settlement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Effects on temperature extremes, rainfall, sea level, ocean acidification, ecosystems, agriculture and human settlement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The ocean absorbs a substantial proportion of atmospheric carbon dioxide, which reacts with water to form carbonic acid.",
+              "This lowers ocean pH and reduces the concentration of carbonate ions available in the water.",
+              "Organisms that build shells and skeletons from calcium carbonate, including corals, molluscs and some plankton, find it harder to form and maintain those structures.",
+              "Because many of these species are at the base of marine food webs or build reef habitat, the effects propagate through entire ecosystems."
+            ]
+          }
         ]
       }
     },
@@ -592,8 +884,22 @@
         "key": "environmental-science-34:4.1.5",
         "title": "Mitigation",
         "front": "Mitigation",
-        "back": [
-          "Reducing emissions at source, carbon sequestration, changes in energy, transport, industry and land use, and the role of policy."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reducing emissions at source, carbon sequestration, changes in energy, transport, industry and land use, and the role of policy."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mitigation reduces the magnitude of climate change by reducing greenhouse gas emissions or removing gases from the atmosphere.",
+              "Examples include replacing fossil generation with renewables, and reforestation to sequester carbon.",
+              "Adaptation reduces the harm from changes that are already occurring or now unavoidable.",
+              "Examples include building sea walls and drainage for higher sea levels, and shifting to drought-tolerant crop varieties; both are needed, since past emissions commit the climate to further change."
+            ]
+          }
         ]
       }
     },
@@ -618,8 +924,22 @@
         "key": "environmental-science-34:4.1.6",
         "title": "Responses and their evaluation",
         "front": "Responses and their evaluation",
-        "back": [
-          "International agreements, national targets, carbon pricing and offsets, and criteria for judging whether a response is effective."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "International agreements, national targets, carbon pricing and offsets, and criteria for judging whether a response is effective."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Carbon pricing attaches a cost to emitting greenhouse gases, either through a tax or through a cap and trade market.",
+              "This internalises the external cost, making low-emission alternatives relatively cheaper and creating an incentive to abate wherever it is cheapest.",
+              "One criticism is that it is regressive, since energy costs consume a larger share of low income household budgets unless revenue is redistributed.",
+              "Another is that emissions may simply relocate to jurisdictions without a price, which is carbon leakage, so the global reduction is smaller than the national figures suggest."
+            ]
+          }
         ]
       }
     },
@@ -644,8 +964,22 @@
         "key": "environmental-science-34:4.2.1",
         "title": "Energy sources and classification",
         "front": "Energy sources and classification",
-        "back": [
-          "Renewable and non-renewable sources, energy density, and the distinction between a primary energy source and an energy carrier."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Renewable and non-renewable sources, energy density, and the distinction between a primary energy source and an energy carrier."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A renewable source is replenished on a human timescale, such as solar, wind, hydro and biomass.",
+              "An energy carrier stores and transports energy that was generated elsewhere, rather than being a source in its own right.",
+              "Hydrogen is a carrier because it must be produced using energy, usually from electrolysis or reforming natural gas.",
+              "Its environmental value therefore depends entirely on the energy used to produce it, which is why green and grey hydrogen are distinguished."
+            ]
+          }
         ]
       }
     },
@@ -670,8 +1004,22 @@
         "key": "environmental-science-34:4.2.2",
         "title": "Fossil fuels and their impacts",
         "front": "Fossil fuels and their impacts",
-        "back": [
-          "Formation, combustion, emissions of carbon dioxide and other pollutants, and impacts across extraction, transport and use."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Formation, combustion, emissions of carbon dioxide and other pollutants, and impacts across extraction, transport and use."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Extraction disturbs land, destroys habitat and can contaminate groundwater and surface water with acid mine drainage.",
+              "Combustion releases carbon dioxide contributing to the enhanced greenhouse effect, plus sulfur and nitrogen oxides causing acid rain and particulates harming respiratory health.",
+              "Generation requires large volumes of cooling water and returns heated water, causing thermal pollution of waterways.",
+              "Ash and residues require long-term disposal, and heavy metals including mercury can enter food chains."
+            ]
+          }
         ]
       }
     },
@@ -696,8 +1044,22 @@
         "key": "environmental-science-34:4.2.3",
         "title": "Solar and wind energy",
         "front": "Solar and wind energy",
-        "back": [
-          "How each generates electricity, capacity factors, intermittency, land and material requirements, and their environmental trade-offs."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How each generates electricity, capacity factors, intermittency, land and material requirements, and their environmental trade-offs."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Output depends on weather and time of day, so generation does not automatically match demand.",
+              "Storage manages this by capturing surplus generation in batteries or pumped hydro and releasing it when generation falls.",
+              "Interconnection across a wide geographic area also helps, since wind conditions differ between regions and averaging reduces variability.",
+              "Demand management and dispatchable backup generation complete the system, so intermittency is a system design problem rather than a barrier in itself."
+            ]
+          }
         ]
       }
     },
@@ -722,8 +1084,22 @@
         "key": "environmental-science-34:4.2.4",
         "title": "Hydro, geothermal and bioenergy",
         "front": "Hydro, geothermal and bioenergy",
-        "back": [
-          "The operation and environmental consequences of each, including river ecology, land use and the carbon balance of biomass."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The operation and environmental consequences of each, including river ecology, land use and the carbon balance of biomass."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Biomass absorbs carbon dioxide as it grows, so combustion in principle returns carbon that was recently removed from the atmosphere.",
+              "In practice, energy is consumed in cultivation, fertiliser production, harvesting, processing and transport, usually from fossil sources.",
+              "If forest is cleared for fuel crops, the carbon stored in the original vegetation and soil is released and takes decades to recover.",
+              "Land used for fuel also competes with food production, so the net benefit depends heavily on the feedstock and how it is grown."
+            ]
+          }
         ]
       }
     },
@@ -748,8 +1124,22 @@
         "key": "environmental-science-34:4.2.5",
         "title": "Nuclear energy",
         "front": "Nuclear energy",
-        "back": [
-          "Fission, the absence of operational carbon emissions, waste management, safety and the debate over its role in decarbonisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Fission, the absence of operational carbon emissions, waste management, safety and the debate over its role in decarbonisation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Advantages: generation produces almost no greenhouse gases, and output is continuous rather than weather dependent, providing reliable baseload capacity.",
+              "It also has a very high energy density, so fuel and land requirements per unit of electricity are small.",
+              "Concerns: high-level waste remains hazardous for thousands of years and requires secure long-term storage that few countries have established.",
+              "Construction costs and timeframes are very large, and although serious accidents are rare their consequences are severe and long lasting."
+            ]
+          }
         ]
       }
     },
@@ -774,8 +1164,22 @@
         "key": "environmental-science-34:4.2.6",
         "title": "Life cycle assessment of energy systems",
         "front": "Life cycle assessment of energy systems",
-        "back": [
-          "Comparing energy sources across construction, operation, decommissioning and disposal rather than at the point of generation alone."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Comparing energy sources across construction, operation, decommissioning and disposal rather than at the point of generation alone."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Operational emissions capture only the generation stage, which favours technologies whose impacts occur during construction.",
+              "Manufacturing solar panels and wind turbines requires mining, refining and energy-intensive processing, which produces emissions before any electricity is generated.",
+              "Decommissioning and disposal impose further impacts, including waste from panels, blades and nuclear materials.",
+              "Only a whole-of-life comparison allows a fair judgement, and on that basis renewables and nuclear remain far lower than fossil fuels."
+            ]
+          }
         ]
       }
     },
@@ -800,8 +1204,22 @@
         "key": "environmental-science-34:4.2.7",
         "title": "Energy efficiency and demand management",
         "front": "Energy efficiency and demand management",
-        "back": [
-          "Reducing energy use through efficiency, behaviour and design, and the rebound effect that can offset savings."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reducing energy use through efficiency, behaviour and design, and the rebound effect that can offset savings."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Efficiency reduces the energy needed to deliver a service, which reduces its cost to the user.",
+              "Lower running costs encourage greater use, so some of the expected saving is consumed by increased consumption.",
+              "For example, a more efficient vehicle costs less per kilometre, which may lead to more driving.",
+              "Efficiency therefore needs to be combined with pricing, regulation or behaviour change if total consumption is to fall."
+            ]
+          }
         ]
       }
     },
@@ -826,8 +1244,22 @@
         "key": "environmental-science-34:4.3.1",
         "title": "Designing an environmental investigation",
         "front": "Designing an environmental investigation",
-        "back": [
-          "Developing a question, selecting a methodology, planning field or laboratory work and identifying controls and limitations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Developing a question, selecting a methodology, planning field or laboratory work and identifying controls and limitations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Field conditions such as weather, soil, aspect and species composition vary continuously and cannot be held constant.",
+              "Investigators therefore control what they can, such as sampling at the same time of day and using the same technique at every site.",
+              "They increase the number of replicates so random variation averages out rather than dominating the result.",
+              "They also record uncontrolled conditions, so these can be considered when interpreting results and acknowledged as limitations."
+            ]
+          }
         ]
       }
     },
@@ -851,8 +1283,21 @@
         "key": "environmental-science-34:4.3.2",
         "title": "Processing and presenting environmental data",
         "front": "Processing and presenting environmental data",
-        "back": [
-          "Tabulating and graphing field data, calculating means and percentage cover, and choosing representations that show a pattern clearly."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Tabulating and graphing field data, calculating means and percentage cover, and choosing representations that show a pattern clearly."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A line graph or scatter plot with a line of best fit is appropriate, with distance on the horizontal axis.",
+              "Distance is a continuous independent variable, so intermediate values are meaningful and a connected or fitted line shows the trend.",
+              "The graph should show every replicate or include error bars, so the variability behind each mean is visible."
+            ]
+          }
         ]
       }
     },
@@ -877,8 +1322,22 @@
         "key": "environmental-science-34:4.3.3",
         "title": "Analysing, evaluating and communicating",
         "front": "Analysing, evaluating and communicating",
-        "back": [
-          "Identifying trends, distinguishing correlation from causation, evaluating the method and communicating findings to an audience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying trends, distinguishing correlation from causation, evaluating the method and communicating findings to an audience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The data establish a correlation between distance and lichen cover, which is consistent with the hypothesis.",
+              "They do not establish causation, since the investigation did not manipulate pollution levels or exclude other variables.",
+              "Confounding factors could explain the pattern, including changes in light, humidity, tree age or disturbance with distance from the road.",
+              "The conclusion should state that the results are consistent with an effect of vehicle pollution, and identify what further evidence, such as direct air quality measurement, would be required."
+            ]
+          }
         ]
       }
     }

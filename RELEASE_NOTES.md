@@ -1,12 +1,14 @@
-# VCE Revision Tracker v1.0.1
+# VCE Revision Tracker v1.1.0
 
 This update makes the cue-card deck a more useful tool for learning and memorising VCE definitions and key knowledge.
 
 ## Highlights
 
-- All 1,509 cue cards now begin with a named term or concept rather than repeating a practice question.
+- All 1,509 flash cards now use structured, study-design-specific definitions and key knowledge.
 - Definitions and required knowledge come from each subject's study-design-aligned content.
-- Click a cue card to study it by itself in a larger focused view.
+- Click a flash card to study it in a much larger focused view with responsive text.
+- The home dashboard now stays within the app window and paginates larger subject selections.
+- Scrolling does less off-screen layout and paint work while retaining the existing visual blur effects.
 - Move between focused cards with Previous and Next controls, or close with Escape.
 - Focus mode prevents the page behind the card from scrolling.
 

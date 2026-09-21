@@ -52,8 +52,22 @@
         "key": "media-34:C1",
         "title": "Technical codes",
         "front": "Technical codes",
-        "back": [
-          "Camera framing, angle and movement, lens choice, editing, lighting and sound, and the meaning each construction produces."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Camera framing, angle and movement, lens choice, editing, lighting and sound, and the meaning each construction produces."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A high angle shot looks down on the subject, diminishing them and positioning the audience to read them as vulnerable or powerless.",
+              "Shallow depth of field isolates the subject against a blurred background, directing attention and often suggesting subjective focus or emotional isolation.",
+              "A rapid cutting rate increases pace and tension, giving the audience less time to process each image.",
+              "Each is a construction rather than a neutral record, so the analysis must explain the effect rather than simply name the technique."
+            ]
+          }
         ]
       }
     },
@@ -78,8 +92,22 @@
         "key": "media-34:C2",
         "title": "Symbolic codes",
         "front": "Symbolic codes",
-        "back": [
-          "Mise en scene including setting, costume, props, casting, performance and colour, and the cultural meanings these carry."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mise en scene including setting, costume, props, casting, performance and colour, and the cultural meanings these carry."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mise en scene refers to everything arranged within the frame, including setting, costume, props, lighting, colour and performance.",
+              "Costume communicates character status, era, allegiance and personality before any dialogue is spoken.",
+              "Setting establishes not only place and time but also mood and the social world the character inhabits.",
+              "Because every element is deliberately chosen, each carries meaning the audience decodes using cultural knowledge."
+            ]
+          }
         ]
       }
     },
@@ -104,8 +132,23 @@
         "key": "media-34:C3",
         "title": "Written and audio codes",
         "front": "Written and audio codes",
-        "back": [
-          "Titles, captions, dialogue, voiceover and on-screen text; diegetic and non-diegetic sound, score, silence and sound bridges."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Titles, captions, dialogue, voiceover and on-screen text",
+              "diegetic and non-diegetic sound, score, silence and sound bridges."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Diegetic sound originates within the world of the story and can be heard by the characters, such as dialogue, footsteps or a car radio.",
+              "Non-diegetic sound is added for the audience and does not exist in the story world, such as an orchestral score or a voiceover narrator.",
+              "A non-diegetic score guides emotional response, cueing the audience how to feel about events before they are resolved.",
+              "It can also create irony when the music contradicts the action on screen, producing a critical rather than immersive response."
+            ]
+          }
         ]
       }
     },
@@ -130,8 +173,22 @@
         "key": "media-34:C4",
         "title": "Genre conventions",
         "front": "Genre conventions",
-        "back": [
-          "The recognisable patterns of setting, character type, narrative structure and iconography that define a genre, and the effect of subverting them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The recognisable patterns of setting, character type, narrative structure and iconography that define a genre, and the effect of subverting them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Conventions are repeated elements the audience recognises from previous texts in the genre, including iconography, character types and narrative patterns.",
+              "Recognition creates expectation, so the audience predicts how events will unfold and understands the text more quickly.",
+              "Subverting a convention denies the expected outcome, which can shock, create humour or force the audience to reconsider the genre's assumptions.",
+              "Subversion only works where the convention is well established, since the effect depends on the audience's prior knowledge."
+            ]
+          }
         ]
       }
     },
@@ -156,8 +213,22 @@
         "key": "media-34:C5",
         "title": "Media forms and their conventions",
         "front": "Media forms and their conventions",
-        "back": [
-          "The distinct conventions of film, television, photography, print, radio, podcast, games and online media, and the way form shapes content."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The distinct conventions of film, television, photography, print, radio, podcast, games and online media, and the way form shapes content."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A podcast relies entirely on audio codes, so setting, evidence and emotion must be conveyed through voice, sound design, music and silence.",
+              "It commonly uses a conversational, first-person mode of address that creates intimacy with a listener who is often alone.",
+              "A television documentary can use visual evidence, archival footage and on-screen text alongside audio.",
+              "Consumption context also differs, since a podcast is often heard while doing something else, which affects pacing and the need for verbal signposting."
+            ]
+          }
         ]
       }
     },
@@ -182,8 +253,22 @@
         "key": "media-34:3.1.1",
         "title": "Narrative structure",
         "front": "Narrative structure",
-        "back": [
-          "Linear and non-linear structure, exposition, complication, climax and resolution, and the effect of withholding or reordering information."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Linear and non-linear structure, exposition, complication, climax and resolution, and the effect of withholding or reordering information."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A non-linear structure presents events out of chronological order, so the audience must actively assemble the story.",
+              "Withholding information creates suspense and can produce a reinterpretation of earlier scenes once context arrives.",
+              "Beginning at the end changes the question from what happens to how and why it happened, shifting emphasis to character and cause.",
+              "The structure itself carries meaning, so the analysis should explain why the maker ordered events this way."
+            ]
+          }
         ]
       }
     },
@@ -208,8 +293,22 @@
         "key": "media-34:3.1.2",
         "title": "Character and point of view",
         "front": "Character and point of view",
-        "back": [
-          "Protagonist and antagonist construction, character arcs, alignment and allegiance, and the way narration positions the audience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Protagonist and antagonist construction, character arcs, alignment and allegiance, and the way narration positions the audience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Alignment concerns access: whose actions the audience follows and whose knowledge and interiority they share.",
+              "Allegiance concerns moral evaluation: whether the audience sympathises with the character and wants them to succeed.",
+              "A text can align the audience with a character while withholding allegiance, producing discomfort or critical distance.",
+              "Techniques including point of view shots, screen time, close-ups and voiceover build alignment, while the character's actions and treatment by the narrative shape allegiance."
+            ]
+          }
         ]
       }
     },
@@ -233,8 +332,21 @@
         "key": "media-34:3.1.3",
         "title": "Setting, time and space",
         "front": "Setting, time and space",
-        "back": [
-          "The construction of story world and the manipulation of screen time and story time through duration, ellipsis and repetition."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The construction of story world and the manipulation of screen time and story time through duration, ellipsis and repetition."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A montage compresses a long period of story time into a short passage of screen time through a rapid succession of images.",
+              "It allows the narrative to convey development, such as training, a relationship forming or a business growing, without devoting scenes to each stage.",
+              "The selection of images within the montage also shapes interpretation by determining which moments of that period the audience sees."
+            ]
+          }
         ]
       }
     },
@@ -259,8 +371,22 @@
         "key": "media-34:3.1.4",
         "title": "Representation",
         "front": "Representation",
-        "back": [
-          "The construction of groups, places and issues in media texts, and the selection, omission and framing that produce a representation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The construction of groups, places and issues in media texts, and the selection, omission and framing that produce a representation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A representation is the way a media text depicts a person, group, place, event or issue.",
+              "It is constructed through selection of what to include, omission of what to leave out, and framing of how the included material is presented.",
+              "Every representation therefore reflects choices made by its producers rather than reproducing reality neutrally.",
+              "Repeated representations across many texts shape what audiences come to regard as normal or typical, which is why they carry ideological significance."
+            ]
+          }
         ]
       }
     },
@@ -285,8 +411,22 @@
         "key": "media-34:3.1.5",
         "title": "Ideology in media texts",
         "front": "Ideology in media texts",
-        "back": [
-          "The values, beliefs and assumptions a text endorses or challenges, and the way narrative resolution reveals the text's position."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The values, beliefs and assumptions a text endorses or challenges, and the way narrative resolution reveals the text's position."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The resolution determines which characters are rewarded and which are punished, which functions as the narrative's judgement.",
+              "The behaviours and values associated with the rewarded characters are therefore endorsed by the text.",
+              "Which conflicts are resolved and which are left unaddressed also indicates what the text treats as important.",
+              "An ambiguous or unresolved ending can itself be ideological, refusing the reassurance that a conventional resolution provides."
+            ]
+          }
         ]
       }
     },
@@ -311,8 +451,22 @@
         "key": "media-34:3.1.6",
         "title": "Production context and its influence",
         "front": "Production context and its influence",
-        "back": [
-          "How institutional, economic, cultural, historical and technological contexts shape the narratives that are made and how they are told."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How institutional, economic, cultural, historical and technological contexts shape the narratives that are made and how they are told."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Economic context determines budget, which affects what can be filmed, the casting and the length of the production schedule.",
+              "Institutional context determines the commissioning body's requirements, including target audience, classification and running time.",
+              "Cultural and historical context shapes which stories are considered worth telling and which representations are acceptable at that time.",
+              "Technological context determines available techniques, so what is possible in production and distribution shapes narrative form."
+            ]
+          }
         ]
       }
     },
@@ -337,8 +491,22 @@
         "key": "media-34:3.1.7",
         "title": "Audience reception context",
         "front": "Audience reception context",
-        "back": [
-          "How the audience's own social, cultural and historical position shapes their reading of a text, and why readings differ over time."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How the audience's own social, cultural and historical position shapes their reading of a text, and why readings differ over time."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Audiences bring their own cultural knowledge, values and experience to a text, and these shape which meanings they make.",
+              "A representation that appeared unremarkable to its original audience may read as offensive to a later one whose values have changed.",
+              "Reception context also includes where and how the text is consumed, since viewing in a cinema differs from viewing on a phone.",
+              "Meaning is therefore produced in the interaction between text and audience rather than residing solely in the text."
+            ]
+          }
         ]
       }
     },
@@ -363,8 +531,22 @@
         "key": "media-34:3.2.1",
         "title": "Developing a production concept",
         "front": "Developing a production concept",
-        "back": [
-          "Generating and testing ideas, defining the intended audience, form and purpose, and researching comparable works."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Generating and testing ideas, defining the intended audience, form and purpose, and researching comparable works."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The media form and the specific product to be made, since each form has its own conventions and technical requirements.",
+              "The intended audience, defined specifically rather than as a general public, since audience determines style, content and platform.",
+              "The purpose of the production, whether to entertain, inform, persuade or provoke, which shapes every subsequent decision.",
+              "Research into comparable works establishes the conventions the audience will expect and identifies opportunities for distinction."
+            ]
+          }
         ]
       }
     },
@@ -389,8 +571,22 @@
         "key": "media-34:3.2.2",
         "title": "The production design plan",
         "front": "The production design plan",
-        "back": [
-          "Documenting the intentions, form, audience, style and technical specifications of the production so it can be realised."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Documenting the intentions, form, audience, style and technical specifications of the production so it can be realised."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The intended form, audience, purpose and style, including references that establish the visual and aural approach.",
+              "Technical specifications such as shot lists, locations, cast, equipment, aspect ratio and duration.",
+              "A schedule and resource list covering what must be arranged before production begins.",
+              "Detail matters because decisions deferred to the shoot are made under time pressure and usually produce a weaker result."
+            ]
+          }
         ]
       }
     },
@@ -415,8 +611,22 @@
         "key": "media-34:3.2.3",
         "title": "Storyboards, scripts and shot lists",
         "front": "Storyboards, scripts and shot lists",
-        "back": [
-          "Planning documents that specify framing, movement, sound, dialogue and sequence before production."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Planning documents that specify framing, movement, sound, dialogue and sequence before production."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A storyboard visualises each shot, specifying framing, angle, camera movement and the arrangement of subjects within the frame.",
+              "It usually includes notes on duration, transitions and accompanying sound.",
+              "A script specifies dialogue, action and sound in written form but does not fix the visual treatment.",
+              "The storyboard therefore translates the script into the visual language of the chosen form and allows problems to be identified before shooting."
+            ]
+          }
         ]
       }
     },
@@ -441,8 +651,22 @@
         "key": "media-34:3.2.4",
         "title": "Pre-production planning and logistics",
         "front": "Pre-production planning and logistics",
-        "back": [
-          "Scheduling, location scouting, casting, equipment, permissions, risk assessment and contingency planning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Scheduling, location scouting, casting, equipment, permissions, risk assessment and contingency planning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Location scouting to confirm access, light, sound conditions and power availability.",
+              "Casting and crew arrangement, and booking equipment for the required dates.",
+              "Obtaining permissions and releases for locations, participants and any copyright material used.",
+              "Contingency planning matters because weather, illness and equipment failure are routine, and a production without alternatives loses the shoot day entirely."
+            ]
+          }
         ]
       }
     },
@@ -466,8 +690,21 @@
         "key": "media-34:4.1.1",
         "title": "Production",
         "front": "Production",
-        "back": [
-          "Realising the design plan through filming, recording, photographing or authoring, and managing the trade-off between plan and circumstance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Realising the design plan through filming, recording, photographing or authoring, and managing the trade-off between plan and circumstance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify what the shot or element was intended to communicate, since the purpose matters more than the specific execution.",
+              "Devise an alternative that serves the same narrative or communicative function within the available conditions.",
+              "Document the change and its reason, so the evaluation can assess the finished work against the revised intention."
+            ]
+          }
         ]
       }
     },
@@ -492,8 +729,22 @@
         "key": "media-34:4.1.2",
         "title": "Post-production",
         "front": "Post-production",
-        "back": [
-          "Editing for continuity, pace and meaning, colour grading, sound mixing, titles and the export specifications for the chosen platform."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Editing for continuity, pace and meaning, colour grading, sound mixing, titles and the export specifications for the chosen platform."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Editing determines the order in which the audience receives information, so meaning is created in the juxtaposition of shots rather than within either shot alone.",
+              "Shot duration controls pace and attention: holding on a reaction gives it weight, while cutting away denies it.",
+              "A cut between two unrelated images invites the audience to infer a relationship between them, which is how montage generates meaning.",
+              "Transitions, sound bridges and continuity decisions also shape whether the audience experiences the sequence as continuous or fragmented."
+            ]
+          }
         ]
       }
     },
@@ -517,8 +768,21 @@
         "key": "media-34:4.1.3",
         "title": "Realising the intended style",
         "front": "Realising the intended style",
-        "back": [
-          "Ensuring technical and symbolic codes are consistent with the design plan and appropriate to the form, audience and purpose."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ensuring technical and symbolic codes are consistent with the design plan and appropriate to the form, audience and purpose."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Consistency means the technical and symbolic codes work together throughout, so lighting, colour, framing, editing pace and sound share a coherent approach.",
+              "A consistent style creates a unified world that the audience accepts and becomes absorbed in.",
+              "Inconsistency draws attention to the construction itself, breaking absorption and reading as a technical error rather than a deliberate choice."
+            ]
+          }
         ]
       }
     },
@@ -543,8 +807,22 @@
         "key": "media-34:4.1.4",
         "title": "Evaluating the finished production",
         "front": "Evaluating the finished production",
-        "back": [
-          "Assessing the product against the intentions in the design plan, with evidence from the work itself and from audience response."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Assessing the product against the intentions in the design plan, with evidence from the work itself and from audience response."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Address each stated intention separately: form, audience, purpose and style, rather than giving a general impression.",
+              "Point to specific moments in the finished work as evidence of whether each intention was realised.",
+              "Acknowledge where the outcome departed from the plan and assess whether the departure improved or weakened the work.",
+              "Include audience response where available, since the intended effect on an audience cannot be verified by the maker alone."
+            ]
+          }
         ]
       }
     },
@@ -569,8 +847,22 @@
         "key": "media-34:4.2.1",
         "title": "Media ownership and concentration",
         "front": "Media ownership and concentration",
-        "back": [
-          "Patterns of ownership, concentration of media ownership in Australia, and the influence of ownership on content and editorial direction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Patterns of ownership, concentration of media ownership in Australia, and the influence of ownership on content and editorial direction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Concentration means a small number of owners control the outlets through which most people receive news and commentary.",
+              "Owners influence content through editorial appointments, resourcing decisions and the issues their outlets choose to pursue.",
+              "A narrower range of owners tends to produce a narrower range of perspectives available to the public.",
+              "This matters for democratic debate, since citizens form political judgements using information supplied by these outlets."
+            ]
+          }
         ]
       }
     },
@@ -595,8 +887,22 @@
         "key": "media-34:4.2.2",
         "title": "Commercial influences on content",
         "front": "Commercial influences on content",
-        "back": [
-          "Advertising revenue, sponsorship, ratings and clicks, and the effect of commercial pressure on what is produced and published."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Advertising revenue, sponsorship, ratings and clicks, and the effect of commercial pressure on what is produced and published."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Content must attract and retain the audience that advertisers wish to reach, so material appealing to that demographic is prioritised.",
+              "Online, revenue tied to clicks and attention rewards content that provokes strong immediate reaction, which favours conflict and sensation.",
+              "Advertisers may withdraw from outlets publishing material they consider damaging to their brand, creating indirect pressure on editorial choices.",
+              "Expensive investigative work that serves few readers is difficult to sustain on a commercial model, which affects the type of journalism produced."
+            ]
+          }
         ]
       }
     },
@@ -621,8 +927,22 @@
         "key": "media-34:4.2.3",
         "title": "Regulation and classification",
         "front": "Regulation and classification",
-        "back": [
-          "Classification of films, television and games, industry codes of practice, complaints processes and the differing regulation of broadcast and online media."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Classification of films, television and games, industry codes of practice, complaints processes and the differing regulation of broadcast and online media."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Classification informs audiences about content so they can make decisions, and restricts access to some material by age.",
+              "It balances the protection of children and community standards against freedom of expression and the interests of producers.",
+              "Broadcast media operate under licences within one jurisdiction, so regulators can impose conditions and penalties on identifiable licence holders.",
+              "Online content is produced globally, distributed by platforms outside national jurisdiction and published continuously in enormous volume, so pre-publication classification is impractical."
+            ]
+          }
         ]
       }
     },
@@ -647,8 +967,22 @@
         "key": "media-34:4.2.4",
         "title": "Codes of practice and journalistic ethics",
         "front": "Codes of practice and journalistic ethics",
-        "back": [
-          "Accuracy, fairness, privacy, the distinction between news and comment, and the handling of complaints and corrections."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Accuracy, fairness, privacy, the distinction between news and comment, and the handling of complaints and corrections."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Accuracy: reporting should be factually correct and verified, with errors corrected promptly and prominently.",
+              "Fairness: those criticised should be given an opportunity to respond, and reporting should not be misleading through selective omission.",
+              "Distinction between news and comment: opinion should be clearly identified so audiences know which they are reading.",
+              "Privacy: intrusion requires justification in the public interest, which is not the same as what the public finds interesting."
+            ]
+          }
         ]
       }
     },
@@ -673,8 +1007,22 @@
         "key": "media-34:4.2.5",
         "title": "Platforms, algorithms and gatekeeping",
         "front": "Platforms, algorithms and gatekeeping",
-        "back": [
-          "The shift of gatekeeping from editors to algorithms, personalisation, filter effects and the accountability of platforms for content."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The shift of gatekeeping from editors to algorithms, personalisation, filter effects and the accountability of platforms for content."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Traditional gatekeeping involved editors deciding what to publish and in what prominence, applying professional judgement for which they were accountable.",
+              "Algorithmic curation selects and ranks content automatically for each user based on predicted engagement.",
+              "The criteria are commercial and largely opaque, and no individual takes editorial responsibility for the resulting selection.",
+              "A consequence is that users receive personalised and differing versions of events, which fragments the shared information base on which public debate depends."
+            ]
+          }
         ]
       }
     },
@@ -699,8 +1047,22 @@
         "key": "media-34:4.2.6",
         "title": "Audience agency and user-generated content",
         "front": "Audience agency and user-generated content",
-        "back": [
-          "The shift from audiences as receivers to audiences as producers and distributors, and the consequences for control over media."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The shift from audiences as receivers to audiences as producers and distributors, and the consequences for control over media."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Low-cost production tools and open distribution platforms allow individuals to produce and publish media without institutional approval.",
+              "Audiences also curate, comment on, remix and redistribute content, so they participate in circulation rather than only receiving it.",
+              "This allows perspectives excluded by mainstream outlets to reach substantial audiences directly.",
+              "The limitation is that visibility remains controlled by platform algorithms owned by a few corporations, so reaching an audience still depends on decisions made elsewhere."
+            ]
+          }
         ]
       }
     },
@@ -725,8 +1087,22 @@
         "key": "media-34:4.2.7",
         "title": "Misinformation and trust",
         "front": "Misinformation and trust",
-        "back": [
-          "The spread of false information, the economics that reward it, and the effects on trust in media institutions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The spread of false information, the economics that reward it, and the effects on trust in media institutions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Platform algorithms promote content that generates engagement, and false or sensational claims often provoke stronger reactions than accurate ones.",
+              "There is no pre-publication verification, so a claim can reach a large audience before any correction is possible.",
+              "Corrections reach far fewer people than the original claim and rarely undo the initial impression.",
+              "Personalisation means users encounter claims within networks of people who already agree, which increases their apparent credibility."
+            ]
+          }
         ]
       }
     },
@@ -751,8 +1127,22 @@
         "key": "media-34:A1",
         "title": "Hypodermic needle model",
         "front": "Hypodermic needle model",
-        "back": [
-          "The early view of audiences as passive recipients into whom messages are directly injected, and the criticisms of this model."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The early view of audiences as passive recipients into whom messages are directly injected, and the criticisms of this model."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The model proposes that media messages are injected directly into a passive audience, producing uniform and immediate effects.",
+              "It emerged in an era of concern about propaganda and mass broadcast media reaching large undifferentiated audiences.",
+              "It is criticised for treating audiences as uniform, ignoring the differences in interpretation that people bring to a text.",
+              "It is also criticised for assuming a direct causal effect that empirical research has not demonstrated, and for ignoring social context and interpersonal influence."
+            ]
+          }
         ]
       }
     },
@@ -776,8 +1166,21 @@
         "key": "media-34:A2",
         "title": "Two-step flow and opinion leaders",
         "front": "Two-step flow and opinion leaders",
-        "back": [
-          "The role of opinion leaders in mediating media messages within social networks, and the influence of interpersonal communication."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of opinion leaders in mediating media messages within social networks, and the influence of interpersonal communication."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The model proposes that media messages reach opinion leaders first, who interpret them and pass them on within their social networks.",
+              "Influence therefore operates through personal relationships as well as through direct exposure to media.",
+              "It revised earlier views by showing that social context mediates media effects, so the audience is not a mass of isolated individuals."
+            ]
+          }
         ]
       }
     },
@@ -802,8 +1205,22 @@
         "key": "media-34:A3",
         "title": "Uses and gratifications",
         "front": "Uses and gratifications",
-        "back": [
-          "The active audience selecting media to satisfy needs for information, personal identity, social interaction and entertainment."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The active audience selecting media to satisfy needs for information, personal identity, social interaction and entertainment."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The approach proposes that audiences actively select media to satisfy their own needs rather than passively receiving whatever is transmitted.",
+              "Identified gratifications include information and surveillance, personal identity, social interaction and integration, and entertainment or escape.",
+              "It reverses the question from what media do to people, to what people do with media.",
+              "A criticism is that it can overstate audience freedom, since the available choices are determined by producers and platforms."
+            ]
+          }
         ]
       }
     },
@@ -828,8 +1245,22 @@
         "key": "media-34:A4",
         "title": "Reception theory and reading positions",
         "front": "Reception theory and reading positions",
-        "back": [
-          "Dominant, negotiated and oppositional readings, and the encoding of a preferred meaning that audiences may or may not accept."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Dominant, negotiated and oppositional readings, and the encoding of a preferred meaning that audiences may or may not accept."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A dominant or preferred reading accepts the meaning the producers encoded into the text.",
+              "A negotiated reading accepts the overall framework but resists or modifies parts of it based on the viewer's own circumstances.",
+              "An oppositional reading understands the preferred meaning but rejects it, reading the text against its intended position.",
+              "An advertisement promoting a product as essential may be accepted, partly accepted as appealing but unaffordable, or rejected as manipulative marketing."
+            ]
+          }
         ]
       }
     },
@@ -854,8 +1285,22 @@
         "key": "media-34:A5",
         "title": "Cultivation theory",
         "front": "Cultivation theory",
-        "back": [
-          "The proposition that long-term cumulative exposure shapes perception of reality, including mean world syndrome, and the limits of the evidence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The proposition that long-term cumulative exposure shapes perception of reality, including mean world syndrome, and the limits of the evidence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cultivation theory proposes that heavy long-term exposure to consistent media representations gradually shapes a person's perception of social reality.",
+              "Mean world syndrome describes heavy viewers of violent content overestimating the level of danger in their society.",
+              "A strength is that it addresses cumulative long-term influence rather than immediate effects, which better matches how media is actually consumed.",
+              "A limitation is that correlation between heavy viewing and fearful perception does not establish direction of causation, since anxious people may choose such content."
+            ]
+          }
         ]
       }
     },
@@ -880,8 +1325,22 @@
         "key": "media-34:A6",
         "title": "Debates about media influence",
         "front": "Debates about media influence",
-        "back": [
-          "Weighing evidence about media effects, the role of moral panic, and the difficulty of isolating media influence from other social factors."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Weighing evidence about media effects, the role of moral panic, and the difficulty of isolating media influence from other social factors."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Media consumption occurs alongside many other influences including family, peers, economic circumstances and education, which are difficult to separate.",
+              "Correlational studies cannot establish direction, since a predisposition may cause both the media choice and the behaviour.",
+              "Laboratory experiments can demonstrate short-term effects but cannot replicate long-term real-world consumption.",
+              "Public debate is often driven by moral panic following a specific incident, which produces conclusions unsupported by the weight of research."
+            ]
+          }
         ]
       }
     },
@@ -906,8 +1365,22 @@
         "key": "media-34:X1",
         "title": "Analysing an unseen text",
         "front": "Analysing an unseen text",
-        "back": [
-          "Identifying form, purpose and audience, naming specific codes, and explaining the meaning each construction produces."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying form, purpose and audience, naming specific codes, and explaining the meaning each construction produces."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the media form, its likely purpose and its intended audience from evidence in the text.",
+              "Identify specific technical and symbolic codes, naming them precisely rather than describing the content generally.",
+              "Explain the meaning each code constructs and how the audience is positioned by it.",
+              "Connect the observations to an overall reading of what the text communicates and to whom."
+            ]
+          }
         ]
       }
     },
@@ -931,8 +1404,21 @@
         "key": "media-34:X2",
         "title": "Using examples from set texts",
         "front": "Using examples from set texts",
-        "back": [
-          "Recalling specific moments, shots and sequences with enough precision to serve as evidence, rather than summarising plot."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recalling specific moments, shots and sequences with enough precision to serve as evidence, rather than summarising plot."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It refers to a specific moment, shot or sequence rather than to the text in general or to its plot as a whole.",
+              "It names the codes at work in that moment, such as the framing, lighting, sound or editing.",
+              "It explains what that specific construction communicates, which is what earns the analysis marks."
+            ]
+          }
         ]
       }
     },
@@ -956,8 +1442,21 @@
         "key": "media-34:X3",
         "title": "Command terms and media terminology",
         "front": "Command terms and media terminology",
-        "back": [
-          "Matching response depth to the command term, and using precise media terminology rather than everyday description."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Matching response depth to the command term, and using precise media terminology rather than everyday description."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "'The camera zooms in' is often used for what is actually a cut to a closer shot or a dolly in; name the actual technique.",
+              "'Sad music plays' should specify that a non-diegetic score in a minor key positions the audience to read the scene as melancholy.",
+              "'It shows that' should be replaced with a verb describing the construction, such as 'the low key lighting constructs the character as threatening'."
+            ]
+          }
         ]
       }
     }

@@ -45,8 +45,21 @@
         "key": "english-34:TR1",
         "title": "Understanding the whole text",
         "front": "Understanding the whole text",
-        "back": [
-          "Knowing plot, structure, setting and the arc of each major character well enough to select evidence from anywhere in the text without rereading it."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Knowing plot, structure, setting and the arc of each major character well enough to select evidence from anywhere in the text without rereading it."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Structure includes how the text is divided, the order in which information is revealed and where shifts in perspective or time occur.",
+              "Knowing structure lets you argue about the effect of authorial choices, such as why a revelation is withheld until the final chapter.",
+              "A response that only retells plot describes what happens, whereas analysis of structure explains how the author shapes the reader's response."
+            ]
+          }
         ]
       }
     },
@@ -70,8 +83,21 @@
         "key": "english-34:TR2",
         "title": "Authorial intent and construction",
         "front": "Authorial intent and construction",
-        "back": [
-          "Treating the text as something deliberately made, and writing about the author's choices rather than about characters as if they were real people."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Treating the text as something deliberately made, and writing about the author's choices rather than about characters as if they were real people."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A constructed version: 'Shakespeare charts Macbeth's descent into paranoia to dramatise the corrosive effect of guilt on the conscience.'",
+              "The subject of the sentence becomes the author, and the verb names a deliberate choice such as charts, positions, constructs or undercuts.",
+              "This shifts the response from describing a person to analysing an authorial decision and its effect on the audience."
+            ]
+          }
         ]
       }
     },
@@ -96,8 +122,22 @@
         "key": "english-34:TR3",
         "title": "Views and values",
         "front": "Views and values",
-        "back": [
-          "Identifying what a text endorses, challenges or leaves ambiguous, and locating the textual evidence that reveals it."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying what a text endorses, challenges or leaves ambiguous, and locating the textual evidence that reveals it."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Look at which characters or behaviours are rewarded and which are punished by the narrative's outcome.",
+              "Look at the language used to describe them, since sympathetic or unsympathetic diction reveals the text's judgement.",
+              "Consider what the text leaves unsaid or unresolved, as ambiguity may itself be the position being taken.",
+              "A common error is assuming a character's views are the author's views; the author may present a view in order to criticise it."
+            ]
+          }
         ]
       }
     },
@@ -122,8 +162,22 @@
         "key": "english-34:TR4",
         "title": "Unpacking the prompt",
         "front": "Unpacking the prompt",
-        "back": [
-          "Identifying the key terms, the assumption embedded in the prompt and the scope it sets, before planning any argument."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying the key terms, the assumption embedded in the prompt and the scope it sets, before planning any argument."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the key words and define any that are contestable, since the definition often becomes part of your argument.",
+              "Identify the assumption the prompt makes and decide whether you agree with it fully, partly or not at all.",
+              "Note the scope: whether the prompt limits you to a character, a theme, a section of the text or the whole text.",
+              "Decide your contention, which should answer the prompt directly rather than restate it."
+            ]
+          }
         ]
       }
     },
@@ -147,8 +201,21 @@
         "key": "english-34:TR5",
         "title": "Types of prompts",
         "front": "Types of prompts",
-        "back": [
-          "Recognising theme-based, character-based, quotation and 'how' prompts, and adapting the approach each requires."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recognising theme-based, character-based, quotation and 'how' prompts, and adapting the approach each requires."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A 'to what extent' prompt invites a qualified position, so the essay should concede part of the statement before arguing the more significant qualification.",
+              "A 'how does the author' prompt is asking about method, so each paragraph must be organised around a technique or choice and its effect.",
+              "In both cases the contention must take a clear position rather than sitting on the fence."
+            ]
+          }
         ]
       }
     },
@@ -172,8 +239,21 @@
         "key": "english-34:TR6",
         "title": "Writing a contention",
         "front": "Writing a contention",
-        "back": [
-          "Stating a single, arguable position that responds to the prompt and previews the line of reasoning the essay will follow."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Stating a single, arguable position that responds to the prompt and previews the line of reasoning the essay will follow."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A weak contention restates the prompt or lists the paragraph topics without taking a position.",
+              "A strong contention makes a claim that could be disagreed with, and signals the reasoning that supports it.",
+              "It should also be specific to the text, referring to the author's purpose rather than making a general observation about life."
+            ]
+          }
         ]
       }
     },
@@ -197,8 +277,21 @@
         "key": "english-34:TR7",
         "title": "Introductions",
         "front": "Introductions",
-        "back": [
-          "Opening with the text and author, establishing the contention, and signalling the argument without listing paragraph topics mechanically."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Opening with the text and author, establishing the contention, and signalling the argument without listing paragraph topics mechanically."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It must name the text, its form and the author, and state the contention in response to the prompt.",
+              "It should signal the line of reasoning, so the reader knows the direction the argument will take.",
+              "It should avoid broad opening generalisations about human nature and avoid mechanically listing 'firstly, secondly, thirdly'."
+            ]
+          }
         ]
       }
     },
@@ -223,8 +316,22 @@
         "key": "english-34:TR8",
         "title": "Topic sentences and paragraph structure",
         "front": "Topic sentences and paragraph structure",
-        "back": [
-          "Opening each paragraph with a claim that advances the contention, then supporting it with evidence and analysis before linking back."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Opening each paragraph with a claim that advances the contention, then supporting it with evidence and analysis before linking back."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The topic sentence states the argument of the paragraph, not the events it will discuss, and it must advance the contention.",
+              "Follow it with evidence: a brief embedded quotation or a precise reference to a moment in the text.",
+              "Analyse the evidence by explaining the author's choice and its effect on the reader, rather than paraphrasing the quotation.",
+              "Close by linking the point back to the contention so the argument accumulates rather than restarting each paragraph."
+            ]
+          }
         ]
       }
     },
@@ -248,8 +355,21 @@
         "key": "english-34:TR9",
         "title": "Embedding evidence",
         "front": "Embedding evidence",
-        "back": [
-          "Integrating short quotations into your own sentences so they read fluently, and selecting the most precise words rather than long passages."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Integrating short quotations into your own sentences so they read fluently, and selecting the most precise words rather than long passages."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A short embedded quotation lets you analyse specific word choices, which is where the analysis actually happens.",
+              "Long quotations consume words without demonstrating your reasoning, and the marker cannot tell which part you consider significant.",
+              "Embedding also keeps the sentence grammatical and shows control of the material rather than reliance on it."
+            ]
+          }
         ]
       }
     },
@@ -273,8 +393,21 @@
         "key": "english-34:TR10",
         "title": "Analysing language and technique",
         "front": "Analysing language and technique",
-        "back": [
-          "Moving from identifying a technique to explaining its effect, and using precise metalanguage appropriate to the text's form."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Moving from identifying a technique to explaining its effect, and using precise metalanguage appropriate to the text's form."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identifying names the device, for example noting that the author uses a simile, which earns little credit on its own.",
+              "Analysing explains what the choice does: the connotation it carries, the response it creates and how it serves the author's purpose.",
+              "A useful structure is: the author's choice, the specific evidence, the connotation or effect, and the link to purpose or theme."
+            ]
+          }
         ]
       }
     },
@@ -298,8 +431,21 @@
         "key": "english-34:TR11",
         "title": "Metalanguage for prose",
         "front": "Metalanguage for prose",
-        "back": [
-          "Narrative perspective, focalisation, free indirect discourse, tone, imagery, motif, symbolism, characterisation and structure in novels and short fiction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Narrative perspective, focalisation, free indirect discourse, tone, imagery, motif, symbolism, characterisation and structure in novels and short fiction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A first person narrator restricts the reader to one character's perspective, so the reader receives only that character's interpretation of events.",
+              "Unreliability creates a gap between what the narrator claims and what the reader infers, which can generate irony or invite judgement.",
+              "Useful terms include narrative perspective, focalisation, dramatic irony, retrospective narration and free indirect discourse."
+            ]
+          }
         ]
       }
     },
@@ -323,8 +469,21 @@
         "key": "english-34:TR12",
         "title": "Metalanguage for drama",
         "front": "Metalanguage for drama",
-        "back": [
-          "Stage directions, dramatic irony, soliloquy and aside, staging, lighting and sound, act and scene structure, and the audience rather than the reader."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Stage directions, dramatic irony, soliloquy and aside, staging, lighting and sound, act and scene structure, and the audience rather than the reader."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A play is written to be performed, so meaning is produced through staging, performance and the shared experience of an audience.",
+              "Soliloquy grants the audience privileged access to a character's interior thought, creating intimacy or complicity.",
+              "Dramatic irony, where the audience knows what a character does not, generates tension and invites judgement of that character."
+            ]
+          }
         ]
       }
     },
@@ -349,8 +508,22 @@
         "key": "english-34:TR13",
         "title": "Metalanguage for film",
         "front": "Metalanguage for film",
-        "back": [
-          "Mise en scene, framing and shot type, camera movement, editing, lighting, colour palette, sound and score, and the term viewer rather than reader."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mise en scene, framing and shot type, camera movement, editing, lighting, colour palette, sound and score, and the term viewer rather than reader."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A close-up isolates a face or object, directing attention to emotion or significance.",
+              "A low angle shot positions the viewer beneath the subject, conveying power, dominance or threat.",
+              "Non-diegetic score guides emotional response by cueing the viewer how to feel about the action on screen.",
+              "Editing pace, such as rapid cutting, builds tension, while a long take can create unease or intimacy."
+            ]
+          }
         ]
       }
     },
@@ -374,8 +547,21 @@
         "key": "english-34:TR14",
         "title": "Metalanguage for poetry and memoir",
         "front": "Metalanguage for poetry and memoir",
-        "back": [
-          "Form, stanza and line break, enjambment, metre and rhythm, voice, persona, and the conventions of life writing."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Form, stanza and line break, enjambment, metre and rhythm, voice, persona, and the conventions of life writing."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Enjambment runs a sentence across a line break, creating momentum, hesitation or a moment of double meaning at the line's end.",
+              "The persona is the voice constructed within the poem and is not necessarily the poet themselves.",
+              "Maintaining the distinction allows you to analyse voice as a deliberate construction rather than as autobiography."
+            ]
+          }
         ]
       }
     },
@@ -399,8 +585,21 @@
         "key": "english-34:TR15",
         "title": "Context and its limits",
         "front": "Context and its limits",
-        "back": [
-          "Using historical, social and cultural context to illuminate the text's concerns, without letting background information displace textual analysis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using historical, social and cultural context to illuminate the text's concerns, without letting background information displace textual analysis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Context should be used briefly to explain why a concern mattered to the author or original audience, sharpening the analysis.",
+              "It must be connected immediately to a specific choice in the text rather than presented as standalone background.",
+              "The common misuse is a paragraph of historical information with no textual evidence, which reads as a history answer rather than an English one."
+            ]
+          }
         ]
       }
     },
@@ -425,8 +624,22 @@
         "key": "english-34:TR16",
         "title": "Complexity and counter-argument",
         "front": "Complexity and counter-argument",
-        "back": [
-          "Acknowledging tension, ambiguity or counter-evidence in the text, and using it to produce a more nuanced position rather than a contradictory one."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Acknowledging tension, ambiguity or counter-evidence in the text, and using it to produce a more nuanced position rather than a contradictory one."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Acknowledge it directly rather than ignoring it, since ignoring obvious counter-evidence weakens the argument.",
+              "Show why the apparent contradiction is consistent with a more precise version of your contention, for example that the text is ambivalent rather than wholly endorsing.",
+              "Use qualifying language such as 'while', 'although' and 'ultimately' to hold both ideas at once.",
+              "The strongest responses treat tension in the text as the subject of analysis rather than a problem to be hidden."
+            ]
+          }
         ]
       }
     },
@@ -450,8 +663,21 @@
         "key": "english-34:TR17",
         "title": "Conclusions",
         "front": "Conclusions",
-        "back": [
-          "Drawing the argument together, extending to the text's broader significance, and avoiding both mere repetition and the introduction of new evidence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Drawing the argument together, extending to the text's broader significance, and avoiding both mere repetition and the introduction of new evidence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It should restate the position in language different from the introduction and draw the strands of the argument together.",
+              "It may extend briefly to the text's wider significance or to what the author invites the audience to consider.",
+              "It should not introduce new evidence or a new argument, and it should not simply repeat the introduction word for word."
+            ]
+          }
         ]
       }
     },
@@ -475,8 +701,21 @@
         "key": "english-34:CT1",
         "title": "The Framework of Ideas",
         "front": "The Framework of Ideas",
-        "back": [
-          "Understanding the chosen Framework as a field of ideas to explore, and generating your own angle within it rather than writing to a fixed topic."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Understanding the chosen Framework as a field of ideas to explore, and generating your own angle within it rather than writing to a fixed topic."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The Framework provides a broad field of ideas that your writing explores, such as writing about country, protest, personal journeys or play.",
+              "It is not a question to answer; you develop your own angle, argument or narrative within that field.",
+              "The Framework sets the territory, while your purpose, audience, context and form are decisions you make."
+            ]
+          }
         ]
       }
     },
@@ -501,8 +740,22 @@
         "key": "english-34:CT2",
         "title": "Purpose, audience, context and form",
         "front": "Purpose, audience, context and form",
-        "back": [
-          "Making deliberate decisions about why you are writing, for whom, in what circumstances and in what form, and keeping them consistent across the piece."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Making deliberate decisions about why you are writing, for whom, in what circumstances and in what form, and keeping them consistent across the piece."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Audience determines register: a piece for a specialist readership can assume shared knowledge, while a general audience needs explanation.",
+              "It determines the level of formality in vocabulary and syntax, including whether contractions, slang or first person are appropriate.",
+              "It determines what evidence or appeal will be persuasive, since different readers respond to different kinds of authority.",
+              "Inconsistency in these features is one of the clearest signals that a writer has not held their audience in mind."
+            ]
+          }
         ]
       }
     },
@@ -526,8 +779,21 @@
         "key": "english-34:CT3",
         "title": "Learning from mentor texts",
         "front": "Learning from mentor texts",
-        "back": [
-          "Reading mentor texts as a writer, identifying the specific moves they make, and adapting those moves rather than imitating their content."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reading mentor texts as a writer, identifying the specific moves they make, and adapting those moves rather than imitating their content."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reading as a writer means noticing how the piece is built rather than only what it says, identifying choices you could reuse.",
+              "Structural moves are worth borrowing, such as opening with a concrete image before widening to an idea.",
+              "Voice features are also worth borrowing, such as the rhythm of short sentences after a long one, or a recurring motif that ties the piece together."
+            ]
+          }
         ]
       }
     },
@@ -551,8 +817,21 @@
         "key": "english-34:CT4",
         "title": "Voice and register",
         "front": "Voice and register",
-        "back": [
-          "Constructing a consistent and deliberate voice through diction, syntax, rhythm and distance, and sustaining it across the whole piece."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Constructing a consistent and deliberate voice through diction, syntax, rhythm and distance, and sustaining it across the whole piece."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Voice is created through word choice, sentence length and rhythm, and the degree of distance or intimacy with the reader.",
+              "Sentence length can be varied deliberately: a sequence of longer sentences followed by a short one gives that short sentence weight.",
+              "Consistency matters, because an unexplained shift in voice reads as a loss of control rather than a deliberate effect."
+            ]
+          }
         ]
       }
     },
@@ -576,8 +855,21 @@
         "key": "english-34:CT5",
         "title": "Structure in creative and persuasive writing",
         "front": "Structure in creative and persuasive writing",
-        "back": [
-          "Choosing a shape that serves the purpose: linear, fragmented, circular, framed or vignette, and controlling the reader's experience of time and revelation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Choosing a shape that serves the purpose: linear, fragmented, circular, framed or vignette, and controlling the reader's experience of time and revelation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A circular structure returns at the end to the image or moment that opened the piece.",
+              "The repetition invites the reader to reinterpret that opening in light of everything that has followed, producing a sense of change or of inescapability.",
+              "The structure itself carries meaning, so the choice should be justified by the piece's purpose rather than used for novelty."
+            ]
+          }
         ]
       }
     },
@@ -601,8 +893,21 @@
         "key": "english-34:CT6",
         "title": "Showing rather than telling",
         "front": "Showing rather than telling",
-        "back": [
-          "Conveying emotion and meaning through concrete detail, action and image rather than through abstract statement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Conveying emotion and meaning through concrete detail, action and image rather than through abstract statement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Telling states a feeling directly, for example that a character was nervous, which gives the reader a label but no experience.",
+              "Showing presents concrete detail from which the reader infers the feeling, such as an action, a physical sensation or a fragment of dialogue.",
+              "It is more effective because inference engages the reader in making meaning, and specific detail is more memorable than abstraction."
+            ]
+          }
         ]
       }
     },
@@ -626,8 +931,21 @@
         "key": "english-34:CT7",
         "title": "Vocabulary and precision",
         "front": "Vocabulary and precision",
-        "back": [
-          "Choosing words for connotation as well as denotation, avoiding vague abstractions and resisting the impulse to inflate vocabulary artificially."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Choosing words for connotation as well as denotation, avoiding vague abstractions and resisting the impulse to inflate vocabulary artificially."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A word used for its impressiveness rather than its precision often carries connotations the writer did not intend.",
+              "Overly elevated diction can also clash with the voice and register established elsewhere in the piece.",
+              "The test is whether the word is the most precise available for the meaning intended, not whether it is the least common."
+            ]
+          }
         ]
       }
     },
@@ -651,8 +969,21 @@
         "key": "english-34:CT8",
         "title": "Experimentation and risk",
         "front": "Experimentation and risk",
-        "back": [
-          "Trying unfamiliar forms, perspectives and structures during the writing process, and judging which experiments serve the purpose."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Trying unfamiliar forms, perspectives and structures during the writing process, and judging which experiments serve the purpose."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Experimentation develops range and often produces a more distinctive piece than the first, most obvious approach.",
+              "An experiment works when the unusual choice does something the conventional choice could not, such as a second person address creating complicity.",
+              "It fails when the reader's attention goes to the technique itself rather than to the meaning it was meant to create."
+            ]
+          }
         ]
       }
     },
@@ -676,8 +1007,21 @@
         "key": "english-34:CT9",
         "title": "Drafting, feedback and editing",
         "front": "Drafting, feedback and editing",
-        "back": [
-          "Treating writing as a process of drafting and revision, using feedback critically, and editing at the level of structure before the level of the sentence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Treating writing as a process of drafting and revision, using feedback critically, and editing at the level of structure before the level of the sentence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Structural editing decides what stays, what is cut and in what order material appears.",
+              "Polishing a sentence that will later be deleted wastes effort, so large decisions should be made first.",
+              "Once the shape is settled, sentence-level editing can sharpen word choice, rhythm and clarity within it."
+            ]
+          }
         ]
       }
     },
@@ -702,8 +1046,22 @@
         "key": "english-34:CT10",
         "title": "The written commentary or reflection",
         "front": "The written commentary or reflection",
-        "back": [
-          "Explaining the decisions made about purpose, audience, context, form and language, and justifying them with reference to your own text and your mentor texts."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Explaining the decisions made about purpose, audience, context, form and language, and justifying them with reference to your own text and your mentor texts."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An explicit statement of the intended purpose, audience, context and form of the piece.",
+              "Identification of specific choices you made in language, structure and voice, quoted or referenced from your own writing.",
+              "A justification of why each choice serves the purpose and audience you identified.",
+              "Acknowledgement of the mentor texts or Framework ideas that influenced the decisions, and of what you changed between drafts."
+            ]
+          }
         ]
       }
     },
@@ -727,8 +1085,21 @@
         "key": "english-34:AA1",
         "title": "Identifying contention and arguments",
         "front": "Identifying contention and arguments",
-        "back": [
-          "Distinguishing the overall contention from the supporting arguments, and tracking how the arguments develop across the text."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Distinguishing the overall contention from the supporting arguments, and tracking how the arguments develop across the text."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The contention is the writer's overall position, the single claim the whole piece exists to persuade the reader to accept.",
+              "Arguments are the separate reasons offered in support, usually one per section or paragraph.",
+              "The contention is often stated near the opening or the close, while arguments can be found by asking what each paragraph is trying to prove."
+            ]
+          }
         ]
       }
     },
@@ -752,8 +1123,21 @@
         "key": "english-34:AA2",
         "title": "Audience, context and purpose",
         "front": "Audience, context and purpose",
-        "back": [
-          "Identifying the intended audience and the issue's context, and considering what that audience already believes and what the writer needs to shift."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying the intended audience and the issue's context, and considering what that audience already believes and what the writer needs to shift."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Persuasive effect depends on the reader: an appeal to tradition may reassure one audience and alienate another.",
+              "Knowing the audience lets you explain why the writer chose a particular appeal rather than simply naming it.",
+              "It also explains structural choices, such as conceding a point early to disarm readers who are likely to disagree."
+            ]
+          }
         ]
       }
     },
@@ -778,8 +1162,22 @@
         "key": "english-34:AA3",
         "title": "Tone and its shifts",
         "front": "Tone and its shifts",
-        "back": [
-          "Naming tone precisely, tracking where and why it changes, and linking the shift to the writer's persuasive strategy."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Naming tone precisely, tracking where and why it changes, and linking the shift to the writer's persuasive strategy."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify where the shift occurs, name both tones precisely, and explain what the change is designed to achieve.",
+              "A shift from measured to indignant, for example, can signal that the writer has moved from establishing credibility to demanding action.",
+              "Precise alternatives include derisive, wry, conciliatory, sardonic, urgent and resigned.",
+              "Vague labels such as 'negative' or 'emotive' do not explain how the reader is being positioned."
+            ]
+          }
         ]
       }
     },
@@ -804,8 +1202,22 @@
         "key": "english-34:AA4",
         "title": "Appeals and persuasive strategies",
         "front": "Appeals and persuasive strategies",
-        "back": [
-          "Appeals to fear, hip pocket nerve, family, patriotism, fairness, tradition and expertise, and the reasoning each invites the reader to accept."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Appeals to fear, hip pocket nerve, family, patriotism, fairness, tradition and expertise, and the reasoning each invites the reader to accept."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An appeal to fear presents an undesirable consequence as likely if the reader does not accept the writer's position.",
+              "It positions the reader to feel personally at risk, making the writer's proposal seem like protection rather than imposition.",
+              "Naming the appeal alone is mere identification; the analysis is in explaining the specific reasoning and response it invites.",
+              "Strong responses explain what the reader is encouraged to conclude and why that conclusion serves the contention."
+            ]
+          }
         ]
       }
     },
@@ -830,8 +1242,22 @@
         "key": "english-34:AA5",
         "title": "Language techniques in argument",
         "front": "Language techniques in argument",
-        "back": [
-          "Inclusive language, rhetorical questions, repetition, anecdote, statistics, expert opinion, emotive diction, hyperbole and attacks, and the effect of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Inclusive language, rhetorical questions, repetition, anecdote, statistics, expert opinion, emotive diction, hyperbole and attacks, and the effect of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An anecdote makes an abstract issue concrete and personal, inviting the reader to feel sympathy for an individual case.",
+              "Statistics create an impression of objectivity and scale, suggesting the individual case is representative rather than exceptional.",
+              "Used together, the anecdote supplies emotional engagement while the statistics supply apparent proof.",
+              "The combination positions the reader to accept both that the issue matters and that it is widespread."
+            ]
+          }
         ]
       }
     },
@@ -856,8 +1282,22 @@
         "key": "english-34:AA6",
         "title": "Analysing visuals",
         "front": "Analysing visuals",
-        "back": [
-          "Reading photographs, cartoons, graphs and layout for their persuasive contribution, and connecting the visual to the written argument."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reading photographs, cartoons, graphs and layout for their persuasive contribution, and connecting the visual to the written argument."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Describe only the details that matter persuasively, such as exaggeration of a figure, symbolic objects, labels and facial expression.",
+              "Explain the contention the cartoon advances and how the visual choices position the viewer to accept it.",
+              "Explain the relationship to the written text: whether the visual reinforces, extends or complicates the writer's argument.",
+              "A description of the image without analysis of its effect earns very little credit."
+            ]
+          }
         ]
       }
     },
@@ -882,8 +1322,22 @@
         "key": "english-34:AA7",
         "title": "Structuring an analysis of argument",
         "front": "Structuring an analysis of argument",
-        "back": [
-          "Organising the response by the movement of the argument rather than by a list of techniques, and maintaining a sustained line of analysis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Organising the response by the movement of the argument rather than by a list of techniques, and maintaining a sustained line of analysis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A technique-by-technique structure produces a catalogue that repeats the same phrasing and loses sight of the writer's overall strategy.",
+              "Structuring by the development of the argument follows how the writer builds the case and shifts the reader over the course of the piece.",
+              "This allows you to explain sequence and cumulative effect, such as establishing credibility before making a contentious claim.",
+              "Techniques are then analysed where they occur, in service of the argument being made at that point."
+            ]
+          }
         ]
       }
     },
@@ -908,8 +1362,22 @@
         "key": "english-34:AA8",
         "title": "Comparing two or more texts",
         "front": "Comparing two or more texts",
-        "back": [
-          "Analysing how different writers position readers on the same issue, and comparing strategy, tone and appeal rather than summarising each in turn."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Analysing how different writers position readers on the same issue, and comparing strategy, tone and appeal rather than summarising each in turn."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Compare the contentions first, noting whether they oppose each other or differ in emphasis or scope.",
+              "Compare the strategies used to position the reader, such as one writer relying on expertise while the other relies on personal experience.",
+              "Integrate the comparison within paragraphs using connectives such as 'whereas' and 'by contrast', rather than analysing one text then the other.",
+              "Account for differences in audience and form, since these often explain why the strategies differ."
+            ]
+          }
         ]
       }
     },
@@ -933,8 +1401,21 @@
         "key": "english-34:AA9",
         "title": "Metalanguage of analysis",
         "front": "Metalanguage of analysis",
-        "back": [
-          "Using precise verbs for what a writer does to a reader, and avoiding the repeated formula of 'this makes the reader feel'."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using precise verbs for what a writer does to a reader, and avoiding the repeated formula of 'this makes the reader feel'."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Useful verbs include positions, invites, implies, aligns, undermines, concedes, dismisses and casts.",
+              "They describe the persuasive mechanism rather than asserting an emotional outcome the writer cannot guarantee.",
+              "'Makes the reader feel' overstates the effect and is usually followed by an unsupported claim about emotion rather than analysis of reasoning."
+            ]
+          }
         ]
       }
     },
@@ -958,8 +1439,21 @@
         "key": "english-34:W1",
         "title": "Sentence variety and control",
         "front": "Sentence variety and control",
-        "back": [
-          "Varying sentence length and structure for rhythm and emphasis, and controlling complex sentences without losing clarity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Varying sentence length and structure for rhythm and emphasis, and controlling complex sentences without losing clarity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A short sentence placed after several longer ones lands with emphasis because of the contrast in rhythm.",
+              "Long sentences can accumulate detail and hold ideas in relation to one another, which suits complex analysis.",
+              "The risk is losing grammatical control, so that the subject and verb become separated and the meaning blurs."
+            ]
+          }
         ]
       }
     },
@@ -984,8 +1478,22 @@
         "key": "english-34:W2",
         "title": "Cohesion and paragraph linking",
         "front": "Cohesion and paragraph linking",
-        "back": [
-          "Using connectives, pronoun reference and repeated key terms to carry an argument forward without mechanical signposting."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using connectives, pronoun reference and repeated key terms to carry an argument forward without mechanical signposting."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Repeat or vary a key term from the previous paragraph in the opening of the next, so the thread is visible.",
+              "Use logical connectives such as 'consequently', 'by contrast' or 'more troublingly' that signal the relationship between ideas.",
+              "Build a sequence in which each paragraph complicates or extends the previous one rather than simply adding another example.",
+              "Avoid mechanical signposting such as 'the second point I will discuss is', which announces structure without creating it."
+            ]
+          }
         ]
       }
     },
@@ -1009,8 +1517,21 @@
         "key": "english-34:W3",
         "title": "Concision",
         "front": "Concision",
-        "back": [
-          "Removing filler phrases, redundant qualifiers and empty openings so that every sentence carries meaning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Removing filler phrases, redundant qualifiers and empty openings so that every sentence carries meaning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The sentence opens with filler, uses redundant wording such as 'range of different' and 'in order to', and relies on the vague intensifier 'very'.",
+              "It also identifies techniques without naming any, so it makes no analytical claim.",
+              "A concise revision: 'The author's spare, fragmented syntax enacts the character's isolation.'"
+            ]
+          }
         ]
       }
     },
@@ -1034,8 +1555,21 @@
         "key": "english-34:W4",
         "title": "Punctuation for meaning",
         "front": "Punctuation for meaning",
-        "back": [
-          "Using the colon, semicolon, dash and comma deliberately, and avoiding the comma splice and misplaced apostrophe."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using the colon, semicolon, dash and comma deliberately, and avoiding the comma splice and misplaced apostrophe."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A semicolon joins two closely related independent clauses that could each stand as a sentence.",
+              "A colon introduces an explanation, elaboration or list that follows from the clause before it.",
+              "A comma splice incorrectly joins two independent clauses with only a comma; it is repaired with a full stop, a semicolon or a conjunction."
+            ]
+          }
         ]
       }
     },
@@ -1059,8 +1593,21 @@
         "key": "english-34:W5",
         "title": "Titles, tenses and conventions",
         "front": "Titles, tenses and conventions",
-        "back": [
-          "Italicising or underlining titles correctly, writing about texts in the present tense, and using the author's surname after first full mention."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Italicising or underlining titles correctly, writing about texts in the present tense, and using the author's surname after first full mention."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Titles of novels, plays and films are italicised or underlined; titles of poems and short stories take quotation marks.",
+              "Write about events in a text in the present tense, since the text continues to do what it does on every reading.",
+              "Give the author's full name at first mention and the surname thereafter, and spell both the author's name and characters' names correctly."
+            ]
+          }
         ]
       }
     },
@@ -1084,8 +1631,21 @@
         "key": "english-34:X1",
         "title": "Using reading time",
         "front": "Using reading time",
-        "back": [
-          "Allocating reading time across the three sections, choosing the text and prompt, and beginning to plan mentally before writing is permitted."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Allocating reading time across the three sections, choosing the text and prompt, and beginning to plan mentally before writing is permitted."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Go first to the section that requires a choice, locating your text and reading both prompts before deciding.",
+              "Read the argument material next, since it is unseen and takes the longest to absorb, noting contention and tone as you read.",
+              "Use the remaining time to begin forming a contention for the text response, so writing can begin immediately."
+            ]
+          }
         ]
       }
     },
@@ -1109,8 +1669,21 @@
         "key": "english-34:X2",
         "title": "Timing and allocation",
         "front": "Timing and allocation",
-        "back": [
-          "Dividing writing time roughly evenly across the three sections, and starting the next section on time even if the current one feels unfinished."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Dividing writing time roughly evenly across the three sections, and starting the next section on time even if the current one feels unfinished."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Each section is marked separately and carries the same weight, so an unwritten section scores zero.",
+              "The marks lost by leaving a section unattempted far exceed the marks gained by polishing a response that is already sound.",
+              "Moving on at the planned time, and returning later if time permits, protects the total score."
+            ]
+          }
         ]
       }
     },
@@ -1134,8 +1707,21 @@
         "key": "english-34:X3",
         "title": "Planning under time pressure",
         "front": "Planning under time pressure",
-        "back": [
-          "Producing a short plan that fixes the contention and the order of arguments, and knowing when planning has become procrastination."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Producing a short plan that fixes the contention and the order of arguments, and knowing when planning has become procrastination."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A contention in one sentence, and three or four topic sentences or argument stubs in order.",
+              "Two or three pieces of specific evidence noted against the arguments they support.",
+              "It should take only a few minutes, since the purpose is direction rather than a draft."
+            ]
+          }
         ]
       }
     },
@@ -1160,8 +1746,22 @@
         "key": "english-34:X4",
         "title": "Common examiner criticisms",
         "front": "Common examiner criticisms",
-        "back": [
-          "Retelling plot, listing techniques, generic introductions, ignoring part of the prompt and running out of time, and how to avoid each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Retelling plot, listing techniques, generic introductions, ignoring part of the prompt and running out of time, and how to avoid each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Retelling rather than analysing: fix by starting each paragraph with a claim rather than an event.",
+              "Listing techniques without effect: fix by following every identification with its effect and link to purpose.",
+              "Ignoring part of the prompt: fix by underlining the key terms and checking the plan addresses all of them.",
+              "Running out of time: fix by allocating time per section in advance and keeping to it."
+            ]
+          }
         ]
       }
     }

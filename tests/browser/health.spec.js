@@ -1,6 +1,6 @@
 import {test,expect} from '@playwright/test';
 import {openSubjectSetup} from './onboarding.js';
-test('Health setup, rating, cue card and practice answer persist',async({page})=>{
+test('Health setup, rating, flash card and practice answer persist',async({page})=>{
  await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Health and Human Development',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
@@ -9,7 +9,7 @@ test('Health setup, rating, cue card and practice answer persist',async({page})=
  await expect(page.locator('#list .area')).toHaveCount(4);
  await expect(page.locator('#list .point')).toHaveCount(49);
  await page.getByRole('button',{name:"Mark 3.1.1 as couldn't explain it",exact:true}).click();
- await page.getByRole('button',{name:'Cue cards',exact:true}).click();
+ await page.getByRole('button',{name:'Flash cards',exact:true}).click();
  await expect(page.locator('.qcard')).toHaveCount(1);
  await page.getByRole('button',{name:'Practice',exact:true}).click();
  await expect(page.getByText(/original revision exercises/)).toBeVisible();

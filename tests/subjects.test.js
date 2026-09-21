@@ -58,18 +58,19 @@ test('every subject has a practice question on every point',()=>{
   assert.deepEqual(missing,[],s.id+' has points without a practice question: '+missing.join(', '));
  }
 });
-test('every revision point has a complete cue card',()=>{
- const instructionStart=/^(?:explain|describe|identify|compare|evaluate|analyse|discuss|outline|distinguish|apply|use|calculate|construct|interpret|investigate|know|understand)\b/i;
+test('every revision point has a complete, study-design-specific flash card',()=>{
  for(const s of subjects){
   for(const p of s.points){
-   assert.ok(p.card,s.id+' '+p.id+' has no cue card');
-   assert.ok(p.card.key&&p.card.title&&p.card.front,s.id+' '+p.id+' has an incomplete cue-card prompt');
-   assert.ok(Array.isArray(p.card.back)&&p.card.back.length,s.id+' '+p.id+' has no cue-card answer');
-   assert.ok(p.card.back.every(line=>typeof line==='string'&&line.trim()),s.id+' '+p.id+' has a blank cue-card answer line');
-   assert.equal(p.card.front,p.title,s.id+' '+p.id+' cue-card front should be the study-design concept');
-   const expectedBack=instructionStart.test(p.detail)?p.questions[0].answer:[p.detail];
-   assert.deepEqual(p.card.back,expectedBack,s.id+' '+p.id+' cue-card back should use the subject-specific key knowledge');
-   assert.notEqual(p.card.front,p.questions?.[0]?.q,s.id+' '+p.id+' cue card repeats its practice question');
+   assert.ok(p.card,s.id+' '+p.id+' has no flash card');
+   assert.ok(p.card.key&&p.card.title&&p.card.front,s.id+' '+p.id+' has an incomplete flash-card prompt');
+   assert.ok(Array.isArray(p.card.sections)&&p.card.sections.length,s.id+' '+p.id+' has no structured flash-card answer');
+   assert.ok(p.card.sections.every(section=>section.heading&&Array.isArray(section.lines)&&section.lines.length),s.id+' '+p.id+' has an incomplete flash-card section');
+   const lines=p.card.sections.flatMap(section=>section.lines);
+   assert.ok(lines.every(line=>typeof line==='string'&&line.trim()),s.id+' '+p.id+' has a blank flash-card answer line');
+   assert.equal(p.card.front,p.title,s.id+' '+p.id+' flash-card front should be the study-design concept');
+   const authored=[p.detail,...p.questions[0].answer].join(' ');
+   for(const line of lines)assert.ok(authored.includes(line),s.id+' '+p.id+' flash-card content must come from its authored checkpoint');
+   assert.notEqual(p.card.front,p.questions?.[0]?.q,s.id+' '+p.id+' flash card repeats its practice question');
   }
  }
 });
@@ -125,13 +126,13 @@ test('all 29 subjects include the current official Units 3 and 4 terminology',()
   for(const term of terms)assert.ok(labels.includes(term),`${id} is missing current official term: ${term}`);
  }
 });
-test('all subjects use current VCAA pages and internally consistent cue-card keys',()=>{
+test('all subjects use current VCAA pages and internally consistent flash-card keys',()=>{
  for(const subject of subjects){
   assert.match(subject.sourceUrl,/^https:\/\/www\.vcaa\.vic\.edu\.au\/curriculum\/vce-curriculum\/vce-study-designs\//,subject.id+' has a retired source URL');
   assert.match(subject.papersUrl,/^https:\/\/(?:www\.)?vcaa\.vic\.edu\.au\/assessment\/vce\/examination-specifications-past-examinations-and-examination-reports\//,subject.id+' has no current assessment URL');
   for(const point of subject.points){
-   assert.equal(point.card.key,`${subject.id}:${point.id}`,subject.id+' '+point.id+' has a stale cue-card key');
-   assert.equal(point.card.title,point.title,subject.id+' '+point.id+' has a stale cue-card title');
+   assert.equal(point.card.key,`${subject.id}:${point.id}`,subject.id+' '+point.id+' has a stale flash-card key');
+   assert.equal(point.card.title,point.title,subject.id+' '+point.id+' has a stale flash-card title');
   }
  }
 });

@@ -50,8 +50,22 @@
         "key": "literature-34:3.1.1",
         "title": "What changes in an adaptation",
         "front": "What changes in an adaptation",
-        "back": [
-          "Identifying what is retained, altered, added and omitted when a text moves between forms, and treating each change as a deliberate choice."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying what is retained, altered, added and omitted when a text moves between forms, and treating each change as a deliberate choice."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Retention: what has been kept, which indicates what the adapter judged essential to the work.",
+              "Alteration: what has been changed in sequence, emphasis, character or setting.",
+              "Addition: what the adaptation supplies that the original lacks, often to suit a new audience or the demands of the new form.",
+              "Omission: what has been cut, which is frequently the most revealing category, since it shows what the adapter considered dispensable or unrepresentable."
+            ]
+          }
         ]
       }
     },
@@ -76,8 +90,22 @@
         "key": "literature-34:3.1.2",
         "title": "The demands of the new form",
         "front": "The demands of the new form",
-        "back": [
-          "How the conventions and limits of a form require change, and distinguishing changes forced by form from changes made for interpretation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How the conventions and limits of a form require change, and distinguishing changes forced by form from changes made for interpretation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Formal changes follow from the medium's constraints, such as compressing a long novel into a two-hour film or externalising interior thought as dialogue.",
+              "Interpretive changes alter meaning, such as making a morally ambiguous character straightforwardly sympathetic.",
+              "The distinction matters because only interpretive changes support an argument about how the adaptation reads the original.",
+              "Many changes are both, so the strongest analysis explains how a necessary formal decision was made in a way that also carries interpretation."
+            ]
+          }
         ]
       }
     },
@@ -102,8 +130,22 @@
         "key": "literature-34:3.1.3",
         "title": "Context of production and reception",
         "front": "Context of production and reception",
-        "back": [
-          "How the time, place and culture of each text shapes what it can say, and how the gap between the two contexts produces transformation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How the time, place and culture of each text shapes what it can say, and how the gap between the two contexts produces transformation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Values change, so material that the original audience accepted may read as offensive or absurd to a later one.",
+              "Adapters may therefore revise characters or resolutions to align with the later audience's expectations.",
+              "New concerns can be read back into the original, so an adaptation often emphasises themes the source treats only glancingly.",
+              "The adaptation therefore becomes evidence of its own moment as much as an interpretation of the original."
+            ]
+          }
         ]
       }
     },
@@ -128,8 +170,22 @@
         "key": "literature-34:3.1.4",
         "title": "Voice, perspective and focalisation in adaptation",
         "front": "Voice, perspective and focalisation in adaptation",
-        "back": [
-          "How a change of narrator or point of view redistributes sympathy and knowledge between characters."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How a change of narrator or point of view redistributes sympathy and knowledge between characters."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Perspective determines whose interiority the audience accesses and whose interpretation of events frames the narrative.",
+              "Shifting it grants the new focal character motive and complexity while reducing the former narrator to an object of observation.",
+              "Sympathy usually follows access, so the change redistributes the audience's allegiance.",
+              "It can also change the text's argument entirely, for example turning a story about a protagonist's triumph into one about its cost to others."
+            ]
+          }
         ]
       }
     },
@@ -154,8 +210,22 @@
         "key": "literature-34:3.1.5",
         "title": "Writing about both texts together",
         "front": "Writing about both texts together",
-        "back": [
-          "Structuring a comparative response around ideas rather than treating each text in turn, and using precise evidence from both."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Structuring a comparative response around ideas rather than treating each text in turn, and using precise evidence from both."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Organise paragraphs around an idea, feature or effect rather than devoting the first half to one text and the second to the other.",
+              "Within each paragraph, move between the texts using comparative connectives such as whereas, by contrast and similarly.",
+              "Use precise evidence from both, quoting the written text and referring to specific moments and techniques in the adaptation.",
+              "Argue about the significance of the difference rather than simply noting that it exists."
+            ]
+          }
         ]
       }
     },
@@ -180,8 +250,22 @@
         "key": "literature-34:3.2.1",
         "title": "What an interpretation is",
         "front": "What an interpretation is",
-        "back": [
-          "An argued reading of a text supported by textual evidence, distinguished from summary, personal response and received opinion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "An argued reading of a text supported by textual evidence, distinguished from summary, personal response and received opinion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A summary reports what happens in the text and makes no argument.",
+              "A personal response records the reader's reaction without necessarily grounding it in the text's construction.",
+              "An interpretation makes an arguable claim about the text's meaning and supports it with close reference to language, structure and form.",
+              "It must be contestable, since a claim no one could reasonably dispute is an observation rather than an interpretation."
+            ]
+          }
         ]
       }
     },
@@ -206,8 +290,22 @@
         "key": "literature-34:3.2.2",
         "title": "Views and values",
         "front": "Views and values",
-        "back": [
-          "Identifying what a text endorses, questions or leaves unresolved, and locating the evidence in narrative outcome, structure and language."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying what a text endorses, questions or leaves unresolved, and locating the evidence in narrative outcome, structure and language."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Narrative outcome: which characters are rewarded and which are punished functions as the text's judgement.",
+              "Language and tone: the diction used to describe a character or idea signals approval, irony or contempt.",
+              "Structure: what the text gives space to, what it withholds and where it ends all indicate what it treats as significant.",
+              "Silences matter too, since what a text cannot or will not address is itself evidence of the assumptions it works within."
+            ]
+          }
         ]
       }
     },
@@ -232,8 +330,22 @@
         "key": "literature-34:3.2.3",
         "title": "Using a supplementary reading",
         "front": "Using a supplementary reading",
-        "back": [
-          "Engaging with a critical perspective as an argument to be tested, rather than as authority to be quoted for support."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Engaging with a critical perspective as an argument to be tested, rather than as authority to be quoted for support."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Summarise the critic's argument accurately, identifying the claim rather than only quoting a striking phrase.",
+              "Test it against the text by examining passages that support it and passages that complicate it.",
+              "Use the engagement to sharpen your own position, which may extend, qualify or resist the critic's reading.",
+              "Dropping a quotation in for authority without engagement adds nothing, since the marks are for the reasoning it prompts."
+            ]
+          }
         ]
       }
     },
@@ -258,8 +370,22 @@
         "key": "literature-34:3.2.4",
         "title": "Ambiguity and complexity",
         "front": "Ambiguity and complexity",
-        "back": [
-          "Treating tension and contradiction within a text as material for interpretation rather than as a problem to be resolved or hidden."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Treating tension and contradiction within a text as material for interpretation rather than as a problem to be resolved or hidden."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Address it directly, since ignoring conspicuous counter-evidence weakens the argument and the examiner will notice the omission.",
+              "Consider whether the contradiction indicates that your claim needs refining rather than abandoning, for example from endorsement to ambivalence.",
+              "Argue that the tension is itself part of the text's meaning where the evidence supports that reading.",
+              "The most sophisticated interpretations treat contradiction as the subject of analysis rather than an obstacle to it."
+            ]
+          }
         ]
       }
     },
@@ -283,8 +409,21 @@
         "key": "literature-34:3.2.5",
         "title": "Developing an interpretation over time",
         "front": "Developing an interpretation over time",
-        "back": [
-          "Revising a reading as evidence accumulates, and recognising that a first response is a starting point rather than a conclusion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Revising a reading as evidence accumulates, and recognising that a first response is a starting point rather than a conclusion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A first reading is occupied with following plot and establishing who is who, leaving little attention for construction.",
+              "Patterns such as recurring imagery, structural parallels and shifts in voice only become visible once the whole text is known.",
+              "Rereading with a question in mind directs attention to the evidence that matters, which is how an interpretation is built rather than guessed."
+            ]
+          }
         ]
       }
     },
@@ -309,8 +448,22 @@
         "key": "literature-34:4.1.1",
         "title": "Purpose of the creative response",
         "front": "Purpose of the creative response",
-        "back": [
-          "Writing into a text to illuminate it, exploring a gap, a silenced perspective or an alternative outcome while remaining answerable to the original."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Writing into a text to illuminate it, exploring a gap, a silenced perspective or an alternative outcome while remaining answerable to the original."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It demonstrates close understanding of the original through its handling of character, context and concerns.",
+              "It occupies a genuine opening in the original, such as an untold episode, a minor character's perspective or an unresolved ending.",
+              "It is answerable to the original, so characters behave consistently with what the text establishes unless departure is the point.",
+              "It uses the writing itself to advance an interpretation, so the creative decisions constitute an argument about the text."
+            ]
+          }
         ]
       }
     },
@@ -335,8 +488,22 @@
         "key": "literature-34:4.1.2",
         "title": "Working with gaps and silences",
         "front": "Working with gaps and silences",
-        "back": [
-          "Identifying what a text leaves out, whose perspective is absent and where the narrative declines to explain, as openings for creative work."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying what a text leaves out, whose perspective is absent and where the narrative declines to explain, as openings for creative work."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Look for characters who act significantly but are never given interiority, particularly those marginalised by the narrative.",
+              "Look for time the narrative skips, such as years between sections or events reported rather than shown.",
+              "Look for endings that withhold resolution, or explanations the text declines to give.",
+              "A productive gap is one where filling it changes how the original reads, rather than merely adding decorative detail."
+            ]
+          }
         ]
       }
     },
@@ -361,8 +528,22 @@
         "key": "literature-34:4.1.3",
         "title": "Voice and style in the creative response",
         "front": "Voice and style in the creative response",
-        "back": [
-          "Matching, extending or deliberately departing from the original's voice, and sustaining that decision consistently."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Matching, extending or deliberately departing from the original's voice, and sustaining that decision consistently."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Imitating the style demonstrates close attention to the original's diction, syntax and rhythm, and lets the response sit within the text's world.",
+              "A deliberately contrasting style can expose the limits of the original's voice, for example giving a modern idiom to a silenced character.",
+              "Either choice must be consistent and purposeful, since an unintended drift between styles reads as loss of control.",
+              "The reflective commentary should explain which was chosen and why it serves the interpretation."
+            ]
+          }
         ]
       }
     },
@@ -387,8 +568,22 @@
         "key": "literature-34:4.1.4",
         "title": "The reflective commentary",
         "front": "The reflective commentary",
-        "back": [
-          "Explaining the interpretive decisions behind the creative piece with reference to both your own writing and the original text."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Explaining the interpretive decisions behind the creative piece with reference to both your own writing and the original text."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The interpretation of the original that the creative piece advances, stated explicitly.",
+              "The specific decisions made about form, voice, structure and perspective, quoted or referenced from your own writing.",
+              "Evidence from the original text showing what prompted or licensed those decisions.",
+              "An explanation of how the creative choices illuminate the original, rather than a narrative account of how the piece was written."
+            ]
+          }
         ]
       }
     },
@@ -413,8 +608,22 @@
         "key": "literature-34:4.2.1",
         "title": "Reading a passage closely",
         "front": "Reading a passage closely",
-        "back": [
-          "Attending to diction, syntax, imagery, rhythm, structure and shifts within a short extract, and building from detail to significance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Attending to diction, syntax, imagery, rhythm, structure and shifts within a short extract, and building from detail to significance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Read the passage first for its movement, noting where its tone, focus or voice shifts.",
+              "Mark specific features: unusual word choices, patterns of imagery, sentence length and structure, repetition and punctuation.",
+              "Ask what each feature does to the reader rather than simply naming it.",
+              "Build from those details to a claim about the passage's significance within the whole text, so the analysis argues rather than annotates."
+            ]
+          }
         ]
       }
     },
@@ -439,8 +648,22 @@
         "key": "literature-34:4.2.2",
         "title": "Selecting and linking passages",
         "front": "Selecting and linking passages",
-        "back": [
-          "Choosing passages that let you build a cumulative argument, and connecting them so the response develops rather than repeats."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Choosing passages that let you build a cumulative argument, and connecting them so the response develops rather than repeats."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Choose passages from different points in the text so the analysis can trace development rather than describing one moment three times.",
+              "Choose passages rich enough in language to sustain detailed analysis, rather than those that are merely eventful.",
+              "Connect them with an idea that each passage advances, so the response accumulates towards a position.",
+              "Explicit links should state what the second passage adds to or complicates in the first, rather than simply moving on."
+            ]
+          }
         ]
       }
     },
@@ -465,8 +688,22 @@
         "key": "literature-34:4.2.3",
         "title": "From detail to argument",
         "front": "From detail to argument",
-        "back": [
-          "Ensuring each observation about language is connected to a claim about meaning, and avoiding technique-spotting."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ensuring each observation about language is connected to a claim about meaning, and avoiding technique-spotting."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Naming a device records an observation but makes no claim about meaning, so it earns little credit on its own.",
+              "Close analysis explains what the choice does: the connotation carried, the effect produced and the contribution to the text's concerns.",
+              "A workable structure is the specific evidence, the effect of that choice, and the link to the interpretation being argued.",
+              "The test is whether the sentence would change if the technique were named differently; if not, the analysis is not doing any work."
+            ]
+          }
         ]
       }
     },
@@ -490,8 +727,21 @@
         "key": "literature-34:4.2.4",
         "title": "Placing a passage in the whole text",
         "front": "Placing a passage in the whole text",
-        "back": [
-          "Explaining where a passage sits, what precedes and follows it, and how it contributes to the text's development."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Explaining where a passage sits, what precedes and follows it, and how it contributes to the text's development."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Meaning depends on position, since a passage reads differently before and after a revelation or a shift in the narrative.",
+              "Locating it allows you to argue about development, showing how the text's concerns have altered by this point.",
+              "It also demonstrates knowledge of the whole work rather than of three extracts, which examiners reward."
+            ]
+          }
         ]
       }
     },
@@ -516,8 +766,22 @@
         "key": "literature-34:F1",
         "title": "Prose fiction",
         "front": "Prose fiction",
-        "back": [
-          "Narrative perspective, focalisation, free indirect discourse, tense, structure, characterisation, motif and symbolism in novels and short fiction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Narrative perspective, focalisation, free indirect discourse, tense, structure, characterisation, motif and symbolism in novels and short fiction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Free indirect discourse renders a character's thoughts in third person narration without quotation marks or attribution.",
+              "The narrative voice takes on the character's idiom and preoccupations while remaining formally outside them.",
+              "This creates intimacy, since the reader inhabits the character's perception, while retaining the possibility of ironic distance.",
+              "It allows a text to convey a character's self-justification while quietly indicating its inadequacy."
+            ]
+          }
         ]
       }
     },
@@ -542,8 +806,22 @@
         "key": "literature-34:F2",
         "title": "Poetry",
         "front": "Poetry",
-        "back": [
-          "Form, metre and rhythm, line break and enjambment, stanza, rhyme, sound patterning, image, persona and the relation of form to meaning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Form, metre and rhythm, line break and enjambment, stanza, rhyme, sound patterning, image, persona and the relation of form to meaning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Enjambment runs a sentence across a line break, creating momentum, hesitation or a double meaning at the line's end.",
+              "A fixed form such as the sonnet sets up expectations of turn and resolution, so departures from it are significant.",
+              "Metrical regularity can suggest control or constraint, and a break in the pattern draws attention to the word or moment where it occurs.",
+              "Form is therefore evidence, and analysis should explain what the formal choice does rather than merely identifying it."
+            ]
+          }
         ]
       }
     },
@@ -568,8 +846,22 @@
         "key": "literature-34:F3",
         "title": "Drama",
         "front": "Drama",
-        "back": [
-          "Dialogue and subtext, stage directions, dramatic irony, soliloquy and aside, staging and the difference between reader and audience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Dialogue and subtext, stage directions, dramatic irony, soliloquy and aside, staging and the difference between reader and audience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Subtext is what a character means or feels beneath what they actually say.",
+              "It is identified through the gap between dialogue and situation, where a character's words do not match what the audience knows.",
+              "Stage directions, pauses, interruptions and evasions signal that the surface conversation is not the real one.",
+              "Analysis should explain what the gap reveals about the character and what it makes the audience understand that the characters do not say."
+            ]
+          }
         ]
       }
     },
@@ -594,8 +886,22 @@
         "key": "literature-34:F4",
         "title": "Non-fiction and life writing",
         "front": "Non-fiction and life writing",
-        "back": [
-          "Memoir, essay and reportage, the construction of a narrating self, selection and shaping of real events, and the claims to truth these forms make."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Memoir, essay and reportage, the construction of a narrating self, selection and shaping of real events, and the claims to truth these forms make."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Memoir selects from a life, and selection is interpretation, since what is omitted shapes meaning as much as what is included.",
+              "The narrating self is a construction, often distinguishable from the remembered self, which allows retrospective judgement.",
+              "Structure imposes a shape on events that they did not possess as they happened, such as a trajectory towards insight.",
+              "Reading it as constructed does not accuse the writer of dishonesty; it recognises that shaping is intrinsic to the form."
+            ]
+          }
         ]
       }
     },
@@ -620,8 +926,22 @@
         "key": "literature-34:F5",
         "title": "Genre and convention",
         "front": "Genre and convention",
-        "back": [
-          "How genre sets expectations, and how texts use, resist or subvert convention to produce meaning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How genre sets expectations, and how texts use, resist or subvert convention to produce meaning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Genre creates expectations about setting, character type, plot pattern and resolution, which the reader brings to the text.",
+              "Fulfilling convention produces reassurance and allows the text to concentrate attention elsewhere.",
+              "Withholding an expected outcome, such as a romance that denies its union, makes the absence conspicuous and meaningful.",
+              "Subversion works only where the convention is well established, since the effect depends on the reader's prior expectation."
+            ]
+          }
         ]
       }
     },
@@ -646,8 +966,22 @@
         "key": "literature-34:F6",
         "title": "Structure and time",
         "front": "Structure and time",
-        "back": [
-          "Linear and non-linear ordering, framing, parallel plots, ellipsis and repetition, and the reader's experience of revelation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Linear and non-linear ordering, framing, parallel plots, ellipsis and repetition, and the reader's experience of revelation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Order determines what the reader knows at each point, so it controls suspense, sympathy and judgement.",
+              "Beginning at the end shifts the question from what happens to how and why, directing attention to cause and character.",
+              "Withholding information allows later revelation to reinterpret everything preceding it, making rereading part of the design.",
+              "Parallel or framed structures invite comparison between strands, so the juxtaposition itself becomes an argument."
+            ]
+          }
         ]
       }
     },
@@ -672,8 +1006,22 @@
         "key": "literature-34:L1",
         "title": "Reading through a critical lens",
         "front": "Reading through a critical lens",
-        "back": [
-          "Using a theoretical perspective to ask particular questions of a text, and recognising what each lens illuminates and obscures."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using a theoretical perspective to ask particular questions of a text, and recognising what each lens illuminates and obscures."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A critical lens directs attention to particular features by asking a characteristic set of questions of the text.",
+              "A feminist reading asks how gender is constructed and whose perspective the text privileges; a Marxist reading asks about class, labour and material interest.",
+              "Each lens illuminates what it is designed to find and is less attentive to what falls outside its questions.",
+              "The risk is imposing the framework rather than testing it, so the reading must remain answerable to the text's actual language."
+            ]
+          }
         ]
       }
     },
@@ -698,8 +1046,22 @@
         "key": "literature-34:L2",
         "title": "Feminist and gender readings",
         "front": "Feminist and gender readings",
-        "back": [
-          "Attending to the construction of gender, the distribution of agency and voice, and the assumptions a text makes about women and men."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Attending to the construction of gender, the distribution of agency and voice, and the assumptions a text makes about women and men."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Whose perspective does the narrative adopt, and which characters are granted interiority and voice?",
+              "Who acts and who is acted upon, and how is agency distributed between male and female characters?",
+              "What outcomes does the text assign to women who conform and to those who resist, and what does that reward pattern endorse?",
+              "What does the text treat as natural about gender, and is that assumption ever made visible or questioned within the work?"
+            ]
+          }
         ]
       }
     },
@@ -724,8 +1086,22 @@
         "key": "literature-34:L3",
         "title": "Marxist and class readings",
         "front": "Marxist and class readings",
-        "back": [
-          "Attending to labour, property, economic interest and the representation of class, and to whose material conditions the text makes visible."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Attending to labour, property, economic interest and the representation of class, and to whose material conditions the text makes visible."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It attends to class relations, material interest and who owns and labours within the text's world.",
+              "It asks whose work makes the depicted life possible, and whether that labour is visible or invisible in the narrative.",
+              "Evidence includes descriptions of property, servants who appear without names, and the source of a character's income when the text declines to specify it.",
+              "It also asks whether the text's resolution reinforces or challenges the existing distribution of wealth and power."
+            ]
+          }
         ]
       }
     },
@@ -750,8 +1126,22 @@
         "key": "literature-34:L4",
         "title": "Postcolonial readings",
         "front": "Postcolonial readings",
-        "back": [
-          "Attending to empire, cultural authority, the representation of colonised peoples, and whose perspective a text treats as central or universal."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Attending to empire, cultural authority, the representation of colonised peoples, and whose perspective a text treats as central or universal."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It examines how the text represents colonised peoples and places, and whether they are given voice or function as setting.",
+              "It asks whose perspective is treated as normal or universal and whose is marked as other.",
+              "It attends to the presence of empire even when the text does not discuss it, such as wealth derived from distant colonies.",
+              "It also considers the text's own position in a literary culture shaped by empire, including which works became canonical and why."
+            ]
+          }
         ]
       }
     },
@@ -776,8 +1166,22 @@
         "key": "literature-34:L5",
         "title": "Reader response and changing readings",
         "front": "Reader response and changing readings",
-        "back": [
-          "Meaning produced in the interaction between reader and text, and why the same work is read differently across time and by different readers."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Meaning produced in the interaction between reader and text, and why the same work is read differently across time and by different readers."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Readers bring their own knowledge, values and experience, which shape which features they notice and how they weigh them.",
+              "Texts are often genuinely ambiguous, supporting more than one coherent reading from the same evidence.",
+              "Historical distance changes what is visible, so concerns invisible to earlier readers become central for later ones.",
+              "This does not mean any reading is as good as any other: an interpretation is judged by how well it accounts for the text's language and how much of the text it can explain."
+            ]
+          }
         ]
       }
     },
@@ -801,8 +1205,21 @@
         "key": "literature-34:X1",
         "title": "Time allocation and passage selection",
         "front": "Time allocation and passage selection",
-        "back": [
-          "Dividing time between sections, choosing passages quickly and leaving time to develop the final response."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Dividing time between sections, choosing passages quickly and leaving time to develop the final response."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify your texts and read the passages or prompts available for each before committing to a choice.",
+              "Choose on the basis of which material you can analyse in detail, not which is most familiar as plot.",
+              "Begin forming a line of argument during reading time, so that writing can start immediately rather than with a blank plan."
+            ]
+          }
         ]
       }
     },
@@ -826,8 +1243,21 @@
         "key": "literature-34:X2",
         "title": "Avoiding retelling",
         "front": "Avoiding retelling",
-        "back": [
-          "Keeping plot summary to the minimum needed to orient the reader, and ensuring every reference to the text does analytical work."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Keeping plot summary to the minimum needed to orient the reader, and ensuring every reference to the text does analytical work."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Retelling reports what happens and demonstrates familiarity rather than interpretation, which is what Literature assesses.",
+              "A reliable test is whether a sentence could be written by someone who had read a summary rather than the text itself.",
+              "Every reference should be followed by analysis of how the text constructs that moment and what it means for your argument."
+            ]
+          }
         ]
       }
     },
@@ -851,8 +1281,21 @@
         "key": "literature-34:X3",
         "title": "Writing about texts with precision",
         "front": "Writing about texts with precision",
-        "back": [
-          "Naming techniques and forms accurately, quoting briefly and correctly, and observing the conventions for titles and tense."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Naming techniques and forms accurately, quoting briefly and correctly, and observing the conventions for titles and tense."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Write about the text in the present tense, since it continues to do what it does on every reading.",
+              "Italicise or underline titles of novels, plays and collections, and use quotation marks for individual poems and short stories.",
+              "Quote briefly and embed quotations within your own sentences, and attribute techniques to the author rather than to characters."
+            ]
+          }
         ]
       }
     }

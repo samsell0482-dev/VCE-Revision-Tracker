@@ -36,8 +36,22 @@
         "key": "maths-methods-34:1.1",
         "title": "Graphs of polynomial functions",
         "front": "Graphs of polynomial functions",
-        "back": [
-          "Key features by degree — axis intercepts, turning points, end behaviour. Sketching by hand up to degree 4, and reading a rule off a graph."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Key features by degree — axis intercepts, turning points, end behaviour.",
+              "Sketching by hand up to degree 4, and reading a rule off a graph."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Factorise: x(x² − 4) = x(x − 2)(x + 2), so intercepts at x = −2, 0, 2.",
+              "As x → ∞, f(x) → ∞; as x → −∞, f(x) → −∞ (positive leading coefficient, odd degree).",
+              "A cubic with three distinct real roots has two turning points."
+            ]
+          }
         ]
       }
     },
@@ -61,8 +75,24 @@
         "key": "maths-methods-34:1.2",
         "title": "Power functions",
         "front": "Power functions",
-        "back": [
-          "y = xⁿ for n ∈ Q. Shape for positive, negative and fractional n; maximal domain and range; asymptotic behaviour where it applies."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "y = xⁿ for n ∈ Q.",
+              "Shape for positive, negative and fractional n",
+              "maximal domain and range",
+              "asymptotic behaviour where it applies."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Maximal domain: [0, ∞) — the square root requires a non-negative argument.",
+              "Range: [−3, ∞).",
+              "Shape: the graph of y = √x translated 3 units down; increasing, concave down, endpoint at (0, −3)."
+            ]
+          }
         ]
       }
     },
@@ -86,8 +116,22 @@
         "key": "maths-methods-34:1.3",
         "title": "Exponential functions",
         "front": "Exponential functions",
-        "back": [
-          "y = aˣ for a ∈ R, and y = eˣ in particular. The key points (−1, 1/a), (0, 1) and (1, a), the horizontal asymptote, and growth vs decay."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "y = aˣ for a ∈ R, and y = eˣ in particular.",
+              "The key points (−1, 1/a), (0, 1) and (1, a), the horizontal asymptote, and growth vs decay."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Dilation by factor 2 from the x-axis, translation 1 unit right, translation 3 units up.",
+              "Horizontal asymptote: y = 3.",
+              "y-intercept: x = 0 gives y = 2e^(−1) + 3 = 2/e + 3 ≈ 3.74."
+            ]
+          }
         ]
       }
     },
@@ -111,8 +155,22 @@
         "key": "maths-methods-34:1.4",
         "title": "Logarithmic functions",
         "front": "Logarithmic functions",
-        "back": [
-          "y = logₑ(x) and y = log₁₀(x). Vertical asymptote, domain, and the inverse relationship with the exponential function."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "y = logₑ(x) and y = log₁₀(x).",
+              "Vertical asymptote, domain, and the inverse relationship with the exponential function."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Requires 2x − 6 > 0, so domain is (3, ∞).",
+              "Vertical asymptote: x = 3.",
+              "x-intercept when 2x − 6 = 1, so x = 3.5."
+            ]
+          }
         ]
       }
     },
@@ -137,8 +195,22 @@
         "key": "maths-methods-34:1.5",
         "title": "Circular functions",
         "front": "Circular functions",
-        "back": [
-          "y = sin(x), y = cos(x) and y = tan(x). Amplitude, period, range, exact values, and the asymptotes of tan."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "y = sin(x), y = cos(x) and y = tan(x).",
+              "Amplitude, period, range, exact values, and the asymptotes of tan."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Amplitude 3; period 2π/2 = π; range [−2, 4].",
+              "The negative coefficient reflects the graph, so the first maximum occurs where sin(2x) = −1.",
+              "2x = 3π/2, so x = 3π/4, giving the point (3π/4, 4)."
+            ]
+          }
         ]
       }
     },
@@ -163,8 +235,23 @@
         "key": "maths-methods-34:1.6",
         "title": "Transformations",
         "front": "Transformations",
-        "back": [
-          "y = A f(n(x + b)) + c where A, n ≠ 0. Dilations (both 'parallel to' and 'from' an axis), reflections and translations, and the order in which they apply."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "y = A f(n(x + b)) + c where A, n ≠ 0.",
+              "Dilations (both 'parallel to' and 'from' an axis), reflections and translations, and the order in which they apply."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Dilation by factor 1/2 from the y-axis (parallel to the x-axis).",
+              "Translation 1 unit in the negative x direction.",
+              "Reflection in the x-axis, then translation 4 units down.",
+              "Dilations and reflections are applied before translations."
+            ]
+          }
         ]
       }
     },
@@ -189,8 +276,22 @@
         "key": "maths-methods-34:1.7",
         "title": "The inverse transformation",
         "front": "The inverse transformation",
-        "back": [
-          "Working backwards from a transformed graph to the original function, and describing the mapping that does it."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Working backwards from a transformed graph to the original function, and describing the mapping that does it."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reverse each transformation, in reverse order.",
+              "Translate 2 units in the negative x direction.",
+              "Then dilate by factor 1/3 from the x-axis.",
+              "Mapping: (x, y) → (x − 2, y/3)."
+            ]
+          }
         ]
       }
     },
@@ -214,8 +315,21 @@
         "key": "maths-methods-34:1.8",
         "title": "Families of transformed functions",
         "front": "Families of transformed functions",
-        "back": [
-          "How the graph changes as a single transformation parameter varies, and what stays fixed."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How the graph changes as a single transformation parameter varies, and what stays fixed."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "No x-intercepts when the discriminant is negative.",
+              "Δ = b² − 4(1)(1) = b² − 4 < 0.",
+              "b² < 4, so −2 < b < 2."
+            ]
+          }
         ]
       }
     },
@@ -238,8 +352,20 @@
         "key": "maths-methods-34:1.9",
         "title": "Sum and difference functions",
         "front": "Sum and difference functions",
-        "back": [
-          "Graphs of f + g and f − g, including the domain of the result being the intersection of the two domains."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Graphs of f + g and f − g, including the domain of the result being the intersection of the two domains."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Domain of a sum is the intersection of the domains: [0, ∞).",
+              "(f + g)(4) = √4 + (4 − 2) = 2 + 2 = 4."
+            ]
+          }
         ]
       }
     },
@@ -263,8 +389,21 @@
         "key": "maths-methods-34:1.10",
         "title": "Product functions",
         "front": "Product functions",
-        "back": [
-          "The graph of f × g, including where it cuts the axes and how the factors' signs determine its shape."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The graph of f × g, including where it cuts the axes and how the factors' signs determine its shape."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The product is x(x − 3) = x² − 3x, a parabola.",
+              "x-intercepts at x = 0 and x = 3 — where either factor is zero.",
+              "Turning point midway at x = 1.5, giving (1.5, −2.25)."
+            ]
+          }
         ]
       }
     },
@@ -289,8 +428,23 @@
         "key": "maths-methods-34:1.11",
         "title": "Composite functions",
         "front": "Composite functions",
-        "back": [
-          "Graphs of f ∘ g. The existence condition ran(g) ⊆ dom(f), and finding the domain and range of the composite. Composites giving reciprocal or quotient functions are excluded."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Graphs of f ∘ g.",
+              "The existence condition ran(g) ⊆ dom(f), and finding the domain and range of the composite.",
+              "Composites giving reciprocal or quotient functions are excluded."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "f(g(x)) requires ran(g) ⊆ dom(f). ran(g) = R, dom(f) = [0, ∞), so not defined on all of R.",
+              "Restricting: need x − 5 ≥ 0, so x ≥ 5.",
+              "f(g(x)) = √(x − 5), domain [5, ∞)."
+            ]
+          }
         ]
       }
     },
@@ -315,8 +469,22 @@
         "key": "maths-methods-34:1.12",
         "title": "Modelling practical situations",
         "front": "Modelling practical situations",
-        "back": [
-          "Using polynomial, power, circular, exponential and logarithmic functions, their transformations and combinations, including simple piecewise (hybrid) functions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using polynomial, power, circular, exponential and logarithmic functions, their transformations and combinations, including simple piecewise (hybrid) functions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Maximum depth = 4 + 2 = 6 metres, when sin(πt/6) = 1.",
+              "πt/6 = π/2 gives t = 3, so 3 am.",
+              "Period = 2π ÷ (π/6) = 12 hours.",
+              "Minimum depth is 2 metres, at 9 am."
+            ]
+          }
         ]
       }
     },
@@ -340,8 +508,21 @@
         "key": "maths-methods-34:1.13",
         "title": "The language of key features",
         "front": "The language of key features",
-        "back": [
-          "Domain, maximal or implied domain, co-domain, range, asymptotic behaviour, symmetry, stationary points and points of inflection — used precisely, because marks hang on the wording."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Domain, maximal or implied domain, co-domain, range, asymptotic behaviour, symmetry, stationary points and points of inflection — used precisely, because marks hang on the wording."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The maximal domain is every value of x for which the rule is defined: R \\ {2}.",
+              "A restricted domain is a smaller domain deliberately imposed, e.g. (2, ∞).",
+              "Restricting is often done to make a function one-to-one so an inverse exists."
+            ]
+          }
         ]
       }
     },
@@ -366,8 +547,23 @@
         "key": "maths-methods-34:2.1",
         "title": "Solving polynomial equations",
         "front": "Solving polynomial equations",
-        "back": [
-          "Real coefficients, degree n with up to n real solutions. Factor and remainder theorems, the rational root theorem, and numerical solutions where exact ones aren't required."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Real coefficients, degree n with up to n real solutions.",
+              "Factor and remainder theorems, the rational root theorem, and numerical solutions where exact ones aren't required."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Since x = 2 is a root, (x − 2) is a factor.",
+              "Dividing: x³ − 3x² − 4x + 12 = (x − 2)(x² − x − 6).",
+              "Factorise the quadratic: (x − 3)(x + 2).",
+              "Solutions: x = −2, 2, 3."
+            ]
+          }
         ]
       }
     },
@@ -392,8 +588,22 @@
         "key": "maths-methods-34:2.2",
         "title": "Inverse functions",
         "front": "Inverse functions",
-        "back": [
-          "The condition for an inverse to exist (one-to-one, or a restricted domain that makes it so), finding the rule, swapping domain and range, and the reflection in y = x."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The condition for an inverse to exist (one-to-one, or a restricted domain that makes it so), finding the rule, swapping domain and range, and the reflection in y = x."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Let y = (x − 1)², swap: x = (y − 1)², so y = 1 + √x (taking the positive root to match the restricted domain).",
+              "f⁻¹(x) = 1 + √x, domain [0, ∞) — which is the range of f.",
+              "Without restriction, f is many-to-one, so no inverse function exists.",
+              "The domain of the inverse is the range of the original."
+            ]
+          }
         ]
       }
     },
@@ -417,8 +627,21 @@
         "key": "maths-methods-34:2.3",
         "title": "Using inverses to solve equations",
         "front": "Using inverses to solve equations",
-        "back": [
-          "Applying inverse operations to exponential, logarithmic, circular and power equations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applying inverse operations to exponential, logarithmic, circular and power equations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "3e^(2x) = 21, so e^(2x) = 7.",
+              "Take the natural log of both sides: 2x = log_e(7).",
+              "x = ½ log_e(7)."
+            ]
+          }
         ]
       }
     },
@@ -442,8 +665,22 @@
         "key": "maths-methods-34:2.4",
         "title": "Composition of functions",
         "front": "Composition of functions",
-        "back": [
-          "(f ∘ g)(x) = f(g(x)), defined when ran(g) ⊆ dom(f). Finding the rule, domain and range of a composite."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "(f ∘ g)(x) = f(g(x)), defined when ran(g) ⊆ dom(f).",
+              "Finding the rule, domain and range of a composite."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "f(g(x)) = (2x + 1)² = 4x² + 4x + 1.",
+              "g(f(x)) = 2x² + 1.",
+              "Composition is not commutative — the order in which the operations are applied changes the result."
+            ]
+          }
         ]
       }
     },
@@ -467,8 +704,21 @@
         "key": "maths-methods-34:2.5",
         "title": "Solving f(x) = g(x)",
         "front": "Solving f(x) = g(x)",
-        "back": [
-          "Over a specified interval, by graphical, numerical and algebraic methods, choosing whichever is appropriate."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Over a specified interval, by graphical, numerical and algebraic methods, choosing whichever is appropriate."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "x² − 3x + 2 = 0, giving (x − 1)(x − 2) = 0.",
+              "x = 1 and x = 2.",
+              "These are the x-coordinates of the points where the parabola y = x² − 4 and the line y = 3x − 6 intersect."
+            ]
+          }
         ]
       }
     },
@@ -494,8 +744,22 @@
         "key": "maths-methods-34:2.6",
         "title": "Literal equations and equations with a parameter",
         "front": "Literal equations and equations with a parameter",
-        "back": [
-          "Solving for x in terms of constants, and finding the general solution — including the values of the parameter for which no solution or infinitely many exist."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Solving for x in terms of constants, and finding the general solution — including the values of the parameter for which no solution or infinitely many exist."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Write as a matrix and use the determinant: det = k·k − 3·2 = k² − 6.",
+              "A unique solution exists when k² − 6 ≠ 0, i.e. k ≠ ±√6.",
+              "When k = √6 the equations are inconsistent (check by substitution) so there is no solution.",
+              "Always test both values — one may give infinitely many solutions instead of none."
+            ]
+          }
         ]
       }
     },
@@ -520,8 +784,23 @@
         "key": "maths-methods-34:2.7",
         "title": "Simultaneous linear equations",
         "front": "Simultaneous linear equations",
-        "back": [
-          "Including the cases of no solution and infinitely many solutions. Geometric interpretation is required for two equations in two variables only."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Including the cases of no solution and infinitely many solutions.",
+              "Geometric interpretation is required for two equations in two variables only."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Infinitely many solutions when one equation is a multiple of the other.",
+              "The second is twice the first when m = 6: 4x + 6y = 14.",
+              "Geometrically the two lines coincide — they are the same line, so every point on it is a solution.",
+              "If m = 6 but the constant were not 14, the lines would be parallel and there would be no solution."
+            ]
+          }
         ]
       }
     },
@@ -546,8 +825,22 @@
         "key": "maths-methods-34:2.8",
         "title": "Exponent and logarithm laws",
         "front": "Exponent and logarithm laws",
-        "back": [
-          "Applied to simplifying expressions and solving equations, including changing base and dealing with restrictions on the domain."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applied to simplifying expressions and solving equations, including changing base and dealing with restrictions on the domain."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Combine: log_e(x(x − 3)) = log_e(10), so x² − 3x = 10.",
+              "x² − 3x − 10 = 0, giving (x − 5)(x + 2) = 0, so x = 5 or x = −2.",
+              "Reject x = −2: the domain requires x > 3 for both logarithms to be defined.",
+              "x = 5."
+            ]
+          }
         ]
       }
     },
@@ -573,8 +866,22 @@
         "key": "maths-methods-34:2.9",
         "title": "Exact solutions of trigonometric equations",
         "front": "Exact solutions of trigonometric equations",
-        "back": [
-          "Solving sin(ax + b) = c, cos(ax + b) = c and tan(ax + b) = c by hand over a given interval, finding every solution in that interval rather than just the first."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Solving sin(ax + b) = c, cos(ax + b) = c and tan(ax + b) = c by hand over a given interval, finding every solution in that interval rather than just the first."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "sin(2x) = √3/2. Let u = 2x, where u ∈ [0, 4π].",
+              "sin(u) = √3/2 at u = π/3, 2π/3, and then adding 2π: 7π/3, 8π/3.",
+              "x = u/2 = π/6, π/3, 7π/6, 4π/3.",
+              "Change the interval for u first — that is where solutions are usually lost."
+            ]
+          }
         ]
       }
     },
@@ -599,8 +906,22 @@
         "key": "maths-methods-34:2.10",
         "title": "Newton's method",
         "front": "Newton's method",
-        "back": [
-          "The algorithm for numerically approximating a root, applying it by hand for an iteration or two, and knowing when it fails."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The algorithm for numerically approximating a root, applying it by hand for an iteration or two, and knowing when it fails."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "x_(n+1) = x_n − f(x_n)/f′(x_n), with f′(x) = 3x² − 2.",
+              "f(2) = 8 − 4 − 5 = −1; f′(2) = 12 − 2 = 10.",
+              "x₁ = 2 − (−1)/10 = 2.1.",
+              "The method fails if f′(x_n) = 0, or may diverge from a poor starting value."
+            ]
+          }
         ]
       }
     },
@@ -625,8 +946,22 @@
         "key": "maths-methods-34:3.1",
         "title": "Limits, continuity and differentiability",
         "front": "Limits, continuity and differentiability",
-        "back": [
-          "The graphical treatment — recognising where a function is continuous but not differentiable, and what a limit means at a point."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The graphical treatment — recognising where a function is continuous but not differentiable, and what a limit means at a point."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Continuous at x = a: there is no break — the limit as x → a equals f(a).",
+              "Differentiable at x = a: the gradient approaching from the left equals that from the right.",
+              "f(x) = |x| is continuous at x = 0 but not differentiable — the gradient jumps from −1 to 1.",
+              "Differentiability implies continuity, but not the reverse."
+            ]
+          }
         ]
       }
     },
@@ -651,8 +986,22 @@
         "key": "maths-methods-34:3.2",
         "title": "Differentiation from first principles",
         "front": "Differentiation from first principles",
-        "back": [
-          "The limit definition of the derivative, and applying it to simple functions by hand."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The limit definition of the derivative, and applying it to simple functions by hand."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "f′(x) = lim(h→0) [f(x + h) − f(x)]/h",
+              "= lim [((x+h)² + 3(x+h)) − (x² + 3x)]/h = lim [2xh + h² + 3h]/h",
+              "= lim (2x + h + 3) as h → 0",
+              "= 2x + 3."
+            ]
+          }
         ]
       }
     },
@@ -677,8 +1026,22 @@
         "key": "maths-methods-34:3.3",
         "title": "Deducing the graph of the derivative",
         "front": "Deducing the graph of the derivative",
-        "back": [
-          "Going from the graph of f to the graph of f′ — stationary points become x-intercepts, and the sign of the gradient sets the sign of f′."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Going from the graph of f to the graph of f′ — stationary points become x-intercepts, and the sign of the gradient sets the sign of f′."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "f′(x) = 0 at x = −1 and x = 3 — stationary points become x-intercepts of the derivative.",
+              "f′(x) > 0 for x < −1 and for x > 3 (f increasing).",
+              "f′(x) < 0 for −1 < x < 3 (f decreasing).",
+              "So the derivative graph cuts the axis downward at −1 and upward at 3."
+            ]
+          }
         ]
       }
     },
@@ -703,8 +1066,22 @@
         "key": "maths-methods-34:3.4",
         "title": "Deducing the graph of an antiderivative",
         "front": "Deducing the graph of an antiderivative",
-        "back": [
-          "Going the other way, from the graph of a function to the graph of one of its antiderivatives."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Going the other way, from the graph of a function to the graph of one of its antiderivatives."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "If f is linear, an antiderivative is quadratic — a parabola.",
+              "A positive gradient in f means the antiderivative is concave up.",
+              "Antiderivatives differ by an arbitrary constant c, which translates the graph vertically.",
+              "Infinitely many because any value of c satisfies F′(x) = f(x)."
+            ]
+          }
         ]
       }
     },
@@ -728,8 +1105,21 @@
         "key": "maths-methods-34:3.5",
         "title": "Standard derivatives",
         "front": "Standard derivatives",
-        "back": [
-          "Derivatives of xⁿ for n ∈ Q, eˣ, logₑ(x), sin(x), cos(x) and tan(x)."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Derivatives of xⁿ for n ∈ Q, eˣ, logₑ(x), sin(x), cos(x) and tan(x)."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "d/dx of x^(3/2) = (3/2)x^(1/2).",
+              "d/dx of log_e(x) = 1/x.",
+              "d/dx of tan(x) = sec²(x), equivalently 1/cos²(x)."
+            ]
+          }
         ]
       }
     },
@@ -752,8 +1142,20 @@
         "key": "maths-methods-34:3.6",
         "title": "Sum, difference and constant multiple rules",
         "front": "Sum, difference and constant multiple rules",
-        "back": [
-          "Differentiating linear combinations of the standard functions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Differentiating linear combinations of the standard functions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "dy/dx = 12x² − 5e^x + 2/x.",
+              "Each term differentiated separately; constants multiply through."
+            ]
+          }
         ]
       }
     },
@@ -778,8 +1180,21 @@
         "key": "maths-methods-34:3.7",
         "title": "The product rule",
         "front": "The product rule",
-        "back": [
-          "Applied by hand to simple combinations of polynomial, exponential, circular, logarithmic and power functions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applied by hand to simple combinations of polynomial, exponential, circular, logarithmic and power functions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Product rule: dy/dx = 2x sin(x) + x² cos(x).",
+              "At x = π: sin(π) = 0, cos(π) = −1.",
+              "dy/dx = 0 + π²(−1) = −π²."
+            ]
+          }
         ]
       }
     },
@@ -803,8 +1218,21 @@
         "key": "maths-methods-34:3.8",
         "title": "The quotient rule",
         "front": "The quotient rule",
-        "back": [
-          "Applied by hand, including recognising when rearranging first is quicker."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applied by hand, including recognising when rearranging first is quicker."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Quotient rule: [(2)(x − 3) − (2x + 1)(1)] / (x − 3)²",
+              "= (2x − 6 − 2x − 1)/(x − 3)² = −7/(x − 3)².",
+              "Undefined at x = 3, where the original function has a vertical asymptote."
+            ]
+          }
         ]
       }
     },
@@ -828,8 +1256,21 @@
         "key": "maths-methods-34:3.9",
         "title": "The chain rule",
         "front": "The chain rule",
-        "back": [
-          "Differentiating composite functions, including nested transformations of the standard functions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Differentiating composite functions, including nested transformations of the standard functions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Chain rule: dy/dx = 4(3x² − 1)³ × 6x = 24x(3x² − 1)³.",
+              "At x = 1: 3(1) − 1 = 2, so (2)³ = 8.",
+              "dy/dx = 24 × 1 × 8 = 192."
+            ]
+          }
         ]
       }
     },
@@ -854,8 +1295,22 @@
         "key": "maths-methods-34:3.10",
         "title": "Graph sketching using differentiation",
         "front": "Graph sketching using differentiation",
-        "back": [
-          "Locating stationary points and determining their nature, finding points of inflection, and identifying intervals where a function is strictly increasing or strictly decreasing."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Locating stationary points and determining their nature, finding points of inflection, and identifying intervals where a function is strictly increasing or strictly decreasing."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "f′(x) = 3x² − 6x = 3x(x − 2), so stationary at x = 0 and x = 2.",
+              "f(0) = 1, f(2) = 8 − 12 + 1 = −3.",
+              "f″(x) = 6x − 6. At x = 0, f″ = −6 < 0 → local maximum (0, 1).",
+              "At x = 2, f″ = 6 > 0 → local minimum (2, −3)."
+            ]
+          }
         ]
       }
     },
@@ -880,8 +1335,22 @@
         "key": "maths-methods-34:3.11",
         "title": "Optimisation",
         "front": "Optimisation",
-        "back": [
-          "Local maximum and minimum values over an interval, applied to problems in context — including checking the endpoints of the interval, which is where marks are usually lost."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Local maximum and minimum values over an interval, applied to problems in context — including checking the endpoints of the interval, which is where marks are usually lost."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Let the two equal sides be x and the third be 40 − 2x. Area A = x(40 − 2x) = 40x − 2x².",
+              "dA/dx = 40 − 4x = 0, so x = 10.",
+              "Second derivative is −4 < 0, confirming a maximum.",
+              "Dimensions 10 m by 20 m, maximum area 200 m². Check endpoints x = 0 and x = 20 both give A = 0."
+            ]
+          }
         ]
       }
     },
@@ -906,8 +1375,22 @@
         "key": "maths-methods-34:3.12",
         "title": "Tangents, normals and rates of change",
         "front": "Tangents, normals and rates of change",
-        "back": [
-          "The gradient of a tangent at a point, the equation of a tangent or normal, and interpreting the derivative as a rate of change in context."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The gradient of a tangent at a point, the equation of a tangent or normal, and interpreting the derivative as a rate of change in context."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "y(3) = 9 − 6 = 3, so the point is (3, 3).",
+              "dy/dx = 2x − 2, so the gradient at x = 3 is 4.",
+              "Tangent: y − 3 = 4(x − 3), i.e. y = 4x − 9.",
+              "Normal gradient = −1/4, so y − 3 = −¼(x − 3), i.e. y = −x/4 + 15/4."
+            ]
+          }
         ]
       }
     },
@@ -932,8 +1415,22 @@
         "key": "maths-methods-34:3.13",
         "title": "Antiderivatives",
         "front": "Antiderivatives",
-        "back": [
-          "Antiderivatives of polynomial and power functions, and of f(ax + b) where f is xⁿ for n ∈ Q, eˣ, sin(x) or cos(x), plus linear combinations of these."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Antiderivatives of polynomial and power functions, and of f(ax + b) where f is xⁿ for n ∈ Q, eˣ, sin(x) or cos(x), plus linear combinations of these."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Antiderivative of 6x² is 2x³.",
+              "Antiderivative of e^(2x) is ½e^(2x).",
+              "Antiderivative of −sin(3x) is (1/3)cos(3x).",
+              "F(x) = 2x³ + ½e^(2x) + (1/3)cos(3x) + c — do not omit the constant."
+            ]
+          }
         ]
       }
     },
@@ -959,8 +1456,22 @@
         "key": "maths-methods-34:3.14",
         "title": "The definite integral as a limiting sum",
         "front": "The definite integral as a limiting sum",
-        "back": [
-          "Informal treatment of the integral as a limit of a sum, and approximating a definite integral using the trapezium rule."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Informal treatment of the integral as a limit of a sum, and approximating a definite integral using the trapezium rule."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Interval width h = 1; values y(0) = 0, y(1) = 1, y(2) = 4.",
+              "Area ≈ ½(1)[0 + 2(1) + 4] = ½(6) = 3.",
+              "The exact value is 8/3 ≈ 2.67.",
+              "It is an overestimate because y = x² is concave up, so each chord lies above the curve."
+            ]
+          }
         ]
       }
     },
@@ -984,8 +1495,21 @@
         "key": "maths-methods-34:3.15",
         "title": "The fundamental theorem of calculus",
         "front": "The fundamental theorem of calculus",
-        "back": [
-          "The link between antidifferentiation and the definite integral, and the properties of definite integrals."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The link between antidifferentiation and the definite integral, and the properties of definite integrals."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "If F is an antiderivative of f, then the definite integral of f from a to b equals F(b) − F(a).",
+              "An antiderivative of 3x² is x³.",
+              "F(3) − F(1) = 27 − 1 = 26."
+            ]
+          }
         ]
       }
     },
@@ -1010,8 +1534,22 @@
         "key": "maths-methods-34:3.16",
         "title": "Area under and between curves",
         "front": "Area under and between curves",
-        "back": [
-          "Finding the area of a region bounded by lines or curves over a specified interval, including handling signed area where the curve crosses the axis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Finding the area of a region bounded by lines or curves over a specified interval, including handling signed area where the curve crosses the axis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Intersections: x² = 2x gives x(x − 2) = 0, so x = 0 and x = 2.",
+              "Between these, 2x lies above x², so integrate (2x − x²) from 0 to 2.",
+              "Antiderivative: x² − x³/3, evaluated 0 to 2 gives 4 − 8/3.",
+              "Area = 4/3 square units."
+            ]
+          }
         ]
       }
     },
@@ -1035,8 +1573,21 @@
         "key": "maths-methods-34:3.17",
         "title": "Average value of a function",
         "front": "Average value of a function",
-        "back": [
-          "The definition and its calculation over an interval."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The definition and its calculation over an interval."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Average value = 1/(b − a) × the definite integral of f from a to b.",
+              "= (1/3) × [x³/3] from 0 to 3 = (1/3)(9) = 3.",
+              "Note this is not the same as the average of the endpoint values."
+            ]
+          }
         ]
       }
     },
@@ -1061,8 +1612,22 @@
         "key": "maths-methods-34:3.18",
         "title": "Applications of integration",
         "front": "Applications of integration",
-        "back": [
-          "Problems in context, including the use of integration with probability density functions for continuous random variables."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Problems in context, including the use of integration with probability density functions for continuous random variables."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Displacement = integral of v from 0 to 4 = [t³ − 12t] from 0 to 4 = 64 − 48 = 16 m.",
+              "v = 0 when 3t² = 12, so t = 2. The particle moves backwards for 0 < t < 2.",
+              "Distance requires integrating |v|: |−16| from 0 to 2, plus 32 from 2 to 4, giving 48 m.",
+              "Displacement counts direction; distance does not."
+            ]
+          }
         ]
       }
     },
@@ -1086,8 +1651,21 @@
         "key": "maths-methods-34:4.1",
         "title": "Random variables",
         "front": "Random variables",
-        "back": [
-          "The concept of a random variable, discrete versus continuous, and what a probability distribution specifies."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The concept of a random variable, discrete versus continuous, and what a probability distribution specifies."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Discrete: takes countable, separate values — the number of students absent in a class.",
+              "Continuous: takes any value in an interval — the time a student takes to run 100 m.",
+              "Probability for a continuous variable is found over an interval, never at a single point."
+            ]
+          }
         ]
       }
     },
@@ -1111,8 +1689,23 @@
         "key": "maths-methods-34:4.2",
         "title": "Discrete probability distributions",
         "front": "Discrete probability distributions",
-        "back": [
-          "Specification by rule, table or graph; the probability mass function; and the requirement that the probabilities sum to one."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Specification by rule, table or graph",
+              "the probability mass function",
+              "and the requirement that the probabilities sum to one."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "All probabilities must sum to 1.",
+              "0.2 + 3k + 0.3 + k = 1",
+              "4k = 0.5, so k = 0.125."
+            ]
+          }
         ]
       }
     },
@@ -1137,8 +1730,22 @@
         "key": "maths-methods-34:4.3",
         "title": "Mean, variance and standard deviation of a discrete random variable",
         "front": "Mean, variance and standard deviation of a discrete random variable",
-        "back": [
-          "Calculating E(X), Var(X) and sd(X), and interpreting each in the context of the distribution."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Calculating E(X), Var(X) and sd(X), and interpreting each in the context of the distribution."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "E(X) = 0(0.4) + 1(0.4) + 2(0.2) = 0.8.",
+              "E(X²) = 0(0.4) + 1(0.4) + 4(0.2) = 1.2.",
+              "Var(X) = E(X²) − [E(X)]² = 1.2 − 0.64 = 0.56.",
+              "sd(X) = √0.56 = 0.748 (3 dp)."
+            ]
+          }
         ]
       }
     },
@@ -1163,8 +1770,22 @@
         "key": "maths-methods-34:4.4",
         "title": "Bernoulli trials",
         "front": "Bernoulli trials",
-        "back": [
-          "The conditions that define them, and recognising whether a described situation actually satisfies those conditions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The conditions that define them, and recognising whether a described situation actually satisfies those conditions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Two outcomes per trial; a fixed number of trials; constant probability of success; trials independent.",
+              "Drawing without replacement changes the probability on each draw.",
+              "Trials are therefore not independent and p is not constant — not Bernoulli trials.",
+              "With replacement, it would satisfy all four."
+            ]
+          }
         ]
       }
     },
@@ -1188,8 +1809,21 @@
         "key": "maths-methods-34:4.5",
         "title": "The binomial distribution",
         "front": "The binomial distribution",
-        "back": [
-          "Pr(X = x) = ⁿCₓ pˣ(1 − p)ⁿ⁻ˣ, mean np and variance np(1 − p), and how changing n or p changes the shape of the distribution."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Pr(X = x) = ⁿCₓ pˣ(1 − p)ⁿ⁻ˣ, mean np and variance np(1 − p), and how changing n or p changes the shape of the distribution."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Pr(X = 3) = ⁸C₃(0.3)³(0.7)⁵ = 56 × 0.027 × 0.16807 = 0.254 (3 dp).",
+              "Mean = np = 8 × 0.3 = 2.4.",
+              "Variance = np(1 − p) = 8 × 0.3 × 0.7 = 1.68."
+            ]
+          }
         ]
       }
     },
@@ -1215,8 +1849,22 @@
         "key": "maths-methods-34:4.6",
         "title": "Applying the binomial distribution",
         "front": "Applying the binomial distribution",
-        "back": [
-          "Including 'at least' and 'at most' phrasing, conditional probability, and finding the smallest n that meets a stated condition."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Including 'at least' and 'at most' phrasing, conditional probability, and finding the smallest n that meets a stated condition."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "X ~ Bi(20, 0.05).",
+              "Pr(X ≥ 2) = 1 − Pr(X = 0) − Pr(X = 1).",
+              "Pr(X = 0) = 0.95²⁰ = 0.3585; Pr(X = 1) = 20(0.05)(0.95)¹⁹ = 0.3774.",
+              "Pr(X ≥ 2) = 1 − 0.7359 = 0.264 (3 dp). Mean = np = 20 × 0.05 = 1."
+            ]
+          }
         ]
       }
     },
@@ -1240,8 +1888,21 @@
         "key": "maths-methods-34:4.7",
         "title": "Continuous random variables and probability density functions",
         "front": "Continuous random variables and probability density functions",
-        "back": [
-          "The requirements that f(x) ≥ 0 and the total area equals one, and Pr(a < X < b) as a definite integral."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The requirements that f(x) ≥ 0 and the total area equals one, and Pr(a < X < b) as a definite integral."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Total area must equal 1: the integral of kx from 0 to 4 = k[x²/2] = 8k = 1, so k = 1/8.",
+              "Pr(1 < X < 2) = integral of x/8 from 1 to 2 = [x²/16] from 1 to 2.",
+              "= 4/16 − 1/16 = 3/16 = 0.1875."
+            ]
+          }
         ]
       }
     },
@@ -1266,8 +1927,22 @@
         "key": "maths-methods-34:4.8",
         "title": "Measures for a continuous random variable",
         "front": "Measures for a continuous random variable",
-        "back": [
-          "Mean, median, percentiles, variance and standard deviation, and setting up the integral that each one requires."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mean, median, percentiles, variance and standard deviation, and setting up the integral that each one requires."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mean = integral of x·f(x) from 0 to 4 = integral of x²/8 = [x³/24] from 0 to 4 = 64/24 = 8/3 ≈ 2.67.",
+              "Median m satisfies the integral of f from 0 to m = 0.5.",
+              "[x²/16] from 0 to m = m²/16 = 0.5, so m² = 8.",
+              "m = 2√2 ≈ 2.83."
+            ]
+          }
         ]
       }
     },
@@ -1292,8 +1967,22 @@
         "key": "maths-methods-34:4.9",
         "title": "The normal distribution",
         "front": "The normal distribution",
-        "back": [
-          "Its shape and symmetry, the effect of μ and σ, and the approximate 68–95–99.7 proportions within one, two and three standard deviations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Its shape and symmetry, the effect of μ and σ, and the approximate 68–95–99.7 proportions within one, two and three standard deviations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "50 is 2 standard deviations below the mean; 65 is 1 above.",
+              "Between −2 sd and the mean: 95/2 = 47.5%.",
+              "Between the mean and +1 sd: 68/2 = 34%.",
+              "Total = 81.5%."
+            ]
+          }
         ]
       }
     },
@@ -1319,8 +2008,22 @@
         "key": "maths-methods-34:4.10",
         "title": "Standardising and finding normal probabilities",
         "front": "Standardising and finding normal probabilities",
-        "back": [
-          "Z = (X − μ)/σ, the standard normal distribution, and using technology to find probabilities or to work backwards from a probability to a value."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Z = (X − μ)/σ, the standard normal distribution, and using technology to find probabilities or to work backwards from a probability to a value."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "z = (82 − 70)/8 = 1.5.",
+              "Pr(X > 82) = Pr(Z > 1.5).",
+              "= 1 − 0.9332 = 0.0668, about 6.7%.",
+              "Roughly consistent with the 95% rule: about 2.5% lie beyond z = 2."
+            ]
+          }
         ]
       }
     },
@@ -1346,8 +2049,22 @@
         "key": "maths-methods-34:4.11",
         "title": "Random sampling and the sample proportion",
         "front": "Random sampling and the sample proportion",
-        "back": [
-          "Sample proportion p̂ defined as a random variable, and how it varies from sample to sample."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sample proportion p̂ defined as a random variable, and how it varies from sample to sample."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Each random sample gives a different value of p̂, so p̂ varies according to a probability distribution.",
+              "Mean of the distribution of p̂ = p.",
+              "Standard deviation = √(p(1 − p)/n).",
+              "Increasing n decreases the standard deviation, so estimates cluster more tightly around p."
+            ]
+          }
         ]
       }
     },
@@ -1372,8 +2089,22 @@
         "key": "maths-methods-34:4.12",
         "title": "The distribution of sample proportions",
         "front": "The distribution of sample proportions",
-        "back": [
-          "Mean p and standard deviation √(p(1 − p)/n), and simulating repeated random sampling to see the distribution form."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mean p and standard deviation √(p(1 − p)/n), and simulating repeated random sampling to see the distribution form."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mean = p = 0.4.",
+              "Standard deviation = √(0.4 × 0.6/100) = √0.0024 = 0.049.",
+              "For large n the distribution of p̂ is approximately normal.",
+              "So about 95% of sample proportions fall within roughly 0.30 to 0.50."
+            ]
+          }
         ]
       }
     },
@@ -1398,8 +2129,22 @@
         "key": "maths-methods-34:4.13",
         "title": "Confidence intervals for a population proportion",
         "front": "Confidence intervals for a population proportion",
-        "back": [
-          "The approximate interval from a large sample, the role of the quantile z, and the 95% interval as the case where z ≈ 1.96."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The approximate interval from a large sample, the role of the quantile z, and the 95% interval as the case where z ≈ 1.96."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "p̂ = 96/200 = 0.48.",
+              "Standard error = √(0.48 × 0.52/200) = √0.001248 = 0.0353.",
+              "95% interval: 0.48 ± 1.96 × 0.0353 = 0.48 ± 0.0692.",
+              "Interval is (0.411, 0.549)."
+            ]
+          }
         ]
       }
     },
@@ -1424,8 +2169,22 @@
         "key": "maths-methods-34:4.14",
         "title": "Interpreting a confidence interval",
         "front": "Interpreting a confidence interval",
-        "back": [
-          "What the interval actually claims, how intervals vary between samples, and why a wider interval is not automatically a worse one."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "What the interval actually claims, how intervals vary between samples, and why a wider interval is not automatically a worse one."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It is a plausible range for the population proportion based on this one sample.",
+              "'95%' refers to the method: about 95% of intervals built this way from repeated samples would capture the true p.",
+              "It does NOT mean there is a 95% probability that p lies in this particular interval — p is fixed, the interval varies.",
+              "A different sample would give a different interval."
+            ]
+          }
         ]
       }
     },
@@ -1451,8 +2210,22 @@
         "key": "maths-methods-34:5.1",
         "title": "Algorithm design",
         "front": "Algorithm design",
-        "back": [
-          "Sequencing, decision-making and repetition as the building blocks, and representing the ordered steps of a mathematical process."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sequencing, decision-making and repetition as the building blocks, and representing the ordered steps of a mathematical process."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "First pass: n = 20 − 6 = 14, print 14. 14 > 6, continue.",
+              "Second pass: n = 8, print 8. 8 > 6, continue.",
+              "Third pass: n = 2, print 2. 2 > 6 is false, loop ends.",
+              "Printed: 14, 8, 2."
+            ]
+          }
         ]
       }
     },
@@ -1477,8 +2250,22 @@
         "key": "maths-methods-34:5.2",
         "title": "Pseudocode",
         "front": "Pseudocode",
-        "back": [
-          "Reading pseudocode and tracing what it produces, and writing it for a process such as Newton's method or the bisection method."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reading pseudocode and tracing what it produces, and writing it for a process such as Newton's method or the bisection method."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "count ← 0",
+              "while n ≥ 1 do: n ← n/2; count ← count + 1; end while",
+              "print count",
+              "A pre-test loop is correct here — if n < 1 initially, the answer should be 0 halvings."
+            ]
+          }
         ]
       }
     },
@@ -1502,8 +2289,21 @@
         "key": "maths-methods-34:5.3",
         "title": "Examples, counter-examples and general cases",
         "front": "Examples, counter-examples and general cases",
-        "back": [
-          "Their role in working mathematically — a single counter-example disproves, an example never proves."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Their role in working mathematically — a single counter-example disproves, an example never proves."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Take x = 0.5: x² = 0.25, which is not greater than 0.5.",
+              "A single counter-example disproves a universal claim.",
+              "No number of supporting examples can prove such a claim — only a general argument can."
+            ]
+          }
         ]
       }
     },
@@ -1527,8 +2327,21 @@
         "key": "maths-methods-34:5.4",
         "title": "Exact versus approximate results",
         "front": "Exact versus approximate results",
-        "back": [
-          "Recognising which form technology has given you, and rounding to a stated number of decimal places or significant figures."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recognising which form technology has given you, and rounding to a stated number of decimal places or significant figures."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Exact solution: x = log_e(2).",
+              "An approximation is acceptable only when the question asks for a decimal answer, or specifies decimal places or significant figures.",
+              "Exam 1 is technology-free and almost always requires exact form."
+            ]
+          }
         ]
       }
     },
@@ -1552,8 +2365,21 @@
         "key": "maths-methods-34:5.5",
         "title": "Domain and range when graphing with technology",
         "front": "Domain and range when graphing with technology",
-        "back": [
-          "Setting a window that actually shows the key features, and specifying domain restrictions correctly."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Setting a window that actually shows the key features, and specifying domain restrictions correctly."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The near-vertical line is a rendering artefact — the technology joins points either side of the asymptote.",
+              "There is no point on the graph at x = 2; the function is undefined there.",
+              "Set the domain to exclude x = 2, or use a graph style that does not connect across the discontinuity."
+            ]
+          }
         ]
       }
     },
@@ -1578,8 +2404,21 @@
         "key": "maths-methods-34:5.6",
         "title": "Parameters and families of functions",
         "front": "Parameters and families of functions",
-        "back": [
-          "The role of a parameter in the general form of a function or equation, and generating families of graphs to see its effect."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of a parameter in the general form of a function or equation, and generating families of graphs to see its effect."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fixed: the turning point is always (2, 1); the axis of symmetry is always x = 2.",
+              "Changes: the width of the parabola, and whether it opens up (a > 0) or down (a < 0).",
+              "Number of x-intercepts changes: none if a > 0, two if a < 0."
+            ]
+          }
         ]
       }
     },
@@ -1604,8 +2443,22 @@
         "key": "maths-methods-34:5.7",
         "title": "Numerical, graphical and symbolic forms",
         "front": "Numerical, graphical and symbolic forms",
-        "back": [
-          "Linking the three representations of the same function or equation, and matching features across them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Linking the three representations of the same function or equation, and matching features across them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The sign change in the table indicates f(a) and f(b) have opposite signs.",
+              "The graph crossing the axis is that same root shown visually.",
+              "The rule can be used with Newton's method or a CAS solver to locate the root numerically.",
+              "All three describe the same fact: a solution of f(x) = 0 lies between 1 and 2."
+            ]
+          }
         ]
       }
     },
@@ -1629,8 +2482,21 @@
         "key": "maths-methods-34:5.8",
         "title": "Choosing and justifying CAS functionality",
         "front": "Choosing and justifying CAS functionality",
-        "back": [
-          "Selecting the right tool for the task, applying suitable constraints and conditions, and verifying the result rather than trusting it."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Selecting the right tool for the task, applying suitable constraints and conditions, and verifying the result rather than trusting it."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The technology has returned a decimal approximation rather than an exact value.",
+              "The exact answer is √2.",
+              "Set the CAS to exact or auto mode, or use an exact-form solve command rather than a numerical solver."
+            ]
+          }
         ]
       }
     },
@@ -1654,8 +2520,21 @@
         "key": "maths-methods-34:5.9",
         "title": "Communicating mathematical reasoning",
         "front": "Communicating mathematical reasoning",
-        "back": [
-          "Setting out the stages — formulation, solution, interpretation — so the working can be followed, which is what the modelling and problem-solving tasks are marked on."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Setting out the stages — formulation, solution, interpretation — so the working can be followed, which is what the modelling and problem-solving tasks are marked on."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The reasoning is absent — marks are allocated to the stages of the solution, not only the final value.",
+              "Required: the relationship or rule being used, the substitution, the working, then the answer.",
+              "The answer should be stated in context with units where relevant."
+            ]
+          }
         ]
       }
     }

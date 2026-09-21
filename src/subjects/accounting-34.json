@@ -48,8 +48,22 @@
         "key": "accounting-34:A1",
         "title": "The accounting entity and accrual assumptions",
         "front": "The accounting entity and accrual assumptions",
-        "back": [
-          "Recording the records of the business separately from those of the owner, and recognising revenues and expenses when they occur rather than when cash moves."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording the records of the business separately from those of the owner, and recognising revenues and expenses when they occur rather than when cash moves."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The accounting entity assumption requires the records of the business to be kept separately from the personal records of the owner.",
+              "For example, the owner taking cash for personal use is recorded as drawings rather than as a business expense.",
+              "The accrual basis assumption requires revenues to be recognised when earned and expenses when incurred, regardless of when cash is received or paid.",
+              "For example, a credit sale is recognised as revenue at the date of sale, not at the date the debtor pays."
+            ]
+          }
         ]
       }
     },
@@ -73,8 +87,21 @@
         "key": "accounting-34:A2",
         "title": "Going concern and period assumptions",
         "front": "Going concern and period assumptions",
-        "back": [
-          "Assuming the business will continue to operate indefinitely, and dividing its life into equal reporting periods so performance can be compared."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Assuming the business will continue to operate indefinitely, and dividing its life into equal reporting periods so performance can be compared."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The going concern assumption presumes the business will continue operating into the foreseeable future and will not be wound up.",
+              "Non-current assets are therefore reported at their historical cost less accumulated depreciation, reflecting continued use in the business.",
+              "They are not reported at the amount that could be obtained in a forced sale, because no such sale is anticipated."
+            ]
+          }
         ]
       }
     },
@@ -99,8 +126,22 @@
         "key": "accounting-34:A3",
         "title": "Qualitative characteristics",
         "front": "Qualitative characteristics",
-        "back": [
-          "Relevance, faithful representation, comparability, verifiability, timeliness and understandability, and the way they guide reporting decisions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Relevance, faithful representation, comparability, verifiability, timeliness and understandability, and the way they guide reporting decisions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Relevance requires that financial information be capable of making a difference to the decisions of users, including material information only.",
+              "Faithful representation requires that information be complete, neutral and free from material error, corresponding to the real transaction.",
+              "Timeliness requires information to be available early enough to influence a decision.",
+              "Verifiability requires independent observers to reach consensus, which may require waiting for confirming evidence, so reporting quickly can reduce the confidence in the information."
+            ]
+          }
         ]
       }
     },
@@ -125,8 +166,22 @@
         "key": "accounting-34:A4",
         "title": "Elements of the reports",
         "front": "Elements of the reports",
-        "back": [
-          "Definitions of assets, liabilities, owner's equity, revenues and expenses, and the classification of each as current or non-current."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Definitions of assets, liabilities, owner's equity, revenues and expenses, and the classification of each as current or non-current."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An asset is a present economic resource controlled by the entity as a result of past events, with the potential to produce economic benefits.",
+              "A liability is a present obligation of the entity to transfer an economic resource as a result of past events.",
+              "An item is current if it is expected to be converted to cash, sold, consumed or settled within 12 months of the reporting date.",
+              "Anything expected to remain beyond 12 months is classified as non-current, which is why a loan's next 12 months of repayments are separated out."
+            ]
+          }
         ]
       }
     },
@@ -150,8 +205,21 @@
         "key": "accounting-34:3.1.1",
         "title": "Source documents",
         "front": "Source documents",
-        "back": [
-          "Sales and purchase invoices, receipts, cheque butts or EFT records, memos, bank statements and credit notes, and the verification they provide."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sales and purchase invoices, receipts, cheque butts or EFT records, memos, bank statements and credit notes, and the verification they provide."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A sales invoice verifies a credit sale of inventory to a customer.",
+              "A receipt verifies cash received, for example from a debtor or a cash sale.",
+              "A memo verifies an internal transaction with no external party, such as depreciation, drawings of inventory or an inventory write-down."
+            ]
+          }
         ]
       }
     },
@@ -176,8 +244,22 @@
         "key": "accounting-34:3.1.2",
         "title": "The accounting equation and double entry",
         "front": "The accounting equation and double entry",
-        "back": [
-          "Assets equal liabilities plus owner's equity, and the requirement that every transaction affect at least two items so the equation remains in balance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Assets equal liabilities plus owner's equity, and the requirement that every transaction affect at least two items so the equation remains in balance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Inventory increases by 4000 dollars, being the GST-exclusive cost.",
+              "The GST clearing account is affected by 400 dollars, reducing the net amount owed to the tax authority or increasing the amount receivable.",
+              "Creditors, a liability, increase by the full 4400 dollars.",
+              "Total assets increase by 4400 dollars and total liabilities increase by 4400 dollars, so the equation remains in balance."
+            ]
+          }
         ]
       }
     },
@@ -202,8 +284,22 @@
         "key": "accounting-34:3.1.3",
         "title": "The General Journal",
         "front": "The General Journal",
-        "back": [
-          "Recording transactions in journal form with debits before credits, appropriate narrations and correct treatment of GST."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording transactions in journal form with debits before credits, appropriate narrations and correct treatment of GST."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The debit entry or entries are recorded first, with the credit entry or entries indented beneath them.",
+              "The total debits must equal the total credits for every entry.",
+              "A narration briefly describes the transaction and identifies the source document that verifies it.",
+              "The narration supports verifiability by allowing an independent party to trace the entry back to its supporting evidence."
+            ]
+          }
         ]
       }
     },
@@ -227,8 +323,21 @@
         "key": "accounting-34:3.1.4",
         "title": "The General Ledger",
         "front": "The General Ledger",
-        "back": [
-          "Posting from the journal to ledger accounts, the use of cross-references, and balancing accounts at the end of the period."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Posting from the journal to ledger accounts, the use of cross-references, and balancing accounts at the end of the period."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The cross-reference names the other account affected by the same transaction.",
+              "It allows a reader to trace the double entry from one account to its corresponding account.",
+              "This supports verifiability and makes errors easier to locate when the ledger does not balance."
+            ]
+          }
         ]
       }
     },
@@ -253,8 +362,22 @@
         "key": "accounting-34:3.1.5",
         "title": "Subsidiary ledgers and schedules",
         "front": "Subsidiary ledgers and schedules",
-        "back": [
-          "Maintaining individual debtor, creditor and inventory records, and reconciling their totals with the control accounts in the General Ledger."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Maintaining individual debtor, creditor and inventory records, and reconciling their totals with the control accounts in the General Ledger."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The Debtors Control account in the General Ledger records the total amount owed by all credit customers.",
+              "The subsidiary ledger contains a separate account for each individual debtor, showing what that customer owes.",
+              "The sum of the individual balances in the subsidiary ledger should equal the balance of the control account.",
+              "A difference indicates a recording error, such as posting to the wrong debtor or omitting a posting, and must be investigated before reports are prepared."
+            ]
+          }
         ]
       }
     },
@@ -279,8 +402,22 @@
         "key": "accounting-34:3.2.1",
         "title": "The perpetual inventory system",
         "front": "The perpetual inventory system",
-        "back": [
-          "Recording inventory movements continuously at cost, the dual entry required for sales, and the role of physical stocktakes."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording inventory movements continuously at cost, the dual entry required for sales, and the role of physical stocktakes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The first entry records the revenue: Debtors Control is debited, and Sales and GST Clearing are credited at the selling price.",
+              "The second entry records the expense and the reduction in the asset: Cost of Sales is debited and Inventory is credited at cost price.",
+              "Two entries are required because the selling price and the cost price are different amounts recording different effects.",
+              "This allows gross profit to be determined and the inventory asset to be stated at cost at all times."
+            ]
+          }
         ]
       }
     },
@@ -305,8 +442,22 @@
         "key": "accounting-34:3.2.2",
         "title": "Inventory cost assignment",
         "front": "Inventory cost assignment",
-        "back": [
-          "The first in first out method and the identified cost method, the circumstances in which each is appropriate, and the effect of each on cost of sales."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The first in first out method and the identified cost method, the circumstances in which each is appropriate, and the effect of each on cost of sales."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "FIFO assumes the earliest units purchased are the first sold, so cost of sales is based on the oldest costs and closing inventory reflects the most recent costs.",
+              "Identified cost tracks the actual cost of each specific unit sold, usually by serial number or individual tag.",
+              "Identified cost suits high-value, individually distinguishable items such as vehicles or machinery.",
+              "FIFO suits homogeneous, interchangeable items where tracking individual units is impractical, and it approximates the physical flow of perishable goods."
+            ]
+          }
         ]
       }
     },
@@ -331,8 +482,22 @@
         "key": "accounting-34:3.2.3",
         "title": "Product and period costs",
         "front": "Product and period costs",
-        "back": [
-          "Distinguishing costs added to the value of inventory from costs expensed in the period they are incurred."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Distinguishing costs added to the value of inventory from costs expensed in the period they are incurred."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A product cost is incurred to bring inventory into a condition and location ready for sale, and is added to the cost of the inventory.",
+              "Delivery in, customs duty and assembly costs are product costs, provided they can be allocated to specific units on a logical basis.",
+              "A period cost is not directly attributable to specific units and is reported as an expense in the period incurred.",
+              "Advertising, delivery out to customers and general warehouse wages are period costs."
+            ]
+          }
         ]
       }
     },
@@ -357,8 +522,22 @@
         "key": "accounting-34:3.2.4",
         "title": "Inventory loss, gain and write-down",
         "front": "Inventory loss, gain and write-down",
-        "back": [
-          "Recording differences between the inventory card and the physical stocktake, and writing inventory down to net realisable value."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording differences between the inventory card and the physical stocktake, and writing inventory down to net realisable value."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An inventory loss occurs when the physical stocktake reveals fewer units than the inventory card shows, caused by theft, damage or recording error.",
+              "It is recorded by debiting Inventory Loss, an expense, and crediting Inventory at cost price, verified by a memo.",
+              "An inventory write-down occurs when the net realisable value of inventory falls below its cost, so the units remain but are worth less.",
+              "It is recorded by debiting Inventory Write-Down, an expense, and crediting Inventory for the difference between cost and net realisable value, which upholds faithful representation."
+            ]
+          }
         ]
       }
     },
@@ -383,8 +562,22 @@
         "key": "accounting-34:3.2.5",
         "title": "GST and the GST Clearing account",
         "front": "GST and the GST Clearing account",
-        "back": [
-          "GST collected on sales, GST paid on purchases, the net balance owing or receivable, and the settlement of the account."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "GST collected on sales, GST paid on purchases, the net balance owing or receivable, and the settlement of the account."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "GST charged on sales is credited to GST Clearing, increasing the amount owed to the tax authority.",
+              "GST paid on purchases and expenses is debited to GST Clearing, reducing that amount.",
+              "A credit balance means GST collected exceeds GST paid, so the account is a current liability representing GST owing to the tax authority.",
+              "A debit balance means the business has paid more GST than it has collected, so the account is a current asset representing a GST refund receivable."
+            ]
+          }
         ]
       }
     },
@@ -408,8 +601,21 @@
         "key": "accounting-34:3.2.6",
         "title": "Drawings of inventory and advertising use",
         "front": "Drawings of inventory and advertising use",
-        "back": [
-          "Recording the owner taking inventory for personal use, and inventory used for advertising or donation, at cost price by memo."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording the owner taking inventory for personal use, and inventory used for advertising or donation, at cost price by memo."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Debit Drawings 500 dollars and credit Inventory 500 dollars, verified by a memo.",
+              "The transaction is recorded at cost price because no sale has occurred and no revenue has been earned.",
+              "Drawings reduces owner's equity in accordance with the accounting entity assumption, since the benefit is personal rather than business."
+            ]
+          }
         ]
       }
     },
@@ -434,8 +640,22 @@
         "key": "accounting-34:3.3.1",
         "title": "The Income Statement",
         "front": "The Income Statement",
-        "back": [
-          "Classified presentation of revenue, cost of sales, gross profit, adjusted gross profit and other expenses to arrive at net profit."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Classified presentation of revenue, cost of sales, gross profit, adjusted gross profit and other expenses to arrive at net profit."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Gross profit is net sales less cost of sales, showing the margin earned on trading activity before other expenses.",
+              "Adjusted gross profit is gross profit adjusted for inventory loss or gain, since these relate directly to the trading of inventory.",
+              "Net profit is adjusted gross profit less all other expenses, including selling, administrative and financial expenses.",
+              "An inventory loss is deducted in arriving at adjusted gross profit, not treated as a general expense."
+            ]
+          }
         ]
       }
     },
@@ -460,8 +680,22 @@
         "key": "accounting-34:3.3.2",
         "title": "The Balance Sheet",
         "front": "The Balance Sheet",
-        "back": [
-          "Classified presentation of current and non-current assets and liabilities, and owner's equity as capital plus net profit less drawings."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Classified presentation of current and non-current assets and liabilities, and owner's equity as capital plus net profit less drawings."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Assets are separated into current and non-current, as are liabilities, based on whether they will be realised or settled within 12 months.",
+              "Classification allows users to assess liquidity, by comparing current assets against current liabilities.",
+              "Owner's equity equals opening capital plus net profit less drawings for the period.",
+              "A net loss is deducted instead of profit being added, and any capital contribution during the period is also added."
+            ]
+          }
         ]
       }
     },
@@ -486,8 +720,22 @@
         "key": "accounting-34:3.3.3",
         "title": "The Cash Flow Statement",
         "front": "The Cash Flow Statement",
-        "back": [
-          "Classifying cash flows as operating, investing or financing, and reconciling to the change in the bank balance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Classifying cash flows as operating, investing or financing, and reconciling to the change in the bank balance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cash paid to creditors is an operating outflow, since it relates to the day-to-day trading activity of buying inventory.",
+              "Purchase of a vehicle is an investing outflow, since it relates to the acquisition of a non-current asset.",
+              "A capital contribution by the owner is a financing inflow, since it relates to the funding of the business.",
+              "Interest paid is an operating outflow, as it is a cost of the ordinary activities of the period."
+            ]
+          }
         ]
       }
     },
@@ -512,8 +760,22 @@
         "key": "accounting-34:3.3.4",
         "title": "Cash profit and accrual profit",
         "front": "Cash profit and accrual profit",
-        "back": [
-          "Explaining why net cash flow from operations differs from net profit, and identifying the specific items causing the difference."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Explaining why net cash flow from operations differs from net profit, and identifying the specific items causing the difference."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Profit is determined on an accrual basis, so credit sales are recognised as revenue before the cash is received from debtors.",
+              "Expenses incurred but not yet paid, such as accrued wages, reduce profit without any cash outflow in the period.",
+              "Non-cash expenses such as depreciation reduce profit but involve no payment at all.",
+              "Conversely, large payments to creditors for inventory purchased in an earlier period reduce cash without reducing profit in this period."
+            ]
+          }
         ]
       }
     },
@@ -538,8 +800,22 @@
         "key": "accounting-34:3.3.5",
         "title": "Prepaid expenses",
         "front": "Prepaid expenses",
-        "back": [
-          "Recording a payment in advance as an asset and transferring the consumed portion to expense at balance day."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording a payment in advance as an asset and transferring the consumed portion to expense at balance day."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Three months have been consumed, so the expense for the period is 3000 dollars.",
+              "Debit Insurance Expense 3000 dollars and credit Prepaid Insurance 3000 dollars, verified by a memo.",
+              "The Income Statement reports insurance expense of 3000 dollars, applying the period assumption.",
+              "The Balance Sheet reports Prepaid Insurance of 9000 dollars as a current asset, being the unconsumed future benefit."
+            ]
+          }
         ]
       }
     },
@@ -563,8 +839,21 @@
         "key": "accounting-34:3.3.6",
         "title": "Accrued expenses",
         "front": "Accrued expenses",
-        "back": [
-          "Recognising an expense incurred but not yet paid at balance day, and the corresponding current liability."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recognising an expense incurred but not yet paid at balance day, and the corresponding current liability."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The wages relate to work already performed by employees in the current period, so the expense has been incurred.",
+              "Under the accrual basis assumption the expense is recognised when incurred, not when paid, so profit is faithfully represented.",
+              "Debit Wages Expense and credit Accrued Wages, a current liability, verified by a memo."
+            ]
+          }
         ]
       }
     },
@@ -589,8 +878,22 @@
         "key": "accounting-34:3.3.7",
         "title": "Straight-line depreciation",
         "front": "Straight-line depreciation",
-        "back": [
-          "Calculating depreciation as cost less residual value divided by useful life, and reporting accumulated depreciation and carrying value."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Calculating depreciation as cost less residual value divided by useful life, and reporting accumulated depreciation and carrying value."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Annual depreciation equals cost less residual value divided by useful life: 50000 minus 5000, divided by 5, which is 9000 dollars per year.",
+              "Debit Depreciation Expense 9000 dollars and credit Accumulated Depreciation 9000 dollars, verified by a memo.",
+              "Accumulated Depreciation is a negative asset deducted from the cost of the equipment in the Balance Sheet.",
+              "The resulting carrying value after one year is 41000 dollars, which is not intended to represent market value."
+            ]
+          }
         ]
       }
     },
@@ -615,8 +918,22 @@
         "key": "accounting-34:3.3.8",
         "title": "Reducing balance depreciation",
         "front": "Reducing balance depreciation",
-        "back": [
-          "Applying a fixed percentage to the carrying value each period, and the circumstances in which it better matches the pattern of benefit."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applying a fixed percentage to the carrying value each period, and the circumstances in which it better matches the pattern of benefit."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Straight-line allocates an equal amount of depreciation each period, assuming benefits are consumed evenly across the asset's life.",
+              "Reducing balance applies a fixed percentage to the declining carrying value, producing a higher expense in early years and lower in later years.",
+              "Reducing balance is more appropriate where the asset contributes more in its early years or where repair costs rise as it ages.",
+              "The choice affects the pattern of reported profit but not the total depreciation charged over the asset's life."
+            ]
+          }
         ]
       }
     },
@@ -641,8 +958,22 @@
         "key": "accounting-34:4.1.1",
         "title": "Acquiring a non-current asset",
         "front": "Acquiring a non-current asset",
-        "back": [
-          "Determining the cost of a non-current asset by including all costs necessary to bring it to a location and condition ready for use."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Determining the cost of a non-current asset by including all costs necessary to bring it to a location and condition ready for use."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The cost includes all costs incurred to bring the asset to a location and condition ready for use.",
+              "Delivery of 1200 dollars and installation of 2000 dollars are therefore included in the cost of the asset.",
+              "Insurance of 900 dollars is an ongoing operating cost of using the asset, not a cost of acquiring it, so it is a period expense.",
+              "The cost of the machine is 30000 plus 1200 plus 2000, which is 33200 dollars."
+            ]
+          }
         ]
       }
     },
@@ -667,8 +998,22 @@
         "key": "accounting-34:4.1.2",
         "title": "Disposal of a non-current asset",
         "front": "Disposal of a non-current asset",
-        "back": [
-          "Removing the asset and its accumulated depreciation, recognising proceeds and calculating the profit or loss on disposal."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Removing the asset and its accumulated depreciation, recognising proceeds and calculating the profit or loss on disposal."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The carrying value at the date of disposal is the cost less accumulated depreciation to that date, including depreciation for the part-year.",
+              "Profit or loss on disposal is the proceeds received less that carrying value.",
+              "A loss indicates the asset was depreciated too slowly, meaning the useful life or residual value estimate was too generous.",
+              "A profit indicates it was depreciated too quickly; both arise because depreciation is an estimate, not a valuation."
+            ]
+          }
         ]
       }
     },
@@ -692,8 +1037,21 @@
         "key": "accounting-34:4.1.3",
         "title": "Accrued revenue",
         "front": "Accrued revenue",
-        "back": [
-          "Recognising revenue earned but not yet received at balance day, and the corresponding current asset."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recognising revenue earned but not yet received at balance day, and the corresponding current asset."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Revenue that has been earned in the period but not yet received must be recognised under the accrual basis assumption.",
+              "Debit Accrued Revenue, a current asset, and credit the relevant revenue account, verified by a memo.",
+              "The Income Statement reports the full amount earned and the Balance Sheet reports the amount still to be received."
+            ]
+          }
         ]
       }
     },
@@ -717,8 +1075,21 @@
         "key": "accounting-34:4.1.4",
         "title": "Prepaid revenue",
         "front": "Prepaid revenue",
-        "back": [
-          "Recording cash received in advance as a liability and recognising revenue only as the obligation is satisfied."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording cash received in advance as a liability and recognising revenue only as the obligation is satisfied."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The business has received the cash but has not yet provided the goods or services, so the revenue has not been earned.",
+              "An obligation exists to provide those goods or services, or to refund the customer, which meets the definition of a liability.",
+              "Revenue is recognised progressively as the obligation is satisfied, transferring the amount from Prepaid Revenue to the revenue account."
+            ]
+          }
         ]
       }
     },
@@ -743,8 +1114,22 @@
         "key": "accounting-34:4.1.5",
         "title": "Closing the ledger and the Profit and Loss Summary",
         "front": "Closing the ledger and the Profit and Loss Summary",
-        "back": [
-          "Closing revenue and expense accounts to the Profit and Loss Summary, transferring net profit to Capital, and closing Drawings."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Closing revenue and expense accounts to the Profit and Loss Summary, transferring net profit to Capital, and closing Drawings."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Closing entries reset revenue and expense accounts to zero so the next period's figures are recorded separately, applying the period assumption.",
+              "Revenue accounts are debited and the Profit and Loss Summary credited; expense accounts are credited and the Summary debited.",
+              "The balance of the Profit and Loss Summary, being net profit or loss, is transferred to the Capital account.",
+              "Drawings is also closed to Capital, while asset, liability and equity accounts are balanced and carried forward rather than closed."
+            ]
+          }
         ]
       }
     },
@@ -769,8 +1154,22 @@
         "key": "accounting-34:4.2.1",
         "title": "The purpose of budgeting",
         "front": "The purpose of budgeting",
-        "back": [
-          "Planning future activity, setting targets, allocating resources, anticipating cash shortfalls and providing a benchmark against which to assess performance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Planning future activity, setting targets, allocating resources, anticipating cash shortfalls and providing a benchmark against which to assess performance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Budgets identify likely cash shortfalls in advance, so finance can be arranged before the shortage occurs.",
+              "They set measurable targets against which actual results can later be compared, enabling variance analysis.",
+              "They assist decision making by modelling the financial effect of a proposed change before it is committed to.",
+              "They also coordinate activity, since purchasing, staffing and marketing plans must be consistent with the budgeted level of sales."
+            ]
+          }
         ]
       }
     },
@@ -795,8 +1194,22 @@
         "key": "accounting-34:4.2.2",
         "title": "Budgeted Cash Flow Statement",
         "front": "Budgeted Cash Flow Statement",
-        "back": [
-          "Forecasting receipts from debtors and payments to creditors using expected collection and payment patterns, and projecting the closing bank balance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Forecasting receipts from debtors and payments to creditors using expected collection and payment patterns, and projecting the closing bank balance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Begin with the opening balance of Debtors Control, which is expected to be collected in the budget period.",
+              "Add budgeted credit sales for the period, including GST, since that is the amount customers will pay.",
+              "Apply the expected collection pattern, so only the proportion expected to be received in the period is included.",
+              "Deduct any expected discount expense or bad debts, and the remainder of credit sales becomes the closing debtors balance."
+            ]
+          }
         ]
       }
     },
@@ -820,8 +1233,21 @@
         "key": "accounting-34:4.2.3",
         "title": "Budgeted Income Statement",
         "front": "Budgeted Income Statement",
-        "back": [
-          "Forecasting sales, cost of sales and expenses on an accrual basis, and distinguishing budgeted profit from budgeted cash flow."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Forecasting sales, cost of sales and expenses on an accrual basis, and distinguishing budgeted profit from budgeted cash flow."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Budgeted sales are recognised when the sale is expected to occur, on an accrual basis, and exclude GST.",
+              "Receipts from debtors are recognised when cash is expected to be received, include GST, and include collections of prior period sales.",
+              "The two therefore differ in timing, in the treatment of GST and in the inclusion of cash sales and opening debtors."
+            ]
+          }
         ]
       }
     },
@@ -845,8 +1271,21 @@
         "key": "accounting-34:4.2.4",
         "title": "Budgeted Balance Sheet",
         "front": "Budgeted Balance Sheet",
-        "back": [
-          "Projecting closing balances of assets, liabilities and owner's equity from the budgeted income and cash flow statements."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Projecting closing balances of assets, liabilities and owner's equity from the budgeted income and cash flow statements."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Begin with the opening Capital balance from the actual Balance Sheet at the start of the period.",
+              "Add budgeted net profit from the Budgeted Income Statement, and add any expected capital contribution.",
+              "Deduct budgeted drawings for the period to arrive at the closing Capital figure."
+            ]
+          }
         ]
       }
     },
@@ -871,8 +1310,22 @@
         "key": "accounting-34:4.2.5",
         "title": "Variance reports",
         "front": "Variance reports",
-        "back": [
-          "Comparing actual with budgeted results, classifying variances as favourable or unfavourable, and investigating the causes."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Comparing actual with budgeted results, classifying variances as favourable or unfavourable, and investigating the causes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A variance is favourable when the actual result improves profit relative to budget, such as higher revenue or lower expenses.",
+              "It is unfavourable when the actual result reduces profit relative to budget.",
+              "An unfavourable expense variance may be acceptable if it accompanies a favourable sales variance, since higher sales require higher variable costs.",
+              "Variances should therefore be investigated in relation to one another and to the level of activity actually achieved, not in isolation."
+            ]
+          }
         ]
       }
     },
@@ -897,8 +1350,22 @@
         "key": "accounting-34:4.3.1",
         "title": "Profitability indicators",
         "front": "Profitability indicators",
-        "back": [
-          "Gross profit margin, net profit margin, return on owner's investment and return on assets, and the interpretation of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Gross profit margin, net profit margin, return on owner's investment and return on assets, and the interpretation of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Gross profit margin is gross profit divided by net sales, expressed as a percentage, measuring the margin earned on trading.",
+              "Net profit margin is net profit divided by net sales, measuring the proportion of each sales dollar retained after all expenses.",
+              "A stable gross profit margin indicates the mark-up and cost of inventory are unchanged.",
+              "A falling net profit margin therefore indicates other expenses have risen relative to sales, so the investigation should focus on operating expenses rather than pricing or supplier costs."
+            ]
+          }
         ]
       }
     },
@@ -923,8 +1390,22 @@
         "key": "accounting-34:4.3.2",
         "title": "Liquidity indicators",
         "front": "Liquidity indicators",
-        "back": [
-          "Working capital ratio and quick asset ratio, their calculation and the distinction between them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Working capital ratio and quick asset ratio, their calculation and the distinction between them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The working capital ratio is current assets divided by current liabilities, measuring the ability to meet short-term debts as they fall due.",
+              "The quick asset ratio excludes inventory and prepaid expenses from current assets, and excludes bank overdraft from current liabilities.",
+              "Inventory is excluded because it must first be sold and the resulting debt collected before it becomes cash.",
+              "A business with an adequate working capital ratio but a poor quick asset ratio is holding a large amount of slow-moving inventory and may struggle to pay debts promptly."
+            ]
+          }
         ]
       }
     },
@@ -949,8 +1430,22 @@
         "key": "accounting-34:4.3.3",
         "title": "Efficiency indicators",
         "front": "Efficiency indicators",
-        "back": [
-          "Inventory turnover, debtors turnover, creditors turnover and asset turnover, and what each reveals about management of resources."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Inventory turnover, debtors turnover, creditors turnover and asset turnover, and what each reveals about management of resources."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Inventory turnover measures the average number of days taken to sell inventory, calculated using average inventory divided by cost of sales multiplied by 365.",
+              "A slow turnover ties up cash in stock, increases storage and insurance costs and raises the risk of obsolescence or write-down.",
+              "A very fast turnover may indicate insufficient inventory is being held, risking stockouts and lost sales.",
+              "The appropriate figure depends on the nature of the goods, since perishables must turn over far faster than durable items."
+            ]
+          }
         ]
       }
     },
@@ -975,8 +1470,22 @@
         "key": "accounting-34:4.3.4",
         "title": "Relationships between indicators",
         "front": "Relationships between indicators",
-        "back": [
-          "Analysing how turnover, margin and liquidity interact, and avoiding conclusions based on a single indicator."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Analysing how turnover, margin and liquidity interact, and avoiding conclusions based on a single indicator."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reducing the selling price lowers the margin earned on each unit, so gross profit margin falls.",
+              "The lower price increases sales volume, so inventory is sold more quickly and turnover improves.",
+              "Because more units are sold, total gross profit can rise even though the margin per unit is lower.",
+              "Fixed expenses are spread across more sales, so net profit rises; the indicators must be read together rather than judged individually."
+            ]
+          }
         ]
       }
     },
@@ -1001,8 +1510,22 @@
         "key": "accounting-34:4.3.5",
         "title": "Strategies to improve performance",
         "front": "Strategies to improve performance",
-        "back": [
-          "Recommending specific strategies to improve profitability, liquidity or efficiency, and evaluating the trade-offs of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recommending specific strategies to improve profitability, liquidity or efficiency, and evaluating the trade-offs of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Offer a settlement discount for early payment, which gives customers a financial incentive to pay sooner.",
+              "Tighten credit terms and enforce them with reminders, statements and stop-supply for overdue accounts.",
+              "A settlement discount improves cash flow and reduces the risk of bad debts, but the discount expense reduces net profit.",
+              "Tightening terms preserves margin but risks losing customers to competitors offering more generous credit, so the effect on sales must be weighed."
+            ]
+          }
         ]
       }
     },
@@ -1027,8 +1550,22 @@
         "key": "accounting-34:4.3.6",
         "title": "Non-financial information and ethical considerations",
         "front": "Non-financial information and ethical considerations",
-        "back": [
-          "Using non-financial data in decisions, and considering the social and environmental consequences of accounting decisions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using non-financial data in decisions, and considering the social and environmental consequences of accounting decisions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Financial reports record only what can be measured in monetary terms, so they omit factors that affect future performance.",
+              "Examples include customer satisfaction levels, staff turnover, the number of repeat customers and environmental compliance.",
+              "These predict future revenue and cost, so a decision based solely on this period's profit may damage long-term performance.",
+              "An ethical consideration is whether a strategy such as sourcing cheaper inventory relies on poor labour or environmental practices, which carries reputational and moral consequences beyond the reported figures."
+            ]
+          }
         ]
       }
     },
@@ -1052,8 +1589,21 @@
         "key": "accounting-34:X1",
         "title": "Showing workings and using correct formats",
         "front": "Showing workings and using correct formats",
-        "back": [
-          "Presenting calculations clearly, using correct report headings and classifications, and including narrations and dates where required."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Presenting calculations clearly, using correct report headings and classifications, and including narrations and dates where required."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Method marks are available for the correct approach even when the final figure is incorrect.",
+              "Without workings, an incorrect answer earns nothing and the examiner cannot identify where the error occurred.",
+              "Clear workings also let you check your own calculation quickly if the figure appears implausible."
+            ]
+          }
         ]
       }
     },
@@ -1078,8 +1628,22 @@
         "key": "accounting-34:X2",
         "title": "Explaining and justifying answers",
         "front": "Explaining and justifying answers",
-        "back": [
-          "Answering theory questions with reference to the specific assumption, qualitative characteristic or definition, and applying it to the scenario given."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Answering theory questions with reference to the specific assumption, qualitative characteristic or definition, and applying it to the scenario given."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Name the relevant assumption or qualitative characteristic precisely.",
+              "State its definition briefly and accurately.",
+              "Apply it to the specific transaction in the question, referring to the actual figures and items given.",
+              "State the consequence for the reports, such as which report is affected and in what direction."
+            ]
+          }
         ]
       }
     },
@@ -1104,8 +1668,22 @@
         "key": "accounting-34:X3",
         "title": "Common errors",
         "front": "Common errors",
-        "back": [
-          "Reversing debits and credits, recording at selling price instead of cost, omitting GST, misclassifying current and non-current items and forgetting the second entry for a sale."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Reversing debits and credits, recording at selling price instead of cost, omitting GST, misclassifying current and non-current items and forgetting the second entry for a sale."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Recording inventory at selling price rather than cost when it is withdrawn or lost; check whether a sale has actually occurred.",
+              "Omitting the cost of sales entry for a credit sale; remember every sale of inventory requires two entries.",
+              "Including GST in the Income Statement; GST affects the GST Clearing account and never revenue or expenses.",
+              "Misclassifying items as current or non-current; apply the 12-month test to each item, including splitting loan repayments."
+            ]
+          }
         ]
       }
     }

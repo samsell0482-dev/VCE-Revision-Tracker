@@ -48,8 +48,22 @@
         "key": "philosophy-34:R1",
         "title": "Premises and conclusions",
         "front": "Premises and conclusions",
-        "back": [
-          "Identifying the conclusion of an argument and the premises offered in support, and distinguishing argument from assertion, explanation and description."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying the conclusion of an argument and the premises offered in support, and distinguishing argument from assertion, explanation and description."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The conclusion is the claim the passage is trying to establish; the premises are the reasons offered for accepting it.",
+              "Indicator words help: therefore, thus and hence precede conclusions, while because, since and given that precede premises.",
+              "An argument tries to persuade you that something is true, whereas an explanation assumes it is true and says why it happened.",
+              "The same sentence can serve either function, so the test is whether the surrounding passage is establishing the claim or accounting for it."
+            ]
+          }
         ]
       }
     },
@@ -74,8 +88,22 @@
         "key": "philosophy-34:R2",
         "title": "Validity and soundness",
         "front": "Validity and soundness",
-        "back": [
-          "Validity as a property of argument structure, soundness as validity plus true premises, and the independence of the two."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Validity as a property of argument structure, soundness as validity plus true premises, and the independence of the two."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An argument is valid when the conclusion must be true if the premises are true, which is a matter of structure alone.",
+              "An argument is sound when it is valid and all its premises are actually true.",
+              "A valid argument with a false premise is unsound, so its conclusion is not established even though the reasoning is correct.",
+              "Validity therefore concerns the relationship between premises and conclusion, not whether either is in fact true."
+            ]
+          }
         ]
       }
     },
@@ -100,8 +128,22 @@
         "key": "philosophy-34:R3",
         "title": "Deductive and inductive reasoning",
         "front": "Deductive and inductive reasoning",
-        "back": [
-          "The difference between conclusions that follow necessarily and those supported with probability, and the standards appropriate to each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The difference between conclusions that follow necessarily and those supported with probability, and the standards appropriate to each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A deductive argument claims that the conclusion follows necessarily from the premises, and is assessed as valid or invalid.",
+              "An inductive argument claims only that the premises make the conclusion probable, and is assessed as strong or weak.",
+              "Criticising an inductive argument for not being valid misapplies the standard, since it never claimed necessity.",
+              "Inductive strength depends on the size and representativeness of the evidence and on whether counter-instances have been considered."
+            ]
+          }
         ]
       }
     },
@@ -126,8 +168,22 @@
         "key": "philosophy-34:R4",
         "title": "Thought experiments",
         "front": "Thought experiments",
-        "back": [
-          "The use of imagined cases to test the implications of a claim, and the debate about how much weight intuitions about them should carry."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The use of imagined cases to test the implications of a claim, and the debate about how much weight intuitions about them should carry."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A thought experiment isolates a variable by imagining a case in which everything else is held fixed, so the implications of a claim can be examined.",
+              "If a theory delivers a verdict that almost everyone finds unacceptable in the imagined case, that counts as evidence against the theory.",
+              "One objection is that intuitions about outlandish cases may be unreliable, since our judgements evolved for ordinary situations.",
+              "Another is that intuitions differ between people and cultures, so an appeal to what we would say may assume agreement that does not exist."
+            ]
+          }
         ]
       }
     },
@@ -152,8 +208,22 @@
         "key": "philosophy-34:R5",
         "title": "Common fallacies",
         "front": "Common fallacies",
-        "back": [
-          "Begging the question, false dichotomy, straw man, ad hominem, equivocation and appeal to authority, and how to identify them precisely."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Begging the question, false dichotomy, straw man, ad hominem, equivocation and appeal to authority, and how to identify them precisely."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Begging the question occurs when a premise assumes the truth of the conclusion, so the argument moves in a circle and establishes nothing.",
+              "A straw man misrepresents an opponent's position as weaker or cruder than it is and refutes that version instead.",
+              "It fails because defeating the misrepresentation leaves the actual position untouched.",
+              "Identifying a fallacy requires showing exactly where it occurs, since labelling an argument fallacious without demonstration is itself poor reasoning."
+            ]
+          }
         ]
       }
     },
@@ -178,8 +248,22 @@
         "key": "philosophy-34:R6",
         "title": "Necessary and sufficient conditions",
         "front": "Necessary and sufficient conditions",
-        "back": [
-          "The distinction between what must be present and what guarantees an outcome, and its use in analysing definitions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The distinction between what must be present and what guarantees an outcome, and its use in analysing definitions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A necessary condition must be met for something to hold, though meeting it alone may not be enough.",
+              "A sufficient condition guarantees that something holds, though it may not be the only way it can hold.",
+              "A definition proposes conditions that are jointly necessary and sufficient, so it can be tested in two ways.",
+              "A counterexample lacking the proposed condition shows it is not necessary; a counterexample meeting the conditions but not the concept shows they are not sufficient."
+            ]
+          }
         ]
       }
     },
@@ -204,8 +288,22 @@
         "key": "philosophy-34:3.1.1",
         "title": "Pleasure, pain and self-discipline",
         "front": "Pleasure, pain and self-discipline",
-        "back": [
-          "Competing accounts of the place of pleasure, pain and self-restraint in a good life."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Competing accounts of the place of pleasure, pain and self-restraint in a good life."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Accurately outline each viewpoint using concepts from the set texts.",
+              "Identify a relevant similarity or difference.",
+              "Explain how self-discipline changes the pursuit or value of pleasure.",
+              "Evaluate the reasoning and defend a conclusion."
+            ]
+          }
         ]
       }
     },
@@ -230,8 +328,22 @@
         "key": "philosophy-34:3.1.2",
         "title": "Happiness and the good life",
         "front": "Happiness and the good life",
-        "back": [
-          "The nature of happiness and whether it is a feeling, activity, achievement or condition of flourishing."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The nature of happiness and whether it is a feeling, activity, achievement or condition of flourishing."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define the relevant conception of happiness.",
+              "Use an argument or viewpoint from a set text.",
+              "Consider a plausible objection or counterexample.",
+              "Defend a reasoned conclusion rather than asserting an opinion."
+            ]
+          }
         ]
       }
     },
@@ -256,8 +368,22 @@
         "key": "philosophy-34:3.1.3",
         "title": "Love and friendship",
         "front": "Love and friendship",
-        "back": [
-          "The contribution and possible costs of love and friendship to living well."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The contribution and possible costs of love and friendship to living well."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Outline the viewpoint and its key concepts.",
+              "Explain why friendship contributes to or obstructs living well.",
+              "Test the view with an example or counterexample.",
+              "Reach a supported evaluation."
+            ]
+          }
         ]
       }
     },
@@ -282,8 +408,22 @@
         "key": "philosophy-34:3.1.4",
         "title": "Freedom and authenticity",
         "front": "Freedom and authenticity",
-        "back": [
-          "Whether a good life depends on freedom, authentic choice or living according to one’s nature or values."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Whether a good life depends on freedom, authentic choice or living according to one’s nature or values."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Clarify freedom and authenticity in the chosen viewpoints.",
+              "Present a relevant argument from a set text.",
+              "Compare or criticise the assumptions behind the view.",
+              "Defend a qualified position."
+            ]
+          }
         ]
       }
     },
@@ -308,8 +448,22 @@
         "key": "philosophy-34:3.1.5",
         "title": "Concepts of the individual good life",
         "front": "Concepts of the individual good life",
-        "back": [
-          "Using concepts including virtue, duty, meaningfulness, egoism, altruism and human nature to analyse good-life claims."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using concepts including virtue, duty, meaningfulness, egoism, altruism and human nature to analyse good-life claims."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define both concepts precisely.",
+              "Apply each to the claim rather than merely naming it.",
+              "Show how the concepts support different interpretations or judgements.",
+              "Explain which analysis is more convincing and why."
+            ]
+          }
         ]
       }
     },
@@ -334,8 +488,22 @@
         "key": "philosophy-34:3.1.6",
         "title": "Comparing and criticising set-text viewpoints",
         "front": "Comparing and criticising set-text viewpoints",
-        "back": [
-          "Connections, differences, assumptions, objections and implications among prescribed viewpoints about the individual good life."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Connections, differences, assumptions, objections and implications among prescribed viewpoints about the individual good life."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State the shared question and accurately outline both views.",
+              "Compare their premises, assumptions or concepts.",
+              "Develop a relevant objection to each or explain their implications.",
+              "Reach a justified comparative judgement."
+            ]
+          }
         ]
       }
     },
@@ -360,8 +528,22 @@
         "key": "philosophy-34:3.2.1",
         "title": "Obligations to others",
         "front": "Obligations to others",
-        "back": [
-          "Whether and why individuals have duties to people inside and beyond their immediate communities."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Whether and why individuals have duties to people inside and beyond their immediate communities."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Clarify the scope and basis of the proposed obligation.",
+              "Use a relevant set-text argument.",
+              "Address a serious objection, such as demandingness or partiality.",
+              "Defend a precise conclusion."
+            ]
+          }
         ]
       }
     },
@@ -386,8 +568,22 @@
         "key": "philosophy-34:3.2.2",
         "title": "Rights, justice and the good life",
         "front": "Rights, justice and the good life",
-        "back": [
-          "The roles of rights, equality, fairness and justice in relationships and social arrangements."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The roles of rights, equality, fairness and justice in relationships and social arrangements."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Accurately explain the theory and relevant concepts.",
+              "Show how rights or justice constrain or enable individual lives.",
+              "Apply the view to an example.",
+              "Evaluate a tension or limitation."
+            ]
+          }
         ]
       }
     },
@@ -412,8 +608,22 @@
         "key": "philosophy-34:3.2.3",
         "title": "Morality and living well",
         "front": "Morality and living well",
-        "back": [
-          "Whether living a good life requires being morally good."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Whether living a good life requires being morally good."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define living well and moral goodness as used by the viewpoints.",
+              "Explain the reasoning for each answer.",
+              "Use an example or counterexample to test the views.",
+              "Defend a comparative judgement."
+            ]
+          }
         ]
       }
     },
@@ -438,8 +648,22 @@
         "key": "philosophy-34:3.2.4",
         "title": "Individual and common good",
         "front": "Individual and common good",
-        "back": [
-          "Relationships and possible conflicts between what is good for an individual and what is good for others or the community."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Relationships and possible conflicts between what is good for an individual and what is good for others or the community."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the competing goods and affected parties.",
+              "Apply a relevant set-text argument or concept.",
+              "Explain whether the conflict is genuine or can be reconciled.",
+              "Defend a response that recognises a plausible objection."
+            ]
+          }
         ]
       }
     },
@@ -464,8 +688,22 @@
         "key": "philosophy-34:3.2.5",
         "title": "Community, animals and the natural world",
         "front": "Community, animals and the natural world",
-        "back": [
-          "The extension of obligation, justice or care beyond immediate human relationships."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The extension of obligation, justice or care beyond immediate human relationships."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State the obligation and the philosophical basis for it.",
+              "Apply the viewpoint accurately to the selected case.",
+              "Consider limits arising from dependence, reciprocity, rights or competing duties.",
+              "Reach a justified conclusion."
+            ]
+          }
         ]
       }
     },
@@ -490,8 +728,22 @@
         "key": "philosophy-34:3.2.6",
         "title": "Revising the individual good life",
         "front": "Revising the individual good life",
-        "back": [
-          "How reflection on relationships and community can revise a position about the individual good life."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How reflection on relationships and community can revise a position about the individual good life."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Outline the original individual-focused view.",
+              "Explain the other-regarding argument or concept.",
+              "Show exactly what must be revised and why.",
+              "Evaluate whether the revised position is more coherent."
+            ]
+          }
         ]
       }
     },
@@ -516,8 +768,22 @@
         "key": "philosophy-34:4.1.1",
         "title": "Knowledge, belief and truth",
         "front": "Knowledge, belief and truth",
-        "back": [
-          "Concepts used to distinguish knowledge, belief, truth, falsity, fact and perspective."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Concepts used to distinguish knowledge, belief, truth, falsity, fact and perspective."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define belief and knowledge using the relevant set-text account.",
+              "Explain the role of truth.",
+              "Identify another proposed condition such as justification or reliability.",
+              "Use an example or counterexample to show why the distinction matters."
+            ]
+          }
         ]
       }
     },
@@ -542,8 +808,22 @@
         "key": "philosophy-34:4.1.2",
         "title": "Experience, perception and intuition",
         "front": "Experience, perception and intuition",
-        "back": [
-          "The roles and limits of first-person experience, perception, reason and intuition in forming justified beliefs."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The roles and limits of first-person experience, perception, reason and intuition in forming justified beliefs."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain why experience can provide evidence.",
+              "Identify a limitation such as bias, illusion or restricted perspective.",
+              "Use a set-text argument or relevant example.",
+              "Defend a qualified conclusion about when experience should be trusted."
+            ]
+          }
         ]
       }
     },
@@ -568,8 +848,22 @@
         "key": "philosophy-34:4.1.3",
         "title": "Testimony and expertise",
         "front": "Testimony and expertise",
-        "back": [
-          "When testimony and expert assertions deserve trust, including the qualities of credible expertise."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "When testimony and expert assertions deserve trust, including the qualities of credible expertise."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify relevant qualities such as competence, evidence, track record and appropriate independence.",
+              "Explain the listener’s dependence on testimony.",
+              "Address disagreement, authority or conflicts of interest.",
+              "Give a justified account of when trust should be withheld or revised."
+            ]
+          }
         ]
       }
     },
@@ -594,8 +888,22 @@
         "key": "philosophy-34:4.1.4",
         "title": "Peer disagreement and consensus",
         "front": "Peer disagreement and consensus",
-        "back": [
-          "How rational believers should respond when informed peers or epistemic communities disagree."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How rational believers should respond when informed peers or epistemic communities disagree."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define relevant peer disagreement.",
+              "Outline whether the response requires steadfastness, conciliation or suspension of judgement.",
+              "Explain the role of shared evidence and confidence.",
+              "Evaluate an objection and defend a conclusion."
+            ]
+          }
         ]
       }
     },
@@ -620,8 +928,22 @@
         "key": "philosophy-34:4.1.5",
         "title": "Epistemic responsibility and justice",
         "front": "Epistemic responsibility and justice",
-        "back": [
-          "Responsibilities in belief formation and the concepts of epistemic justice, injustice and community."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Responsibilities in belief formation and the concepts of epistemic justice, injustice and community."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define the relevant form of epistemic injustice.",
+              "Explain the role of credibility, exclusion or interpretive resources.",
+              "Show harm to the individual knower.",
+              "Show how the wider epistemic community loses knowledge or distorts inquiry."
+            ]
+          }
         ]
       }
     },
@@ -646,8 +968,22 @@
         "key": "philosophy-34:4.1.6",
         "title": "Believing well and living well",
         "front": "Believing well and living well",
-        "back": [
-          "The interrelationship between responsible belief formation and ethical or flourishing lives."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The interrelationship between responsible belief formation and ethical or flourishing lives."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Clarify both believing well and living well.",
+              "Present a relevant argument from a set text.",
+              "Consider a case where a comforting or useful belief is poorly justified.",
+              "Defend a conclusion that addresses both epistemic and practical value."
+            ]
+          }
         ]
       }
     },
@@ -672,8 +1008,22 @@
         "key": "philosophy-34:4.2.1",
         "title": "Silencing, exclusion and cancelling",
         "front": "Silencing, exclusion and cancelling",
-        "back": [
-          "Epistemological issues arising when speakers or viewpoints are excluded, ignored or sanctioned."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Epistemological issues arising when speakers or viewpoints are excluded, ignored or sanctioned."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the belief-related issue and relevant parties.",
+              "Apply a concept such as testimony, credibility or epistemic injustice.",
+              "Use a Unit 4 Area of Study 1 viewpoint to analyse the case.",
+              "Defend a position while considering a competing concern such as harm or accountability."
+            ]
+          }
         ]
       }
     },
@@ -698,8 +1048,22 @@
         "key": "philosophy-34:4.2.2",
         "title": "Misinformation and disinformation",
         "front": "Misinformation and disinformation",
-        "back": [
-          "False or misleading information, responsibility for belief and the conditions that enable correction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "False or misleading information, responsibility for belief and the conditions that enable correction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define misinformation without intent to deceive and disinformation with deliberate deception.",
+              "Explain how both can distort belief formation.",
+              "Analyse how intention affects responsibility or response.",
+              "Apply relevant concepts to a contemporary case."
+            ]
+          }
         ]
       }
     },
@@ -724,8 +1088,22 @@
         "key": "philosophy-34:4.2.3",
         "title": "Echo chambers and disagreement",
         "front": "Echo chambers and disagreement",
-        "back": [
-          "How social and information environments affect exposure to evidence, trust and peer disagreement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How social and information environments affect exposure to evidence, trust and peer disagreement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain the social filtering or active distrust that characterises the case.",
+              "Apply testimony, authority, consensus or peer-disagreement concepts.",
+              "Show why contrary evidence may be discounted.",
+              "Propose and evaluate a response."
+            ]
+          }
         ]
       }
     },
@@ -750,8 +1128,22 @@
         "key": "philosophy-34:4.2.4",
         "title": "Truth, trust, credibility and expertise",
         "front": "Truth, trust, credibility and expertise",
-        "back": [
-          "Case studies involving contested authority, credibility and public trust."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Case studies involving contested authority, credibility and public trust."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify who is treated as credible and on what grounds.",
+              "Apply criteria for legitimate expertise and trustworthy testimony.",
+              "Analyse bias, authority, consensus or epistemic injustice.",
+              "Reach a supported judgement about the belief a responsible agent should hold."
+            ]
+          }
         ]
       }
     },
@@ -776,8 +1168,22 @@
         "key": "philosophy-34:4.2.5",
         "title": "Applying set-text viewpoints to cases",
         "front": "Applying set-text viewpoints to cases",
-        "back": [
-          "Using concepts and arguments from Foundations of belief to illuminate practical epistemological problems."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using concepts and arguments from Foundations of belief to illuminate practical epistemological problems."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Accurately explain each relevant viewpoint.",
+              "Apply each to specific evidence in the case.",
+              "Identify a similarity, difference or tension in their conclusions.",
+              "Judge which provides the stronger analysis and why."
+            ]
+          }
         ]
       }
     },
@@ -802,8 +1208,22 @@
         "key": "philosophy-34:4.2.6",
         "title": "Defending a position on an epistemological issue",
         "front": "Defending a position on an epistemological issue",
-        "back": [
-          "Formulating a precise philosophical position that responds to objections and uses philosophical and non-philosophical sources."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Formulating a precise philosophical position that responds to objections and uses philosophical and non-philosophical sources."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State a precise thesis.",
+              "Build an argument using concepts and a set-text viewpoint.",
+              "Use relevant evidence from the case and another source.",
+              "Address a strong objection before reaffirming or revising the thesis."
+            ]
+          }
         ]
       }
     },
@@ -828,8 +1248,22 @@
         "key": "philosophy-34:W1",
         "title": "Reconstructing an argument",
         "front": "Reconstructing an argument",
-        "back": [
-          "Setting out an author's argument in numbered premises and conclusion, in the strongest form consistent with the text."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Setting out an author's argument in numbered premises and conclusion, in the strongest form consistent with the text."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the conclusion first, then locate the reasons offered for it and set them out as numbered premises.",
+              "Include premises the author assumes but does not state, marking them clearly as implicit.",
+              "Charity requires reconstructing the argument in its strongest plausible form rather than its weakest.",
+              "This matters because an objection only succeeds against the strongest version; defeating a weak reconstruction leaves the position untouched."
+            ]
+          }
         ]
       }
     },
@@ -854,8 +1288,22 @@
         "key": "philosophy-34:W2",
         "title": "Evaluating an argument",
         "front": "Evaluating an argument",
-        "back": [
-          "Assessing whether the reasoning is valid or strong and whether the premises are true, and locating the objection precisely."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Assessing whether the reasoning is valid or strong and whether the premises are true, and locating the objection precisely."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The reasoning can be criticised, by showing the conclusion does not follow even if the premises are true.",
+              "A premise can be criticised, by showing it is false or unsupported, which leaves the argument unsound.",
+              "A precise objection names the specific premise or inferential step at fault rather than disagreeing with the conclusion in general.",
+              "The strongest objections also anticipate the reply available to the author and explain why it does not succeed."
+            ]
+          }
         ]
       }
     },
@@ -880,8 +1328,22 @@
         "key": "philosophy-34:W3",
         "title": "Using examples and counterexamples",
         "front": "Using examples and counterexamples",
-        "back": [
-          "Constructing a counterexample that targets the claim precisely, and using examples to clarify rather than to substitute for argument."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Constructing a counterexample that targets the claim precisely, and using examples to clarify rather than to substitute for argument."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A universal claim asserts that something holds in every case, so a single genuine counterexample refutes it.",
+              "The counterexample must satisfy the conditions the claim specifies while lacking the property the claim asserts.",
+              "It must also be a case the opponent would accept as possible, since a disputed or incoherent case can simply be denied.",
+              "Effective counterexamples are stated briefly and precisely, with the relevant features made explicit rather than left for the reader to infer."
+            ]
+          }
         ]
       }
     },
@@ -906,8 +1368,22 @@
         "key": "philosophy-34:W4",
         "title": "Structuring a philosophical essay",
         "front": "Structuring a philosophical essay",
-        "back": [
-          "Stating a position, reconstructing the relevant arguments, raising and answering objections, and reaching a defended conclusion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Stating a position, reconstructing the relevant arguments, raising and answering objections, and reaching a defended conclusion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State the question and your position clearly at the outset, without a lengthy introduction.",
+              "Reconstruct the argument you are engaging with accurately and charitably, so the reader knows exactly what is being assessed.",
+              "Present your argument or objection, then raise the strongest reply available to the other side and respond to it.",
+              "Conclude by stating what has been established and acknowledging what remains unresolved, since overclaiming weakens a philosophical conclusion."
+            ]
+          }
         ]
       }
     },
@@ -931,8 +1407,21 @@
         "key": "philosophy-34:W5",
         "title": "Precision in philosophical writing",
         "front": "Precision in philosophical writing",
-        "back": [
-          "Defining terms, distinguishing similar concepts, avoiding ambiguity and qualifying claims to the strength the argument supports."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Defining terms, distinguishing similar concepts, avoiding ambiguity and qualifying claims to the strength the argument supports."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Many philosophical disputes turn on ambiguity, so two parties can appear to disagree while using a key term differently.",
+              "Defining terms at the outset makes the claim testable and prevents the argument sliding between meanings, which is the fallacy of equivocation.",
+              "For example, an argument about whether people are free requires specifying whether freedom means the absence of external constraint or the ability to have done otherwise, since the answer differs depending on which is meant."
+            ]
+          }
         ]
       }
     }

@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 - 2026-09-21
+
+- Renamed cue cards to flash cards and removed the redundant “Term / concept” label.
+- Added structured, study-design-specific definitions and key knowledge across all 1,509 flash cards.
+- Enlarged the focused flash-card view with responsive typography and clearer multi-part formatting.
+- Added responsive subject pagination so the home dashboard fits within the app window, with a larger progress summary.
+- Reduced off-screen layout and paint work for smoother high-refresh-rate scrolling while preserving every blur effect.
+
 All notable changes to VCE Revision Tracker are documented here.
 
 ## [1.0.1] - 2026-09-21

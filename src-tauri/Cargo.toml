@@ -1,6 +1,6 @@
 [package]
 name = "vce-revision-tracker"
-version = "1.0.1"
+version = "1.1.0"
 description = "A desktop revision tracker for VCE Units 3 and 4"
 authors = ["samsell0482-dev"]
 license = ""

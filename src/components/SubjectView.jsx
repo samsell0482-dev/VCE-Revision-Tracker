@@ -19,31 +19,38 @@ function bestScore(record){
  return scores.length?Math.max(...scores):null;
 }
 
-function FocusedCueCard({item,index,total,onClose,onMove}){
- const ref=useRef(null),titleId='focused-cue-card-title';
+function FlashCardSections({card}){
+ const sections=card.sections||[{heading:'Definition / key knowledge',lines:card.back||[]}];
+ return <div className="flashcard-sections">{sections.map((section,index)=><section className="flashcard-section" key={section.heading+index}>
+  <h5>{section.heading}</h5>
+  <ul>{section.lines.map((line,lineIndex)=><li key={lineIndex}>{line}</li>)}</ul>
+ </section>)}</div>;
+}
+
+function FocusedFlashCard({item,index,total,onClose,onMove}){
+ const ref=useRef(null),titleId='focused-flash-card-title';
  useEffect(()=>{
   const html=document.documentElement,body=document.body,htmlOverflow=html.style.overflow,bodyOverflow=body.style.overflow;
   html.style.overflow='hidden';body.style.overflow='hidden';ref.current.showModal();
   return()=>{html.style.overflow=htmlOverflow;body.style.overflow=bodyOverflow;};
  },[]);
  return <dialog className="card-focus" ref={ref} aria-labelledby={titleId} onCancel={event=>{event.preventDefault();onClose();}}>
-  <div className="card-focus-toolbar"><span>{index+1} of {total}</span><button type="button" className="ghost card-focus-close" onClick={onClose} aria-label="Close focused cue card">Close</button></div>
+  <div className="card-focus-toolbar"><span>Flash card {index+1} of {total}</span><button type="button" className="ghost card-focus-close" onClick={onClose} aria-label="Close focused flash card">Close</button></div>
   <article className={'qcard card-focus-card '+(item.state===1?'red':'amber')}>
-   <div className="qcard-head"><span className="refs">{item.refs.join(' + ')}</span><span>Term / concept</span></div>
+   <div className="qcard-head"><span className="refs">{item.refs.join(' + ')}</span></div>
    <h2 id={titleId}>{item.card.front}</h2>
-   <p className="card-focus-label">Definition / required knowledge</p>
-   <ul>{item.card.back.map((line,lineIndex)=><li key={lineIndex}>{line}</li>)}</ul>
+   <FlashCardSections card={item.card}/>
   </article>
   <div className="card-focus-nav"><button type="button" className="ghost" disabled={total<2} onClick={()=>onMove(-1)}>← Previous</button><button type="button" className="ghost" disabled={total<2} onClick={()=>onMove(1)}>Next →</button></div>
  </dialog>;
 }
 
-function CueCards({subject,ratings}){
+function FlashCards({subject,ratings}){
  const [focusedKey,setFocusedKey]=useState(null),lastTrigger=useRef(null);
  const groups=[1,2].map(state=>{
   const seen=new Map();
   for(const point of subject.points.filter(point=>ratings[subject.id][point.id]===state)){
-   const card=point.card||{front:point.title,back:[point.detail]},key=card.key||point.id;
+   const card=point.card||{front:point.title,sections:[{heading:'Definition / key knowledge',lines:[point.detail]}]},key=card.key||point.id;
    if(seen.has(key))seen.get(key).refs.push(point.id);
    else seen.set(key,{card,refs:[point.id]});
   }
@@ -57,11 +64,11 @@ function CueCards({subject,ratings}){
  if(groups.every(group=>!group.cards.length))return <div className="empty"><strong>Nothing red or amber right now.</strong><span>Rate some topics to build your revision deck.</span></div>;
  return <section id="cards">{groups.map(({state,cards})=>cards.length>0&&<section key={state}>
   <div className="deck-head"><h3>{state===1?'Red':'Amber'}</h3><span>{cards.length} cards</span></div>
-  <div className="deck">{cards.map(({card,refs})=>{const key=card.key||refs[0];return <article className={'qcard '+(state===1?'red':'amber')} key={refs[0]} role="button" tabIndex="0" aria-haspopup="dialog" aria-label={'Focus on cue card: '+card.front} onClick={event=>openCard(event,key)} onKeyDown={event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();openCard(event,key);}}}>
-   <div className="qcard-head"><span className="refs">{refs.join(' + ')}</span><span>Term / concept</span></div><h4>{card.front}</h4>
-   <ul>{card.back.map((line,index)=><li key={index}>{line}</li>)}</ul>
+  <div className="deck">{cards.map(({card,refs})=>{const key=card.key||refs[0];return <article className={'qcard '+(state===1?'red':'amber')} key={refs[0]} role="button" tabIndex="0" aria-haspopup="dialog" aria-label={'Focus on flash card: '+card.front} onClick={event=>openCard(event,key)} onKeyDown={event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();openCard(event,key);}}}>
+   <div className="qcard-head"><span className="refs">{refs.join(' + ')}</span></div><h4>{card.front}</h4>
+   <FlashCardSections card={card}/>
   </article>;})}</div>
- </section>)}<div className="print-row"><button className="ghost" onClick={()=>window.print()}>Print the deck</button></div>{focused&&<FocusedCueCard key={focused.key} item={focused} index={focusedIndex} total={allCards.length} onClose={closeCard} onMove={moveCard}/>}</section>;
+ </section>)}<div className="print-row"><button className="ghost" onClick={()=>window.print()}>Print the deck</button></div>{focused&&<FocusedFlashCard key={focused.key} item={focused} index={focusedIndex} total={allCards.length} onClose={closeCard} onMove={moveCard}/>}</section>;
 }
 
 function Question({item,attempt,onUpdate}){
@@ -110,7 +117,7 @@ function RatingHistory({entries=[]}){
 
 const subjectSteps=[
  ['01','Self assess','Rate every knowledge point red, amber or green.','rate'],
- ['02','Revise','Use cue cards for the topics that need attention.','cards'],
+ ['02','Revise','Use flash cards for the topics that need attention.','cards'],
  ['03','Practise','Answer questions, mark your work and try again.','practice']
 ];
 
@@ -124,9 +131,9 @@ function Subject({subject,ratings,ratingHistory,onRate,onBack,attempts,onAttempt
   <nav className="subject-steps" aria-label="How to revise this subject">{subjectSteps.map(([number,title,description,target])=><button type="button" key={number} aria-current={view===target?'step':undefined} onClick={()=>setView(target)}><span>{number}</span><strong>{title}</strong><small>{description}</small></button>)}</nav>
   <section className="map" aria-label="Current confidence across this subject"><div className="rating-map">{subject.points.map(point=><button key={point.id} data-s={ratings[subject.id][point.id]} title={point.title} aria-label={point.title+': '+ratingStates[ratings[subject.id][point.id]]} onClick={()=>{setFilter('all');setView('rate');setTarget(point.id);}}/>)}</div><Legend/></section>
   <section className="stats">{[3,2,1,0].map(state=><div className="stat" data-s={state} key={state}><span className="stat-n">{counts[state]}</span><span className="stat-k">{ratingStates[state]}</span></div>)}</section>
-  <div className="controls">{view==='rate'&&<Chips label="Showing" options={[['all','Everything'],['unrated','Not yet rated'],['weak','Red and amber']]} value={filter} onChange={setFilter}/>}<Chips label="View" options={[['rate','Rate'],['cards','Cue cards'],['practice','Practice']]} value={view} onChange={setView}/></div>
+  <div className="controls">{view==='rate'&&<Chips label="Showing" options={[['all','Everything'],['unrated','Not yet rated'],['weak','Red and amber']]} value={filter} onChange={setFilter}/>}<Chips label="View" options={[['rate','Rate'],['cards','Flash cards'],['practice','Practice']]} value={view} onChange={setView}/></div>
   {view==='rate'&&<section id="list">{subject.areas.map(area=>{const points=subject.points.filter(point=>point.area===area&&visible(point));return points.length>0&&<section className="area" key={area}><div className="area-head"><h3>{area}</h3><span className="area-count">{points.length} points</span></div>{points.map(point=>{const current=ratings[subject.id][point.id];return <div className="point" id={'point-'+point.id} key={point.id}><div><div className="boxes" role="group" aria-label={'Confidence for '+point.id}>{[1,2,3].map(state=><button className="box" key={state} data-state={current===state?state:0} aria-pressed={current===state} aria-label={'Mark '+point.id+' as '+ratingStates[state]} onClick={()=>onRate(subject.id,point.id,current===state?0:state)}>{['','R','A','G'][state]}</button>)}</div><RatingHistory entries={ratingHistory[subject.id]?.[point.id]}/></div><div><div className="point-id">{point.id}</div><h4 className="point-title">{point.title}</h4><p className="point-detail">{point.detail}</p></div></div>;})}</section>;})}{!subject.points.some(visible)&&<div className="empty">No topics match this filter.</div>}</section>}
-  {view==='cards'&&<CueCards subject={subject} ratings={ratings}/>}
+  {view==='cards'&&<FlashCards subject={subject} ratings={ratings}/>}
   {view==='practice'&&<>{subject.practiceNote&&<p className="deck-note">{subject.practiceNote}</p>}<Practice subject={subject} ratings={ratings} attempts={attempts} onUpdate={onAttempt}/></>}
   <p className="colophon">{subject.source} {subject.sourceUrl&&<a href={subject.sourceUrl} target="_blank" rel="noreferrer">{subject.sourceLabel||'Official study design'}</a>}</p>
   {subject.papers&&<section className="papers"><h3>Practice exams</h3><p>{subject.papers}</p>{subject.papersUrl&&<a href={subject.papersUrl} target="_blank" rel="noreferrer">Official VCAA examination resources</a>}</section>}

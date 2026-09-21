@@ -50,8 +50,23 @@
         "key": "psychology-34:S1",
         "title": "Aims, hypotheses, variables and operationalisation",
         "front": "Aims, hypotheses, variables and operationalisation",
-        "back": [
-          "Writing an aim and a hypothesis that names the population, the independent and dependent variables and the predicted direction; operationalising variables so they can be measured."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Writing an aim and a hypothesis that names the population, the independent and dependent variables and the predicted direction",
+              "operationalising variables so they can be measured."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Hypothesis: adolescents aged 15 to 18 who are restricted to four hours of sleep will have slower mean reaction times on a computerised task than those who sleep eight hours.",
+              "Independent variable: hours of sleep, operationalised as four hours versus eight hours.",
+              "Dependent variable: reaction time, operationalised as mean milliseconds taken to respond on the task.",
+              "An operationalised hypothesis states the population, both variables in measurable terms and the expected direction."
+            ]
+          }
         ]
       }
     },
@@ -75,8 +90,22 @@
         "key": "psychology-34:S2",
         "title": "Extraneous and confounding variables",
         "front": "Extraneous and confounding variables",
-        "back": [
-          "The difference between a variable that may affect results and one that has systematically affected them; participant, situational, order and experimenter effects."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The difference between a variable that may affect results and one that has systematically affected them",
+              "participant, situational, order and experimenter effects."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An extraneous variable is any variable other than the independent variable that may affect the dependent variable.",
+              "A confounding variable is one that has systematically varied with the independent variable and has therefore affected the results, so an alternative explanation exists.",
+              "For example, if the group given the mnemonic technique was also tested in a quiet room while the control group was tested in a noisy one, noise level is a confounding variable."
+            ]
+          }
         ]
       }
     },
@@ -100,8 +129,22 @@
         "key": "psychology-34:S3",
         "title": "Population, sample and sampling techniques",
         "front": "Population, sample and sampling techniques",
-        "back": [
-          "Random, stratified and convenience sampling; the representativeness of each and the effect on the ability to generalise findings to the population."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Random, stratified and convenience sampling",
+              "the representativeness of each and the effect on the ability to generalise findings to the population."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The population is divided into strata such as age groups or year levels, and participants are selected from each stratum in the same proportion as in the population.",
+              "This ensures each subgroup is represented in the sample in proportion to its presence in the population.",
+              "Convenience sampling selects whoever is easily available, which may over-represent one subgroup, so findings generalise less well."
+            ]
+          }
         ]
       }
     },
@@ -125,8 +168,22 @@
         "key": "psychology-34:S4",
         "title": "Experimental research designs",
         "front": "Experimental research designs",
-        "back": [
-          "Within subjects, between subjects and mixed designs; the advantages and limitations of each, including order effects and participant differences."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Within subjects, between subjects and mixed designs",
+              "the advantages and limitations of each, including order effects and participant differences."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "In a within subjects design each participant completes every condition, which eliminates individual participant differences between conditions and needs fewer participants.",
+              "However, it is vulnerable to order effects such as practice or fatigue, which can be reduced by counterbalancing.",
+              "In a between subjects design different participants are allocated to each condition, avoiding order effects, but participant differences may confound the results unless allocation is random."
+            ]
+          }
         ]
       }
     },
@@ -150,8 +207,21 @@
         "key": "psychology-34:S5",
         "title": "Controls, placebos and blind procedures",
         "front": "Controls, placebos and blind procedures",
-        "back": [
-          "The role of a control group, the placebo effect, and single-blind and double-blind procedures in reducing participant and experimenter expectancy effects."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of a control group, the placebo effect, and single-blind and double-blind procedures in reducing participant and experimenter expectancy effects."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "In a double-blind procedure neither the participants nor the researcher interacting with them knows the allocation to conditions.",
+              "A single-blind procedure controls the placebo effect by keeping participants unaware of their condition.",
+              "A double-blind procedure additionally controls the experimenter effect, where a researcher's expectations unintentionally influence participant behaviour or the recording of results."
+            ]
+          }
         ]
       }
     },
@@ -175,8 +245,22 @@
         "key": "psychology-34:S6",
         "title": "Descriptive statistics and interpreting results",
         "front": "Descriptive statistics and interpreting results",
-        "back": [
-          "Mean, median, mode, standard deviation and percentage change; describing what a difference between group means shows and its limitations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mean, median, mode, standard deviation and percentage change",
+              "describing what a difference between group means shows and its limitations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The average performance of the two groups was the same.",
+              "The group with the larger standard deviation had scores that were more widely spread around the mean, indicating greater variability between participants.",
+              "The group with the smaller standard deviation performed more consistently, so the mean is a more typical representation of its participants."
+            ]
+          }
         ]
       }
     },
@@ -200,8 +284,21 @@
         "key": "psychology-34:S7",
         "title": "Statistical significance and conclusions",
         "front": "Statistical significance and conclusions",
-        "back": [
-          "The meaning of p less than 0.05, the difference between statistical significance and practical importance, and the wording of a conclusion that is limited to the sample and variables tested."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The meaning of p less than 0.05, the difference between statistical significance and practical importance, and the wording of a conclusion that is limited to the sample and variables tested."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "There is a 3 per cent probability that a difference this large would occur due to chance alone, so the result is statistically significant at the 0.05 level.",
+              "The researcher can conclude that the difference is unlikely to be due to chance and may be attributed to the independent variable, provided the study was well controlled.",
+              "It does not mean the effect is large or practically important, and it does not prove the hypothesis."
+            ]
+          }
         ]
       }
     },
@@ -225,8 +322,21 @@
         "key": "psychology-34:E1",
         "title": "Informed consent and voluntary participation",
         "front": "Informed consent and voluntary participation",
-        "back": [
-          "Providing participants with a full written description of the study before agreeing, obtaining consent from a guardian where required, and ensuring participation is free from coercion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Providing participants with a full written description of the study before agreeing, obtaining consent from a guardian where required, and ensuring participation is free from coercion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Informed consent procedures require that participants are given a written statement of the purpose, procedures and risks and indicate their understanding before agreeing.",
+              "Voluntary participation requires that the decision to take part is made freely, without pressure, coercion or inducement.",
+              "Participants under 18 require the informed consent of a parent or guardian in addition to their own assent."
+            ]
+          }
         ]
       }
     },
@@ -250,8 +360,22 @@
         "key": "psychology-34:E2",
         "title": "Withdrawal rights, confidentiality and anonymity",
         "front": "Withdrawal rights, confidentiality and anonymity",
-        "back": [
-          "The right to discontinue at any time without penalty and to have data removed; the obligation to protect participants' personal information and to report results without identifying individuals."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The right to discontinue at any time without penalty and to have data removed",
+              "the obligation to protect participants' personal information and to report results without identifying individuals."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Personal information is stored securely and is not disclosed to anyone outside the research team.",
+              "Results are reported as group data, or individuals are identified only by code, so no participant can be recognised.",
+              "Data must also be disposed of securely once the study is complete."
+            ]
+          }
         ]
       }
     },
@@ -275,8 +399,21 @@
         "key": "psychology-34:E3",
         "title": "Deception and debriefing",
         "front": "Deception and debriefing",
-        "back": [
-          "When deception may be justified, the requirement to debrief participants fully at the conclusion of the study and to provide support and counselling where needed."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "When deception may be justified, the requirement to debrief participants fully at the conclusion of the study and to provide support and counselling where needed."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Deception is only acceptable when knowing the true purpose would change the participants' behaviour and invalidate the results, and when it causes no lasting harm.",
+              "Participants must be fully debriefed at the conclusion of the study, including the true purpose and the reason deception was used.",
+              "They must be given the opportunity to withdraw their data and offered support or counselling if any distress resulted."
+            ]
+          }
         ]
       }
     },
@@ -300,8 +437,21 @@
         "key": "psychology-34:E4",
         "title": "Ethical concepts",
         "front": "Ethical concepts",
-        "back": [
-          "Beneficence, integrity, justice, non-maleficence and respect, and how each is applied when planning and reporting psychological research."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Beneficence, integrity, justice, non-maleficence and respect, and how each is applied when planning and reporting psychological research."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Publishing only supportive results breaches integrity, which requires the honest reporting of all findings regardless of outcome.",
+              "Recruiting from only one privileged group and generalising breaches justice, which requires fair consideration and distribution of the benefits and burdens of research.",
+              "Both also undermine respect for participants and the community who rely on the research being accurate."
+            ]
+          }
         ]
       }
     },
@@ -325,8 +475,21 @@
         "key": "psychology-34:3.1.1",
         "title": "Divisions of the nervous system",
         "front": "Divisions of the nervous system",
-        "back": [
-          "The central and peripheral nervous systems, the somatic and autonomic divisions, and the sympathetic, parasympathetic and enteric branches of the autonomic nervous system."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The central and peripheral nervous systems, the somatic and autonomic divisions, and the sympathetic, parasympathetic and enteric branches of the autonomic nervous system."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The central nervous system processes the stimulus and initiates the response.",
+              "The message travels via the peripheral nervous system, specifically the autonomic division, which controls visceral muscles and organs.",
+              "Within the autonomic division the sympathetic nervous system is activated, increasing heart rate to prepare the body for action."
+            ]
+          }
         ]
       }
     },
@@ -349,8 +512,20 @@
         "key": "psychology-34:3.1.2",
         "title": "Conscious and unconscious responses",
         "front": "Conscious and unconscious responses",
-        "back": [
-          "Voluntary responses controlled by the somatic nervous system and involuntary responses controlled by the autonomic nervous system, with examples of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Voluntary responses controlled by the somatic nervous system and involuntary responses controlled by the autonomic nervous system, with examples of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A conscious response is voluntary and involves awareness and intentional control, such as deciding to pick up a pen, and is carried out by the somatic nervous system.",
+              "An unconscious response is involuntary and occurs without awareness or intention, such as pupil constriction in bright light, and is carried out by the autonomic nervous system."
+            ]
+          }
         ]
       }
     },
@@ -374,8 +549,21 @@
         "key": "psychology-34:3.1.3",
         "title": "The spinal reflex",
         "front": "The spinal reflex",
-        "back": [
-          "The unconscious, adaptive reflex arc initiated by the spinal cord, and the order of sensory neuron, interneuron and motor neuron before the brain registers the stimulus."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The unconscious, adaptive reflex arc initiated by the spinal cord, and the order of sensory neuron, interneuron and motor neuron before the brain registers the stimulus."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Sensory neurons carry the message to the spinal cord, where an interneuron transfers it directly to a motor neuron that produces the movement.",
+              "The spinal cord initiates the response before the message reaches the brain, so the movement occurs without conscious awareness.",
+              "This is adaptive because the reduced time taken means the body withdraws from a harmful stimulus more quickly, limiting injury."
+            ]
+          }
         ]
       }
     },
@@ -399,8 +587,23 @@
         "key": "psychology-34:3.1.4",
         "title": "Neurons and neural transmission",
         "front": "Neurons and neural transmission",
-        "back": [
-          "Sensory, motor and interneurons; dendrites, axon, myelin, axon terminals and the synaptic gap; the lock-and-key process of transmission across the synapse."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sensory, motor and interneurons",
+              "dendrites, axon, myelin, axon terminals and the synaptic gap",
+              "the lock-and-key process of transmission across the synapse."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The action potential travels down the axon to the axon terminals of the presynaptic neuron.",
+              "Neurotransmitter is released into the synaptic gap from vesicles in the terminal buttons.",
+              "The neurotransmitter binds to receptor sites on the dendrites of the postsynaptic neuron in a lock-and-key process, producing an excitatory or inhibitory effect."
+            ]
+          }
         ]
       }
     },
@@ -424,8 +627,21 @@
         "key": "psychology-34:3.1.5",
         "title": "Excitatory and inhibitory neurotransmitters",
         "front": "Excitatory and inhibitory neurotransmitters",
-        "back": [
-          "Glutamate as the main excitatory neurotransmitter and GABA as the main inhibitory neurotransmitter, and the consequences of an imbalance between them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Glutamate as the main excitatory neurotransmitter and GABA as the main inhibitory neurotransmitter, and the consequences of an imbalance between them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Glutamate is the principal excitatory neurotransmitter and increases the likelihood that the postsynaptic neuron will fire.",
+              "GABA is the principal inhibitory neurotransmitter and decreases the likelihood that the postsynaptic neuron will fire, calming neural activity.",
+              "Low GABA activity leaves the nervous system over-excited, which is associated with heightened anxiety and is one biological contributor to specific phobia."
+            ]
+          }
         ]
       }
     },
@@ -449,8 +665,21 @@
         "key": "psychology-34:3.1.6",
         "title": "Neuromodulators",
         "front": "Neuromodulators",
-        "back": [
-          "Dopamine and serotonin as neuromodulators that influence the activity of many neurons over a wider area, and their roles in reward, motivation and mood."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Dopamine and serotonin as neuromodulators that influence the activity of many neurons over a wider area, and their roles in reward, motivation and mood."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A neurotransmitter acts on the adjacent postsynaptic neuron and has a rapid, localised effect.",
+              "A neuromodulator affects a larger number of neurons over a wider region and alters how they respond to other neurotransmitters, with slower and longer lasting effects.",
+              "Dopamine is associated with reward-based learning, motivation and voluntary movement, and is released when a behaviour produces a rewarding outcome."
+            ]
+          }
         ]
       }
     },
@@ -474,8 +703,21 @@
         "key": "psychology-34:3.1.7",
         "title": "Synaptic plasticity",
         "front": "Synaptic plasticity",
-        "back": [
-          "Long-term potentiation and long-term depression, and the structural changes of sprouting, rerouting and pruning that underlie learning and memory."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Long-term potentiation and long-term depression, and the structural changes of sprouting, rerouting and pruning that underlie learning and memory."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Long-term potentiation is the long-lasting strengthening of a synaptic connection that results from repeated, high-frequency stimulation.",
+              "The postsynaptic neuron becomes more responsive, with more receptor sites and stronger signals, so less stimulation is needed to activate it.",
+              "This strengthening of neural pathways is the physical basis of learning and the formation of long-term memory."
+            ]
+          }
         ]
       }
     },
@@ -499,8 +741,23 @@
         "key": "psychology-34:3.1.8",
         "title": "Stress as a psychobiological process",
         "front": "Stress as a psychobiological process",
-        "back": [
-          "Stress, stressors, eustress and distress; acute and chronic stress; the physiological and psychological features of the stress response."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Stress, stressors, eustress and distress",
+              "acute and chronic stress",
+              "the physiological and psychological features of the stress response."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Eustress is a positive psychological response to a stressor, involving feelings of excitement and enthusiasm alongside physiological arousal.",
+              "Distress is a negative psychological response involving anxiety, dread or anger, with similar physiological arousal.",
+              "Whether a stressor produces eustress or distress depends on the individual's appraisal of it, so the same event may be motivating for one person and threatening for another."
+            ]
+          }
         ]
       }
     },
@@ -524,8 +781,23 @@
         "key": "psychology-34:3.1.9",
         "title": "The fight-flight-freeze response",
         "front": "The fight-flight-freeze response",
-        "back": [
-          "Sympathetic activation and the role of adrenaline in mobilising energy; the freeze response as a parasympathetic-dominant immobilisation; the return to homeostasis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sympathetic activation and the role of adrenaline in mobilising energy",
+              "the freeze response as a parasympathetic-dominant immobilisation",
+              "the return to homeostasis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Heart rate and blood pressure increase, delivering more oxygen and glucose to the skeletal muscles for action.",
+              "Pupils dilate, allowing more light to enter and improving detection of the threat.",
+              "Digestion slows and blood is redirected from the digestive system to the muscles, conserving energy for immediate physical action."
+            ]
+          }
         ]
       }
     },
@@ -549,8 +821,21 @@
         "key": "psychology-34:3.1.10",
         "title": "Cortisol and chronic stress",
         "front": "Cortisol and chronic stress",
-        "back": [
-          "The role of cortisol in sustaining energy during prolonged stress, and the effects of persistently elevated cortisol on immune function and health."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of cortisol in sustaining energy during prolonged stress, and the effects of persistently elevated cortisol on immune function and health."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cortisol is released more slowly than adrenaline and maintains elevated blood glucose, providing sustained energy during an extended stressor.",
+              "It also temporarily suppresses non-essential functions, including aspects of the immune response and inflammation.",
+              "Chronically elevated cortisol leaves the immune system suppressed, so the person becomes more vulnerable to illness and infection."
+            ]
+          }
         ]
       }
     },
@@ -574,8 +859,21 @@
         "key": "psychology-34:3.1.11",
         "title": "The gut-brain axis",
         "front": "The gut-brain axis",
-        "back": [
-          "The bidirectional communication between the enteric nervous system and the central nervous system, the role of the vagus nerve and gut microbiota, and the influence on stress and mood."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The bidirectional communication between the enteric nervous system and the central nervous system, the role of the vagus nerve and gut microbiota, and the influence on stress and mood."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The gut-brain axis is the bidirectional link between the enteric nervous system of the gastrointestinal tract and the central nervous system, largely via the vagus nerve.",
+              "From brain to gut: psychological stress can slow digestion and produce nausea or discomfort.",
+              "From gut to brain: the gut microbiota produce chemicals that influence neurotransmitter activity and can affect mood and stress responses."
+            ]
+          }
         ]
       }
     },
@@ -600,8 +898,23 @@
         "key": "psychology-34:3.1.12",
         "title": "Selye's General Adaptation Syndrome",
         "front": "Selye's General Adaptation Syndrome",
-        "back": [
-          "The alarm reaction with shock and countershock, the resistance stage and the exhaustion stage; the pattern of resistance to stress across the three stages."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The alarm reaction with shock and countershock, the resistance stage and the exhaustion stage",
+              "the pattern of resistance to stress across the three stages."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Alarm reaction: in shock, resistance drops below normal as the body reacts as though injured; in countershock, sympathetic activation raises resistance above normal.",
+              "Resistance: the body maintains a high level of resistance to the stressor, with cortisol sustaining arousal, but resistance to other stressors falls.",
+              "Exhaustion: resources are depleted, resistance drops below normal and the person becomes vulnerable to illness, extreme fatigue and physical damage.",
+              "The model is biological and does not account for individual psychological differences in appraisal."
+            ]
+          }
         ]
       }
     },
@@ -626,8 +939,22 @@
         "key": "psychology-34:3.1.13",
         "title": "Lazarus and Folkman's Transactional Model",
         "front": "Lazarus and Folkman's Transactional Model",
-        "back": [
-          "Primary appraisal of an event as irrelevant, benign-positive or stressful, secondary appraisal of coping resources, and the continual reappraisal of both."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Primary appraisal of an event as irrelevant, benign-positive or stressful, secondary appraisal of coping resources, and the continual reappraisal of both."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "In primary appraisal each student judges the significance of the examination; one may judge it as a threat while the other judges it as a challenge.",
+              "In secondary appraisal each evaluates the coping resources available to them, such as preparation, time and support.",
+              "A student who appraises the event as a threat and their resources as inadequate experiences stress.",
+              "The model explains individual differences because the appraisal, not the event itself, determines the stress response, and appraisals can be revised."
+            ]
+          }
         ]
       }
     },
@@ -651,8 +978,21 @@
         "key": "psychology-34:3.1.14",
         "title": "Coping strategies and coping flexibility",
         "front": "Coping strategies and coping flexibility",
-        "back": [
-          "Approach and avoidance strategies, context-specific effectiveness, and coping flexibility as the ability to adjust strategies to changing demands."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Approach and avoidance strategies, context-specific effectiveness, and coping flexibility as the ability to adjust strategies to changing demands."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Approach strategies confront the stressor directly, such as making a study plan or seeking information.",
+              "Avoidance strategies evade or deny the stressor, such as distraction or withdrawal, which may reduce distress briefly but usually does not resolve the problem.",
+              "Context-specific effectiveness means a coping strategy is only effective when it matches the demands of the particular stressor; avoidance may be appropriate for an uncontrollable stressor but not a controllable one."
+            ]
+          }
         ]
       }
     },
@@ -677,8 +1017,22 @@
         "key": "psychology-34:3.2.1",
         "title": "Classical conditioning",
         "front": "Classical conditioning",
-        "back": [
-          "The three-phase process of before, during and after conditioning, and the roles of the neutral stimulus, unconditioned stimulus and response, and conditioned stimulus and response."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The three-phase process of before, during and after conditioning, and the roles of the neutral stimulus, unconditioned stimulus and response, and conditioned stimulus and response."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Neutral stimulus: the sound of the can opener before conditioning, which produced no salivation.",
+              "Unconditioned stimulus: the food; unconditioned response: salivation to the food.",
+              "Conditioned stimulus: the sound of the can opener after repeated pairing with food.",
+              "Conditioned response: salivation to the sound alone."
+            ]
+          }
         ]
       }
     },
@@ -703,8 +1057,23 @@
         "key": "psychology-34:3.2.2",
         "title": "Operant conditioning",
         "front": "Operant conditioning",
-        "back": [
-          "The three-phase model of antecedent, behaviour and consequence; positive and negative reinforcement and punishment, and the effect of each on the likelihood of the behaviour."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The three-phase model of antecedent, behaviour and consequence",
+              "positive and negative reinforcement and punishment, and the effect of each on the likelihood of the behaviour."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Being excused from homework removes an unpleasant stimulus, so this is negative reinforcement.",
+              "Negative reinforcement increases the likelihood that the student will finish early again.",
+              "Losing phone privileges removes a desirable stimulus, so this is negative punishment, sometimes called response cost.",
+              "Negative punishment decreases the likelihood of the lateness recurring."
+            ]
+          }
         ]
       }
     },
@@ -728,8 +1097,21 @@
         "key": "psychology-34:3.2.3",
         "title": "Comparing classical and operant conditioning",
         "front": "Comparing classical and operant conditioning",
-        "back": [
-          "The role of the learner as passive or active, the timing of the stimulus relative to the response, and the voluntary or involuntary nature of the behaviour."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of the learner as passive or active, the timing of the stimulus relative to the response, and the voluntary or involuntary nature of the behaviour."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "In classical conditioning the learner is passive, while in operant conditioning the learner is active and operates on the environment.",
+              "In classical conditioning the response is reflexive and involuntary, while in operant conditioning the behaviour is voluntary.",
+              "In classical conditioning the stimulus precedes the response, while in operant conditioning the consequence follows the behaviour and determines its future frequency."
+            ]
+          }
         ]
       }
     },
@@ -754,8 +1136,22 @@
         "key": "psychology-34:3.2.4",
         "title": "Observational learning",
         "front": "Observational learning",
-        "back": [
-          "Bandura's five stages of attention, retention, reproduction, motivation and reinforcement, and the role of vicarious reinforcement and punishment."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Bandura's five stages of attention, retention, reproduction, motivation and reinforcement, and the role of vicarious reinforcement and punishment."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Attention: the child actively watched and focused on the sibling's behaviour.",
+              "Retention: the child formed and stored a mental representation of the behaviour.",
+              "Reproduction: the child had the physical and cognitive ability to carry out the behaviour.",
+              "Motivation and reinforcement: seeing the sibling praised provided vicarious reinforcement, motivating the child to reproduce the behaviour and receive reinforcement themselves."
+            ]
+          }
         ]
       }
     },
@@ -779,8 +1175,22 @@
         "key": "psychology-34:3.2.5",
         "title": "Aboriginal and Torres Strait Islander ways of knowing",
         "front": "Aboriginal and Torres Strait Islander ways of knowing",
-        "back": [
-          "Multimodal, place-based learning embedded in Country and kinship; story sharing, songlines, symbols and images, non-verbal learning and community links as ways knowledge is transmitted."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Multimodal, place-based learning embedded in Country and kinship",
+              "story sharing, songlines, symbols and images, non-verbal learning and community links as ways knowledge is transmitted."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Learning is multimodal and patterned, using story sharing, song, dance, symbols and images together rather than a single channel such as written text.",
+              "Knowledge is embedded in Country and in relationships, so where learning occurs and who is present are part of the knowledge itself.",
+              "This differs from a Western classroom model in which knowledge is often abstracted from place and transmitted verbally or in writing by an individual teacher."
+            ]
+          }
         ]
       }
     },
@@ -804,8 +1214,21 @@
         "key": "psychology-34:3.2.6",
         "title": "Songlines and sung narratives",
         "front": "Songlines and sung narratives",
-        "back": [
-          "Songlines as a place-based method of encoding and retrieving large amounts of information across generations, linking route, story, song and Country."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Songlines as a place-based method of encoding and retrieving large amounts of information across generations, linking route, story, song and Country."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A songline links information to a sequence of locations along a route, so the physical landscape provides an ordered set of retrieval cues.",
+              "The information is encoded in narrative and song, which add rhythm, rhyme and meaning that aid retention.",
+              "Because the knowledge is tied to Country and repeatedly performed within a community, it can be preserved accurately across many generations."
+            ]
+          }
         ]
       }
     },
@@ -830,8 +1253,23 @@
         "key": "psychology-34:3.3.1",
         "title": "The Atkinson-Shiffrin multi-store model",
         "front": "The Atkinson-Shiffrin multi-store model",
-        "back": [
-          "Sensory, short-term and long-term memory stores, and their differences in capacity, duration and function; the processes of attention, encoding, rehearsal and retrieval."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sensory, short-term and long-term memory stores, and their differences in capacity, duration and function",
+              "the processes of attention, encoding, rehearsal and retrieval."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Sensory memory has an unlimited capacity and a duration of up to about 4 seconds for iconic and echoic memory.",
+              "Short-term memory holds about 5 to 9 items for about 18 to 30 seconds without rehearsal.",
+              "Long-term memory has a potentially unlimited capacity and duration.",
+              "Attention moves information from sensory to short-term memory, and rehearsal, particularly elaborative rehearsal, moves it to long-term memory."
+            ]
+          }
         ]
       }
     },
@@ -855,8 +1293,22 @@
         "key": "psychology-34:3.3.2",
         "title": "Explicit and implicit memory",
         "front": "Explicit and implicit memory",
-        "back": [
-          "Episodic and semantic memory as consciously retrieved explicit memories; procedural and classically conditioned memories as implicit memories retrieved without conscious awareness."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Episodic and semantic memory as consciously retrieved explicit memories",
+              "procedural and classically conditioned memories as implicit memories retrieved without conscious awareness."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Remembering your first day of school is an explicit episodic memory, because it is a personally experienced event retrieved consciously.",
+              "Riding a bicycle is an implicit procedural memory, retrieved and performed without conscious awareness of the steps.",
+              "Knowing the capital of France is an explicit semantic memory, consisting of general factual knowledge."
+            ]
+          }
         ]
       }
     },
@@ -881,8 +1333,22 @@
         "key": "psychology-34:3.3.3",
         "title": "Brain regions involved in memory",
         "front": "Brain regions involved in memory",
-        "back": [
-          "The roles of the hippocampus, amygdala, neocortex, basal ganglia and cerebellum in encoding, consolidating and storing different types of memory."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The roles of the hippocampus, amygdala, neocortex, basal ganglia and cerebellum in encoding, consolidating and storing different types of memory."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The hippocampus encodes and consolidates new explicit memories before they are stored in the neocortex.",
+              "The amygdala encodes the emotional component of memories, which strengthens consolidation of emotionally significant events.",
+              "The cerebellum encodes implicit procedural memories, particularly those involving fine motor skills and classically conditioned reflexes.",
+              "The basal ganglia also contribute to implicit procedural memories involving habits and voluntary movement."
+            ]
+          }
         ]
       }
     },
@@ -906,8 +1372,21 @@
         "key": "psychology-34:3.3.4",
         "title": "Autobiographical memory and imagining the future",
         "front": "Autobiographical memory and imagining the future",
-        "back": [
-          "The reconstruction of episodic and semantic memory when recalling the past and when imagining possible futures, and the shared neural basis of both processes."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The reconstruction of episodic and semantic memory when recalling the past and when imagining possible futures, and the shared neural basis of both processes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Imagining a possible future involves combining episodic details and semantic knowledge into a coherent scene, which is the same constructive process used in recall.",
+              "The hippocampus is central to combining these elements into an integrated representation.",
+              "Damage therefore impairs both the reconstruction of past episodes and the construction of imagined future ones."
+            ]
+          }
         ]
       }
     },
@@ -931,8 +1410,21 @@
         "key": "psychology-34:3.3.5",
         "title": "Alzheimer's disease",
         "front": "Alzheimer's disease",
-        "back": [
-          "The role of amyloid plaques and neurofibrillary tangles in progressive neuron death, the resulting anterograde and then retrograde amnesia, and the effect on daily functioning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The role of amyloid plaques and neurofibrillary tangles in progressive neuron death, the resulting anterograde and then retrograde amnesia, and the effect on daily functioning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Amyloid plaques form outside the neurons and neurofibrillary tangles form inside them, disrupting communication and causing neuron death.",
+              "Damage begins in the hippocampus, so the earliest effect is anterograde amnesia, an inability to form new explicit memories.",
+              "As the damage spreads through the neocortex, previously stored memories are also lost, producing retrograde amnesia and a decline in language and reasoning."
+            ]
+          }
         ]
       }
     },
@@ -956,8 +1448,21 @@
         "key": "psychology-34:3.3.6",
         "title": "Aphantasia",
         "front": "Aphantasia",
-        "back": [
-          "The inability to generate voluntary mental imagery, its effect on the recall of visual detail and on imagining the future, and the fact that semantic knowledge remains intact."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The inability to generate voluntary mental imagery, its effect on the recall of visual detail and on imagining the future, and the fact that semantic knowledge remains intact."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A person with aphantasia cannot generate voluntary mental images, so recall of an event lacks visual detail and is drawn on factual knowledge instead.",
+              "Imagining a future event is similarly affected, because the visual construction of the scene is not available.",
+              "Semantic knowledge of what happened, or of what a future event would involve, remains intact."
+            ]
+          }
         ]
       }
     },
@@ -981,8 +1486,21 @@
         "key": "psychology-34:3.3.7",
         "title": "Written mnemonics",
         "front": "Written mnemonics",
-        "back": [
-          "Acronyms, acrostics and the method of loci, and how each improves encoding and retrieval by adding organisation, meaning or spatial cues."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Acronyms, acrostics and the method of loci, and how each improves encoding and retrieval by adding organisation, meaning or spatial cues."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Information to be remembered is associated with a sequence of familiar physical locations along a route.",
+              "Mentally moving through the route at retrieval provides an ordered set of cues, each linked to one item.",
+              "It is particularly useful for recalling lists of items in a fixed order, because the order of the locations preserves the sequence."
+            ]
+          }
         ]
       }
     },
@@ -1006,8 +1524,21 @@
         "key": "psychology-34:4.1.1",
         "title": "Consciousness as a continuum",
         "front": "Consciousness as a continuum",
-        "back": [
-          "Normal waking consciousness and altered states of consciousness, and the variation of awareness, controlled and automatic processing, perception of time and emotional awareness along the continuum."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Normal waking consciousness and altered states of consciousness, and the variation of awareness, controlled and automatic processing, perception of time and emotional awareness along the continuum."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Awareness of surroundings and of internal states is reduced in an altered state compared with normal waking consciousness.",
+              "Controlled processing is impaired, so tasks requiring attention and effort are performed less accurately.",
+              "Perception of time becomes distorted, and emotional awareness and self-control may be heightened or blunted."
+            ]
+          }
         ]
       }
     },
@@ -1031,8 +1562,21 @@
         "key": "psychology-34:4.1.2",
         "title": "Measuring sleep",
         "front": "Measuring sleep",
-        "back": [
-          "Objective measures using electroencephalography, electro-oculography and electromyography, and subjective measures including sleep diaries and video monitoring."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Objective measures using electroencephalography, electro-oculography and electromyography, and subjective measures including sleep diaries and video monitoring."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An electroencephalograph detects and records the electrical activity of the brain, identifying the frequency and amplitude of brain waves.",
+              "An electro-oculograph records eye movement, which distinguishes REM sleep from NREM sleep.",
+              "An electromyograph records the electrical activity of muscles, showing the muscle atonia characteristic of REM sleep."
+            ]
+          }
         ]
       }
     },
@@ -1056,8 +1600,21 @@
         "key": "psychology-34:4.1.3",
         "title": "NREM and REM sleep",
         "front": "NREM and REM sleep",
-        "back": [
-          "The characteristics of NREM stages and REM sleep, including brain wave patterns, muscle activity, eye movement and dreaming, and the cycling through stages across the night."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The characteristics of NREM stages and REM sleep, including brain wave patterns, muscle activity, eye movement and dreaming, and the cycling through stages across the night."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "REM sleep shows high-frequency, low-amplitude brain waves similar to those of waking, while NREM stage 3 shows low-frequency, high-amplitude delta waves.",
+              "REM sleep involves muscle atonia so the body is effectively paralysed, while muscle tone is present in NREM sleep.",
+              "NREM stage 3 predominates in the first half of the night, and REM periods lengthen and predominate towards the morning."
+            ]
+          }
         ]
       }
     },
@@ -1080,8 +1637,20 @@
         "key": "psychology-34:4.1.4",
         "title": "Circadian and ultradian rhythms",
         "front": "Circadian and ultradian rhythms",
-        "back": [
-          "The approximately 24 hour sleep-wake cycle as a circadian rhythm and the roughly 90 minute cycle of sleep stages as an ultradian rhythm."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The approximately 24 hour sleep-wake cycle as a circadian rhythm and the roughly 90 minute cycle of sleep stages as an ultradian rhythm."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A circadian rhythm has a cycle of about 24 hours, such as the sleep-wake cycle governed by the suprachiasmatic nucleus.",
+              "An ultradian rhythm has a cycle shorter than 24 hours, such as the roughly 90 minute cycle through NREM and REM sleep stages that repeats four to five times per night."
+            ]
+          }
         ]
       }
     },
@@ -1105,8 +1674,21 @@
         "key": "psychology-34:4.1.5",
         "title": "Sleep across the lifespan",
         "front": "Sleep across the lifespan",
-        "back": [
-          "Changes in total sleep duration and in the proportion of REM and NREM sleep from infancy through adolescence to late adulthood, and the reasons for these changes."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Changes in total sleep duration and in the proportion of REM and NREM sleep from infancy through adolescence to late adulthood, and the reasons for these changes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Newborns sleep around 16 hours per day with about half of that in REM sleep, supporting rapid brain development.",
+              "Total sleep time decreases across childhood and adolescence, with adolescents requiring around 8 to 10 hours, and the proportion of REM sleep falls to about 20 to 25 per cent.",
+              "Older adults sleep for a similar or slightly reduced total time but obtain much less NREM stage 3 sleep and wake more frequently during the night."
+            ]
+          }
         ]
       }
     },
@@ -1130,8 +1712,21 @@
         "key": "psychology-34:4.1.6",
         "title": "Adolescent sleep-wake shift",
         "front": "Adolescent sleep-wake shift",
-        "back": [
-          "The delayed release of melatonin in adolescence producing later sleep onset and offset, and the conflict between this shift and early school start times."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The delayed release of melatonin in adolescence producing later sleep onset and offset, and the conflict between this shift and early school start times."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "During adolescence melatonin is released about one to two hours later than in childhood, so the adolescent does not feel sleepy until later at night.",
+              "The natural waking time also shifts later, but school start times remain early.",
+              "The adolescent therefore obtains fewer hours of sleep than the 8 to 10 required, accumulating a sleep debt across the school week."
+            ]
+          }
         ]
       }
     },
@@ -1155,8 +1750,21 @@
         "key": "psychology-34:4.1.7",
         "title": "Zeitgebers",
         "front": "Zeitgebers",
-        "back": [
-          "External cues that entrain the sleep-wake cycle, including light and blue light in particular, temperature and eating and drinking patterns."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "External cues that entrain the sleep-wake cycle, including light and blue light in particular, temperature and eating and drinking patterns."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Light is the primary zeitgeber, detected by the eyes and relayed to the suprachiasmatic nucleus, which regulates melatonin release by the pineal gland.",
+              "Blue light suppresses melatonin release because it mimics daylight.",
+              "Sleep onset is therefore delayed, shifting the circadian rhythm later and reducing total sleep time if waking time is fixed."
+            ]
+          }
         ]
       }
     },
@@ -1180,8 +1788,21 @@
         "key": "psychology-34:4.1.8",
         "title": "Effects of partial sleep deprivation",
         "front": "Effects of partial sleep deprivation",
-        "back": [
-          "Affective, behavioural and cognitive consequences of insufficient sleep, and the distinction between partial and total sleep deprivation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Affective, behavioural and cognitive consequences of insufficient sleep, and the distinction between partial and total sleep deprivation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Affective: increased irritability, mood swings and reduced ability to regulate emotional responses.",
+              "Behavioural: clumsiness, slowed reaction time and increased risk taking.",
+              "Cognitive: reduced concentration, impaired decision making and difficulty encoding new information into memory."
+            ]
+          }
         ]
       }
     },
@@ -1205,8 +1826,21 @@
         "key": "psychology-34:4.1.9",
         "title": "Sleep deprivation and blood alcohol concentration",
         "front": "Sleep deprivation and blood alcohol concentration",
-        "back": [
-          "The comparison of the effects of 17 and 24 hours of sleep deprivation with blood alcohol concentrations of 0.05 and 0.10 on cognitive and motor performance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The comparison of the effects of 17 and 24 hours of sleep deprivation with blood alcohol concentrations of 0.05 and 0.10 on cognitive and motor performance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Seventeen hours without sleep produces impairment in concentration, reaction time and hand-eye coordination comparable with a blood alcohol concentration of 0.05.",
+              "Twenty-four hours without sleep produces impairment comparable with a blood alcohol concentration of 0.10.",
+              "A limitation is that the comparison applies only to cognitive and motor performance, and the affective and physiological effects of the two states are not equivalent."
+            ]
+          }
         ]
       }
     },
@@ -1230,8 +1864,21 @@
         "key": "psychology-34:4.1.10",
         "title": "Circadian rhythm sleep disorders",
         "front": "Circadian rhythm sleep disorders",
-        "back": [
-          "Delayed sleep phase syndrome, advanced sleep phase disorder and shift work sleep disorder, and the mismatch between the internal rhythm and external demands."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Delayed sleep phase syndrome, advanced sleep phase disorder and shift work sleep disorder, and the mismatch between the internal rhythm and external demands."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A person with delayed sleep phase syndrome consistently falls asleep and wakes several hours later than conventional times, most commonly in adolescence.",
+              "Sleep itself is normal in quality and duration when the person is allowed to follow their own schedule.",
+              "It is a circadian rhythm disorder because the problem is a persistent misalignment between the internal sleep-wake cycle and the socially required schedule, not a problem with sleep itself."
+            ]
+          }
         ]
       }
     },
@@ -1255,8 +1902,21 @@
         "key": "psychology-34:4.1.11",
         "title": "Bright light therapy and sleep hygiene",
         "front": "Bright light therapy and sleep hygiene",
-        "back": [
-          "Using timed bright light exposure to shift the circadian rhythm, and the sleep hygiene practices that support consistent, high-quality sleep."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using timed bright light exposure to shift the circadian rhythm, and the sleep hygiene practices that support consistent, high-quality sleep."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The person is exposed to bright light soon after their desired waking time, which suppresses melatonin and advances the circadian rhythm earlier.",
+              "Over consecutive days the sleep onset time shifts earlier to align with the required schedule.",
+              "Supporting sleep hygiene practices include keeping a consistent bedtime and wake time, and avoiding screens, caffeine and vigorous exercise in the hours before bed."
+            ]
+          }
         ]
       }
     },
@@ -1280,8 +1940,22 @@
         "key": "psychology-34:4.2.1",
         "title": "The mental wellbeing continuum",
         "front": "The mental wellbeing continuum",
-        "back": [
-          "Mentally healthy, mental health problem and mental disorder as positions on a continuum; the fluid movement along it and the factors that influence position."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mentally healthy, mental health problem and mental disorder as positions on a continuum",
+              "the fluid movement along it and the factors that influence position."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The continuum ranges from mentally healthy, through experiencing a mental health problem, to having a diagnosed mental disorder.",
+              "A person's position is fluid and can move in either direction over time rather than being fixed.",
+              "Position is influenced by the balance of stressors and protective factors, such as the onset of a significant stressor or the strengthening of social support."
+            ]
+          }
         ]
       }
     },
@@ -1305,8 +1979,21 @@
         "key": "psychology-34:4.2.2",
         "title": "Levels of functioning, resilience and social wellbeing",
         "front": "Levels of functioning, resilience and social wellbeing",
-        "back": [
-          "The criteria used to assess mental wellbeing: level of functioning, resilience and social and emotional wellbeing, and what each indicates."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The criteria used to assess mental wellbeing: level of functioning, resilience and social and emotional wellbeing, and what each indicates."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Level of functioning is the degree to which a person can carry out the everyday tasks of independent living, work or study, and relationships.",
+              "Resilience is the ability to adapt to and recover from adversity and to restore positive functioning.",
+              "High functioning and high resilience indicate a position towards the mentally healthy end of the continuum, while a decline in either suggests movement towards a mental health problem."
+            ]
+          }
         ]
       }
     },
@@ -1330,8 +2017,21 @@
         "key": "psychology-34:4.2.3",
         "title": "Social and emotional wellbeing framework",
         "front": "Social and emotional wellbeing framework",
-        "back": [
-          "The Aboriginal and Torres Strait Islander view of wellbeing as a multidimensional and holistic concept encompassing connection to body, mind and emotions, family, community, culture, Country and spirituality."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The Aboriginal and Torres Strait Islander view of wellbeing as a multidimensional and holistic concept encompassing connection to body, mind and emotions, family, community, culture, Country and spirituality."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Wellbeing is understood holistically as connection to body and behaviours, mind and emotions, family and kinship, community, culture, Country and spirituality and ancestors.",
+              "These domains are interconnected, so a disruption to one, such as disconnection from Country, affects overall wellbeing.",
+              "It differs from an individual model by locating wellbeing in relationships, collective identity and history rather than solely in the individual's internal state."
+            ]
+          }
         ]
       }
     },
@@ -1355,8 +2055,21 @@
         "key": "psychology-34:4.2.4",
         "title": "Stress, anxiety and phobia",
         "front": "Stress, anxiety and phobia",
-        "back": [
-          "Distinguishing stress as a response to a stressor, anxiety as apprehension about a future threat, and phobia as a persistent, excessive fear that causes significant distress and avoidance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Distinguishing stress as a response to a stressor, anxiety as apprehension about a future threat, and phobia as a persistent, excessive fear that causes significant distress and avoidance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Anxiety is a feeling of apprehension or uneasiness about an anticipated event and is a normal, adaptive response experienced by everyone.",
+              "A specific phobia is a persistent, intense and irrational fear of a particular object or situation that is out of proportion to any actual danger.",
+              "It is diagnosable because it causes significant distress and avoidance behaviour that impairs the person's everyday functioning, typically persisting for six months or more."
+            ]
+          }
         ]
       }
     },
@@ -1380,8 +2093,21 @@
         "key": "psychology-34:4.2.5",
         "title": "Biological contributors to specific phobia",
         "front": "Biological contributors to specific phobia",
-        "back": [
-          "GABA dysfunction, long-term potentiation of fear associations, and the role of the stress response in maintaining a phobia."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "GABA dysfunction, long-term potentiation of fear associations, and the role of the stress response in maintaining a phobia."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "GABA is the main inhibitory neurotransmitter, so insufficient GABA production or reception leaves the nervous system under-inhibited and over-aroused.",
+              "This heightened arousal makes an intense fear response more likely and more difficult to calm.",
+              "Long-term potentiation strengthens the neural pathway linking the phobic stimulus to the fear response each time it is activated, so the association becomes more readily and more strongly triggered."
+            ]
+          }
         ]
       }
     },
@@ -1406,8 +2132,22 @@
         "key": "psychology-34:4.2.6",
         "title": "Psychological contributors to specific phobia",
         "front": "Psychological contributors to specific phobia",
-        "back": [
-          "Precipitation by classical conditioning and perpetuation by operant conditioning, together with cognitive bias including memory bias and catastrophic thinking."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Precipitation by classical conditioning and perpetuation by operant conditioning, together with cognitive bias including memory bias and catastrophic thinking."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Classical conditioning precipitates the phobia: a previously neutral stimulus, the dog, is paired with a frightening event such as being bitten, so the dog becomes a conditioned stimulus producing a fear response.",
+              "Operant conditioning perpetuates the phobia: the person avoids dogs, which removes the unpleasant feeling of fear.",
+              "This is negative reinforcement, so avoidance behaviour is strengthened and repeated.",
+              "Because the person never encounters a dog without harm, the fear association is never extinguished."
+            ]
+          }
         ]
       }
     },
@@ -1431,8 +2171,21 @@
         "key": "psychology-34:4.2.7",
         "title": "Cognitive bias in specific phobia",
         "front": "Cognitive bias in specific phobia",
-        "back": [
-          "Memory bias as the distorted recall of information consistent with the fear, and catastrophic thinking as the overestimation of the likelihood and severity of a feared outcome."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Memory bias as the distorted recall of information consistent with the fear, and catastrophic thinking as the overestimation of the likelihood and severity of a feared outcome."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Catastrophic thinking is a cognitive bias in which the person overestimates the likelihood and severity of the worst possible outcome, such as being certain that turbulence means the plane will crash.",
+              "Memory bias is a distortion in what is recalled so that information consistent with the fear is remembered more readily.",
+              "For example, the person vividly recalls news reports of crashes but not the far greater number of safe flights."
+            ]
+          }
         ]
       }
     },
@@ -1456,8 +2209,21 @@
         "key": "psychology-34:4.2.8",
         "title": "Social contributors to specific phobia",
         "front": "Social contributors to specific phobia",
-        "back": [
-          "Specific environmental triggers and the role of stigma around seeking treatment in maintaining a phobia."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Specific environmental triggers and the role of stigma around seeking treatment in maintaining a phobia."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Stigma involves negative attitudes and beliefs held in the community about mental health conditions or about seeking help.",
+              "A person who fears being judged as weak or irrational may conceal the phobia and delay or avoid treatment.",
+              "Without evidence-based intervention the avoidance behaviour continues to be reinforced, so the phobia persists or worsens."
+            ]
+          }
         ]
       }
     },
@@ -1482,8 +2248,24 @@
         "key": "psychology-34:4.2.9",
         "title": "Biopsychosocial interventions for specific phobia",
         "front": "Biopsychosocial interventions for specific phobia",
-        "back": [
-          "Short-acting anti-anxiety benzodiazepine agents and breathing retraining; cognitive behavioural therapy and systematic desensitisation; psychoeducation for families and supporters."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Short-acting anti-anxiety benzodiazepine agents and breathing retraining",
+              "cognitive behavioural therapy and systematic desensitisation",
+              "psychoeducation for families and supporters."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The person is taught a relaxation technique such as progressive muscle relaxation or controlled breathing.",
+              "A fear hierarchy is constructed, ranking exposures to the phobic stimulus from least to most anxiety-provoking.",
+              "The person works up the hierarchy while remaining relaxed, so the phobic stimulus is progressively paired with relaxation rather than fear.",
+              "It is a psychological intervention because it targets the learned association through counterconditioning rather than altering biology or the social environment."
+            ]
+          }
         ]
       }
     },
@@ -1507,8 +2289,21 @@
         "key": "psychology-34:4.2.10",
         "title": "Benzodiazepines and breathing retraining",
         "front": "Benzodiazepines and breathing retraining",
-        "back": [
-          "The action of GABA agonists in enhancing inhibitory neurotransmission, and the role of breathing retraining in reducing hyperventilation and physiological arousal."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The action of GABA agonists in enhancing inhibitory neurotransmission, and the role of breathing retraining in reducing hyperventilation and physiological arousal."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Benzodiazepines act as GABA agonists, mimicking or enhancing the effect of GABA at the postsynaptic receptor.",
+              "This increases inhibitory neurotransmission, reducing neural excitation and therefore the physiological symptoms of anxiety.",
+              "They treat only the symptoms and not the learned fear association, and prolonged use carries a risk of dependence and tolerance."
+            ]
+          }
         ]
       }
     },
@@ -1532,8 +2327,22 @@
         "key": "psychology-34:4.2.11",
         "title": "Cognitive behavioural therapy and psychoeducation",
         "front": "Cognitive behavioural therapy and psychoeducation",
-        "back": [
-          "Identifying and challenging unhelpful thoughts and replacing them with adaptive behaviours; educating families and supporters to avoid reinforcing avoidance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying and challenging unhelpful thoughts and replacing them with adaptive behaviours",
+              "educating families and supporters to avoid reinforcing avoidance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Psychoeducation teaches the family about the nature of the phobia and the evidence-based treatments available.",
+              "Families learn not to reinforce avoidance behaviours, for example by not completing the feared task on the person's behalf.",
+              "They are also taught to encourage engagement with and adherence to treatment, which improves outcomes."
+            ]
+          }
         ]
       }
     },
@@ -1557,8 +2366,21 @@
         "key": "psychology-34:4.2.12",
         "title": "Protective factors for mental wellbeing",
         "front": "Protective factors for mental wellbeing",
-        "back": [
-          "Adequate sleep, a balanced diet and hydration, and cognitive behavioural strategies and mindfulness meditation as protective factors, alongside cultural determinants."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Adequate sleep, a balanced diet and hydration, and cognitive behavioural strategies and mindfulness meditation as protective factors, alongside cultural determinants."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Biological: adequate sleep allows neural repair and consolidation and supports emotional regulation, so the person is better able to cope with stressors.",
+              "Psychological: mindfulness meditation directs attention to the present moment without judgement, reducing rumination and physiological arousal.",
+              "Both raise the threshold at which a stressor produces a mental health problem, supporting resilience."
+            ]
+          }
         ]
       }
     },
@@ -1582,8 +2404,21 @@
         "key": "psychology-34:4.2.13",
         "title": "Cultural determinants as protective factors",
         "front": "Cultural determinants as protective factors",
-        "back": [
-          "Cultural continuity and self-determination as protective factors for the social and emotional wellbeing of Aboriginal and Torres Strait Islander peoples."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Cultural continuity and self-determination as protective factors for the social and emotional wellbeing of Aboriginal and Torres Strait Islander peoples."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cultural continuity is the passing on of knowledge, language, practices and connection to Country across generations, which strengthens identity and belonging.",
+              "Self-determination is the right of communities to make decisions about matters affecting them, including the design and delivery of health services.",
+              "Both restore control and connection that were disrupted by colonisation, and communities with higher levels of each show better wellbeing outcomes."
+            ]
+          }
         ]
       }
     },
@@ -1607,8 +2442,21 @@
         "key": "psychology-34:4.3.1",
         "title": "Designing the investigation",
         "front": "Designing the investigation",
-        "back": [
-          "Developing a question and hypothesis, selecting a methodology and design, identifying variables and controls, and planning for ethical compliance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Developing a question and hypothesis, selecting a methodology and design, identifying variables and controls, and planning for ethical compliance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The research design, because a within or between subjects choice determines which extraneous variables must be managed.",
+              "The sampling and allocation technique, because it determines how far the results can be generalised.",
+              "The ethical procedures, including consent, confidentiality and debriefing, because the investigation cannot proceed without them."
+            ]
+          }
         ]
       }
     },
@@ -1632,8 +2480,22 @@
         "key": "psychology-34:4.3.2",
         "title": "Collecting and processing data",
         "front": "Collecting and processing data",
-        "back": [
-          "Quantitative and qualitative, objective and subjective data; recording data in tables and calculating measures of central tendency and spread."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Quantitative and qualitative, objective and subjective data",
+              "recording data in tables and calculating measures of central tendency and spread."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Objective data are observable and measurable independently of the participant's interpretation, such as EEG recordings of brain wave frequency.",
+              "Subjective data depend on the participant's own report or the researcher's judgement, such as a self-rated sleep quality score in a sleep diary.",
+              "Both are useful, but subjective data are more vulnerable to bias, so studies often collect them alongside objective measures."
+            ]
+          }
         ]
       }
     },
@@ -1657,8 +2519,21 @@
         "key": "psychology-34:4.3.3",
         "title": "Analysing and evaluating",
         "front": "Analysing and evaluating",
-        "back": [
-          "Interpreting patterns in results, evaluating the reliability and validity of the method, identifying uncontrolled variables and stating the limits on generalisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Interpreting patterns in results, evaluating the reliability and validity of the method, identifying uncontrolled variables and stating the limits on generalisation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reliability is the consistency of results if the study is repeated under the same conditions.",
+              "Validity is whether the study measures what it claims to measure and whether the conclusion drawn is justified.",
+              "A questionnaire that produces the same score every time but actually measures general mood rather than the intended anxiety construct is reliable but not valid."
+            ]
+          }
         ]
       }
     },
@@ -1682,8 +2557,21 @@
         "key": "psychology-34:4.3.4",
         "title": "Communicating findings",
         "front": "Communicating findings",
-        "back": [
-          "The structure of a scientific report or poster, referencing conventions, and the requirement to report findings honestly including results that do not support the hypothesis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The structure of a scientific report or poster, referencing conventions, and the requirement to report findings honestly including results that do not support the hypothesis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It must state whether the results supported the hypothesis, referring to the specific data such as the group means.",
+              "It must be limited to the population sampled and the variables as operationalised.",
+              "It must not claim that the hypothesis has been proven, since a single study provides evidence rather than proof."
+            ]
+          }
         ]
       }
     }

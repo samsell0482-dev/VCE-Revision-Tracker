@@ -34,10 +34,20 @@
         "key": "health-human-development-34:3.1.1",
         "title": "Health, wellbeing and illness",
         "front": "Health, wellbeing and illness",
-        "back": [
-          "Subjective means a person's judgement of their health depends on their own experience and perspective.",
-          "Different expectations, support or ability to participate can lead the two people to different assessments despite the same diagnosis.",
-          "A change in circumstances, symptoms or support could alter an assessment over time, illustrating that health is dynamic."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Subjective means a person's judgement of their health depends on their own experience and perspective."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Different expectations, support or ability to participate can lead the two people to different assessments despite the same diagnosis.",
+              "A change in circumstances, symptoms or support could alter an assessment over time, illustrating that health is dynamic."
+            ]
+          }
         ]
       }
     },
@@ -62,11 +72,21 @@
         "key": "health-human-development-34:3.1.2",
         "title": "Five dimensions working together",
         "front": "Five dimensions working together",
-        "back": [
-          "The five dimensions are physical, social, emotional, mental and spiritual health and wellbeing.",
-          "They are interrelated, so a change in one dimension commonly produces change in the others.",
-          "For example, a sporting injury reduces physical health and wellbeing through pain and loss of function.",
-          "Being unable to train also removes contact with teammates, reducing social health and wellbeing, and the loss of a valued role can reduce emotional and spiritual health and wellbeing."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The five dimensions are physical, social, emotional, mental and spiritual health and wellbeing."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "They are interrelated, so a change in one dimension commonly produces change in the others.",
+              "For example, a sporting injury reduces physical health and wellbeing through pain and loss of function.",
+              "Being unable to train also removes contact with teammates, reducing social health and wellbeing, and the loss of a valued role can reduce emotional and spiritual health and wellbeing."
+            ]
+          }
         ]
       }
     },
@@ -91,11 +111,21 @@
         "key": "health-human-development-34:3.1.3",
         "title": "Health as a shared resource",
         "front": "Health as a shared resource",
-        "back": [
-          "For the individual, good health and wellbeing allows participation in work, study and relationships, and reduces the personal cost of illness.",
-          "For the nation, a healthy population is more productive, requires less health expenditure and has higher rates of workforce participation, which increases tax revenue and economic growth.",
-          "For the world, healthy populations are better able to trade, cooperate and respond to shared threats such as pandemics and climate change.",
-          "Poor health in one country can spread across borders and reduce global stability, so health is a shared rather than a purely individual resource."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "For the individual, good health and wellbeing allows participation in work, study and relationships, and reduces the personal cost of illness."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "For the nation, a healthy population is more productive, requires less health expenditure and has higher rates of workforce participation, which increases tax revenue and economic growth.",
+              "For the world, healthy populations are better able to trade, cooperate and respond to shared threats such as pandemics and climate change.",
+              "Poor health in one country can spread across borders and reduce global stability, so health is a shared rather than a purely individual resource."
+            ]
+          }
         ]
       }
     },
@@ -120,11 +150,21 @@
         "key": "health-human-development-34:3.1.4",
         "title": "New cases and existing cases",
         "front": "New cases and existing cases",
-        "back": [
-          "Incidence is the number or rate of new cases of a condition arising in a population in a given period.",
-          "Prevalence is the total number or proportion of cases of a condition present in a population at a given time, including both new and existing cases.",
-          "A chronic condition such as type 2 diabetes has relatively few new cases each year but people live with it for decades.",
-          "Cases therefore accumulate, so prevalence remains high even when incidence is comparatively low."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Incidence is the number or rate of new cases of a condition arising in a population in a given period."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Prevalence is the total number or proportion of cases of a condition present in a population at a given time, including both new and existing cases.",
+              "A chronic condition such as type 2 diabetes has relatively few new cases each year but people live with it for decades.",
+              "Cases therefore accumulate, so prevalence remains high even when incidence is comparatively low."
+            ]
+          }
         ]
       }
     },
@@ -149,11 +189,21 @@
         "key": "health-human-development-34:3.1.5",
         "title": "Illness, mortality and life expectancy",
         "front": "Illness, mortality and life expectancy",
-        "back": [
-          "Morbidity refers to ill health in an individual and the levels of ill health in a population.",
-          "Mortality refers to death, usually expressed as a rate per 100000 people in a given period.",
-          "Life expectancy is the number of years of life, on average, remaining to an individual at a particular age if death rates do not change.",
-          "Life expectancy counts years lived but not their quality, so a population can live longer while spending many of those years with disability or chronic illness."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Morbidity refers to ill health in an individual and the levels of ill health in a population."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mortality refers to death, usually expressed as a rate per 100000 people in a given period.",
+              "Life expectancy is the number of years of life, on average, remaining to an individual at a particular age if death rates do not change.",
+              "Life expectancy counts years lived but not their quality, so a population can live longer while spending many of those years with disability or chronic illness."
+            ]
+          }
         ]
       }
     },
@@ -178,11 +228,21 @@
         "key": "health-human-development-34:3.1.6",
         "title": "Burden of disease measures",
         "front": "Burden of disease measures",
-        "back": [
-          "A DALY is one lost year of healthy life, and is the measure used to express burden of disease.",
-          "DALY is the sum of YLL, years of life lost due to premature death, and YLD, years lived with disability.",
-          "Mortality data records only death, so it gives no weight to conditions that cause long-term disability without killing people.",
-          "Burden of disease captures both, so a condition such as anxiety or back pain appears in the data according to the healthy years it costs the population."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "A DALY is one lost year of healthy life, and is the measure used to express burden of disease."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "DALY is the sum of YLL, years of life lost due to premature death, and YLD, years lived with disability.",
+              "Mortality data records only death, so it gives no weight to conditions that cause long-term disability without killing people.",
+              "Burden of disease captures both, so a condition such as anxiety or back pain appears in the data according to the healthy years it costs the population."
+            ]
+          }
         ]
       }
     },
@@ -206,10 +266,20 @@
         "key": "health-human-development-34:3.1.7",
         "title": "Healthy years and self-reported health",
         "front": "Healthy years and self-reported health",
-        "back": [
-          "Health-adjusted life expectancy is the number of years a person can expect to live in full health, without the reduced functioning caused by disease or injury.",
-          "It is lower than life expectancy, and the gap represents the years expected to be lived with illness or disability.",
-          "Self-assessed health status is a person's own rating of their health, which captures how people experience their health and can reveal problems that clinical measures miss."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Health-adjusted life expectancy is the number of years a person can expect to live in full health, without the reduced functioning caused by disease or injury."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It is lower than life expectancy, and the gap represents the years expected to be lived with illness or disability.",
+              "Self-assessed health status is a person's own rating of their health, which captures how people experience their health and can reveal problems that clinical measures miss."
+            ]
+          }
         ]
       }
     },
@@ -234,11 +304,21 @@
         "key": "health-human-development-34:3.1.8",
         "title": "Biological influences",
         "front": "Biological influences",
-        "back": [
-          "Biological factors include genetics, body weight, blood pressure, blood cholesterol, glucose regulation, birth weight, age and sex.",
-          "High blood pressure forces the heart to work harder and damages the walls of arteries over time.",
-          "Damaged artery walls are more likely to accumulate fatty plaque, which narrows the vessel and reduces blood flow.",
-          "This increases the risk of heart attack and stroke, so high blood pressure raises both morbidity and mortality from cardiovascular disease."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Biological factors include genetics, body weight, blood pressure, blood cholesterol, glucose regulation, birth weight, age and sex."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "High blood pressure forces the heart to work harder and damages the walls of arteries over time.",
+              "Damaged artery walls are more likely to accumulate fatty plaque, which narrows the vessel and reduces blood flow.",
+              "This increases the risk of heart attack and stroke, so high blood pressure raises both morbidity and mortality from cardiovascular disease."
+            ]
+          }
         ]
       }
     },
@@ -263,11 +343,21 @@
         "key": "health-human-development-34:3.1.9",
         "title": "Social and cultural influences",
         "front": "Social and cultural influences",
-        "back": [
-          "Socioeconomic status combines income, education and occupation, and lower status is associated with worse health outcomes on almost every measure.",
-          "Lower income restricts the ability to afford nutritious food, secure housing, health insurance and timely treatment, while lower education reduces health literacy and the ability to act on health information.",
-          "Social isolation reduces the emotional support available when a person is unwell or stressed, which increases the risk of mental health problems.",
-          "Isolated people are also less likely to have someone encourage them to seek treatment early, so conditions are more likely to be detected late."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Socioeconomic status combines income, education and occupation, and lower status is associated with worse health outcomes on almost every measure."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Lower income restricts the ability to afford nutritious food, secure housing, health insurance and timely treatment, while lower education reduces health literacy and the ability to act on health information.",
+              "Social isolation reduces the emotional support available when a person is unwell or stressed, which increases the risk of mental health problems.",
+              "Isolated people are also less likely to have someone encourage them to seek treatment early, so conditions are more likely to be detected late."
+            ]
+          }
         ]
       }
     },
@@ -292,11 +382,21 @@
         "key": "health-human-development-34:3.1.10",
         "title": "Environmental influences",
         "front": "Environmental influences",
-        "back": [
-          "Environmental factors include housing quality, the work environment, urban design and infrastructure, and climate and weather.",
-          "Urban design determines whether physical activity is a convenient part of daily life, through footpaths, bike lanes, parks and access to public transport.",
-          "A suburb without safe walking routes or nearby recreation spaces promotes car dependence and sedentary behaviour, raising the risk of overweight and cardiovascular disease.",
-          "Urban design also determines the density of fast food outlets and alcohol outlets, which influences dietary patterns and alcohol consumption."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Environmental factors include housing quality, the work environment, urban design and infrastructure, and climate and weather."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Urban design determines whether physical activity is a convenient part of daily life, through footpaths, bike lanes, parks and access to public transport.",
+              "A suburb without safe walking routes or nearby recreation spaces promotes car dependence and sedentary behaviour, raising the risk of overweight and cardiovascular disease.",
+              "Urban design also determines the density of fast food outlets and alcohol outlets, which influences dietary patterns and alcohol consumption."
+            ]
+          }
         ]
       }
     },
@@ -321,11 +421,21 @@
         "key": "health-human-development-34:3.1.11",
         "title": "Smoking, vaping and alcohol",
         "front": "Smoking, vaping and alcohol",
-        "back": [
-          "Tobacco smoke damages the airways and alveoli, causing chronic obstructive pulmonary disease, and contains carcinogens that cause lung and other cancers.",
-          "It also damages blood vessels and raises blood pressure, contributing to cardiovascular disease.",
-          "Smoking therefore contributes substantially to both YLL through premature death and YLD through years lived with chronic respiratory disease.",
-          "Smoking rates are higher in low socioeconomic groups, reflecting greater exposure to stress, more smoking within social networks, targeted marketing and less access to cessation support."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Tobacco smoke damages the airways and alveoli, causing chronic obstructive pulmonary disease, and contains carcinogens that cause lung and other cancers."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It also damages blood vessels and raises blood pressure, contributing to cardiovascular disease.",
+              "Smoking therefore contributes substantially to both YLL through premature death and YLD through years lived with chronic respiratory disease.",
+              "Smoking rates are higher in low socioeconomic groups, reflecting greater exposure to stress, more smoking within social networks, targeted marketing and less access to cessation support."
+            ]
+          }
         ]
       }
     },
@@ -350,11 +460,21 @@
         "key": "health-human-development-34:3.1.12",
         "title": "Body weight and dietary patterns",
         "front": "Body weight and dietary patterns",
-        "back": [
-          "Excess body fat increases insulin resistance, which raises blood glucose levels and leads to type 2 diabetes.",
-          "Additional body mass raises blood pressure and blood cholesterol, increasing the workload of the cardiovascular system and the risk of heart disease and stroke.",
-          "Excess weight loads the joints, contributing to osteoarthritis and reduced mobility, which further reduces physical activity.",
-          "Overweight is also associated with some cancers and with reduced mental and emotional health and wellbeing through stigma and reduced self-esteem."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Excess body fat increases insulin resistance, which raises blood glucose levels and leads to type 2 diabetes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Additional body mass raises blood pressure and blood cholesterol, increasing the workload of the cardiovascular system and the risk of heart disease and stroke.",
+              "Excess weight loads the joints, contributing to osteoarthritis and reduced mobility, which further reduces physical activity.",
+              "Overweight is also associated with some cancers and with reduced mental and emotional health and wellbeing through stigma and reduced self-esteem."
+            ]
+          }
         ]
       }
     },
@@ -379,11 +499,21 @@
         "key": "health-human-development-34:3.1.13",
         "title": "Reading Australian health data",
         "front": "Reading Australian health data",
-        "back": [
-          "Identify the specific indicator being compared, such as life expectancy, mortality rate or burden of disease, and check the units and time period.",
-          "Quote specific figures for each group and state the size of the difference, as a gap in years or as a ratio or percentage.",
-          "Identify the pattern across several indicators rather than relying on one, since groups can differ more on some measures than others.",
-          "Explain the difference using the biological, sociocultural and environmental factors that differ between the groups, rather than describing the numbers alone."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identify the specific indicator being compared, such as life expectancy, mortality rate or burden of disease, and check the units and time period."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Quote specific figures for each group and state the size of the difference, as a gap in years or as a ratio or percentage.",
+              "Identify the pattern across several indicators rather than relying on one, since groups can differ more on some measures than others.",
+              "Explain the difference using the biological, sociocultural and environmental factors that differ between the groups, rather than describing the numbers alone."
+            ]
+          }
         ]
       }
     },
@@ -407,10 +537,20 @@
         "key": "health-human-development-34:3.2.1",
         "title": "Public health before modern treatment",
         "front": "Public health before modern treatment",
-        "back": [
-          "The initiative improves environmental conditions for a whole population rather than treating only individual patients.",
-          "Separating sewage from drinking water can reduce exposure to pathogens.",
-          "Reduced exposure can reduce waterborne illness, improving morbidity and potentially reducing premature deaths."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The initiative improves environmental conditions for a whole population rather than treating only individual patients."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Separating sewage from drinking water can reduce exposure to pathogens.",
+              "Reduced exposure can reduce waterborne illness, improving morbidity and potentially reducing premature deaths."
+            ]
+          }
         ]
       }
     },
@@ -435,11 +575,21 @@
         "key": "health-human-development-34:3.2.2",
         "title": "Medical care and technology",
         "front": "Medical care and technology",
-        "back": [
-          "The biomedical approach focuses on the physical or biological aspects of disease and illness, and is practised by health professionals to diagnose and treat individual patients.",
-          "A strength is that it creates advances in technology and research, extending life expectancy and improving quality of life through treatments, vaccines and surgery.",
-          "It also delivers immediate results for individuals who are already unwell.",
-          "A limitation is that it is expensive, relies on professional expertise and treats illness after it occurs, so it does not address the sociocultural and environmental causes that produce illness in the first place."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The biomedical approach focuses on the physical or biological aspects of disease and illness, and is practised by health professionals to diagnose and treat individual patients."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A strength is that it creates advances in technology and research, extending life expectancy and improving quality of life through treatments, vaccines and surgery.",
+              "It also delivers immediate results for individuals who are already unwell.",
+              "A limitation is that it is expensive, relies on professional expertise and treats illness after it occurs, so it does not address the sociocultural and environmental causes that produce illness in the first place."
+            ]
+          }
         ]
       }
     },
@@ -464,11 +614,21 @@
         "key": "health-human-development-34:3.2.3",
         "title": "Social approaches to health",
         "front": "Social approaches to health",
-        "back": [
-          "The social model of health is a conceptual framework that addresses the broader determinants of health rather than focusing on individual biology.",
-          "Its principles are to address the broader determinants of health, act to reduce social inequities, empower individuals and communities, access health care, and act to enable intersectoral collaboration.",
-          "It focuses on prevention across whole populations rather than on treating individuals who are already ill.",
-          "The biomedical approach treats existing illness in individuals, while the social model works to prevent illness arising by changing the conditions in which people live."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The social model of health is a conceptual framework that addresses the broader determinants of health rather than focusing on individual biology."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Its principles are to address the broader determinants of health, act to reduce social inequities, empower individuals and communities, access health care, and act to enable intersectoral collaboration.",
+              "It focuses on prevention across whole populations rather than on treating individuals who are already ill.",
+              "The biomedical approach treats existing illness in individuals, while the social model works to prevent illness arising by changing the conditions in which people live."
+            ]
+          }
         ]
       }
     },
@@ -493,8 +653,23 @@
         "key": "health-human-development-34:3.2.4",
         "title": "Ottawa Charter in action",
         "front": "Ottawa Charter in action",
-        "back": [
-          "Recognise the five action areas: healthy public policy, supportive environments, community action, personal skills and reoriented health services. Apply them to concrete program features."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recognise the five action areas: healthy public policy, supportive environments, community action, personal skills and reoriented health services.",
+              "Apply them to concrete program features."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The action areas are build healthy public policy, create supportive environments, strengthen community action, develop personal skills and reorient health services.",
+              "Build healthy public policy: legislating plain packaging, higher tobacco excise and bans on smoking in enclosed public spaces.",
+              "Develop personal skills: education campaigns and Quitline counselling that build the knowledge and skills to stop smoking.",
+              "Create supportive environments would include smoke-free workplaces and venues that make not smoking the easier choice."
+            ]
+          }
         ]
       }
     },
@@ -519,11 +694,21 @@
         "key": "health-human-development-34:3.2.5",
         "title": "Evaluating health promotion",
         "front": "Evaluating health promotion",
-        "back": [
-          "Identify the program's stated objectives and the population group it targeted, since effectiveness is measured against its own aims.",
-          "Compare data before and after the program on relevant indicators, such as participation rates, behaviour change or changes in incidence.",
-          "Consider reach and equity: whether the program reached the groups experiencing the greatest burden, not only those easiest to reach.",
-          "Consider sustainability and cost, since a program that produces short-term change but cannot be maintained has limited long-term effect."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identify the program's stated objectives and the population group it targeted, since effectiveness is measured against its own aims."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Compare data before and after the program on relevant indicators, such as participation rates, behaviour change or changes in incidence.",
+              "Consider reach and equity: whether the program reached the groups experiencing the greatest burden, not only those easiest to reach.",
+              "Consider sustainability and cost, since a program that produces short-term change but cannot be maintained has limited long-term effect."
+            ]
+          }
         ]
       }
     },
@@ -548,11 +733,21 @@
         "key": "health-human-development-34:3.2.6",
         "title": "Aboriginal and Torres Strait Islander health initiatives",
         "front": "Aboriginal and Torres Strait Islander health initiatives",
-        "back": [
-          "Community control and consultation, so that programs are designed and delivered by Aboriginal and Torres Strait Islander communities rather than imposed on them.",
-          "Cultural safety, so that services respect culture, language and kinship and do not repeat experiences of racism or discrimination that deter people from seeking care.",
-          "Addressing the broader determinants such as housing, education and employment, since health outcomes depend on the conditions in which people live.",
-          "Programs must also be adequately and continuously funded, since short-term funding cycles prevent the long-term relationships that effective programs depend on."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Community control and consultation, so that programs are designed and delivered by Aboriginal and Torres Strait Islander communities rather than imposed on them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cultural safety, so that services respect culture, language and kinship and do not repeat experiences of racism or discrimination that deter people from seeking care.",
+              "Addressing the broader determinants such as housing, education and employment, since health outcomes depend on the conditions in which people live.",
+              "Programs must also be adequately and continuously funded, since short-term funding cycles prevent the long-term relationships that effective programs depend on."
+            ]
+          }
         ]
       }
     },
@@ -577,11 +772,21 @@
         "key": "health-human-development-34:3.2.7",
         "title": "Australian healthy-eating guidance",
         "front": "Australian healthy-eating guidance",
-        "back": [
-          "The Australian Dietary Guidelines are a set of written recommendations about the types and amounts of food that promote health and reduce the risk of diet-related disease.",
-          "The Australian Guide to Healthy Eating is a visual food selection guide, a pie chart showing the proportions of the five food groups that should be eaten each day.",
-          "The Guide translates the written guidelines into a form that is easier for the general population to apply.",
-          "One guideline is to limit intake of foods containing saturated fat, added salt, added sugars and alcohol."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The Australian Dietary Guidelines are a set of written recommendations about the types and amounts of food that promote health and reduce the risk of diet-related disease."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The Australian Guide to Healthy Eating is a visual food selection guide, a pie chart showing the proportions of the five food groups that should be eaten each day.",
+              "The Guide translates the written guidelines into a form that is easier for the general population to apply.",
+              "One guideline is to limit intake of foods containing saturated fat, added salt, added sugars and alcohol."
+            ]
+          }
         ]
       }
     },
@@ -606,11 +811,21 @@
         "key": "health-human-development-34:3.2.8",
         "title": "Barriers to dietary change",
         "front": "Barriers to dietary change",
-        "back": [
-          "Cost: nutritious fresh food can be more expensive than energy-dense processed alternatives, particularly for low income households.",
-          "Time and convenience: preparing meals from fresh ingredients takes longer than purchasing prepared or takeaway food, which is a barrier for people working long or irregular hours.",
-          "Access and availability: people in rural, remote and some outer urban areas have fewer outlets selling affordable fresh produce.",
-          "Food marketing, cultural preferences, habit and low health literacy also make it harder to translate knowledge of the guidelines into daily choices."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Cost: nutritious fresh food can be more expensive than energy-dense processed alternatives, particularly for low income households."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Time and convenience: preparing meals from fresh ingredients takes longer than purchasing prepared or takeaway food, which is a barrier for people working long or irregular hours.",
+              "Access and availability: people in rural, remote and some outer urban areas have fewer outlets selling affordable fresh produce.",
+              "Food marketing, cultural preferences, habit and low health literacy also make it harder to translate knowledge of the guidelines into daily choices."
+            ]
+          }
         ]
       }
     },
@@ -635,11 +850,21 @@
         "key": "health-human-development-34:3.2.9",
         "title": "Medicare and private insurance",
         "front": "Medicare and private insurance",
-        "back": [
-          "Medicare is Australia's universal health insurance scheme, funded through taxation including the Medicare levy.",
-          "It provides free treatment as a public patient in a public hospital and covers or subsidises consultations with general practitioners and specialists.",
-          "Because eligibility does not depend on income, it removes cost as a barrier to essential care and so promotes equity and access.",
-          "It does not cover most dental care, ambulance services in most states, glasses or elective treatment as a private patient."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Medicare is Australia's universal health insurance scheme, funded through taxation including the Medicare levy."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It provides free treatment as a public patient in a public hospital and covers or subsidises consultations with general practitioners and specialists.",
+              "Because eligibility does not depend on income, it removes cost as a barrier to essential care and so promotes equity and access.",
+              "It does not cover most dental care, ambulance services in most states, glasses or elective treatment as a private patient."
+            ]
+          }
         ]
       }
     },
@@ -664,11 +889,21 @@
         "key": "health-human-development-34:3.2.10",
         "title": "PBS and NDIS",
         "front": "PBS and NDIS",
-        "back": [
-          "The PBS subsidises the cost of a wide range of prescription medicines, so patients pay only a set co-payment rather than the full price.",
-          "A safety net reduces the cost further once a household reaches a threshold in a calendar year, which protects people who need many medicines.",
-          "The NDIS funds supports and services for people under 65 with a permanent and significant disability.",
-          "It provides individualised funding based on a participant's goals and needs, promoting independence and social and economic participation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The PBS subsidises the cost of a wide range of prescription medicines, so patients pay only a set co-payment rather than the full price."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A safety net reduces the cost further once a household reaches a threshold in a calendar year, which protects people who need many medicines.",
+              "The NDIS funds supports and services for people under 65 with a permanent and significant disability.",
+              "It provides individualised funding based on a participant's goals and needs, promoting independence and social and economic participation."
+            ]
+          }
         ]
       }
     },
@@ -693,11 +928,21 @@
         "key": "health-human-development-34:3.2.11",
         "title": "Health-system trade-offs",
         "front": "Health-system trade-offs",
-        "back": [
-          "Sustainability means the system can meet the needs of the present population while retaining the capacity, workforce and funding to meet future needs.",
-          "Access means all people can obtain health services regardless of where they live, their income or their background, for example bulk billing removing the cost barrier.",
-          "Equity means resources are distributed according to need, so those with greater need receive greater support, for example the PBS safety net for people with high medicine costs.",
-          "These can conflict, since expanding access raises costs and may threaten sustainability, so governments must balance them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sustainability means the system can meet the needs of the present population while retaining the capacity, workforce and funding to meet future needs."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Access means all people can obtain health services regardless of where they live, their income or their background, for example bulk billing removing the cost barrier.",
+              "Equity means resources are distributed according to need, so those with greater need receive greater support, for example the PBS safety net for people with high medicine costs.",
+              "These can conflict, since expanding access raises costs and may threaten sustainability, so governments must balance them."
+            ]
+          }
         ]
       }
     },
@@ -722,8 +967,22 @@
         "key": "health-human-development-34:3.2.12",
         "title": "Explaining long-term improvements",
         "front": "Explaining long-term improvements",
-        "back": [
-          "Read Australian health trends since 1900 and justify explanations involving public health, medical developments and health promotion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Read Australian health trends since 1900 and justify explanations involving public health, medical developments and health promotion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Old public health improvements, including safe drinking water, sewerage, improved housing and better nutrition, dramatically reduced infectious disease and infant mortality in the early twentieth century.",
+              "Quarantine, food safety regulation and improved working conditions further reduced deaths from communicable disease.",
+              "Later improvements came from the biomedical approach, including antibiotics, vaccination, improved surgical techniques and treatment of cardiovascular disease.",
+              "More recently the social model and the Ottawa Charter have reduced smoking rates and road deaths through legislation, supportive environments and education."
+            ]
+          }
         ]
       }
     },
@@ -747,10 +1006,20 @@
         "key": "health-human-development-34:4.1.1",
         "title": "What human development means",
         "front": "What human development means",
-        "back": [
-          "Education can strengthen people's knowledge and capabilities, expanding their future choices.",
-          "Participation in decisions can increase people's agency and ability to shape the conditions in which they live.",
-          "Connect the opportunities to human development, rather than measuring success solely through economic growth."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Education can strengthen people's knowledge and capabilities, expanding their future choices."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Participation in decisions can increase people's agency and ability to shape the conditions in which they live.",
+              "Connect the opportunities to human development, rather than measuring success solely through economic growth."
+            ]
+          }
         ]
       }
     },
@@ -775,11 +1044,21 @@
         "key": "health-human-development-34:4.1.2",
         "title": "Using the Human Development Index",
         "front": "Using the Human Development Index",
-        "back": [
-          "The HDI combines a long and healthy life measured by life expectancy at birth, knowledge measured by mean and expected years of schooling, and a decent standard of living measured by gross national income per capita.",
-          "Its strength is combining health, education and income into one comparable figure, which is broader than income alone.",
-          "It is limited because it uses national averages, so it conceals inequality between regions, genders and social groups within a country.",
-          "It also omits political freedom, safety, gender equality and environmental quality, so it should be read alongside other indicators."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The HDI combines a long and healthy life measured by life expectancy at birth, knowledge measured by mean and expected years of schooling, and a decent standard of living measured by gross national income per capita."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Its strength is combining health, education and income into one comparable figure, which is broader than income alone.",
+              "It is limited because it uses national averages, so it conceals inequality between regions, genders and social groups within a country.",
+              "It also omits political freedom, safety, gender equality and environmental quality, so it should be read alongside other indicators."
+            ]
+          }
         ]
       }
     },
@@ -804,11 +1083,21 @@
         "key": "health-human-development-34:4.1.3",
         "title": "Comparing country income groups",
         "front": "Comparing country income groups",
-        "back": [
-          "Low income countries have higher rates of communicable disease, maternal and neonatal conditions and undernutrition, particularly among children.",
-          "These reflect limited access to safe water, sanitation, immunisation and skilled health care, and produce high YLL through premature death.",
-          "High income countries have a burden dominated by non-communicable conditions such as cardiovascular disease, cancer, diabetes and mental health conditions.",
-          "Because people live longer, a greater proportion of their burden is YLD, years lived with disability, rather than years of life lost."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Low income countries have higher rates of communicable disease, maternal and neonatal conditions and undernutrition, particularly among children."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "These reflect limited access to safe water, sanitation, immunisation and skilled health care, and produce high YLL through premature death.",
+              "High income countries have a burden dominated by non-communicable conditions such as cardiovascular disease, cancer, diabetes and mental health conditions.",
+              "Because people live longer, a greater proportion of their burden is YLD, years lived with disability, rather than years of life lost."
+            ]
+          }
         ]
       }
     },
@@ -833,11 +1122,21 @@
         "key": "health-human-development-34:4.1.4",
         "title": "Comparing global outcomes",
         "front": "Comparing global outcomes",
-        "back": [
-          "Life expectancy is substantially lower in low income countries, often by twenty years or more compared with high income countries.",
-          "Under-five mortality rates are many times higher in low income countries, reflecting infectious disease, undernutrition and lack of skilled birth attendance.",
-          "Maternal mortality ratios show the widest relative gap of any health indicator, reflecting access to antenatal care and emergency obstetric services.",
-          "Middle income countries typically show a double burden, retaining significant communicable disease while non-communicable disease rates rise with urbanisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Life expectancy is substantially lower in low income countries, often by twenty years or more compared with high income countries."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Under-five mortality rates are many times higher in low income countries, reflecting infectious disease, undernutrition and lack of skilled birth attendance.",
+              "Maternal mortality ratios show the widest relative gap of any health indicator, reflecting access to antenatal care and emergency obstetric services.",
+              "Middle income countries typically show a double burden, retaining significant communicable disease while non-communicable disease rates rise with urbanisation."
+            ]
+          }
         ]
       }
     },
@@ -862,8 +1161,22 @@
         "key": "health-human-development-34:4.1.5",
         "title": "Safe water and sanitation",
         "front": "Safe water and sanitation",
-        "back": [
-          "Trace how access to safe water and sanitation can influence both health outcomes and opportunities for human development."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Trace how access to safe water and sanitation can influence both health outcomes and opportunities for human development."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Contaminated water transmits pathogens causing diarrhoeal disease, cholera and typhoid, which are major causes of death in children under five.",
+              "Repeated diarrhoeal infection prevents absorption of nutrients, causing undernutrition, stunting and impaired cognitive development.",
+              "Collecting water consumes hours each day, usually for women and girls, reducing time available for schooling and paid work.",
+              "Reduced schooling and productivity limit income and empowerment, so poor water and sanitation constrain human development as well as health."
+            ]
+          }
         ]
       }
     },
@@ -888,11 +1201,21 @@
         "key": "health-human-development-34:4.1.6",
         "title": "Poverty and unequal treatment",
         "front": "Poverty and unequal treatment",
-        "back": [
-          "Poverty restricts the ability to afford adequate food, safe housing, clean water, schooling and health care, so basic needs go unmet.",
-          "It also forces trade-offs, such as choosing between food and medicine, and creates chronic stress that itself damages health.",
-          "Discrimination on the basis of gender, ethnicity, disability or caste restricts access to education, employment, land ownership and health services.",
-          "Both are self-reinforcing, since ill health reduces the ability to earn and learn, which deepens poverty and exclusion in the next generation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Poverty restricts the ability to afford adequate food, safe housing, clean water, schooling and health care, so basic needs go unmet."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It also forces trade-offs, such as choosing between food and medicine, and creates chronic stress that itself damages health.",
+              "Discrimination on the basis of gender, ethnicity, disability or caste restricts access to education, employment, land ownership and health services.",
+              "Both are self-reinforcing, since ill health reduces the ability to earn and learn, which deepens poverty and exclusion in the next generation."
+            ]
+          }
         ]
       }
     },
@@ -917,11 +1240,21 @@
         "key": "health-human-development-34:4.1.7",
         "title": "Three dimensions of sustainability",
         "front": "Three dimensions of sustainability",
-        "back": [
-          "Environmental sustainability means using natural resources so that the environment can continue to provide clean air, water, food and shelter for future generations.",
-          "Social sustainability means maintaining the systems and relationships, including health care, education, peace and social inclusion, that allow communities to continue functioning.",
-          "Economic sustainability means generating income and employment in ways that can be maintained, so people can afford the resources health requires.",
-          "The three are interdependent, since environmental degradation reduces food and water security, which damages health and undermines economic capacity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Environmental sustainability means using natural resources so that the environment can continue to provide clean air, water, food and shelter for future generations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Social sustainability means maintaining the systems and relationships, including health care, education, peace and social inclusion, that allow communities to continue functioning.",
+              "Economic sustainability means generating income and employment in ways that can be maintained, so people can afford the resources health requires.",
+              "The three are interdependent, since environmental degradation reduces food and water security, which damages health and undermines economic capacity."
+            ]
+          }
         ]
       }
     },
@@ -946,11 +1279,21 @@
         "key": "health-human-development-34:4.1.8",
         "title": "Climate-related global change",
         "front": "Climate-related global change",
-        "back": [
-          "Rising temperatures increase deaths and illness from heat stress, particularly among the elderly, the very young and outdoor workers.",
-          "Changing rainfall patterns and extreme weather reduce crop yields and damage water supplies, increasing undernutrition and waterborne disease.",
-          "Warmer conditions expand the geographic range of vector-borne diseases such as malaria and dengue into populations with no prior exposure or immunity.",
-          "Sea level rise and extreme events displace populations, and mass displacement brings overcrowding, poor sanitation and loss of health services."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Rising temperatures increase deaths and illness from heat stress, particularly among the elderly, the very young and outdoor workers."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Changing rainfall patterns and extreme weather reduce crop yields and damage water supplies, increasing undernutrition and waterborne disease.",
+              "Warmer conditions expand the geographic range of vector-borne diseases such as malaria and dengue into populations with no prior exposure or immunity.",
+              "Sea level rise and extreme events displace populations, and mass displacement brings overcrowding, poor sanitation and loss of health services."
+            ]
+          }
         ]
       }
     },
@@ -975,8 +1318,23 @@
         "key": "health-human-development-34:4.1.9",
         "title": "Conflict and mass migration",
         "front": "Conflict and mass migration",
-        "back": [
-          "Trace effects on safety, services, relationships and opportunities. Analyse a particular context and avoid assuming all migration has identical consequences."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Trace effects on safety, services, relationships and opportunities.",
+              "Analyse a particular context and avoid assuming all migration has identical consequences."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Conflict causes direct death and injury, and destroys hospitals, water systems, schools and transport infrastructure.",
+              "Health workers flee or are killed, so immunisation, maternal care and treatment of chronic conditions stop, and preventable disease returns.",
+              "Displaced people often live in overcrowded camps with inadequate water and sanitation, where communicable disease spreads rapidly.",
+              "Education is interrupted for years and economies are destroyed, so the loss of human development persists long after fighting ends."
+            ]
+          }
         ]
       }
     },
@@ -1001,11 +1359,21 @@
         "key": "health-human-development-34:4.1.10",
         "title": "Trade and commercial exposure",
         "front": "Trade and commercial exposure",
-        "back": [
-          "As regulation tightens in high income countries, companies expand marketing into low and middle income countries where controls are weaker.",
-          "Advertising, sponsorship and low prices increase consumption of tobacco, alcohol and energy-dense processed foods.",
-          "Rising consumption increases rates of cardiovascular disease, type 2 diabetes, cancer and alcohol-related injury.",
-          "These countries then carry a double burden, since non-communicable disease rises while communicable disease remains, straining health systems with limited capacity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "As regulation tightens in high income countries, companies expand marketing into low and middle income countries where controls are weaker."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Advertising, sponsorship and low prices increase consumption of tobacco, alcohol and energy-dense processed foods.",
+              "Rising consumption increases rates of cardiovascular disease, type 2 diabetes, cancer and alcohol-related injury.",
+              "These countries then carry a double burden, since non-communicable disease rises while communicable disease remains, straining health systems with limited capacity."
+            ]
+          }
         ]
       }
     },
@@ -1030,11 +1398,21 @@
         "key": "health-human-development-34:4.1.11",
         "title": "Tourism and digital technologies",
         "front": "Tourism and digital technologies",
-        "back": [
-          "Tourism generates income, employment and infrastructure such as roads, clean water and airports, which can raise living standards for local communities.",
-          "Tourism can also spread infectious disease rapidly between countries, and can strain local water and waste systems and damage ecosystems.",
-          "Digital technologies improve health outcomes through telehealth, mobile health information, disease surveillance and access to education in remote areas.",
-          "However, unequal access creates a digital divide, and digital platforms also carry health misinformation and marketing of harmful products."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Tourism generates income, employment and infrastructure such as roads, clean water and airports, which can raise living standards for local communities."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Tourism can also spread infectious disease rapidly between countries, and can strain local water and waste systems and damage ecosystems.",
+              "Digital technologies improve health outcomes through telehealth, mobile health information, disease surveillance and access to education in remote areas.",
+              "However, unequal access creates a digital divide, and digital platforms also carry health misinformation and marketing of harmful products."
+            ]
+          }
         ]
       }
     },
@@ -1058,10 +1436,20 @@
         "key": "health-human-development-34:4.2.1",
         "title": "Why the Sustainable Development Goals matter",
         "front": "Why the Sustainable Development Goals matter",
-        "back": [
-          "The goals interact: conditions outside health services can affect health outcomes.",
-          "Safer water can reduce exposure to waterborne pathogens and associated illness, contributing to SDG 3.",
-          "Less illness or less time collecting water can create opportunities for education or work, supporting human development."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The goals interact: conditions outside health services can affect health outcomes."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Safer water can reduce exposure to waterborne pathogens and associated illness, contributing to SDG 3.",
+              "Less illness or less time collecting water can create opportunities for education or work, supporting human development."
+            ]
+          }
         ]
       }
     },
@@ -1086,11 +1474,21 @@
         "key": "health-human-development-34:4.2.2",
         "title": "Key features of SDG 3",
         "front": "Key features of SDG 3",
-        "back": [
-          "SDG 3 aims to ensure healthy lives and promote wellbeing for all at all ages.",
-          "One target is to reduce the global maternal mortality ratio and end preventable deaths of newborns and children under five.",
-          "Another is to end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis and waterborne diseases.",
-          "Further targets address non-communicable disease and mental health, substance abuse, road traffic deaths, universal health coverage and access to medicines and vaccines."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "SDG 3 aims to ensure healthy lives and promote wellbeing for all at all ages."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "One target is to reduce the global maternal mortality ratio and end preventable deaths of newborns and children under five.",
+              "Another is to end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis and waterborne diseases.",
+              "Further targets address non-communicable disease and mental health, substance abuse, road traffic deaths, universal health coverage and access to medicines and vaccines."
+            ]
+          }
         ]
       }
     },
@@ -1115,11 +1513,21 @@
         "key": "health-human-development-34:4.2.3",
         "title": "SDG 1 and SDG 3",
         "front": "SDG 1 and SDG 3",
-        "back": [
-          "Poverty prevents people from affording nutritious food, safe housing, clean water and health care, so it directly produces ill health.",
-          "Reducing poverty raises the resources available for the basic needs that health depends on, improving health status.",
-          "The relationship runs both ways, since illness prevents people from working and imposes treatment costs that push households into poverty.",
-          "Progress on either goal therefore supports the other, which is why the SDGs are described as interconnected."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Poverty prevents people from affording nutritious food, safe housing, clean water and health care, so it directly produces ill health."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reducing poverty raises the resources available for the basic needs that health depends on, improving health status.",
+              "The relationship runs both ways, since illness prevents people from working and imposes treatment costs that push households into poverty.",
+              "Progress on either goal therefore supports the other, which is why the SDGs are described as interconnected."
+            ]
+          }
         ]
       }
     },
@@ -1144,8 +1552,23 @@
         "key": "health-human-development-34:4.2.4",
         "title": "SDG 2 and SDG 3",
         "front": "SDG 2 and SDG 3",
-        "back": [
-          "Connect food security and improved nutrition with health. Explain how progress can also support learning, work and participation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Connect food security and improved nutrition with health.",
+              "Explain how progress can also support learning, work and participation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "SDG 2 aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+              "Undernutrition weakens the immune system, so children are more likely to die from otherwise treatable infections such as measles and diarrhoeal disease.",
+              "Chronic undernutrition in early childhood causes stunting and impaired cognitive development, which cannot be fully reversed later.",
+              "Adequate nutrition therefore reduces child mortality and morbidity, directly advancing the targets of SDG 3."
+            ]
+          }
         ]
       }
     },
@@ -1170,11 +1593,21 @@
         "key": "health-human-development-34:4.2.5",
         "title": "SDG 4 and SDG 3",
         "front": "SDG 4 and SDG 3",
-        "back": [
-          "Education increases health literacy, so people can understand health information, recognise symptoms and follow treatment.",
-          "Educated women have fewer, better spaced pregnancies and are more likely to use antenatal care and have their children immunised.",
-          "Education raises earning capacity, which increases the resources a household can direct to food, housing and health care.",
-          "These effects transmit across generations, since the children of educated parents are more likely to be schooled and healthy themselves."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Education increases health literacy, so people can understand health information, recognise symptoms and follow treatment."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Educated women have fewer, better spaced pregnancies and are more likely to use antenatal care and have their children immunised.",
+              "Education raises earning capacity, which increases the resources a household can direct to food, housing and health care.",
+              "These effects transmit across generations, since the children of educated parents are more likely to be schooled and healthy themselves."
+            ]
+          }
         ]
       }
     },
@@ -1199,11 +1632,21 @@
         "key": "health-human-development-34:4.2.6",
         "title": "SDG 5 and SDG 3",
         "front": "SDG 5 and SDG 3",
-        "back": [
-          "Gender equality gives women control over decisions about their own health, including whether and when to seek care.",
-          "Access to family planning and reproductive health services reduces maternal mortality and improves birth spacing and infant survival.",
-          "Equal access to education and employment raises women's income, and women direct a greater share of income to household food, health and schooling.",
-          "Reducing gender-based violence and discriminatory practices directly reduces physical injury, mental illness and premature death."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Gender equality gives women control over decisions about their own health, including whether and when to seek care."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Access to family planning and reproductive health services reduces maternal mortality and improves birth spacing and infant survival.",
+              "Equal access to education and employment raises women's income, and women direct a greater share of income to household food, health and schooling.",
+              "Reducing gender-based violence and discriminatory practices directly reduces physical injury, mental illness and premature death."
+            ]
+          }
         ]
       }
     },
@@ -1228,11 +1671,21 @@
         "key": "health-human-development-34:4.2.7",
         "title": "SDG 6 and SDG 3",
         "front": "SDG 6 and SDG 3",
-        "back": [
-          "Safe drinking water and adequate sanitation prevent transmission of the pathogens causing diarrhoeal disease, cholera and typhoid.",
-          "Diarrhoeal disease is a leading cause of death in children under five, so improving water and sanitation directly reduces child mortality.",
-          "Handwashing facilities reduce transmission of respiratory infection as well as gastrointestinal disease.",
-          "Water close to home also frees time, particularly for women and girls, allowing schooling and work that further improve health."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Safe drinking water and adequate sanitation prevent transmission of the pathogens causing diarrhoeal disease, cholera and typhoid."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Diarrhoeal disease is a leading cause of death in children under five, so improving water and sanitation directly reduces child mortality.",
+              "Handwashing facilities reduce transmission of respiratory infection as well as gastrointestinal disease.",
+              "Water close to home also frees time, particularly for women and girls, allowing schooling and work that further improve health."
+            ]
+          }
         ]
       }
     },
@@ -1257,11 +1710,21 @@
         "key": "health-human-development-34:4.2.8",
         "title": "SDG 12 and SDG 3",
         "front": "SDG 12 and SDG 3",
-        "back": [
-          "SDG 12 promotes sustainable patterns of consumption and production, including reducing waste and managing chemicals safely.",
-          "Sound management of chemicals and waste reduces air, water and soil contamination, lowering rates of respiratory disease, poisoning and cancer.",
-          "Reducing food waste improves food availability and affordability, supporting nutrition.",
-          "Sustainable production preserves the natural resources on which future food and water security, and therefore future health, depend."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "SDG 12 promotes sustainable patterns of consumption and production, including reducing waste and managing chemicals safely."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Sound management of chemicals and waste reduces air, water and soil contamination, lowering rates of respiratory disease, poisoning and cancer.",
+              "Reducing food waste improves food availability and affordability, supporting nutrition.",
+              "Sustainable production preserves the natural resources on which future food and water security, and therefore future health, depend."
+            ]
+          }
         ]
       }
     },
@@ -1286,8 +1749,23 @@
         "key": "health-human-development-34:4.2.9",
         "title": "WHO goals and objectives",
         "front": "WHO goals and objectives",
-        "back": [
-          "Learn the WHO goal and objectives specified in current VCAA support materials. Identify how an organisation's action in a scenario reflects them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Learn the WHO goal and objectives specified in current VCAA support materials.",
+              "Identify how an organisation's action in a scenario reflects them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The WHO is the United Nations agency responsible for international public health, directing and coordinating health work between countries.",
+              "It sets norms and standards, provides technical support, monitors health trends and coordinates responses to health emergencies.",
+              "One priority is achieving universal health coverage, so that all people can access quality health services without financial hardship.",
+              "Another is protecting people from health emergencies, including detecting and responding to outbreaks, and a third is promoting healthier populations by addressing the determinants of health."
+            ]
+          }
         ]
       }
     },
@@ -1312,11 +1790,21 @@
         "key": "health-human-development-34:4.2.10",
         "title": "Forms and purposes of aid",
         "front": "Forms and purposes of aid",
-        "back": [
-          "Emergency or humanitarian aid provides immediate relief after a disaster or conflict, such as food, shelter, water and medical care, to save lives.",
-          "Bilateral aid is given by one government directly to another, usually for longer-term development projects agreed between the two countries.",
-          "Multilateral aid is contributed by governments to international organisations such as the WHO or UNICEF, which pool resources and direct them where need is greatest.",
-          "Non-government organisation aid works directly with communities and is often smaller in scale but closely targeted to local need."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Emergency or humanitarian aid provides immediate relief after a disaster or conflict, such as food, shelter, water and medical care, to save lives."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Bilateral aid is given by one government directly to another, usually for longer-term development projects agreed between the two countries.",
+              "Multilateral aid is contributed by governments to international organisations such as the WHO or UNICEF, which pool resources and direct them where need is greatest.",
+              "Non-government organisation aid works directly with communities and is often smaller in scale but closely targeted to local need."
+            ]
+          }
         ]
       }
     },
@@ -1341,11 +1829,21 @@
         "key": "health-human-development-34:4.2.11",
         "title": "Australia's aid partnerships",
         "front": "Australia's aid partnerships",
-        "back": [
-          "Australia's aid program focuses on the Indo-Pacific, particularly the Pacific and Southeast Asia, and is delivered as bilateral, multilateral and non-government partnerships.",
-          "It prioritises health system strengthening, education, gender equality, disaster resilience and economic development.",
-          "The regional focus reflects geographic proximity, existing relationships and Australia's national interest in a stable and prosperous region.",
-          "Concentrating aid regionally also allows deeper, longer-term partnerships than spreading the same funding across many distant countries."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Australia's aid program focuses on the Indo-Pacific, particularly the Pacific and Southeast Asia, and is delivered as bilateral, multilateral and non-government partnerships."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It prioritises health system strengthening, education, gender equality, disaster resilience and economic development.",
+              "The regional focus reflects geographic proximity, existing relationships and Australia's national interest in a stable and prosperous region.",
+              "Concentrating aid regionally also allows deeper, longer-term partnerships than spreading the same funding across many distant countries."
+            ]
+          }
         ]
       }
     },
@@ -1370,11 +1868,21 @@
         "key": "health-human-development-34:4.2.12",
         "title": "Judging an aid program",
         "front": "Judging an aid program",
-        "back": [
-          "Whether it addresses the underlying cause of the problem rather than only its symptoms, since treating symptoms produces only temporary improvement.",
-          "Whether the community participated in designing and delivering it, since programs imposed from outside often do not match local priorities and are abandoned.",
-          "Whether it is sustainable, meaning the benefit continues after external funding and staff withdraw, which usually requires local training and ownership.",
-          "Whether it reaches the most disadvantaged and produces measurable improvement in health or development indicators, rather than only being delivered as planned."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Whether it addresses the underlying cause of the problem rather than only its symptoms, since treating symptoms produces only temporary improvement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Whether the community participated in designing and delivering it, since programs imposed from outside often do not match local priorities and are abandoned.",
+              "Whether it is sustainable, meaning the benefit continues after external funding and staff withdraw, which usually requires local training and ownership.",
+              "Whether it reaches the most disadvantaged and produces measurable improvement in health or development indicators, rather than only being delivered as planned."
+            ]
+          }
         ]
       }
     },
@@ -1399,8 +1907,23 @@
         "key": "health-human-development-34:4.2.13",
         "title": "Individual and collective action",
         "front": "Individual and collective action",
-        "back": [
-          "Propose achievable actions with communities or national and international organisations. Explain how participation can contribute to health and human development."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Propose achievable actions with communities or national and international organisations.",
+              "Explain how participation can contribute to health and human development."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Individuals can raise awareness and advocate, for example by signing petitions, contacting members of parliament or campaigning for increased aid funding.",
+              "Individuals can also contribute directly by donating to reputable non-government organisations or volunteering skills and time.",
+              "Consumer choices such as buying fair trade products shift demand towards producers meeting labour and environmental standards.",
+              "Action is most effective when it is sustained rather than one-off, directed to organisations working with communities rather than imposing on them, and combined with others so it influences government policy."
+            ]
+          }
         ]
       }
     }

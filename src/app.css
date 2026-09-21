@@ -48,16 +48,48 @@ dialog.setup::backdrop{background:#0009;backdrop-filter:blur(8px)}
 .qcard[role="button"]{cursor:zoom-in;transition:transform 180ms var(--ease-out),border-color 180ms var(--ease-out),box-shadow 180ms var(--ease-out)}
 .qcard[role="button"]:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
 @media(hover:hover) and (pointer:fine){.qcard[role="button"]:hover{transform:translateY(-2px);border-color:var(--ink-faint)}}
-dialog.card-focus{width:min(760px,calc(100% - 32px));max-height:calc(100dvh - 48px);overflow:auto;overscroll-behavior:contain;border:1px solid var(--rule);border-radius:20px;padding:18px;background:var(--paper);color:var(--ink);font:inherit;box-shadow:0 28px 90px #0008}
+dialog.card-focus{width:min(1180px,calc(100% - 40px));height:min(88dvh,900px);max-height:calc(100dvh - 32px);overflow:auto;overscroll-behavior:contain;border:1px solid var(--rule);border-radius:20px;padding:clamp(16px,2vw,26px);background:var(--paper);color:var(--ink);font:inherit;box-shadow:0 28px 90px #0008}
 dialog.card-focus::backdrop{background:#000a;backdrop-filter:blur(8px)}
 .card-focus-toolbar,.card-focus-nav{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .card-focus-toolbar{margin-bottom:12px}.card-focus-toolbar>span{font:11px var(--mono);color:var(--ink-faint)}
-.card-focus-card{cursor:default;padding:clamp(24px,5vw,46px)}
-.card-focus-card h2{margin:0 0 24px;font-size:clamp(28px,5vw,44px);line-height:1.08;letter-spacing:-.035em}
+.card-focus-card{cursor:default;min-height:calc(100% - 104px);padding:clamp(30px,5vw,70px);display:flex;flex-direction:column;justify-content:center}
+.card-focus-card h2{margin:0 0 clamp(24px,4vh,44px);font-size:clamp(36px,5.8vw,72px);line-height:1.03;letter-spacing:-.045em}
 .card-focus-card .qcard-head{margin-bottom:18px}.card-focus-card ul{padding-left:22px}.card-focus-card li{font-size:clamp(15px,2vw,18px);line-height:1.65;margin-bottom:10px}
-.card-focus-label{margin:0 0 12px;font:10px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint)}
+.flashcard-sections{display:grid;gap:18px}.flashcard-section h5{margin:0 0 9px;font:600 10px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint)}
+.flashcard-section ul{margin:0;padding-left:18px}.flashcard-section li{margin-bottom:7px}
+.card-focus-card .flashcard-sections{grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:clamp(22px,4vw,56px)}
+.card-focus-card .flashcard-section h5{font-size:clamp(11px,1.2vw,14px)}
+.card-focus-card .flashcard-section li{font-size:clamp(18px,2.1vw,27px);line-height:1.5;margin-bottom:14px}
 .card-focus-nav{margin-top:12px}.card-focus-nav button{min-width:112px}
 @media(max-width:620px){dialog.card-focus{width:calc(100% - 20px);max-height:calc(100dvh - 20px);padding:12px}.card-focus-card{padding:24px 20px}.card-focus-nav button{min-width:0}}
+
+/* Keep the dashboard inside the available window; subjects paginate when needed. */
+.wrap.dashboard-wrap{min-height:100dvh;padding-bottom:14px;display:grid;grid-template-rows:1fr auto auto;align-content:stretch}
+html[data-desktop="true"] .dashboard-wrap{min-height:calc(100dvh - 40px)}
+html[data-desktop="true"][data-app-fullscreen="true"] .dashboard-wrap{min-height:100dvh}
+.dashboard-wrap #home{display:grid;align-content:start;min-height:0}
+.dashboard-wrap #home .masthead{padding-top:clamp(18px,4vh,42px);gap:clamp(18px,3vw,36px)}
+.dashboard-wrap #home .totals{padding:clamp(18px,2.5vw,28px)}
+.dashboard-wrap #home .totals .bar{height:18px}.dashboard-wrap #home .totals .count{font-size:12px;font-weight:600}
+.dashboard-wrap #home .legend-key{margin-top:12px;padding-top:12px}.dashboard-wrap #home .readout{margin-top:8px}
+.dashboard-wrap .subject-heading{margin-top:clamp(12px,2vh,22px)}
+.dashboard-actions,.subject-pages{display:flex;align-items:center;gap:8px}.subject-pages span{min-width:42px;text-align:center;font:11px var(--mono);color:var(--ink-soft)}
+.subject-pages .ghost{min-width:38px;padding-inline:10px}
+.dashboard-wrap #subject-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.dashboard-wrap #subject-list .subject,.dashboard-wrap #subject-list .subject:first-child{grid-column:auto;grid-template-columns:1fr;gap:10px;min-height:92px;padding:14px 16px;align-content:center}
+.dashboard-wrap #subject-list .subject h2,.dashboard-wrap #subject-list .subject:first-child h2{font-size:clamp(17px,2vw,22px)}
+.dashboard-wrap .sync{margin-top:12px;padding:12px 16px;display:grid;grid-template-columns:auto minmax(180px,1fr) auto;gap:8px 16px;align-items:center}
+.dashboard-wrap .sync-head,.dashboard-wrap .sync-status{margin:0}.dashboard-wrap .sync-actions{justify-content:flex-end}
+.dashboard-wrap footer{margin-top:10px;padding-top:10px;gap:7px 8px}.dashboard-wrap footer .colophon{display:none}
+.dashboard-wrap .theme-option{min-height:34px;padding:5px 8px}.dashboard-wrap .ghost{padding-block:6px}
+@media(max-width:760px){.dashboard-wrap .sync{grid-template-columns:1fr 1fr}.dashboard-wrap .sync-actions{grid-column:1/-1;justify-content:flex-start}.dashboard-wrap footer .status{flex-basis:100%}}
+@media(max-width:520px){.dashboard-wrap #home .standfirst{display:none}.dashboard-wrap #subject-list{grid-template-columns:1fr}.dashboard-actions{gap:4px}.dashboard-wrap .sync{display:block}.dashboard-wrap .sync-status{margin:5px 0 8px}.dashboard-wrap footer{font-size:11px}}
+
+/* Reduce scroll-time layout and paint work without removing any visual blur. */
+.area,.deck>.qcard,.qz{content-visibility:auto;contain-intrinsic-size:auto 220px}
+.point{content-visibility:auto;contain-intrinsic-size:auto 100px;contain:layout paint style}
+.controls{transform:translateZ(0);backface-visibility:hidden;contain:paint}
+body::before{transform:translateZ(0);backface-visibility:hidden;contain:paint}
 .subject-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin:28px 0;border-block:1px solid var(--rule)}
 .subject-steps button{display:grid;grid-template-columns:auto 1fr;gap:3px 12px;text-align:left;padding:18px 20px;border:0;border-right:1px solid var(--rule);background:transparent;color:var(--ink)}
 .subject-steps button:last-child{border-right:0}.subject-steps button[aria-current="step"]{background:var(--track)}

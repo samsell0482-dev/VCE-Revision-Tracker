@@ -47,8 +47,21 @@
         "key": "physical-education-34:3.1.1",
         "title": "Classification of movement skills",
         "front": "Classification of movement skills",
-        "back": [
-          "Classifying skills as fine or gross, discrete, serial or continuous, and open or closed, and justifying the classification with reference to the movement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Classifying skills as fine or gross, discrete, serial or continuous, and open or closed, and justifying the classification with reference to the movement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Gross motor skill, because it uses large muscle groups of the legs, trunk and arms rather than small precise muscles alone.",
+              "Discrete, because it has a clear beginning and end.",
+              "Closed, because it is performed in a predictable environment with the shooter self-paced and no direct interference at the moment of release."
+            ]
+          }
         ]
       }
     },
@@ -73,8 +86,22 @@
         "key": "physical-education-34:3.1.2",
         "title": "Stages of learning",
         "front": "Stages of learning",
-        "back": [
-          "The cognitive, associative and autonomous stages, and the characteristics of performance, error rate, attention and feedback needs in each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The cognitive, associative and autonomous stages, and the characteristics of performance, error rate, attention and feedback needs in each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The athlete is in the autonomous stage of learning.",
+              "Performance is consistent and largely automatic, so attention is freed for tactical decisions and scanning the environment.",
+              "They require minimal, highly specific feedback, often intrinsic and focused on fine-tuning technique.",
+              "Coach feedback at this stage is best directed at strategy and at small technical refinements rather than basic execution."
+            ]
+          }
         ]
       }
     },
@@ -99,8 +126,22 @@
         "key": "physical-education-34:3.1.3",
         "title": "Practice strategies",
         "front": "Practice strategies",
-        "back": [
-          "Massed and distributed practice, blocked and random practice, and whole and part practice, and the situations in which each is appropriate."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Massed and distributed practice, blocked and random practice, and whole and part practice, and the situations in which each is appropriate."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Blocked practice repeats one skill many times consecutively, allowing the learner to groove the movement pattern.",
+              "Random practice varies the skill or the order of skills between attempts, which better replicates game conditions.",
+              "Blocked practice suits a cognitive learner, since repetition builds the basic motor pattern and reduces error rate.",
+              "Random practice produces better long-term retention and transfer, so it suits associative and autonomous learners."
+            ]
+          }
         ]
       }
     },
@@ -125,8 +166,22 @@
         "key": "physical-education-34:3.1.4",
         "title": "Feedback",
         "front": "Feedback",
-        "back": [
-          "Intrinsic and augmented feedback, knowledge of results and knowledge of performance, and the frequency and type appropriate to each stage of learning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Intrinsic and augmented feedback, knowledge of results and knowledge of performance, and the frequency and type appropriate to each stage of learning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Knowledge of results is information about the outcome of the movement, such as whether the shot went in.",
+              "Knowledge of performance is information about the quality of the movement itself, such as the position of the elbow at release.",
+              "A cognitive learner benefits most from knowledge of performance, because they cannot yet detect their own technical errors.",
+              "It should be delivered frequently, in simple terms and focused on one cue at a time to avoid overload."
+            ]
+          }
         ]
       }
     },
@@ -151,8 +206,22 @@
         "key": "physical-education-34:3.1.5",
         "title": "Qualitative movement analysis",
         "front": "Qualitative movement analysis",
-        "back": [
-          "The stages of preparation, observation, evaluation and error correction, and the use of video and observation to analyse technique."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The stages of preparation, observation, evaluation and error correction, and the use of video and observation to analyse technique."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Preparation: gather knowledge of the correct technique and the performer, and decide what to observe and from which angle.",
+              "Observation: view the movement several times from appropriate vantage points, often using video and slow motion.",
+              "Evaluation: compare the observed technique with the correct model to identify strengths and the most significant error.",
+              "Error correction: provide feedback and a corrective strategy, prioritising the error that will most improve performance."
+            ]
+          }
         ]
       }
     },
@@ -177,8 +246,22 @@
         "key": "physical-education-34:3.1.6",
         "title": "Newton's laws applied to movement",
         "front": "Newton's laws applied to movement",
-        "back": [
-          "Inertia, acceleration and action-reaction applied to sporting movements, and the link between force, mass and acceleration."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Inertia, acceleration and action-reaction applied to sporting movements, and the link between force, mass and acceleration."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Newton's third law: the sprinter applies a force backwards and downwards into the blocks, and the blocks apply an equal and opposite force forwards and upwards on the sprinter.",
+              "This ground reaction force propels the sprinter forwards.",
+              "Newton's second law: acceleration is proportional to the net force applied and inversely proportional to mass.",
+              "A greater force applied against the blocks therefore produces greater acceleration for a sprinter of a given mass."
+            ]
+          }
         ]
       }
     },
@@ -203,8 +286,22 @@
         "key": "physical-education-34:3.1.7",
         "title": "Levers",
         "front": "Levers",
-        "back": [
-          "First, second and third class levers, the arrangement of fulcrum, force and resistance, and the trade-off between force and speed."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "First, second and third class levers, the arrangement of fulcrum, force and resistance, and the trade-off between force and speed."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Most human limb movements use third class levers, in which the force is applied between the fulcrum and the resistance.",
+              "The force arm is shorter than the resistance arm, so the muscle must generate a force greater than the resistance being moved.",
+              "The trade-off is mechanical disadvantage in force but an advantage in speed and range of movement.",
+              "A small muscle contraction therefore produces a large, fast movement at the end of the limb, which suits throwing and kicking."
+            ]
+          }
         ]
       }
     },
@@ -229,8 +326,22 @@
         "key": "physical-education-34:3.1.8",
         "title": "Force summation",
         "front": "Force summation",
-        "back": [
-          "The sequencing and timing of body segments from largest to smallest, the use of the stretch-shorten cycle, and the transfer of momentum."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The sequencing and timing of body segments from largest to smallest, the use of the stretch-shorten cycle, and the transfer of momentum."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Force summation is the coordinated use of body segments to produce maximum force, sequenced from the largest and slowest to the smallest and fastest.",
+              "The movement begins with the legs and hips, transfers through the trunk, then the shoulder, elbow and finally the wrist and fingers.",
+              "Each segment must be timed so it begins at the point of peak velocity of the preceding segment, so momentum accumulates rather than being lost.",
+              "A stable base and a preparatory backswing also increase the range of motion over which force can be applied."
+            ]
+          }
         ]
       }
     },
@@ -254,8 +365,21 @@
         "key": "physical-education-34:3.1.9",
         "title": "Angular momentum and rotation",
         "front": "Angular momentum and rotation",
-        "back": [
-          "The relationship between moment of inertia and angular velocity, and the manipulation of body position to control rotation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The relationship between moment of inertia and angular velocity, and the manipulation of body position to control rotation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Tucking brings the mass closer to the axis of rotation, reducing the moment of inertia.",
+              "Because angular momentum is conserved once airborne, a reduced moment of inertia produces an increased angular velocity, so the diver spins faster.",
+              "Extending before entry increases the moment of inertia again, slowing the rotation so the diver can control the position of entry."
+            ]
+          }
         ]
       }
     },
@@ -280,8 +404,22 @@
         "key": "physical-education-34:3.1.10",
         "title": "Balance, stability and centre of gravity",
         "front": "Balance, stability and centre of gravity",
-        "back": [
-          "The effect of base of support, height of the centre of gravity, mass and the line of gravity on stability, and the trade-off with mobility."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The effect of base of support, height of the centre of gravity, mass and the line of gravity on stability, and the trade-off with mobility."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A wrestler widens the base of support and lowers the centre of gravity, keeping the line of gravity centred within the base.",
+              "Greater mass and a low, wide position make it harder for an opponent to move the line of gravity outside the base, so stability is high.",
+              "A sprinter deliberately raises the centre of gravity and shifts the line of gravity towards the front of the base.",
+              "This reduces stability but allows rapid acceleration in the intended direction, because the body is already falling forwards."
+            ]
+          }
         ]
       }
     },
@@ -305,8 +443,21 @@
         "key": "physical-education-34:3.1.11",
         "title": "Projectile motion",
         "front": "Projectile motion",
-        "back": [
-          "The effects of angle of release, speed of release and height of release on the flight path of a projectile."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The effects of angle of release, speed of release and height of release on the flight path of a projectile."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Angle of release, speed of release and height of release determine the flight path.",
+              "Speed of release has the greatest effect on the distance travelled, because horizontal displacement increases with the square of velocity.",
+              "Height of release above the landing point means the optimal angle is slightly less than 45 degrees."
+            ]
+          }
         ]
       }
     },
@@ -331,8 +482,22 @@
         "key": "physical-education-34:3.1.12",
         "title": "Coaching approaches and constraints",
         "front": "Coaching approaches and constraints",
-        "back": [
-          "Direct instruction and constraints-based approaches, and manipulating task, environmental and individual constraints to shape skill development."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Direct instruction and constraints-based approaches, and manipulating task, environmental and individual constraints to shape skill development."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A constraints-based approach designs practice conditions so that the desired movement or decision emerges, rather than instructing the athlete directly.",
+              "Constraints may be individual, such as the athlete's height or confidence, environmental, such as playing surface or weather, or task related.",
+              "Manipulating a task constraint could mean reducing the size of the playing area to increase the frequency of decisions under pressure.",
+              "The approach develops decision making and adaptability because the athlete solves the movement problem themselves."
+            ]
+          }
         ]
       }
     },
@@ -356,8 +521,21 @@
         "key": "physical-education-34:3.2.1",
         "title": "ATP as the energy currency",
         "front": "ATP as the energy currency",
-        "back": [
-          "The breakdown of ATP to ADP and inorganic phosphate to release energy for muscular contraction, and the need for continuous resynthesis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The breakdown of ATP to ADP and inorganic phosphate to release energy for muscular contraction, and the need for continuous resynthesis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "ATP is the only immediately usable form of chemical energy for muscular contraction.",
+              "Stores of ATP within the muscle are very small and would be exhausted within one to two seconds of maximal effort.",
+              "The three energy systems therefore resynthesise ATP from ADP and inorganic phosphate at rates matched to the intensity and duration of the activity."
+            ]
+          }
         ]
       }
     },
@@ -382,8 +560,22 @@
         "key": "physical-education-34:3.2.2",
         "title": "The ATP-PC system",
         "front": "The ATP-PC system",
-        "back": [
-          "Fuel, rate and yield of ATP production, duration of maximal contribution, by-products and recovery of phosphocreatine stores."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Fuel, rate and yield of ATP production, duration of maximal contribution, by-products and recovery of phosphocreatine stores."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fuel: phosphocreatine stored within the muscle.",
+              "Rate: the fastest of the three systems, producing ATP almost instantly, but the yield is very low at one ATP per molecule of phosphocreatine.",
+              "Duration: it is the predominant system for maximal efforts of roughly one to ten seconds.",
+              "By-products: heat and inorganic phosphate only, with no fatiguing metabolic by-product, and stores are largely replenished within two to three minutes of passive recovery."
+            ]
+          }
         ]
       }
     },
@@ -408,8 +600,22 @@
         "key": "physical-education-34:3.2.3",
         "title": "The anaerobic glycolysis system",
         "front": "The anaerobic glycolysis system",
-        "back": [
-          "Fuel, rate, yield, duration of predominance, and the accumulation of hydrogen ions associated with metabolic acidosis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Fuel, rate, yield, duration of predominance, and the accumulation of hydrogen ions associated with metabolic acidosis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fuel: muscle glycogen and blood glucose, broken down without oxygen.",
+              "Rate: fast, though slower than the ATP-PC system, with a yield of about two ATP per molecule of glucose.",
+              "Duration: it is the predominant system for high intensity efforts of roughly ten seconds to one or two minutes.",
+              "The accumulation of hydrogen ions lowers muscle pH, causing metabolic acidosis, which interferes with enzyme activity and calcium binding and reduces force production."
+            ]
+          }
         ]
       }
     },
@@ -434,8 +640,22 @@
         "key": "physical-education-34:3.2.4",
         "title": "The aerobic system",
         "front": "The aerobic system",
-        "back": [
-          "Fuels of carbohydrate, fat and protein, the rate and very high yield, the requirement for oxygen and the duration of predominance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Fuels of carbohydrate, fat and protein, the rate and very high yield, the requirement for oxygen and the duration of predominance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fuel: carbohydrate at higher intensities and fat at lower intensities, with protein contributing only in prolonged exercise.",
+              "Rate: the slowest of the three systems, but the yield is by far the highest, at roughly 36 to 38 ATP per molecule of glucose.",
+              "It is the predominant system beyond about two minutes and for all submaximal continuous exercise.",
+              "Fat requires more oxygen per unit of ATP produced than carbohydrate, so it can only predominate when intensity is low enough for oxygen supply to meet demand."
+            ]
+          }
         ]
       }
     },
@@ -460,8 +680,22 @@
         "key": "physical-education-34:3.2.5",
         "title": "Interplay of energy systems",
         "front": "Interplay of energy systems",
-        "back": [
-          "The simultaneous contribution of all three systems, with the predominant system determined by intensity and duration, and the shifts that occur within an activity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The simultaneous contribution of all three systems, with the predominant system determined by intensity and duration, and the shifts that occur within an activity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "All three systems contribute throughout; the question is which predominates at each point.",
+              "The ATP-PC system predominates for the first few seconds out of the blocks, providing the immediate rapid ATP for maximal acceleration.",
+              "Anaerobic glycolysis then predominates for the majority of the race, supporting high intensity effort as phosphocreatine stores deplete.",
+              "The aerobic contribution increases progressively as the race continues, and hydrogen ion accumulation causes the characteristic slowing over the final 100 metres."
+            ]
+          }
         ]
       }
     },
@@ -486,8 +720,22 @@
         "key": "physical-education-34:3.2.6",
         "title": "Oxygen uptake at the onset of exercise",
         "front": "Oxygen uptake at the onset of exercise",
-        "back": [
-          "The oxygen deficit at the start of exercise, the attainment of steady state, and the excess post-exercise oxygen consumption during recovery."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The oxygen deficit at the start of exercise, the attainment of steady state, and the excess post-exercise oxygen consumption during recovery."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "At the onset of exercise, oxygen demand rises immediately but oxygen supply increases more slowly, creating an oxygen deficit.",
+              "The shortfall is met by the anaerobic systems, which supply ATP until oxygen delivery catches up.",
+              "Steady state occurs when oxygen supply equals oxygen demand, so the aerobic system meets the full ATP requirement and the plot plateaus.",
+              "Steady state can only be reached at submaximal intensities; above the lactate inflection point, demand continues to exceed supply."
+            ]
+          }
         ]
       }
     },
@@ -512,8 +760,22 @@
         "key": "physical-education-34:3.2.7",
         "title": "Acute cardiovascular responses",
         "front": "Acute cardiovascular responses",
-        "back": [
-          "Changes in heart rate, stroke volume, cardiac output, blood pressure, blood flow redistribution and a-vO2 difference during exercise."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Changes in heart rate, stroke volume, cardiac output, blood pressure, blood flow redistribution and a-vO2 difference during exercise."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Heart rate increases in proportion to intensity, raising the volume of blood pumped per minute.",
+              "Stroke volume increases up to roughly 40 to 60 per cent of maximum intensity, after which it plateaus.",
+              "Cardiac output, the product of heart rate and stroke volume, increases substantially to deliver more oxygenated blood to the working muscles.",
+              "Blood is redistributed from the organs and gut to the working muscles and skin, and the a-vO2 difference increases as muscles extract more oxygen."
+            ]
+          }
         ]
       }
     },
@@ -537,8 +799,21 @@
         "key": "physical-education-34:3.2.8",
         "title": "Acute respiratory and muscular responses",
         "front": "Acute respiratory and muscular responses",
-        "back": [
-          "Changes in respiratory rate, tidal volume, ventilation and gaseous exchange, and in muscle temperature, blood flow and motor unit recruitment."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Changes in respiratory rate, tidal volume, ventilation and gaseous exchange, and in muscle temperature, blood flow and motor unit recruitment."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Respiratory rate and tidal volume both increase, raising ventilation, which is the volume of air moved per minute.",
+              "Increased ventilation maintains the concentration gradients for oxygen and carbon dioxide at the alveoli.",
+              "Gaseous exchange at both the lungs and the muscles increases, supplying more oxygen and removing more carbon dioxide."
+            ]
+          }
         ]
       }
     },
@@ -563,8 +838,22 @@
         "key": "physical-education-34:3.3.1",
         "title": "Fatigue mechanisms",
         "front": "Fatigue mechanisms",
-        "back": [
-          "Fuel depletion of phosphocreatine and glycogen, metabolic by-product accumulation, thermoregulatory fatigue and neuromuscular fatigue."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Fuel depletion of phosphocreatine and glycogen, metabolic by-product accumulation, thermoregulatory fatigue and neuromuscular fatigue."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The marathon runner is most likely experiencing glycogen depletion, since muscle and liver glycogen stores are limited and the aerobic system has been predominant for hours.",
+              "Depletion forces greater reliance on fat, which produces ATP more slowly, so pace falls; dehydration and thermoregulatory fatigue also contribute.",
+              "The 200 metre sprinter is most likely experiencing accumulation of hydrogen ions from anaerobic glycolysis.",
+              "The resulting drop in muscle pH inhibits enzyme activity and calcium binding, reducing the force of contraction."
+            ]
+          }
         ]
       }
     },
@@ -589,8 +878,22 @@
         "key": "physical-education-34:3.3.2",
         "title": "Passive and active recovery",
         "front": "Passive and active recovery",
-        "back": [
-          "The circumstances in which each is appropriate, and the effect of light activity on the removal of metabolic by-products."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The circumstances in which each is appropriate, and the effect of light activity on the removal of metabolic by-products."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Passive recovery is preferable between repeated maximal efforts of short duration, because it allows the fastest restoration of phosphocreatine stores.",
+              "Active recovery maintains elevated blood flow to the working muscles after high intensity anaerobic exercise.",
+              "Elevated blood flow increases the rate at which hydrogen ions and lactate are transported away and metabolised.",
+              "It is therefore preferred after events dominated by anaerobic glycolysis, typically at around 30 to 40 per cent of maximum intensity."
+            ]
+          }
         ]
       }
     },
@@ -615,8 +918,22 @@
         "key": "physical-education-34:3.3.3",
         "title": "Recovery strategies",
         "front": "Recovery strategies",
-        "back": [
-          "Rehydration, refuelling and the glycogen window, cool downs, compression, hydrotherapy, massage and sleep, and the evidence for each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Rehydration, refuelling and the glycogen window, cool downs, compression, hydrotherapy, massage and sleep, and the evidence for each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Rehydration with fluid and electrolytes restores plasma volume and supports thermoregulation and cardiovascular function.",
+              "Carbohydrate intake soon after exercise exploits the period of elevated glycogen synthesis to restore muscle glycogen stores.",
+              "An active cool down maintains blood flow to assist removal of metabolic by-products and reduce blood pooling.",
+              "Adequate sleep supports tissue repair and hormonal recovery, and is among the most strongly supported recovery strategies."
+            ]
+          }
         ]
       }
     },
@@ -641,8 +958,22 @@
         "key": "physical-education-34:4.1.1",
         "title": "Activity analysis",
         "front": "Activity analysis",
-        "back": [
-          "Using movement patterns, skill frequencies, work to rest ratios, heart rate data and time in motion analysis to determine the fitness and energy system requirements of an activity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using movement patterns, skill frequencies, work to rest ratios, heart rate data and time in motion analysis to determine the fitness and energy system requirements of an activity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An activity analysis collects data on the physiological demands of an activity, including movement patterns, distances covered, skill frequencies and durations.",
+              "Work to rest ratios and heart rate data indicate the intensity and the predominant energy system.",
+              "This identifies the fitness components most important to performance in that activity.",
+              "The training program can then target those specific components and replicate the work to rest ratios of competition, applying the principle of specificity."
+            ]
+          }
         ]
       }
     },
@@ -666,8 +997,21 @@
         "key": "physical-education-34:4.1.2",
         "title": "Work to rest ratios",
         "front": "Work to rest ratios",
-        "back": [
-          "Calculating work to rest ratios from activity data and using them to identify the predominant energy system and to design interval training."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Calculating work to rest ratios from activity data and using them to identify the predominant energy system and to design interval training."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The ATP-PC system is predominant.",
+              "Efforts of around 6 seconds at maximal intensity are supplied primarily by phosphocreatine stores.",
+              "A long recovery relative to work, at 1 to 5, allows substantial restoration of phosphocreatine between efforts, so the same system can supply each repeat."
+            ]
+          }
         ]
       }
     },
@@ -691,8 +1035,21 @@
         "key": "physical-education-34:4.1.3",
         "title": "Aerobic power",
         "front": "Aerobic power",
-        "back": [
-          "Definition, the role of VO2 max, the factors affecting it, and the tests used to assess it including the multistage fitness test."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Definition, the role of VO2 max, the factors affecting it, and the tests used to assess it including the multistage fitness test."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Aerobic power is the ability of the body to take in, transport and use oxygen to produce energy aerobically over an extended period.",
+              "The multistage fitness test, or beep test, is a valid field test that estimates VO2 max from the level reached.",
+              "A limitation is that it only estimates VO2 max rather than measuring it directly, and the result is affected by motivation, running technique and surface."
+            ]
+          }
         ]
       }
     },
@@ -716,8 +1073,21 @@
         "key": "physical-education-34:4.1.4",
         "title": "Anaerobic capacity and muscular power",
         "front": "Anaerobic capacity and muscular power",
-        "back": [
-          "Definitions and tests for anaerobic capacity, muscular power and speed, including the phosphate recovery test, vertical jump and sprint tests."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Definitions and tests for anaerobic capacity, muscular power and speed, including the phosphate recovery test, vertical jump and sprint tests."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Muscular strength is the maximum force a muscle or muscle group can exert in a single contraction, tested by a one repetition maximum lift or grip dynamometer.",
+              "Muscular power is the ability to exert a large force rapidly, combining strength and speed, tested by a vertical jump or standing long jump.",
+              "Power is more relevant to explosive sporting actions, since most require force applied quickly rather than maximum force applied slowly."
+            ]
+          }
         ]
       }
     },
@@ -741,8 +1111,21 @@
         "key": "physical-education-34:4.1.5",
         "title": "Muscular endurance, flexibility and body composition",
         "front": "Muscular endurance, flexibility and body composition",
-        "back": [
-          "Definitions, the tests used, and the relevance of each component to particular activities."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Definitions, the tests used, and the relevance of each component to particular activities."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Muscular endurance is the ability of a muscle or muscle group to sustain repeated contractions over an extended period without fatiguing.",
+              "A rower performs a continuous, repeated contraction of the legs, trunk and arms for the duration of the race.",
+              "Without muscular endurance, local muscular fatigue would reduce stroke power well before aerobic capacity became limiting."
+            ]
+          }
         ]
       }
     },
@@ -766,8 +1149,21 @@
         "key": "physical-education-34:4.1.6",
         "title": "Agility, balance, coordination and reaction time",
         "front": "Agility, balance, coordination and reaction time",
-        "back": [
-          "The skill-related fitness components, their definitions, appropriate tests and their contribution to performance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The skill-related fitness components, their definitions, appropriate tests and their contribution to performance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Agility is the ability to change direction of the whole body rapidly and accurately while maintaining control.",
+              "The Illinois agility run is a common test, requiring sprinting, weaving and rapid changes of direction over a set course.",
+              "The time taken reflects the athlete's ability to decelerate, change direction and reaccelerate efficiently."
+            ]
+          }
         ]
       }
     },
@@ -792,8 +1188,22 @@
         "key": "physical-education-34:4.1.7",
         "title": "Fitness testing protocols",
         "front": "Fitness testing protocols",
-        "back": [
-          "The importance of standardised protocols, validity and reliability, and the pre-test conditions that affect results."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The importance of standardised protocols, validity and reliability, and the pre-test conditions that affect results."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Standardised protocols ensure the test measures the same thing in the same way each time, which supports reliability.",
+              "Without them, a change in score may reflect a change in testing conditions rather than a change in fitness.",
+              "Pre-test conditions to control include time since the last meal and the last training session, and hydration status.",
+              "Time of day, footwear, surface and the standardised warm-up should also be kept consistent between pre-test and post-test."
+            ]
+          }
         ]
       }
     },
@@ -817,8 +1227,21 @@
         "key": "physical-education-34:4.2.1",
         "title": "Principle of specificity",
         "front": "Principle of specificity",
-        "back": [
-          "Matching the training method, muscle groups, movement patterns, energy systems and intensity to the demands of the activity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Matching the training method, muscle groups, movement patterns, energy systems and intensity to the demands of the activity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Specificity requires that training match the fitness components, muscle groups, movement patterns and energy systems used in the activity.",
+              "A 1500 metre runner relies heavily on aerobic power with a significant anaerobic glycolysis contribution, so training must target both.",
+              "Training should therefore be running based rather than cycling based, and should include intervals at race pace as well as continuous aerobic work."
+            ]
+          }
         ]
       }
     },
@@ -842,8 +1265,21 @@
         "key": "physical-education-34:4.2.2",
         "title": "Progressive overload",
         "front": "Progressive overload",
-        "back": [
-          "Increasing frequency, intensity, duration or type over time so that the body continues to adapt, and the consequences of progressing too quickly."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Increasing frequency, intensity, duration or type over time so that the body continues to adapt, and the consequences of progressing too quickly."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Progressive overload requires that the training stimulus be increased over time, since the body adapts to a given load and further improvement then stops.",
+              "Overload can be applied by increasing frequency, intensity or duration, or by changing the type of training.",
+              "Progressing too quickly increases the risk of overtraining and injury, because the body is not given sufficient recovery to adapt to the previous load."
+            ]
+          }
         ]
       }
     },
@@ -868,8 +1304,22 @@
         "key": "physical-education-34:4.2.3",
         "title": "Frequency, intensity, duration and training zones",
         "front": "Frequency, intensity, duration and training zones",
-        "back": [
-          "Setting the frequency, intensity and duration appropriate to the target fitness component, and calculating heart rate training zones."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Setting the frequency, intensity and duration appropriate to the target fitness component, and calculating heart rate training zones."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Estimate maximum heart rate as 220 minus the athlete's age in years, though a measured maximum is more accurate.",
+              "Multiply that maximum by the lower and upper percentages of the target zone to obtain the beats per minute range.",
+              "Aerobic training is commonly prescribed at roughly 70 to 85 per cent of maximum heart rate.",
+              "Training below the zone provides insufficient stimulus to improve aerobic power, while training above it shifts the emphasis to anaerobic systems."
+            ]
+          }
         ]
       }
     },
@@ -894,8 +1344,22 @@
         "key": "physical-education-34:4.2.4",
         "title": "Diminishing returns, variety, maintenance and detraining",
         "front": "Diminishing returns, variety, maintenance and detraining",
-        "back": [
-          "The slowing of improvement as an athlete approaches their potential, the need for variety, and the rate at which adaptations are lost when training stops."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The slowing of improvement as an athlete approaches their potential, the need for variety, and the rate at which adaptations are lost when training stops."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Diminishing returns means that as an athlete becomes fitter, the same training produces progressively smaller improvements.",
+              "An untrained person improves rapidly at first, whereas a highly trained athlete needs large increases in load for small gains.",
+              "Detraining means adaptations are reversible and are lost when the training stimulus is removed.",
+              "Aerobic adaptations begin to decline within about two weeks of inactivity, so a maintenance program is needed during off seasons and injury."
+            ]
+          }
         ]
       }
     },
@@ -919,8 +1383,21 @@
         "key": "physical-education-34:4.2.5",
         "title": "Continuous training",
         "front": "Continuous training",
-        "back": [
-          "Sustained submaximal activity, the intensities and durations used, the fitness components targeted and the adaptations produced."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sustained submaximal activity, the intensities and durations used, the fitness components targeted and the adaptations produced."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Continuous training involves sustained aerobic activity with no rest intervals, typically for at least 20 minutes.",
+              "It is performed at a submaximal intensity, commonly 70 to 85 per cent of maximum heart rate, so a steady state can be maintained.",
+              "It primarily develops aerobic power by improving oxygen delivery and utilisation."
+            ]
+          }
         ]
       }
     },
@@ -945,8 +1422,22 @@
         "key": "physical-education-34:4.2.6",
         "title": "Interval training",
         "front": "Interval training",
-        "back": [
-          "Short, intermediate and long interval training, the manipulation of work and rest to target a specific energy system, and the relevance of work to rest ratios."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Short, intermediate and long interval training, the manipulation of work and rest to target a specific energy system, and the relevance of work to rest ratios."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Use repeated maximal efforts of about 5 to 10 seconds, such as short sprints, since this is the duration over which the ATP-PC system predominates.",
+              "Use a work to rest ratio of about 1 to 5, giving 25 to 50 seconds of passive recovery between efforts.",
+              "The long relative recovery allows substantial restoration of phosphocreatine so each repeat can be performed at maximal intensity.",
+              "Insufficient recovery would shift the session towards anaerobic glycolysis and reduce the quality of each effort."
+            ]
+          }
         ]
       }
     },
@@ -970,8 +1461,21 @@
         "key": "physical-education-34:4.2.7",
         "title": "Fartlek and circuit training",
         "front": "Fartlek and circuit training",
-        "back": [
-          "Varied-pace continuous work in fartlek training, and the station-based structure, work to rest design and versatility of circuit training."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Varied-pace continuous work in fartlek training, and the station-based structure, work to rest design and versatility of circuit training."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fartlek training varies pace continuously between low, moderate and high intensity within a single session.",
+              "This replicates the intermittent demands of team sports, where periods of jogging are interspersed with sprints and recovery.",
+              "It therefore trains both the aerobic and anaerobic systems in the pattern in which they are used in competition, satisfying specificity."
+            ]
+          }
         ]
       }
     },
@@ -996,8 +1500,22 @@
         "key": "physical-education-34:4.2.8",
         "title": "Resistance training and plyometrics",
         "front": "Resistance training and plyometrics",
-        "back": [
-          "Sets, repetitions and loads for strength, power and endurance outcomes, and the stretch-shorten cycle in plyometric training."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sets, repetitions and loads for strength, power and endurance outcomes, and the stretch-shorten cycle in plyometric training."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Muscular strength is developed with heavy loads, typically above 80 per cent of one repetition maximum, for low repetitions of around 1 to 6 and long rests.",
+              "Muscular endurance is developed with light loads, typically below 60 per cent, for high repetitions of 15 or more with short rests.",
+              "Plyometrics uses a rapid eccentric contraction immediately followed by a powerful concentric contraction, exploiting the stretch-shorten cycle.",
+              "The stored elastic energy and stretch reflex increase force production, developing power for jumping and sprinting."
+            ]
+          }
         ]
       }
     },
@@ -1022,8 +1540,22 @@
         "key": "physical-education-34:4.2.9",
         "title": "Chronic cardiovascular and respiratory adaptations",
         "front": "Chronic cardiovascular and respiratory adaptations",
-        "back": [
-          "Cardiac hypertrophy, increased stroke volume and blood volume, reduced resting and submaximal heart rate, capillarisation and increased VO2 max."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Cardiac hypertrophy, increased stroke volume and blood volume, reduced resting and submaximal heart rate, capillarisation and increased VO2 max."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Aerobic training produces hypertrophy of the left ventricle, increasing its internal volume and the force of contraction.",
+              "Increased blood volume also improves venous return and ventricular filling.",
+              "Together these increase stroke volume, so more blood is ejected with each beat.",
+              "Because cardiac output at rest is unchanged, the heart can meet the same demand with fewer beats per minute, producing bradycardia."
+            ]
+          }
         ]
       }
     },
@@ -1048,8 +1580,22 @@
         "key": "physical-education-34:4.2.10",
         "title": "Chronic muscular and metabolic adaptations",
         "front": "Chronic muscular and metabolic adaptations",
-        "back": [
-          "Increased mitochondria, myoglobin, oxidative enzymes, glycogen and phosphocreatine stores, fibre hypertrophy and improved lactate inflection point."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Increased mitochondria, myoglobin, oxidative enzymes, glycogen and phosphocreatine stores, fibre hypertrophy and improved lactate inflection point."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Increased size and number of mitochondria raise the capacity for aerobic ATP production within the muscle.",
+              "Increased myoglobin improves the storage and transport of oxygen within the muscle fibre.",
+              "Increased oxidative enzymes and capillarisation improve the rate of oxygen extraction and fuel metabolism.",
+              "Together these raise the lactate inflection point, so the athlete can work at a higher intensity before anaerobic glycolysis predominates."
+            ]
+          }
         ]
       }
     },
@@ -1074,8 +1620,22 @@
         "key": "physical-education-34:4.2.11",
         "title": "Periodisation",
         "front": "Periodisation",
-        "back": [
-          "Macrocycles, mesocycles and microcycles, the preparatory, competition and transition phases, and tapering before competition."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Macrocycles, mesocycles and microcycles, the preparatory, competition and transition phases, and tapering before competition."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Periodisation divides the training year into cycles so that peak performance coincides with major competition and the risk of overtraining is reduced.",
+              "The preparatory phase builds a general base and then sport-specific fitness, the competition phase maintains fitness and sharpens skills, and the transition phase allows recovery.",
+              "A taper reduces training volume substantially in the one to three weeks before competition while maintaining intensity.",
+              "This allows full recovery, restoration of glycogen and dissipation of accumulated fatigue without losing the adaptations already gained."
+            ]
+          }
         ]
       }
     },
@@ -1100,8 +1660,22 @@
         "key": "physical-education-34:4.2.12",
         "title": "Psychological strategies",
         "front": "Psychological strategies",
-        "back": [
-          "Goal setting, mental imagery, self-talk, confidence, arousal regulation and concentration, and their application in training and competition."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Goal setting, mental imagery, self-talk, confidence, arousal regulation and concentration, and their application in training and competition."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Goal setting directs attention and effort, and specific measurable goals allow progress to be monitored and sustained motivation.",
+              "A combination of outcome, performance and process goals is most effective, since process goals remain within the athlete's control.",
+              "Mental imagery rehearses the skill or the competitive situation without physical execution, reinforcing the motor pattern.",
+              "It also allows the athlete to prepare emotionally for pressure situations, which supports arousal regulation and confidence."
+            ]
+          }
         ]
       }
     },
@@ -1126,8 +1700,22 @@
         "key": "physical-education-34:4.2.13",
         "title": "Nutrition and hydration strategies",
         "front": "Nutrition and hydration strategies",
-        "back": [
-          "Carbohydrate loading, pre-event, during-event and post-event nutrition, hydration and the use of legal aids."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Carbohydrate loading, pre-event, during-event and post-event nutrition, hydration and the use of legal aids."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Carbohydrate loading increases carbohydrate intake in the days before a prolonged endurance event while training volume is tapered.",
+              "This maximises muscle and liver glycogen stores, delaying the onset of glycogen depletion during the event.",
+              "During the event the cyclist should consume easily digestible carbohydrate, such as gels or sports drink, at regular intervals.",
+              "Fluid with electrolytes should be consumed regularly rather than only when thirsty, to limit the fall in plasma volume and support thermoregulation."
+            ]
+          }
         ]
       }
     },
@@ -1152,8 +1740,22 @@
         "key": "physical-education-34:D1",
         "title": "Collecting and interpreting data",
         "front": "Collecting and interpreting data",
-        "back": [
-          "Using heart rate monitors, GPS, video and lactate data, and interpreting graphs of heart rate, oxygen consumption and blood lactate."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using heart rate monitors, GPS, video and lactate data, and interpreting graphs of heart rate, oxygen consumption and blood lactate."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Blood lactate remains relatively low and stable at low intensities, because it is produced and removed at similar rates.",
+              "The lactate inflection point is where the curve rises sharply, indicating production has begun to exceed removal.",
+              "It is usually expressed as a percentage of VO2 max, and a trained athlete's inflection point occurs at a higher percentage.",
+              "A higher inflection point indicates the athlete can sustain a greater intensity before fatiguing by-products accumulate."
+            ]
+          }
         ]
       }
     },
@@ -1177,8 +1779,21 @@
         "key": "physical-education-34:D2",
         "title": "Justifying with data",
         "front": "Justifying with data",
-        "back": [
-          "Referring to specific values, units and trends from stimulus material rather than making general statements, and linking the data to physiological reasoning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Referring to specific values, units and trends from stimulus material rather than making general statements, and linking the data to physiological reasoning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Quote specific values from the stimulus with their units, such as a heart rate in beats per minute or a distance in metres.",
+              "State the trend or comparison the values demonstrate, for example that one athlete's value is higher at the same intensity.",
+              "Link the data to the physiological explanation, since the data alone without reasoning does not answer the question."
+            ]
+          }
         ]
       }
     },
@@ -1203,8 +1818,22 @@
         "key": "physical-education-34:D3",
         "title": "Command terms and mark allocation",
         "front": "Command terms and mark allocation",
-        "back": [
-          "Matching the depth of response to the command term and mark value, and answering every part of a multi-part question."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Matching the depth of response to the command term and mark value, and answering every part of a multi-part question."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify requires only naming the correct item, such as a fitness component or energy system, with no elaboration.",
+              "Explain requires reasons and the physiological mechanism, showing how or why the outcome occurs.",
+              "Evaluate requires weighing strengths against limitations and reaching a supported judgement.",
+              "The mark allocation indicates how many distinct points are required, so a four-mark explain question needs about four linked points."
+            ]
+          }
         ]
       }
     },
@@ -1229,8 +1858,22 @@
         "key": "physical-education-34:4.3.1",
         "title": "Reflective folio and primary data",
         "front": "Reflective folio and primary data",
-        "back": [
-          "Recording primary data and reflection from participation in one comparable movement skill or two different movement skills."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Recording primary data and reflection from participation in one comparable movement skill or two different movement skills."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the practical activity and performers or movement skills being compared.",
+              "Record relevant primary quantitative and qualitative data.",
+              "Include reflection connecting participation to theoretical concepts.",
+              "Keep evidence specific enough to support later analysis."
+            ]
+          }
         ]
       }
     },
@@ -1255,8 +1898,22 @@
         "key": "physical-education-34:4.3.2",
         "title": "Integrating theory and practice",
         "front": "Integrating theory and practice",
-        "back": [
-          "Connecting skill acquisition, biomechanics, energy production and training rather than treating each topic separately."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Connecting skill acquisition, biomechanics, energy production and training rather than treating each topic separately."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Use primary data from participation.",
+              "Explain one causal or functional link between two knowledge areas.",
+              "Explain a second link that extends or interacts with the first.",
+              "Connect both links to participation or performance."
+            ]
+          }
         ]
       }
     },
@@ -1281,8 +1938,22 @@
         "key": "physical-education-34:4.3.3",
         "title": "Planning the integrated response",
         "front": "Planning the integrated response",
-        "back": [
-          "Using a concept map or similar planning tool to organise evidence and interdisciplinary links for an extended response."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using a concept map or similar planning tool to organise evidence and interdisciplinary links for an extended response."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Deconstruct the prompt and identify the required comparison or performance focus.",
+              "Select relevant primary data from the reflective folio.",
+              "Map explicit links among skill acquisition, biomechanics, energy and training.",
+              "Sequence claims, evidence and explanations into a coherent response."
+            ]
+          }
         ]
       }
     },
@@ -1307,8 +1978,22 @@
         "key": "physical-education-34:4.3.4",
         "title": "Analysing impacts on performance",
         "front": "Analysing impacts on performance",
-        "back": [
-          "Using interdisciplinary evidence to explain why performers or movement skills differ and how performance could improve."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using interdisciplinary evidence to explain why performers or movement skills differ and how performance could improve."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify a specific performance limitation using primary data.",
+              "Explain it through at least two connected theoretical areas.",
+              "Recommend an appropriate change to technique, practice or training.",
+              "Predict the improvement and identify evidence that could test it."
+            ]
+          }
         ]
       }
     }

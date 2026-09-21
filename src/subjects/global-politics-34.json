@@ -48,8 +48,22 @@
         "key": "global-politics-34:P-C1",
         "title": "Global actors",
         "front": "Global actors",
-        "back": [
-          "States, regional groupings, institutions of global governance and non-state actors, including the defining features and political roles of each category."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "States, regional groupings, institutions of global governance and non-state actors, including the defining features and political roles of each category."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "States have territory, a permanent population and widely recognised sovereignty; Australia is one example.",
+              "Regional groupings are formal associations of states in a region, such as ASEAN or the Pacific Islands Forum.",
+              "Institutions of global governance have global scope and help states cooperate, enforce rules or resolve disputes; the United Nations is one example.",
+              "Non-state actors include transnational corporations, individuals, NGOs, terrorist groups and international criminal networks."
+            ]
+          }
         ]
       }
     },
@@ -74,8 +88,22 @@
         "key": "global-politics-34:P-C2",
         "title": "Interests and perspectives",
         "front": "Interests and perspectives",
-        "back": [
-          "Interests as the outcomes actors seek and perspectives as the ways actors understand an issue, shaped by values, experience, identity and political circumstances."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Interests as the outcomes actors seek and perspectives as the ways actors understand an issue, shaped by values, experience, identity and political circumstances."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An interest is an outcome or advantage an actor seeks, such as security, prosperity or influence.",
+              "A perspective is the actor’s interpretation of an issue, shaped by values, identity, evidence and experience.",
+              "Actors can share an interest while holding different perspectives on how it should be achieved.",
+              "Distinguishing them helps explain why actors cooperate in some areas but conflict over methods or priorities."
+            ]
+          }
         ]
       }
     },
@@ -100,8 +128,22 @@
         "key": "global-politics-34:P-C3",
         "title": "Sovereignty and the state",
         "front": "Sovereignty and the state",
-        "back": [
-          "Sovereignty as a state’s authority over its territory and population, and the ways global issues, laws, institutions and other actors can constrain state action."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sovereignty as a state’s authority over its territory and population, and the ways global issues, laws, institutions and other actors can constrain state action."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Sovereignty is a state’s supreme authority over its territory and population and its recognised independence from other states.",
+              "International agreements constrain action when a state accepts common rules or dispute procedures.",
+              "Transnational problems such as climate change, financial instability and mass displacement cross borders and cannot be controlled by one state alone.",
+              "Powerful states, corporations or armed groups may also limit a government’s practical capacity to exercise authority."
+            ]
+          }
         ]
       }
     },
@@ -126,8 +168,22 @@
         "key": "global-politics-34:P-C4",
         "title": "Political stability and change",
         "front": "Political stability and change",
-        "back": [
-          "Political stability as the maintenance of institutions, relationships and order, and political change as significant alteration to authority, policy, relationships or institutions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Political stability as the maintenance of institutions, relationships and order, and political change as significant alteration to authority, policy, relationships or institutions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Political stability is the maintenance of political order, functioning institutions and predictable relationships.",
+              "Political change is a significant alteration to policies, institutions, power relationships or patterns of cooperation and conflict.",
+              "A response can stabilise one actor or region while changing another relationship or institution.",
+              "A strong answer identifies who experiences stability or change, the mechanism and the supporting evidence."
+            ]
+          }
         ]
       }
     },
@@ -152,8 +208,22 @@
         "key": "global-politics-34:P-C5",
         "title": "Cooperation, conflict and disengagement",
         "front": "Cooperation, conflict and disengagement",
-        "back": [
-          "Cooperation as coordinated action, conflict as incompatible interests or actions, and disengagement as withdrawal or refusal to participate."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Cooperation as coordinated action, conflict as incompatible interests or actions, and disengagement as withdrawal or refusal to participate."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cooperation occurs when actors coordinate policies, resources or institutions to pursue a shared outcome.",
+              "Conflict occurs when actors’ interests, perspectives or actions are incompatible and produce political contest or confrontation.",
+              "Disengagement occurs when an actor withdraws, refuses to participate or limits involvement.",
+              "An actor may combine all three responses across different parts or stages of the same issue."
+            ]
+          }
         ]
       }
     },
@@ -178,8 +248,22 @@
         "key": "global-politics-34:P-C6",
         "title": "Global interconnectedness",
         "front": "Global interconnectedness",
-        "back": [
-          "The political consequences of flows of trade, finance, information, people, technology and environmental effects across borders."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The political consequences of flows of trade, finance, information, people, technology and environmental effects across borders."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Interconnectedness spreads information, expertise, finance and coordinated pressure, making joint responses possible.",
+              "It also transmits economic, security and environmental consequences rapidly between actors.",
+              "Actors become mutually dependent, so unilateral action may be ineffective or costly.",
+              "Different exposure to costs and benefits creates competing interests that can obstruct agreement."
+            ]
+          }
         ]
       }
     },
@@ -203,8 +287,21 @@
         "key": "global-politics-34:P-C7",
         "title": "Contemporary evidence and the 10-year rule",
         "front": "Contemporary evidence and the 10-year rule",
-        "back": [
-          "The requirement that the central examples and case studies come from the last 10 years, with older events used only to contextualise contemporary causes and actions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The requirement that the central examples and case studies come from the last 10 years, with older events used only to contextualise contemporary causes and actions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Use older evidence briefly to establish historical background or long-term causes.",
+              "Keep the analytical focus on short-term causes, responses and consequences from within the last 10 years.",
+              "Current examples should carry the argument because Politics is assessed as a contemporary study."
+            ]
+          }
         ]
       }
     },
@@ -229,8 +326,22 @@
         "key": "global-politics-34:P-3.1.1",
         "title": "Selecting a global issue",
         "front": "Selecting a global issue",
-        "back": [
-          "One issue must be studied in depth: climate change, global economic instability, development or weapons of mass destruction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "One issue must be studied in depth: climate change, global economic instability, development or weapons of mass destruction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The issue must be global in scale, transcend national and regional boundaries and be significant to multiple global actors.",
+              "The four prescribed options are climate change, global economic instability, development and weapons of mass destruction.",
+              "The course studies one option in depth rather than surveying all four.",
+              "Evidence must focus on contemporary causes, actor responses, challenges and consequences."
+            ]
+          }
         ]
       }
     },
@@ -255,8 +366,22 @@
         "key": "global-politics-34:P-3.1.2",
         "title": "Short-term causes of a global issue",
         "front": "Short-term causes of a global issue",
-        "back": [
-          "Political, economic, social, environmental, ideological, cultural and technological causes operating within the last 10 years."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Political, economic, social, environmental, ideological, cultural and technological causes operating within the last 10 years."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify two distinct causes from within the last 10 years and support each with specific evidence.",
+              "Explain the mechanism by which each cause intensified, spread or obstructed resolution of the issue.",
+              "Link the causes where appropriate rather than treating them as isolated facts.",
+              "Separate contemporary causes from older background conditions."
+            ]
+          }
         ]
       }
     },
@@ -281,8 +406,22 @@
         "key": "global-politics-34:P-3.1.3",
         "title": "Interconnectedness and the selected issue",
         "front": "Interconnectedness and the selected issue",
-        "back": [
-          "How cross-border flows and dependencies shape the causes, consequences and possible resolution of the chosen global issue."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How cross-border flows and dependencies shape the causes, consequences and possible resolution of the chosen global issue."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify a specific cross-border connection, such as trade, finance, technology, migration or environmental effects.",
+              "Explain how it changes the scale, speed or distribution of the issue’s consequences.",
+              "Explain whether it improves cooperation or creates further competing interests.",
+              "Reach a judgement about its overall political impact using contemporary evidence."
+            ]
+          }
         ]
       }
     },
@@ -307,8 +446,22 @@
         "key": "global-politics-34:P-3.1.4",
         "title": "Global actor responses to an issue",
         "front": "Global actor responses to an issue",
-        "back": [
-          "Responses by states, at least one institution of global governance and at least one non-state actor, including cooperation, conflict and disengagement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Responses by states, at least one institution of global governance and at least one non-state actor, including cooperation, conflict and disengagement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "For each actor, identify a specific policy, action or decision and the interest it was intended to advance.",
+              "Explain whether the response involved cooperation, conflict or disengagement.",
+              "Compare the actors’ authority, resources and ability to influence other actors.",
+              "Use evidence to judge which response contributed most effectively to addressing the issue."
+            ]
+          }
         ]
       }
     },
@@ -333,8 +486,22 @@
         "key": "global-politics-34:P-3.1.5",
         "title": "International law and global issues",
         "front": "International law and global issues",
-        "back": [
-          "Treaties, declarations, agreements and decisions that establish expectations or obligations, and the extent to which actors comply with and enforce them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Treaties, declarations, agreements and decisions that establish expectations or obligations, and the extent to which actors comply with and enforce them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the relevant law, treaty, declaration, agreement or binding decision and what it requires.",
+              "Use evidence of compliance or changed behaviour to show effectiveness.",
+              "Use evidence of non-compliance, weak enforcement or limited participation to show constraints.",
+              "Judge effectiveness against the law’s objectives rather than merely stating that it exists."
+            ]
+          }
         ]
       }
     },
@@ -359,8 +526,22 @@
         "key": "global-politics-34:P-3.1.6",
         "title": "Challenges to resolving a global issue",
         "front": "Challenges to resolving a global issue",
-        "back": [
-          "Competing actor interests and perspectives, limits of law and institutions, sovereignty, unequal capabilities and the effects of interconnectedness."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Competing actor interests and perspectives, limits of law and institutions, sovereignty, unequal capabilities and the effects of interconnectedness."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain at least two distinct challenges and support each with contemporary evidence.",
+              "Link each challenge to the interests, perspectives or capabilities of particular actors.",
+              "Show how the challenge obstructs cooperation, implementation or enforcement.",
+              "Weigh the challenges and identify which most seriously limits resolution."
+            ]
+          }
         ]
       }
     },
@@ -385,8 +566,22 @@
         "key": "global-politics-34:P-3.1.7",
         "title": "Significance, effectiveness and political consequences",
         "front": "Significance, effectiveness and political consequences",
-        "back": [
-          "Evaluation of the issue’s political significance, actors’ ability to respond and the resulting political stability and change."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Evaluation of the issue’s political significance, actors’ ability to respond and the resulting political stability and change."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Establish criteria for effectiveness, such as progress toward resolution, compliance, reach, durability and unintended consequences.",
+              "Compare the actions and capabilities of the required actor categories using specific evidence.",
+              "Explain how the responses produced political stability and/or change for identified actors.",
+              "Reach a qualified overall judgement that recognises both achievement and limitation."
+            ]
+          }
         ]
       }
     },
@@ -411,8 +606,22 @@
         "key": "global-politics-34:P-3.2.1",
         "title": "Selecting a contemporary humanitarian crisis",
         "front": "Selecting a contemporary humanitarian crisis",
-        "back": [
-          "One significant crisis must be studied from human rights, armed conflict or the mass movement of people, affecting large numbers and concerning multiple states."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "One significant crisis must be studied from human rights, armed conflict or the mass movement of people, affecting large numbers and concerning multiple states."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It must fall within human rights, armed conflict or the mass movement of people.",
+              "It must be significant in scale, affect large numbers of people and concern several states.",
+              "Although it may originate within one state, its consequences must extend beyond that state.",
+              "The main causes, responses and evidence must be contemporary and generally within the last 10 years."
+            ]
+          }
         ]
       }
     },
@@ -437,8 +646,22 @@
         "key": "global-politics-34:P-3.2.2",
         "title": "Short-term causes of a contemporary crisis",
         "front": "Short-term causes of a contemporary crisis",
-        "back": [
-          "Immediate and interacting causes within the last 10 years, including discrimination, sovereignty disputes, resource conflict, poverty, climate pressures and armed violence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Immediate and interacting causes within the last 10 years, including discrimination, sovereignty disputes, resource conflict, poverty, climate pressures and armed violence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify two specific causes operating within the last 10 years.",
+              "Explain how each cause contributed to the outbreak, escalation or spread of the crisis.",
+              "Show how actor interests or perspectives shaped at least one cause.",
+              "Use older events only where necessary to clarify the contemporary context."
+            ]
+          }
         ]
       }
     },
@@ -463,8 +686,22 @@
         "key": "global-politics-34:P-3.2.3",
         "title": "Actors’ perspectives and interests in a crisis",
         "front": "Actors’ perspectives and interests in a crisis",
-        "back": [
-          "How different understandings, priorities and desired outcomes shape the course of a crisis and actors’ willingness to cooperate."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "How different understandings, priorities and desired outcomes shape the course of a crisis and actors’ willingness to cooperate."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State each actor’s perspective and the evidence or values shaping it.",
+              "Identify the security, political, economic or humanitarian interest each actor pursues.",
+              "Explain how the difference affects the actor’s actions or response.",
+              "Conclude whether the competing positions primarily drive conflict or still permit cooperation."
+            ]
+          }
         ]
       }
     },
@@ -489,8 +726,22 @@
         "key": "global-politics-34:P-3.2.4",
         "title": "Responses by global and regional actors",
         "front": "Responses by global and regional actors",
-        "back": [
-          "Responses by states, an institution of global governance and/or regional grouping, and a non-state actor."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Responses by states, an institution of global governance and/or regional grouping, and a non-state actor."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Use a state, an institution of global governance or regional grouping, and a non-state actor.",
+              "Identify the concrete response taken by each and the interest or objective behind it.",
+              "Explain the political mechanism through which each response was intended to affect the crisis.",
+              "Compare their reach, authority, resources and observable outcomes."
+            ]
+          }
         ]
       }
     },
@@ -515,8 +766,22 @@
         "key": "global-politics-34:P-3.2.5",
         "title": "Diplomacy and international law",
         "front": "Diplomacy and international law",
-        "back": [
-          "Negotiation, mediation, agreements, legal obligations, courts, investigations and other processes used to manage or resolve a crisis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Negotiation, mediation, agreements, legal obligations, courts, investigations and other processes used to manage or resolve a crisis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify a specific diplomatic process and a relevant international legal rule or institution.",
+              "Explain what each process achieved, using evidence rather than intention alone.",
+              "Analyse constraints such as lack of consent, enforcement, trust or agreement among powerful actors.",
+              "Judge whether they reduced harm, changed behaviour or advanced a durable resolution."
+            ]
+          }
         ]
       }
     },
@@ -541,8 +806,22 @@
         "key": "global-politics-34:P-3.2.6",
         "title": "Challenges to crisis resolution",
         "front": "Challenges to crisis resolution",
-        "back": [
-          "Competing interests, sovereignty, limited enforcement, resource constraints, disagreement over facts or responsibility and the continuation of violence."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Competing interests, sovereignty, limited enforcement, resource constraints, disagreement over facts or responsibility and the continuation of violence."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain at least two challenges and identify the actors connected to each.",
+              "Show how each challenge limits cooperation, access, enforcement or implementation.",
+              "Support the analysis with recent and specific evidence from the selected crisis.",
+              "Weigh which challenge has had the greatest effect on prospects for resolution."
+            ]
+          }
         ]
       }
     },
@@ -567,8 +846,22 @@
         "key": "global-politics-34:P-3.2.7",
         "title": "Crisis consequences, significance and change",
         "front": "Crisis consequences, significance and change",
-        "back": [
-          "The human and political consequences of the crisis and the extent to which actor responses produce political stability or change."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The human and political consequences of the crisis and the extent to which actor responses produce political stability or change."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain consequences for affected populations, states, regional relationships and relevant institutions.",
+              "Assess responses against clear criteria such as protection, access, de-escalation, accountability and durability.",
+              "Identify evidence of both political stability and political change caused by the crisis or responses.",
+              "Reach a supported judgement about significance and effectiveness rather than listing events."
+            ]
+          }
         ]
       }
     },
@@ -593,8 +886,22 @@
         "key": "global-politics-34:P-4.1.1",
         "title": "The Indo-Pacific and the selected state",
         "front": "The Indo-Pacific and the selected state",
-        "back": [
-          "The prescribed regional definition and the in-depth study of China, Japan, India, Indonesia or the United States."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The prescribed regional definition and the in-depth study of China, Japan, India, Indonesia or the United States."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The Indo-Pacific extends from the eastern Indian Ocean to the Pacific Ocean, connected through Southeast Asia.",
+              "It includes India, North Asia, Southeast Asia, Pacific states, Australia and the United States.",
+              "The selected state must be China, Japan, India, Indonesia or the United States.",
+              "One state is studied in depth through its power, interests, actions, challenges and regional consequences."
+            ]
+          }
         ]
       }
     },
@@ -619,8 +926,22 @@
         "key": "global-politics-34:P-4.1.2",
         "title": "Sources and forms of state power",
         "front": "Sources and forms of state power",
-        "back": [
-          "Political, economic, military, diplomatic and cultural power, including the distinction between the resources a state possesses and how it uses them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Political, economic, military, diplomatic and cultural power, including the distinction between the resources a state possesses and how it uses them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify three of political, economic, military, diplomatic and cultural power with specific evidence.",
+              "Explain the source of each capability, such as institutions, markets, armed forces, relationships or cultural reach.",
+              "Analyse how the state converts the capability into influence over another actor.",
+              "Do not assume a large capability is effective without showing an outcome."
+            ]
+          }
         ]
       }
     },
@@ -645,8 +966,22 @@
         "key": "global-politics-34:P-4.1.3",
         "title": "Four national interests",
         "front": "Four national interests",
-        "back": [
-          "Security, economic prosperity, regional relationships and regional standing as multifaceted and changeable guides to state policy."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Security, economic prosperity, regional relationships and regional standing as multifaceted and changeable guides to state policy."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Security concerns protection of the state, population, sovereignty and strategic environment.",
+              "Economic prosperity concerns trade, investment, resources, growth and material wellbeing.",
+              "Regional relationships concern maintaining useful and stable connections with other regional actors.",
+              "Regional standing concerns status, reputation and influence in shaping the regional order."
+            ]
+          }
         ]
       }
     },
@@ -671,8 +1006,22 @@
         "key": "global-politics-34:P-4.1.4",
         "title": "Foreign policy instruments",
         "front": "Foreign policy instruments",
-        "back": [
-          "Diplomacy, trade and foreign aid as required instruments, used alongside wider applications of political, economic, military, diplomatic and cultural power."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Diplomacy, trade and foreign aid as required instruments, used alongside wider applications of political, economic, military, diplomatic and cultural power."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Diplomacy uses negotiation, representation and agreements to communicate and coordinate policy.",
+              "Trade uses market access, agreements, restrictions or economic dependence to create benefit or leverage.",
+              "Foreign aid transfers resources or expertise and can support development, relationships and influence.",
+              "Compare how the state used each instrument and the national interest it was intended to advance."
+            ]
+          }
         ]
       }
     },
@@ -697,8 +1046,22 @@
         "key": "global-politics-34:P-4.1.5",
         "title": "Effectiveness in achieving national interests",
         "front": "Effectiveness in achieving national interests",
-        "back": [
-          "The degree to which actions deliver stated outcomes, considering resistance, trade-offs, duration and unintended consequences."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The degree to which actions deliver stated outcomes, considering resistance, trade-offs, duration and unintended consequences."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Define the national interest and identify the outcomes the state sought.",
+              "Use at least two actions or instruments and evidence of their results.",
+              "Consider resistance, costs, trade-offs and unintended consequences as limits on effectiveness.",
+              "Reach a qualified judgement based on the extent and durability of achievement."
+            ]
+          }
         ]
       }
     },
@@ -723,8 +1086,22 @@
         "key": "global-politics-34:P-4.1.6",
         "title": "Challenges to the selected state",
         "front": "Challenges to the selected state",
-        "back": [
-          "Domestic and regional constraints that inhibit the pursuit of national interests, including competing actors, limited resources, geography and conflicting priorities."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Domestic and regional constraints that inhibit the pursuit of national interests, including competing actors, limited resources, geography and conflicting priorities."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify each challenge precisely and support it with contemporary evidence.",
+              "Explain the mechanism by which it limits a policy, instrument or desired outcome.",
+              "Connect the challenge to a particular national interest rather than discussing it generally.",
+              "Compare the seriousness of the challenges or explain how they interact."
+            ]
+          }
         ]
       }
     },
@@ -749,8 +1126,22 @@
         "key": "global-politics-34:P-4.1.7",
         "title": "Consequences for other regional actors",
         "front": "Consequences for other regional actors",
-        "back": [
-          "Intended and unintended effects of at least two national interests on other states, institutions, groupings or non-state actors."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Intended and unintended effects of at least two national interests on other states, institutions, groupings or non-state actors."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Use two distinct national interests and identify the regional actors affected by each.",
+              "Explain the causal link between the state’s action and each consequence.",
+              "Consider positive and negative, intended and unintended consequences where supported.",
+              "Show how those consequences affect cooperation, conflict, stability or change."
+            ]
+          }
         ]
       }
     },
@@ -775,8 +1166,22 @@
         "key": "global-politics-34:P-4.1.8",
         "title": "Regional stability, change and political significance",
         "front": "Regional stability, change and political significance",
-        "back": [
-          "The extent to which the selected state’s actions and national-interest outcomes shape the regional distribution of influence, relationships and political order."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The extent to which the selected state’s actions and national-interest outcomes shape the regional distribution of influence, relationships and political order."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Explain how its actions affect regional influence, relationships, institutions or strategic behaviour.",
+              "Use evidence of both stability and change, identifying the actors affected.",
+              "Evaluate effectiveness as well as consequences; a significant action is not necessarily a successful one.",
+              "Reach an overall judgement about the state’s importance to the contemporary Indo-Pacific."
+            ]
+          }
         ]
       }
     },
@@ -801,8 +1206,22 @@
         "key": "global-politics-34:P-4.2.1",
         "title": "Australia’s national interests",
         "front": "Australia’s national interests",
-        "back": [
-          "Security, economic prosperity, regional relationships and regional standing as drivers of Australian policy in the Indo-Pacific."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Security, economic prosperity, regional relationships and regional standing as drivers of Australian policy in the Indo-Pacific."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Security includes territorial protection, a favourable strategic environment and resilience against regional threats.",
+              "Economic prosperity includes trade, investment, stable markets and secure supply chains.",
+              "Regional relationships involve trusted and productive ties with neighbouring states and groupings.",
+              "Regional standing concerns Australia’s reputation, legitimacy and influence in regional decisions."
+            ]
+          }
         ]
       }
     },
@@ -827,8 +1246,22 @@
         "key": "global-politics-34:P-4.2.2",
         "title": "Internal and external perspectives on Australia",
         "front": "Internal and external perspectives on Australia",
-        "back": [
-          "Different views within Australia and among regional actors about Australia’s interests, identity, alliances, priorities and conduct."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Different views within Australia and among regional actors about Australia’s interests, identity, alliances, priorities and conduct."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify who holds each perspective and the values, interests or experience shaping it.",
+              "Explain how the internal perspective defines the Australian interest or preferred action.",
+              "Explain how the external actor interprets Australia’s objective or behaviour.",
+              "Analyse how the difference affects trust, cooperation or conflict."
+            ]
+          }
         ]
       }
     },
@@ -853,8 +1286,22 @@
         "key": "global-politics-34:P-4.2.3",
         "title": "Australian forms of power",
         "front": "Australian forms of power",
-        "back": [
-          "Australia’s political, economic, military, diplomatic and cultural capabilities and how they are applied to influence regional actors."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Australia’s political, economic, military, diplomatic and cultural capabilities and how they are applied to influence regional actors."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify three forms of power and support each with a specific contemporary example.",
+              "Explain the capability or relationship that gives Australia that form of power.",
+              "Analyse how it is used to influence another actor or regional outcome.",
+              "Evaluate limits such as dependence, credibility, scale or competing regional powers."
+            ]
+          }
         ]
       }
     },
@@ -879,8 +1326,22 @@
         "key": "global-politics-34:P-4.2.4",
         "title": "Australian foreign policy instruments",
         "front": "Australian foreign policy instruments",
-        "back": [
-          "Diplomacy, trade and foreign aid as required instruments for pursuing Australian interests and managing regional relationships."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Diplomacy, trade and foreign aid as required instruments for pursuing Australian interests and managing regional relationships."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify a specific contemporary use of each required instrument.",
+              "Connect each use to one or more Australian national interests.",
+              "Explain how each instrument encourages cooperation or creates leverage.",
+              "Compare their effectiveness and any costs or tensions they produce."
+            ]
+          }
         ]
       }
     },
@@ -905,8 +1366,22 @@
         "key": "global-politics-34:P-4.2.5",
         "title": "The three-state case-study requirement",
         "front": "The three-state case-study requirement",
-        "back": [
-          "Australia’s relationships with one Pacific Islands Forum member and two other Indo-Pacific states, studied through cooperation, challenges and policy consequences."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Australia’s relationships with one Pacific Islands Forum member and two other Indo-Pacific states, studied through cooperation, challenges and policy consequences."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "One selected state must be a member of the Pacific Islands Forum.",
+              "Two additional selected states must come from the wider Indo-Pacific region.",
+              "For all three, study cooperation, competing interests, perspectives and challenges in the bilateral relationship.",
+              "Use distinct and current evidence for each relationship rather than treating the region as a single actor."
+            ]
+          }
         ]
       }
     },
@@ -931,8 +1406,22 @@
         "key": "global-politics-34:P-4.2.6",
         "title": "Challenges to Australia’s regional relationships",
         "front": "Challenges to Australia’s regional relationships",
-        "back": [
-          "Strategic competition, historical experience, climate priorities, economic dependence, human rights, sovereignty and different perceptions of Australia’s role."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Strategic competition, historical experience, climate priorities, economic dependence, human rights, sovereignty and different perceptions of Australia’s role."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify two specific challenges and the interests or perspectives underlying them.",
+              "Explain how each challenge affects policy coordination, trust or another form of cooperation.",
+              "Use evidence from both Australia and the selected state where possible.",
+              "Judge which challenge has had the greater effect on the relationship."
+            ]
+          }
         ]
       }
     },
@@ -957,8 +1446,22 @@
         "key": "global-politics-34:P-4.2.7",
         "title": "Responses to a regional issue or crisis",
         "front": "Responses to a regional issue or crisis",
-        "back": [
-          "Australian action or inaction on human rights, armed conflict, mass movement, climate change, economic instability, development or weapons of mass destruction."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Australian action or inaction on human rights, armed conflict, mass movement, climate change, economic instability, development or weapons of mass destruction."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the response or deliberate inaction and the Australian interest it pursued.",
+              "Explain how the selected regional state perceived or experienced that response.",
+              "Use evidence to assess whether it increased cooperation, conflict or both.",
+              "Judge effectiveness against the response’s stated goals and its effect on the relationship."
+            ]
+          }
         ]
       }
     },
@@ -983,8 +1486,22 @@
         "key": "global-politics-34:P-4.2.8",
         "title": "Australia’s contribution to stability and change",
         "front": "Australia’s contribution to stability and change",
-        "back": [
-          "The combined consequences of Australia’s interests, power, instruments and regional responses for political relationships and order in the Indo-Pacific."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The combined consequences of Australia’s interests, power, instruments and regional responses for political relationships and order in the Indo-Pacific."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Compare evidence from the three selected state relationships rather than relying on a single case.",
+              "Assess Australia’s use of power and instruments against clear national-interest outcomes.",
+              "Explain contributions to both political stability and political change in identified relationships or institutions.",
+              "Reach a qualified judgement that accounts for regional perspectives and unintended consequences."
+            ]
+          }
         ]
       }
     },
@@ -1009,8 +1526,22 @@
         "key": "global-politics-34:P-X1",
         "title": "Building a contemporary evidence bank",
         "front": "Building a contemporary evidence bank",
-        "back": [
-          "Organising dated actions, actors, interests, perspectives, outcomes and evaluative significance for every selected issue, crisis and state relationship."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Organising dated actions, actors, interests, perspectives, outcomes and evaluative significance for every selected issue, crisis and state relationship."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Record the date, actor and concrete action or decision.",
+              "Identify the actor’s interest and perspective, supported by a reliable source.",
+              "Record the observable outcome and any competing interpretation of its significance.",
+              "Link the evidence to a specific key-knowledge point and update it as events change."
+            ]
+          }
         ]
       }
     },
@@ -1035,8 +1566,22 @@
         "key": "global-politics-34:P-X2",
         "title": "Analysing sources and perspectives",
         "front": "Analysing sources and perspectives",
-        "back": [
-          "Testing a source’s origin, purpose, evidence and perspective, then corroborating claims rather than accepting political language at face value."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Testing a source’s origin, purpose, evidence and perspective, then corroborating claims rather than accepting political language at face value."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the author, context, audience and purpose and how these shape the source’s perspective.",
+              "Extract the political claim and the evidence offered for it.",
+              "Compare it with another reliable source or actor perspective to test accuracy and significance.",
+              "Use the source as evidence within your own analysis instead of substituting quotation for explanation."
+            ]
+          }
         ]
       }
     },
@@ -1061,8 +1606,22 @@
         "key": "global-politics-34:P-X3",
         "title": "Command terms and task demands",
         "front": "Command terms and task demands",
-        "back": [
-          "The differences among identify, explain, analyse, discuss, assess and evaluate, and matching the number and depth of points to the marks available."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The differences among identify, explain, analyse, discuss, assess and evaluate, and matching the number and depth of points to the marks available."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Analyse requires breaking an issue into parts and explaining relationships, causes and consequences.",
+              "Discuss requires a balanced examination of relevant arguments, evidence or perspectives.",
+              "Evaluate requires criteria, evidence on strengths and limits, and a supported judgement.",
+              "In every case, follow the exact object of the command and use the mark allocation to judge required depth."
+            ]
+          }
         ]
       }
     },
@@ -1087,8 +1646,22 @@
         "key": "global-politics-34:P-X4",
         "title": "Constructing an evaluative argument",
         "front": "Constructing an evaluative argument",
-        "back": [
-          "A contention, explicit criteria, logically sequenced evidence, comparison of perspectives and a qualified judgement addressing significance or effectiveness."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "A contention, explicit criteria, logically sequenced evidence, comparison of perspectives and a qualified judgement addressing significance or effectiveness."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "State a contention that directly answers the question and establishes the basis for judgement.",
+              "Organise paragraphs around analytical claims, each supported by precise contemporary evidence.",
+              "Compare relevant actors, interests and perspectives and test evidence against explicit criteria.",
+              "Sustain evaluation throughout and finish with a qualified judgement about extent, significance or effectiveness."
+            ]
+          }
         ]
       }
     }

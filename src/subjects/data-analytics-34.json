@@ -50,8 +50,22 @@
         "key": "data-analytics-34:P1",
         "title": "The four stages",
         "front": "The four stages",
-        "back": [
-          "Analysis, design, development and evaluation, the activities within each stage, and the iterative rather than strictly linear nature of the process."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Analysis, design, development and evaluation, the activities within each stage, and the iterative rather than strictly linear nature of the process."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Analysis: solution requirements, constraints and scope.",
+              "Design: solution design and evaluation criteria.",
+              "Development: manipulation, validation, testing and documentation.",
+              "Evaluation: the strategy for evaluating the solution, and the evaluation itself against the criteria established during design."
+            ]
+          }
         ]
       }
     },
@@ -76,8 +90,22 @@
         "key": "data-analytics-34:P2",
         "title": "Solution requirements, constraints and scope",
         "front": "Solution requirements, constraints and scope",
-        "back": [
-          "Distinguishing functional from non-functional requirements, identifying economic, technical, social, legal and usability constraints, and defining boundaries."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Distinguishing functional from non-functional requirements, identifying economic, technical, social, legal and usability constraints, and defining boundaries."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Functional requirements describe what the solution must do, such as filtering sales data by region and generating a comparative chart.",
+              "Non-functional requirements describe how well it must do it, covering qualities such as usability, response time, accessibility and reliability.",
+              "A functional example is that the solution must allow the user to select a date range.",
+              "A non-functional example is that the visualisation must be readable by a viewer with colour vision deficiency."
+            ]
+          }
         ]
       }
     },
@@ -102,8 +130,22 @@
         "key": "data-analytics-34:P3",
         "title": "Evaluation criteria",
         "front": "Evaluation criteria",
-        "back": [
-          "Writing measurable criteria derived from the solution requirements, covering effectiveness and efficiency, before development begins."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Writing measurable criteria derived from the solution requirements, covering effectiveness and efficiency, before development begins."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Criteria written during design are derived from the solution requirements rather than from what the solution happens to do.",
+              "Writing them afterwards risks describing the finished product rather than testing whether it met the need.",
+              "A measurable criterion states a specific, testable standard, such as whether a user can locate a given figure within 30 seconds.",
+              "Vague criteria such as 'the solution looks good' cannot be tested and produce no useful evaluation."
+            ]
+          }
         ]
       }
     },
@@ -128,8 +170,22 @@
         "key": "data-analytics-34:P4",
         "title": "Effectiveness and efficiency",
         "front": "Effectiveness and efficiency",
-        "back": [
-          "The measures of effectiveness including completeness, accuracy, readability, clarity, attractiveness, timeliness, communication of message, relevance and usability, and the measures of efficiency including time, cost and effort."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The measures of effectiveness including completeness, accuracy, readability, clarity, attractiveness, timeliness, communication of message, relevance and usability, and the measures of efficiency including time, cost and effort."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Effectiveness measures how well the solution meets the user's needs and achieves its purpose.",
+              "Measures of effectiveness include accuracy, completeness, readability, clarity, attractiveness, timeliness, communication of message, relevance and usability.",
+              "Efficiency measures the resources consumed in producing or using the solution.",
+              "Measures of efficiency include the time taken, the cost incurred and the effort or labour required."
+            ]
+          }
         ]
       }
     },
@@ -153,8 +209,21 @@
         "key": "data-analytics-34:3.1.1",
         "title": "Data and information",
         "front": "Data and information",
-        "back": [
-          "Data as raw unprocessed facts and information as data that has been processed and given meaning in a context."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Data as raw unprocessed facts and information as data that has been processed and given meaning in a context."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Data consists of raw, unorganised facts with no context, such as the individual figures 4200, 3900 and 5100.",
+              "Information is data that has been processed, organised and placed in a context so it has meaning.",
+              "Stating that quarterly sales rose from 3900 to 5100 dollars in the Melbourne store, an increase of 31 per cent, converts the data into information usable for a decision."
+            ]
+          }
         ]
       }
     },
@@ -178,8 +247,21 @@
         "key": "data-analytics-34:3.1.2",
         "title": "Types and characteristics of data",
         "front": "Types and characteristics of data",
-        "back": [
-          "Numeric, text, Boolean, date and time, image, audio and video data types, and structured, semi-structured and unstructured data."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Numeric, text, Boolean, date and time, image, audio and video data types, and structured, semi-structured and unstructured data."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Structured data is organised into a predefined format such as rows and columns or defined fields, which makes it directly searchable and analysable.",
+              "A relational database table of customer transactions is structured data.",
+              "Unstructured data has no predefined model, such as free-text survey responses, emails, images or video, and must be processed before it can be analysed."
+            ]
+          }
         ]
       }
     },
@@ -204,8 +286,22 @@
         "key": "data-analytics-34:3.1.3",
         "title": "Primary and secondary data sources",
         "front": "Primary and secondary data sources",
-        "back": [
-          "Collecting data directly through surveys, interviews, observation and sensors, or obtaining it from existing datasets, and the advantages of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Collecting data directly through surveys, interviews, observation and sensors, or obtaining it from existing datasets, and the advantages of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Primary data is collected first-hand for the specific purpose, so it matches the requirements exactly and its collection method is known.",
+              "Its disadvantage is that collection is time consuming and expensive, and the sample may be small.",
+              "Secondary data already exists, so it is faster and cheaper to obtain and often covers a much larger population.",
+              "Its disadvantage is that it was collected for another purpose, so its currency, scope and reliability must be assessed before use."
+            ]
+          }
         ]
       }
     },
@@ -230,8 +326,22 @@
         "key": "data-analytics-34:3.1.4",
         "title": "Collection methods and sampling",
         "front": "Collection methods and sampling",
-        "back": [
-          "Designing surveys and forms, using sensors and logs, and selecting a sample that represents the population being investigated."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Designing surveys and forms, using sensors and logs, and selecting a sample that represents the population being investigated."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Questions are unambiguous and neutral, avoiding leading wording that biases responses.",
+              "Closed questions with defined options produce structured data that can be analysed directly, while open questions capture detail but require processing.",
+              "Input constraints such as drop-down lists, radio buttons and required fields improve data integrity at the point of entry.",
+              "The sample must be large enough and selected so it represents the population the conclusions will describe."
+            ]
+          }
         ]
       }
     },
@@ -256,8 +366,22 @@
         "key": "data-analytics-34:3.1.5",
         "title": "Data integrity",
         "front": "Data integrity",
-        "back": [
-          "Accuracy, authenticity, correctness, reasonableness, relevance and timeliness as characteristics of data with integrity, and the consequences of poor integrity."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Accuracy, authenticity, correctness, reasonableness, relevance and timeliness as characteristics of data with integrity, and the consequences of poor integrity."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Characteristics include accuracy, authenticity, correctness, reasonableness, relevance and timeliness.",
+              "Accuracy means the data correctly reflects what it claims to measure; authenticity means its source is genuine and verifiable.",
+              "Timeliness means the data is current enough for the decision being made.",
+              "Out-of-date data produces conclusions about conditions that no longer apply, so a decision based on it may be wrong even though the analysis was performed correctly."
+            ]
+          }
         ]
       }
     },
@@ -282,8 +406,22 @@
         "key": "data-analytics-34:3.1.6",
         "title": "Validation techniques",
         "front": "Validation techniques",
-        "back": [
-          "Existence, type and range checks, and the distinction between manual and electronic validation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Existence, type and range checks, and the distinction between manual and electronic validation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Existence check: confirms the field is not left blank, so a record cannot be saved without a date of birth.",
+              "Type check: confirms the entry is a valid date rather than text or a number.",
+              "Range check: confirms the date falls within acceptable limits, such as not being in the future and not implying an age over 120.",
+              "Validation reduces errors at entry but cannot detect a value that is valid yet incorrect, which requires verification against a source."
+            ]
+          }
         ]
       }
     },
@@ -308,8 +446,22 @@
         "key": "data-analytics-34:3.1.7",
         "title": "Cleaning and preparing data",
         "front": "Cleaning and preparing data",
-        "back": [
-          "Removing duplicates, handling missing values, correcting inconsistent formats and outliers, and documenting every change made."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Removing duplicates, handling missing values, correcting inconsistent formats and outliers, and documenting every change made."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Removing duplicate records so that entries are not counted more than once in aggregations.",
+              "Standardising inconsistent formats, such as dates entered in different orders or state names entered in several forms.",
+              "Deciding how to handle missing values, either by exclusion or by a documented substitution rule.",
+              "Documentation is required so the analysis can be reproduced and so that decisions affecting the results, such as excluding outliers, are transparent and justifiable."
+            ]
+          }
         ]
       }
     },
@@ -334,8 +486,22 @@
         "key": "data-analytics-34:3.1.8",
         "title": "Manipulating and analysing data",
         "front": "Manipulating and analysing data",
-        "back": [
-          "Sorting, filtering, aggregating, calculating derived fields, cross-tabulating and identifying patterns, relationships and anomalies."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Sorting, filtering, aggregating, calculating derived fields, cross-tabulating and identifying patterns, relationships and anomalies."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Sorting orders records by the values in one or more fields, which helps identify highest and lowest values and reveals ranking.",
+              "Filtering displays only records meeting specified conditions, which isolates a subset such as a single region or date range.",
+              "Aggregating combines records into summary values such as totals, means or counts by group.",
+              "Aggregation converts many rows of raw data into the summary figures a visualisation can communicate."
+            ]
+          }
         ]
       }
     },
@@ -360,8 +526,22 @@
         "key": "data-analytics-34:3.1.9",
         "title": "Patterns, relationships and interpretation",
         "front": "Patterns, relationships and interpretation",
-        "back": [
-          "Identifying trends, correlations, clusters and outliers in data, and distinguishing a genuine relationship from a coincidental one."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying trends, correlations, clusters and outliers in data, and distinguishing a genuine relationship from a coincidental one."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A correlation means two variables change together in a consistent pattern.",
+              "A causal relationship means a change in one variable directly produces a change in the other.",
+              "A correlation may arise from coincidence or from a third variable that influences both.",
+              "Presenting a correlation as causation in a visualisation misleads the audience into a decision the data does not support, which is both an accuracy and an ethical failure."
+            ]
+          }
         ]
       }
     },
@@ -386,8 +566,22 @@
         "key": "data-analytics-34:3.2.1",
         "title": "Purpose and audience",
         "front": "Purpose and audience",
-        "back": [
-          "Identifying what the visualisation must communicate and to whom, and letting that determine the level of detail, terminology and presentation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying what the visualisation must communicate and to whom, and letting that determine the level of detail, terminology and presentation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A specialist audience can interpret dense charts and technical terminology, so more detail can be presented at once.",
+              "A general audience needs a single clear message per chart, plain labelling and explanatory annotation.",
+              "Audience also determines the medium and format, such as a printed infographic for the public against an interactive dashboard for analysts.",
+              "Designing without a defined audience usually produces a visualisation that displays data rather than communicating a message."
+            ]
+          }
         ]
       }
     },
@@ -412,8 +606,22 @@
         "key": "data-analytics-34:3.2.2",
         "title": "Selecting the right chart type",
         "front": "Selecting the right chart type",
-        "back": [
-          "Matching the chart to the relationship being shown: comparison, composition, distribution, relationship or change over time."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Matching the chart to the relationship being shown: comparison, composition, distribution, relationship or change over time."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Change over time is best shown with a line chart, since the connected line implies continuity between points.",
+              "Comparison between categories is best shown with a bar or column chart, where length is easy to compare accurately.",
+              "The relationship between two numeric variables is best shown with a scatter plot.",
+              "A line chart is inappropriate for unordered categories because connecting them implies a progression that does not exist."
+            ]
+          }
         ]
       }
     },
@@ -437,8 +645,21 @@
         "key": "data-analytics-34:3.2.3",
         "title": "Design elements",
         "front": "Design elements",
-        "back": [
-          "The use of point, line, shape, texture, size, colour and value in creating a visualisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The use of point, line, shape, texture, size, colour and value in creating a visualisation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Colour creates contrast, so a single saturated colour against a muted palette draws the eye to the most important data series.",
+              "Size signals importance, so the most significant chart or figure should occupy the largest area.",
+              "Both must be used consistently, since a colour that means one thing in one chart and something else in another confuses the viewer."
+            ]
+          }
         ]
       }
     },
@@ -463,8 +684,22 @@
         "key": "data-analytics-34:3.2.4",
         "title": "Design principles",
         "front": "Design principles",
-        "back": [
-          "Alignment, repetition, contrast, space, balance and hierarchy, and their application to layout and readability."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Alignment, repetition, contrast, space, balance and hierarchy, and their application to layout and readability."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Hierarchy orders elements by importance so the viewer knows what to read first, established through size, position, weight and colour.",
+              "Without hierarchy every element competes for attention and the main message is lost.",
+              "Repetition reuses consistent fonts, colours, spacing and chart styles across the visualisation.",
+              "This creates a unified appearance and reduces the effort required to interpret each new element."
+            ]
+          }
         ]
       }
     },
@@ -489,8 +724,22 @@
         "key": "data-analytics-34:3.2.5",
         "title": "Design tools",
         "front": "Design tools",
-        "back": [
-          "Annotated diagrams, mock-ups, storyboards, data dictionaries and input-process-output charts, and the purpose of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Annotated diagrams, mock-ups, storyboards, data dictionaries and input-process-output charts, and the purpose of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A mock-up shows the appearance and layout of a single screen or page, including the position, size and formatting of each element.",
+              "A storyboard shows the structure of a multi-page solution and the navigation links between pages.",
+              "A mock-up communicates what each screen should look like; a storyboard communicates how the user moves between them.",
+              "Both are annotated so that formatting, data sources and interactive behaviour are specified rather than inferred."
+            ]
+          }
         ]
       }
     },
@@ -515,8 +764,22 @@
         "key": "data-analytics-34:3.2.6",
         "title": "Data dictionaries",
         "front": "Data dictionaries",
-        "back": [
-          "Documenting each field's name, data type, size, format, description, validation rules and example values."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Documenting each field's name, data type, size, format, description, validation rules and example values."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The field name, the data type, the field size and the format, such as a date pattern or number of decimal places.",
+              "A description of what the field stores, any validation rules that apply and an example value.",
+              "Its purpose is to specify the structure of the data so that a developer creates the solution consistently.",
+              "It also documents integrity requirements, so the same validation is applied wherever the data is entered or imported."
+            ]
+          }
         ]
       }
     },
@@ -541,8 +804,22 @@
         "key": "data-analytics-34:3.2.7",
         "title": "Design for accessibility and readability",
         "front": "Design for accessibility and readability",
-        "back": [
-          "Contrast ratios, colour-blind safe palettes, text size, alternative text and not relying on colour alone to convey meaning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Contrast ratios, colour-blind safe palettes, text size, alternative text and not relying on colour alone to convey meaning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Do not rely on colour alone to distinguish data series; add direct labels, patterns or distinct line styles as a second cue.",
+              "Choose a colour-blind safe palette, avoiding red and green as the only distinction between adjacent categories.",
+              "Ensure sufficient contrast between text and background so labels remain readable.",
+              "Testing the visualisation in greyscale is a quick way to confirm the message survives without colour."
+            ]
+          }
         ]
       }
     },
@@ -567,8 +844,22 @@
         "key": "data-analytics-34:3.2.8",
         "title": "Misleading visualisations",
         "front": "Misleading visualisations",
-        "back": [
-          "Truncated axes, inconsistent scales, inappropriate chart types, cherry-picked ranges and three-dimensional distortion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Truncated axes, inconsistent scales, inappropriate chart types, cherry-picked ranges and three-dimensional distortion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Truncating the vertical axis so it does not begin at zero exaggerates the apparent difference between bar heights.",
+              "A change of a few per cent can be made to look like a doubling, misrepresenting the significance of the difference.",
+              "Selecting a narrow date range that excludes contradictory data cherry-picks the evidence to support a predetermined conclusion.",
+              "Three-dimensional effects distort the perceived area of segments, and inconsistent scales between charts make invalid comparisons look valid."
+            ]
+          }
         ]
       }
     },
@@ -592,8 +883,21 @@
         "key": "data-analytics-34:4.1.1",
         "title": "Development of the solution",
         "front": "Development of the solution",
-        "back": [
-          "Manipulating the data, applying formatting and functionality, and using software tools appropriate to the design specification."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Manipulating the data, applying formatting and functionality, and using software tools appropriate to the design specification."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The design was derived from the solution requirements, so following it keeps the solution aligned with the user's needs.",
+              "Departing from the design during development often produces a solution that displays whatever was easiest rather than what was required.",
+              "If a design cannot be implemented, the design should be revised and the change documented, so the evaluation criteria remain valid."
+            ]
+          }
         ]
       }
     },
@@ -618,8 +922,22 @@
         "key": "data-analytics-34:4.1.2",
         "title": "Testing",
         "front": "Testing",
-        "back": [
-          "Preparing a test table with test data, expected results and actual results, and using normal, boundary and invalid data."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Preparing a test table with test data, expected results and actual results, and using normal, boundary and invalid data."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A test table records what is being tested, the test data used, the expected result, the actual result and the corrective action taken.",
+              "Normal data confirms the solution works under ordinary conditions.",
+              "Boundary data tests the values at the edges of an acceptable range, where off-by-one errors most commonly occur.",
+              "Invalid data confirms that validation rejects incorrect input rather than accepting or corrupting it."
+            ]
+          }
         ]
       }
     },
@@ -644,8 +962,22 @@
         "key": "data-analytics-34:4.1.3",
         "title": "Formats and conventions",
         "front": "Formats and conventions",
-        "back": [
-          "Applying consistent titles, axis labels, units, legends, number formats, fonts and source citations to visualisations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Applying consistent titles, axis labels, units, legends, number formats, fonts and source citations to visualisations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A descriptive title stating what the chart shows, labelled axes including units, and a legend where more than one series appears.",
+              "Consistent number formatting, such as a fixed number of decimal places and thousands separators, and consistent fonts and colours.",
+              "A citation of the data source, including the date the data was obtained.",
+              "Citation allows the viewer to verify the data and assess its currency and reliability, and acknowledges the original creator as required by copyright."
+            ]
+          }
         ]
       }
     },
@@ -670,8 +1002,22 @@
         "key": "data-analytics-34:4.1.4",
         "title": "Evaluation strategy and evaluation",
         "front": "Evaluation strategy and evaluation",
-        "back": [
-          "Planning what evidence will be collected, from whom and when, then evaluating the solution against the criteria set during design."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Planning what evidence will be collected, from whom and when, then evaluating the solution against the criteria set during design."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An evaluation strategy is the plan, specifying what data will be collected to assess each criterion, from which users and at what time after implementation.",
+              "The evaluation is the judgement itself, made after the solution has been used.",
+              "A strong evaluation addresses each criterion separately and reaches a clear judgement on whether it was met.",
+              "Evidence includes user feedback, observation of users completing tasks, timing data and testing results, rather than the developer's own impression."
+            ]
+          }
         ]
       }
     },
@@ -696,8 +1042,22 @@
         "key": "data-analytics-34:4.2.1",
         "title": "Threats to data and information",
         "front": "Threats to data and information",
-        "back": [
-          "Accidental, deliberate and event-based threats, and examples of each including human error, malware, hacking and natural disaster."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Accidental, deliberate and event-based threats, and examples of each including human error, malware, hacking and natural disaster."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Emailing a file to the wrong address is an accidental threat caused by human error; another example is deleting a file unintentionally.",
+              "A ransomware attack is a deliberate threat; other examples include hacking, phishing, insider theft and denial of service attacks.",
+              "A flood in the server room is an event-based threat; other examples include fire, power failure and hardware failure.",
+              "Each category requires different controls, so classifying the threat guides the choice of control."
+            ]
+          }
         ]
       }
     },
@@ -722,8 +1082,23 @@
         "key": "data-analytics-34:4.2.2",
         "title": "Physical and software controls",
         "front": "Physical and software controls",
-        "back": [
-          "Locks, biometrics, surveillance, backup and secure disposal as physical controls; passwords, encryption, firewalls, antivirus and access rights as software controls."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Locks, biometrics, surveillance, backup and secure disposal as physical controls",
+              "passwords, encryption, firewalls, antivirus and access rights as software controls."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Physical controls restrict physical access to equipment and media, or protect it from environmental damage.",
+              "Examples include locked server rooms, swipe card access, surveillance cameras, backup media stored offsite and secure destruction of old drives.",
+              "Software controls operate within the computer system to restrict access to and protect data.",
+              "Examples include passwords and multi-factor authentication, encryption, firewalls, antivirus software and user access rights."
+            ]
+          }
         ]
       }
     },
@@ -748,8 +1123,22 @@
         "key": "data-analytics-34:4.2.3",
         "title": "Encryption",
         "front": "Encryption",
-        "back": [
-          "The purpose of encryption, the distinction between data at rest and data in transit, and the limits of what encryption protects."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The purpose of encryption, the distinction between data at rest and data in transit, and the limits of what encryption protects."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Encryption converts readable data into an unreadable form that can only be returned to plain text with the correct key.",
+              "Data at rest is encrypted in storage, so a stolen device or drive yields no usable information.",
+              "Data in transit is encrypted while being transmitted, so intercepted traffic cannot be read.",
+              "Encryption does not protect against a legitimate user misusing their access, and it is ineffective if the key is weak, shared or stored alongside the data."
+            ]
+          }
         ]
       }
     },
@@ -774,8 +1163,22 @@
         "key": "data-analytics-34:4.2.4",
         "title": "Authentication and access rights",
         "front": "Authentication and access rights",
-        "back": [
-          "Passwords, multi-factor authentication and biometrics, and the principle of granting the minimum access each user requires."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Passwords, multi-factor authentication and biometrics, and the principle of granting the minimum access each user requires."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The principle of least privilege grants each user only the access rights required to perform their role, and no more.",
+              "This limits the damage from a compromised account or a malicious insider, since the account cannot reach data outside its role.",
+              "Multi-factor authentication requires two or more of something you know, something you have and something you are.",
+              "A stolen password alone is therefore insufficient to gain access, which defeats most phishing and credential-theft attacks."
+            ]
+          }
         ]
       }
     },
@@ -800,8 +1203,22 @@
         "key": "data-analytics-34:4.2.5",
         "title": "Backup, redundancy and disaster recovery",
         "front": "Backup, redundancy and disaster recovery",
-        "back": [
-          "Full, incremental and differential backups, the value of offsite and offline copies, and the components of a disaster recovery plan."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Full, incremental and differential backups, the value of offsite and offline copies, and the components of a disaster recovery plan."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A full backup copies all selected data each time, which is slower and uses more storage but restores in a single step.",
+              "An incremental backup copies only the data changed since the last backup, which is faster but requires the full backup and every subsequent increment to restore.",
+              "An offsite copy protects against an event-based threat that destroys the premises, such as fire or flood.",
+              "An offline copy also protects against ransomware, which can encrypt connected backups along with the live data."
+            ]
+          }
         ]
       }
     },
@@ -826,8 +1243,22 @@
         "key": "data-analytics-34:4.2.6",
         "title": "Risk management plans",
         "front": "Risk management plans",
-        "back": [
-          "Identifying risks, assessing likelihood and consequence, and selecting controls to avoid, reduce, transfer or accept each risk."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying risks, assessing likelihood and consequence, and selecting controls to avoid, reduce, transfer or accept each risk."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the risks to data and information, then assess each for likelihood of occurring and the consequence if it does.",
+              "Combine the two into a risk rating, so that resources are directed to the risks that matter most.",
+              "High likelihood and high consequence risks require immediate controls to reduce or avoid them.",
+              "Low likelihood and low consequence risks may be accepted, and some risks can be transferred, for example through insurance."
+            ]
+          }
         ]
       }
     },
@@ -852,8 +1283,22 @@
         "key": "data-analytics-34:4.2.7",
         "title": "Evaluating the effectiveness of security strategies",
         "front": "Evaluating the effectiveness of security strategies",
-        "back": [
-          "Judging strategies against the threats identified, the cost and usability trade-offs, and the need for review as threats change."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Judging strategies against the threats identified, the cost and usability trade-offs, and the need for review as threats change."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Security controls impose costs in money, time and staff training that must be proportionate to the value of the data protected.",
+              "Controls that are onerous to use encourage staff to work around them, for example by writing passwords down or sharing accounts.",
+              "A workaround can create a larger vulnerability than the one the control addressed.",
+              "The appropriate control balances the risk rating, the cost and the effect on usability, and must be reviewed as threats change."
+            ]
+          }
         ]
       }
     },
@@ -878,8 +1323,22 @@
         "key": "data-analytics-34:L1",
         "title": "Privacy obligations",
         "front": "Privacy obligations",
-        "back": [
-          "The collection, use, storage and disclosure of personal information, the requirement for consent, and the individual's right to access and correct their data."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The collection, use, storage and disclosure of personal information, the requirement for consent, and the individual's right to access and correct their data."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Collect only the personal information reasonably necessary for the stated purpose, rather than gathering all available data.",
+              "Inform the individual why the information is being collected and how it will be used, and obtain consent.",
+              "Store the information securely and take reasonable steps to protect it from misuse, loss and unauthorised access.",
+              "Use or disclose it only for the purpose for which it was collected, and allow individuals to access and correct their own information."
+            ]
+          }
         ]
       }
     },
@@ -903,8 +1362,21 @@
         "key": "data-analytics-34:L2",
         "title": "Health records and sensitive information",
         "front": "Health records and sensitive information",
-        "back": [
-          "The additional obligations attaching to health and other sensitive information, and the consequences of a breach."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The additional obligations attaching to health and other sensitive information, and the consequences of a breach."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Health information is sensitive because disclosure can lead to discrimination in employment, insurance and social settings.",
+              "It is rarely possible to remedy the harm once the information has been disclosed, unlike a compromised password that can be changed.",
+              "Stricter obligations therefore apply to consent, access, retention periods and the security controls required."
+            ]
+          }
         ]
       }
     },
@@ -929,8 +1401,22 @@
         "key": "data-analytics-34:L3",
         "title": "Copyright and intellectual property",
         "front": "Copyright and intellectual property",
-        "back": [
-          "The ownership of data, images, code and visualisations, the requirement to attribute sources, and the terms attaching to open datasets."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The ownership of data, images, code and visualisations, the requirement to attribute sources, and the terms attaching to open datasets."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Copyright protects the original expression of the creator, so material cannot simply be reused because it is publicly accessible.",
+              "A government dataset is typically released under a licence, commonly one requiring attribution, and the licence terms must be checked and followed.",
+              "An image found online is presumed to be protected unless a licence expressly permits reuse, so permission or a suitably licensed alternative is required.",
+              "Attribution of the source must be included in the visualisation regardless, both to meet licence terms and to support verifiability."
+            ]
+          }
         ]
       }
     },
@@ -955,8 +1441,22 @@
         "key": "data-analytics-34:L4",
         "title": "Ethical use of data",
         "front": "Ethical use of data",
-        "back": [
-          "The difference between what is legal and what is ethical, informed consent, de-identification and the responsible presentation of findings."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The difference between what is legal and what is ethical, informed consent, de-identification and the responsible presentation of findings."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A legal obligation is a requirement imposed by legislation, breach of which carries a penalty.",
+              "An ethical obligation arises from what is right and fair, and may extend beyond what the law requires.",
+              "Combining several legally obtained datasets can re-identify individuals who believed their data was anonymous, which may be lawful but is unethical.",
+              "Presenting a chart with a truncated axis to exaggerate a trend is similarly lawful but misleads the audience, breaching the obligation to represent data honestly."
+            ]
+          }
         ]
       }
     },
@@ -981,8 +1481,22 @@
         "key": "data-analytics-34:M1",
         "title": "Project plans and Gantt charts",
         "front": "Project plans and Gantt charts",
-        "back": [
-          "Identifying tasks, durations, sequence, dependencies, milestones and the critical path, and monitoring progress against the plan."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Identifying tasks, durations, sequence, dependencies, milestones and the critical path, and monitoring progress against the plan."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A Gantt chart shows each task as a horizontal bar positioned by start date with length proportional to duration, against a calendar timeline.",
+              "A dependency exists where one task cannot begin until another finishes, shown by linking arrows between bars.",
+              "The critical path is the longest sequence of dependent tasks, which determines the minimum time for the whole project.",
+              "A delay to any task on the critical path delays the entire project, whereas a task with slack can be delayed without that effect."
+            ]
+          }
         ]
       }
     },
@@ -1006,8 +1520,21 @@
         "key": "data-analytics-34:M2",
         "title": "Monitoring and adjusting a project",
         "front": "Monitoring and adjusting a project",
-        "back": [
-          "Comparing actual progress with the plan, identifying tasks at risk, and reallocating time or resources to protect the deadline."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Comparing actual progress with the plan, identifying tasks at risk, and reallocating time or resources to protect the deadline."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Recognise that the delay will push back the project completion date unless action is taken.",
+              "Consider reallocating time from tasks with slack, reducing scope in a non-essential area, or working on later tasks concurrently where dependencies allow.",
+              "Update the project plan to reflect the change, so the revised critical path and deadline are clear."
+            ]
+          }
         ]
       }
     },
@@ -1032,8 +1559,22 @@
         "key": "data-analytics-34:M3",
         "title": "Answering with the correct terminology",
         "front": "Answering with the correct terminology",
-        "back": [
-          "Using precise terms such as validation rather than verification, effectiveness rather than efficiency, and data rather than information."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using precise terms such as validation rather than verification, effectiveness rather than efficiency, and data rather than information."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Validation checks that data entered is reasonable and in the correct form, for example that a date is a real date within range.",
+              "Verification checks that the data entered matches the original source, for example by proofreading against the source document.",
+              "Effectiveness is how well the solution meets the user's needs; efficiency is the resources it consumes.",
+              "A solution can be effective but inefficient if it produces the right result but takes far too long to use."
+            ]
+          }
         ]
       }
     },
@@ -1057,8 +1598,21 @@
         "key": "data-analytics-34:M4",
         "title": "Applying theory to a case study",
         "front": "Applying theory to a case study",
-        "back": [
-          "Using specific details from the scenario, naming the organisation, the data involved and the threat or requirement described."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using specific details from the scenario, naming the organisation, the data involved and the threat or requirement described."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Marks are awarded for selecting the control appropriate to the specific threat and organisation described in the scenario.",
+              "A list of every control shows no judgement about which is relevant, and does not demonstrate understanding.",
+              "A strong response names the control, explains the specific mechanism by which it addresses the threat in that scenario, and refers to details given in the case."
+            ]
+          }
         ]
       }
     }

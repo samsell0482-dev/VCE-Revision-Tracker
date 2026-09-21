@@ -2,7 +2,7 @@ import React from 'react';
 
 const steps=[
  ['01','Self assess','Rate each knowledge point so you can immediately see what needs attention.'],
- ['02','Revise','Use focused cue cards to strengthen your red and amber topics.'],
+ ['02','Revise','Use focused flash cards to strengthen your red and amber topics.'],
  ['03','Improve','Return regularly, retry questions and turn your weaker topics from red to green.']
 ];
 

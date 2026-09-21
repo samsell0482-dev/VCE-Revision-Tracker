@@ -37,8 +37,22 @@
         "key": "software-dev-34:X1",
         "title": "The four stages of the problem-solving methodology",
         "front": "The four stages of the problem-solving methodology",
-        "back": [
-          "Analysis, design, development, evaluation. Know the purpose of each stage and that the process is iterative — you loop back, you don't just march forward."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Analysis, design, development, evaluation.",
+              "Know the purpose of each stage and that the process is iterative — you loop back, you don't just march forward."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Iterative because work in a later stage often reveals a problem in an earlier one.",
+              "Testing during development may show a requirement was misunderstood, sending you back to analysis.",
+              "A purely linear reading of the PSM is a common error."
+            ]
+          }
         ]
       }
     },
@@ -77,8 +91,25 @@
         "key": "software-dev-34:X2",
         "title": "The activities inside each PSM stage",
         "front": "The activities inside each PSM stage",
-        "back": [
-          "Analysis: solution requirements, constraints, scope. Design: solution design, evaluation criteria. Development: manipulation/coding, validation, testing, documentation. Evaluation: evaluation strategy, then the evaluation itself. Examiners ask which stage an activity belongs to."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Analysis: solution requirements, constraints, scope.",
+              "Design: solution design, evaluation criteria.",
+              "Development: manipulation/coding, validation, testing, documentation.",
+              "Evaluation: evaluation strategy, then the evaluation itself.",
+              "Examiners ask which stage an activity belongs to."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "design.",
+              "Evaluation criteria are written during design and applied during evaluation.",
+              "A common trap: the criteria are not created in the evaluation stage."
+            ]
+          }
         ]
       }
     },
@@ -103,8 +134,23 @@
         "key": "software-dev-34:X3",
         "title": "\"Terms used in this study\" glossary",
         "front": "\"Terms used in this study\" glossary",
-        "back": [
-          "The VCAA definitions — especially efficiency (time, cost, effort), effectiveness (functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message), data vs information, and data integrity. Use their wording, not your own."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The VCAA definitions — especially efficiency (time, cost, effort), effectiveness (functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message), data vs information, and data integrity.",
+              "Use their wording, not your own."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Efficiency: how well a solution uses time, cost and effort.",
+              "Effectiveness: how well the solution achieves what it was intended to do.",
+              "Measures of effectiveness: functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message.",
+              "Use the study design's own wording — paraphrasing loses marks here."
+            ]
+          }
         ]
       }
     },
@@ -129,8 +175,23 @@
         "key": "software-dev-34:X4",
         "title": "Reading, writing and tracing pseudocode",
         "front": "Reading, writing and tracing pseudocode",
-        "back": [
-          "Trace loops and selection by hand to produce the output, spot a logic error in given pseudocode, and write an algorithm from a described problem. No single mandated dialect, but stay consistent."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Trace loops and selection by hand to produce the output, spot a logic error in given pseudocode, and write an algorithm from a described problem.",
+              "No single mandated dialect, but stay consistent."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "5 iterations — count takes the values 0, 1, 2, 3, 4.",
+              "Total = 0 + 1 + 2 + 3 + 4 = 10.",
+              "Build a trace table with one column per variable rather than tracking it mentally.",
+              "The loop exits when count reaches 5, so 5 is never added."
+            ]
+          }
         ]
       }
     },
@@ -155,8 +216,23 @@
         "key": "software-dev-34:3.1.1",
         "title": "Emerging trends in programming using AI",
         "front": "Emerging trends in programming using AI",
-        "back": [
-          "Prompt-based code generation, automated debugging and testing, code optimisation. Know the benefits (speed, boilerplate, learning) and the risks (incorrect or insecure output, IP and attribution problems, over-reliance, the need to verify everything)."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Prompt-based code generation, automated debugging and testing, code optimisation.",
+              "Know the benefits (speed, boilerplate, learning) and the risks (incorrect or insecure output, IP and attribution problems, over-reliance, the need to verify everything)."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Benefit: speed — routine or boilerplate code is produced quickly, freeing time for design.",
+              "Risk: generated code may be plausible but incorrect, or contain security vulnerabilities.",
+              "Risk: intellectual property and attribution — the training data and ownership of output are unclear.",
+              "Practice: every generated section must be read, tested and understood before it is accepted."
+            ]
+          }
         ]
       }
     },
@@ -181,8 +257,24 @@
         "key": "software-dev-34:3.1.2",
         "title": "Functional and non-functional requirements",
         "front": "Functional and non-functional requirements",
-        "back": [
-          "Functional = what the solution must do. Non-functional = how well it does it (usability, reliability, portability, robustness, maintainability, security). Practise sorting statements from a case study into the two categories."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Functional = what the solution must do.",
+              "Non-functional = how well it does it (usability, reliability, portability, robustness, maintainability, security).",
+              "Practise sorting statements from a case study into the two categories."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Producing a monthly sales report is a functional requirement — it is something the solution must DO.",
+              "Being usable without training is a non-functional requirement — it describes how WELL the solution performs.",
+              "1 mark for each classification, 1 mark for each justification.",
+              "Test: a functional requirement can be checked with a pass/fail test case."
+            ]
+          }
         ]
       }
     },
@@ -208,8 +300,24 @@
         "key": "software-dev-34:3.1.3",
         "title": "Design tools for representing modules",
         "front": "Design tools for representing modules",
-        "back": [
-          "Mock-up (layout and appearance), IPO chart (inputs, processing, outputs), pseudocode (the logic), data dictionary (name, data type, size, format, validation, example), object description (class name, properties, methods). Know what each one does that the others don't."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Mock-up (layout and appearance), IPO chart (inputs, processing, outputs), pseudocode (the logic), data dictionary (name, data type, size, format, validation, example), object description (class name, properties, methods).",
+              "Know what each one does that the others don't."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mock-up — the appearance and layout of the interface.",
+              "IPO chart — the inputs, the processing, and the outputs of the module.",
+              "Pseudocode — the logic and sequence of steps.",
+              "Data dictionary — each variable's name, data type, size, format and validation.",
+              "Also acceptable: object description — the class name, properties and methods."
+            ]
+          }
         ]
       }
     },
@@ -233,8 +341,23 @@
         "key": "software-dev-34:3.1.4",
         "title": "Characteristics of data types",
         "front": "Characteristics of data types",
-        "back": [
-          "Integer, floating point, character, string, Boolean, date/time. Be able to justify a choice — phone numbers and postcodes as strings, not integers; why a Boolean beats a one-character flag."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Integer, floating point, character, string, Boolean, date/time.",
+              "Be able to justify a choice — phone numbers and postcodes as strings, not integers",
+              "why a Boolean beats a one-character flag."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Mobile number — string. It is not used in arithmetic and a leading zero must be preserved, which an integer would discard.",
+              "Paid status — Boolean. Only two states are possible.",
+              "Product price — floating point (or a decimal/currency type) to hold cents."
+            ]
+          }
         ]
       }
     },
@@ -258,8 +381,22 @@
         "key": "software-dev-34:3.1.5",
         "title": "Characteristics of data structures",
         "front": "Characteristics of data structures",
-        "back": [
-          "One-dimensional arrays (many items of the same type, accessed by index), records (related fields of mixed types), files. When each is appropriate and how you iterate through them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "One-dimensional arrays (many items of the same type, accessed by index), records (related fields of mixed types), files.",
+              "When each is appropriate and how you iterate through them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Temperatures — a one-dimensional array: many items of the same data type, accessed by index.",
+              "Customer records — a record: related fields of differing data types grouped as one unit.",
+              "An array of records would store many customers together."
+            ]
+          }
         ]
       }
     },
@@ -289,8 +426,22 @@
         "key": "software-dev-34:3.1.6",
         "title": "Characteristics of data sources",
         "front": "Characteristics of data sources",
-        "back": [
-          "Plain text, delimited (CSV), XML. Know the structure of each, the advantages and disadvantages, and roughly how a program reads from and writes to them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Plain text, delimited (CSV), XML.",
+              "Know the structure of each, the advantages and disadvantages, and roughly how a program reads from and writes to them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "XML.",
+              "Nested tags carry structure and meaning, so hierarchy is preserved.",
+              "CSV is flat — one record per line with fixed fields — so it cannot represent nesting."
+            ]
+          }
         ]
       }
     },
@@ -330,8 +481,22 @@
         "key": "software-dev-34:3.1.7",
         "title": "Principles of object-oriented programming",
         "front": "Principles of object-oriented programming",
-        "back": [
-          "Abstraction (model only what matters), encapsulation (data and methods bundled, access controlled), generalisation (pull shared features into a parent), inheritance (child gains the parent's properties and methods). Identify each from code or an object description."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Abstraction (model only what matters), encapsulation (data and methods bundled, access controlled), generalisation (pull shared features into a parent), inheritance (child gains the parent's properties and methods).",
+              "Identify each from code or an object description."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "inheritance.",
+              "A child class gains the properties and methods of its parent.",
+              "Generalisation is the design step of pulling shared features UP into the parent; inheritance is the child receiving them."
+            ]
+          }
         ]
       }
     },
@@ -355,8 +520,28 @@
         "key": "software-dev-34:3.1.8",
         "title": "Features of a programming language",
         "front": "Features of a programming language",
-        "back": [
-          "Instructions; control structures — sequence, selection (if/else, case), iteration (pre-test, post-test, for); arithmetic, logical and conditional operators; variables vs constants; functions vs methods; classes and objects; GUI controls; file operations."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Instructions",
+              "control structures — sequence, selection (if/else, case), iteration (pre-test, post-test, for)",
+              "arithmetic, logical and conditional operators",
+              "variables vs constants",
+              "functions vs methods",
+              "classes and objects",
+              "GUI controls",
+              "file operations."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A pre-test loop checks the condition before the body runs, so the body may execute zero times.",
+              "A post-test loop runs the body once before checking, so it always executes at least once.",
+              "Post-test suits input validation — you must prompt the user at least once before you can test the input."
+            ]
+          }
         ]
       }
     },
@@ -381,8 +566,24 @@
         "key": "software-dev-34:3.1.9",
         "title": "Naming conventions",
         "front": "Naming conventions",
-        "back": [
-          "Meaningful and consistently applied — camelCase, PascalCase, snake_case, prefixes for control types. Applies to variables, constants, functions, classes and files. Be ready to explain why it matters (readability, maintenance by others)."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Meaningful and consistently applied — camelCase, PascalCase, snake_case, prefixes for control types.",
+              "Applies to variables, constants, functions, classes and files.",
+              "Be ready to explain why it matters (readability, maintenance by others)."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The code cannot be maintained by another developer, who must work out intent from the logic alone.",
+              "Change: meaningful identifiers applied to a consistent convention, e.g. totalSalePrice in camelCase.",
+              "Change: internal documentation explaining the intent of each module and justifying non-obvious choices.",
+              "Comments that restate the code add nothing — they must explain WHY."
+            ]
+          }
         ]
       }
     },
@@ -407,8 +608,24 @@
         "key": "software-dev-34:3.1.10",
         "title": "Validation techniques",
         "front": "Validation techniques",
-        "back": [
-          "Existence (not blank), type (right data type), range (within acceptable bounds). Manual (proofreading, double entry) vs electronic. Know where validation sits in the code and what should happen when it fails."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Existence (not blank), type (right data type), range (within acceptable bounds).",
+              "Manual (proofreading, double entry) vs electronic.",
+              "Know where validation sits in the code and what should happen when it fails."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Existence checking — rejects a blank field.",
+              "Type checking — rejects 'tomorrow' where a date is required.",
+              "Range checking — rejects a date in the past, or more than 12 months ahead.",
+              "Validation should occur before the data is used, with a clear message naming the problem."
+            ]
+          }
         ]
       }
     },
@@ -433,8 +650,24 @@
         "key": "software-dev-34:3.1.11",
         "title": "Internal documentation",
         "front": "Internal documentation",
-        "back": [
-          "Comments, meaningful identifiers, indentation, whitespace. Good comments explain intent and justify a choice rather than restating the line of code. The purpose is future maintenance by someone else."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Comments, meaningful identifiers, indentation, whitespace.",
+              "Good comments explain intent and justify a choice rather than restating the line of code.",
+              "The purpose is future maintenance by someone else."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The comment restates what the code already says — it adds no information a reader could not get from the line itself.",
+              "Useful comments explain INTENT or justify a decision.",
+              "Better: '// 15% member discount set by the 2025 loyalty policy; rate is stored as a constant so it can be updated in one place'.",
+              "Internal documentation exists so another developer can maintain the code later."
+            ]
+          }
         ]
       }
     },
@@ -459,8 +692,23 @@
         "key": "software-dev-34:3.1.12",
         "title": "Sorting algorithms",
         "front": "Sorting algorithms",
-        "back": [
-          "Selection sort (repeatedly find the smallest remaining item and swap it into place — simple but slow on large sets) and quick sort (pick a pivot, partition, recurse — much faster on average). Compare their complexity and justify which suits a given data size."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Selection sort (repeatedly find the smallest remaining item and swap it into place — simple but slow on large sets) and quick sort (pick a pivot, partition, recurse — much faster on average).",
+              "Compare their complexity and justify which suits a given data size."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Selection sort: repeatedly finds the smallest remaining item and swaps it into place. O(n²).",
+              "Quick sort: selects a pivot, partitions around it, then recurses. O(n log n) on average.",
+              "At 500 000 records the difference is enormous — selection sort performs on the order of n² comparisons.",
+              "Recommend quick sort, justified by the size of the data set."
+            ]
+          }
         ]
       }
     },
@@ -485,8 +733,23 @@
         "key": "software-dev-34:3.1.13",
         "title": "Searching algorithms",
         "front": "Searching algorithms",
-        "back": [
-          "Linear search (check each item in turn, works on unsorted data) vs binary search (requires sorted data, halves the search range each step). Justify the choice based on whether the data is sorted and how large it is."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Linear search (check each item in turn, works on unsorted data) vs binary search (requires sorted data, halves the search range each step).",
+              "Justify the choice based on whether the data is sorted and how large it is."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Binary search requires the data to be sorted, so the array must be sorted first.",
+              "Binary search is O(log n) against linear search's O(n), so each individual search is far faster.",
+              "If many searches are performed, sorting once then using binary search is worthwhile.",
+              "If only one or two searches are needed, the cost of sorting outweighs the benefit."
+            ]
+          }
         ]
       }
     },
@@ -516,8 +779,22 @@
         "key": "software-dev-34:3.1.14",
         "title": "Types of errors",
         "front": "Types of errors",
-        "back": [
-          "Syntax (breaks the language rules, won't run), logic (runs but produces the wrong result), runtime (crashes mid-execution — divide by zero, missing file, bad index). Identify the type from the symptom described."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Syntax (breaks the language rules, won't run), logic (runs but produces the wrong result), runtime (crashes mid-execution — divide by zero, missing file, bad index).",
+              "Identify the type from the symptom described."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "a logic error.",
+              "The program executes without crashing but produces the wrong result.",
+              "Syntax errors prevent the program running at all; runtime errors cause it to crash during execution."
+            ]
+          }
         ]
       }
     },
@@ -553,8 +830,24 @@
         "key": "software-dev-34:3.1.15",
         "title": "Debugging techniques",
         "front": "Debugging techniques",
-        "back": [
-          "Breakpoints, stepping through line by line, watches, debugging output/print statements, commenting out sections. These locate the cause of a fault — they don't prove the solution is correct."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Breakpoints, stepping through line by line, watches, debugging output/print statements, commenting out sections.",
+              "These locate the cause of a fault — they don't prove the solution is correct."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Breakpoints: pause execution at a chosen line and inspect variable values at that moment.",
+              "Reveals the state of the data immediately before the crash.",
+              "Debugging output statements: print variable values as the file is processed.",
+              "Reveals which record is being handled when the failure occurs — often a malformed or empty line.",
+              "Debugging locates the cause; it does not prove the solution is correct."
+            ]
+          }
         ]
       }
     },
@@ -580,8 +873,25 @@
         "key": "software-dev-34:3.1.16",
         "title": "Testing techniques",
         "front": "Testing techniques",
-        "back": [
-          "Test cases recording input, expected output, actual output and pass/fail. Test data must cover valid, invalid and boundary values. The test table is your evidence that testing happened."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Test cases recording input, expected output, actual output and pass/fail.",
+              "Test data must cover valid, invalid and boundary values.",
+              "The test table is your evidence that testing happened."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "8 characters — accepted — boundary (lower limit).",
+              "16 characters — accepted — boundary (upper limit).",
+              "12 characters — accepted — valid data.",
+              "7 characters (or 17) — rejected with an error message — invalid/boundary data.",
+              "A complete test table also records the ACTUAL output and a pass/fail result."
+            ]
+          }
         ]
       }
     },
@@ -605,8 +915,22 @@
         "key": "software-dev-34:3.2.1",
         "title": "Why individuals and organisations develop software",
         "front": "Why individuals and organisations develop software",
-        "back": [
-          "A new opportunity, inefficiency in a current system, changing user needs, legal or regulatory change, competitive advantage, cost reduction. Case study questions want the reason tied to that organisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "A new opportunity, inefficiency in a current system, changing user needs, legal or regulatory change, competitive advantage, cost reduction.",
+              "Case study questions want the reason tied to that organisation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Reason: inefficiency in the current system — duplicated manual data entry.",
+              "Benefit: reduced staff time and fewer transcription errors, improving data integrity.",
+              "In a case study the reason must be tied to evidence in the stimulus material."
+            ]
+          }
         ]
       }
     },
@@ -630,8 +954,22 @@
         "key": "software-dev-34:3.2.2",
         "title": "Features of a brief",
         "front": "Features of a brief",
-        "back": [
-          "Background/context, the problem or need, scope, stakeholders, constraints, timeline, deliverables. It's the agreed starting point that everything later is checked back against."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Background/context, the problem or need, scope, stakeholders, constraints, timeline, deliverables.",
+              "It's the agreed starting point that everything later is checked back against."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Any four of: background/context, statement of the problem or opportunity, scope, stakeholders, constraints, timeline, deliverables.",
+              "Purpose: it is the agreed starting point that later work is checked back against.",
+              "It settles what the solution is expected to cover before design begins."
+            ]
+          }
         ]
       }
     },
@@ -656,8 +994,23 @@
         "key": "software-dev-34:3.2.3",
         "title": "Project management using Gantt charts",
         "front": "Project management using Gantt charts",
-        "back": [
-          "Tasks, durations, dependencies, milestones, the critical path (the longest path with no slack) and slack/float. Be able to read a chart, find the critical path and work out the effect of a delay."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Tasks, durations, dependencies, milestones, the critical path (the longest path with no slack) and slack/float.",
+              "Be able to read a chart, find the critical path and work out the effect of a delay."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The critical path is the longest sequence of dependent tasks, determining the minimum project duration.",
+              "Tasks on it have zero slack — any delay delays the whole project.",
+              "Slack is the time a task can be delayed without affecting the project end date.",
+              "A three-day delay on a task with two days of slack overruns by one day, so the project finishes one day late and that task becomes critical."
+            ]
+          }
         ]
       }
     },
@@ -682,8 +1035,23 @@
         "key": "software-dev-34:3.2.4",
         "title": "Techniques for collecting data",
         "front": "Techniques for collecting data",
-        "back": [
-          "Interviews, surveys, observation, analysis of existing documents. Know the strengths and weaknesses of each so you can justify one for a given situation, plus ethical collection (consent, de-identification)."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Interviews, surveys, observation, analysis of existing documents.",
+              "Know the strengths and weaknesses of each so you can justify one for a given situation, plus ethical collection (consent, de-identification)."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Surveys — reach all 300 efficiently and produce quantitative data that can be compared across sites.",
+              "Interviews with a small sample — provide depth and allow follow-up questions surveys cannot.",
+              "Limitation: survey response rates may be low and self-selecting, and interviews cover only a few staff.",
+              "Also acceptable: observation, analysis of existing documents."
+            ]
+          }
         ]
       }
     },
@@ -707,8 +1075,22 @@
         "key": "software-dev-34:3.2.5",
         "title": "Functional and non-functional requirements in analysis",
         "front": "Functional and non-functional requirements in analysis",
-        "back": [
-          "Same distinction as 3.1.2, but now you're deriving them from collected data and writing them into the SRS. They need to be specific and measurable enough to test against later."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Same distinction as 3.1.2, but now you're deriving them from collected data and writing them into the SRS.",
+              "They need to be specific and measurable enough to test against later."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Measurable version: 'The system must return search results within 2 seconds for a database of up to 50 000 records.'",
+              "The original cannot be tested — there is no threshold to check against.",
+              "Requirements are applied as evaluation criteria later, so they must be measurable at the point they are written."
+            ]
+          }
         ]
       }
     },
@@ -733,8 +1115,23 @@
         "key": "software-dev-34:3.2.6",
         "title": "Constraints that influence solution development",
         "front": "Constraints that influence solution development",
-        "back": [
-          "Economic (budget), technical (hardware, software, speed, storage), social (user expectations and skill level), legal (privacy, copyright), usability. Know the difference between a constraint and a requirement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Economic (budget), technical (hardware, software, speed, storage), social (user expectations and skill level), legal (privacy, copyright), usability.",
+              "Know the difference between a constraint and a requirement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "$8000 budget — economic constraint; limits the tools, licences and development time available.",
+              "Older operating system — technical constraint; limits the languages and frameworks that can be deployed.",
+              "Limited staff skills — social/usability constraint; the interface must be simple and training minimal.",
+              "A constraint limits HOW the solution is built; a requirement states what it must do."
+            ]
+          }
         ]
       }
     },
@@ -759,8 +1156,24 @@
         "key": "software-dev-34:3.2.7",
         "title": "Characteristics of solution scope",
         "front": "Characteristics of solution scope",
-        "back": [
-          "The boundary — what the solution will and won't do. Shaped directly by the constraints, and the thing that protects you from scope creep. Be able to write in-scope and out-of-scope statements."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The boundary — what the solution will and won't do.",
+              "Shaped directly by the constraints, and the thing that protects you from scope creep.",
+              "Be able to write in-scope and out-of-scope statements."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Scope defines the boundary of what the solution will and will not do, agreed before design begins.",
+              "It gives an objective basis for refusing or re-negotiating additions, preventing scope creep.",
+              "Out-of-scope statement: 'The solution will not process staff payroll or salary payments.'",
+              "Changes beyond scope require a renegotiated timeline and budget."
+            ]
+          }
         ]
       }
     },
@@ -794,8 +1207,24 @@
         "key": "software-dev-34:3.2.8",
         "title": "Context diagrams",
         "front": "Context diagrams",
-        "back": [
-          "One process representing the whole system, the external entities around it, and the data flows between them. No data stores, no internal processes. Know the conventions well enough to spot errors."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "One process representing the whole system, the external entities around it, and the data flows between them.",
+              "No data stores, no internal processes.",
+              "Know the conventions well enough to spot errors."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Error: a context diagram must contain exactly ONE process, representing the whole system.",
+              "Error: a context diagram contains NO data stores — those appear only in the data flow diagram.",
+              "External entities and labelled data flows in and out are correct.",
+              "1 mark for each error identified, 1 for each correct convention stated."
+            ]
+          }
         ]
       }
     },
@@ -820,8 +1249,24 @@
         "key": "software-dev-34:3.2.9",
         "title": "Data flow diagrams",
         "front": "Data flow diagrams",
-        "back": [
-          "Numbered processes, data stores, external entities, data flows. Must balance with the context diagram — same entities, same external flows. Common convention errors are a favourite exam question."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Numbered processes, data stores, external entities, data flows.",
+              "Must balance with the context diagram — same entities, same external flows.",
+              "Common convention errors are a favourite exam question."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Error: data cannot flow directly between an external entity and a data store.",
+              "A process must sit between them — something in the system must handle the data before it is stored.",
+              "Convention: every data flow must be labelled with the data it carries.",
+              "Convention: processes are numbered, and the diagram must balance with the context diagram."
+            ]
+          }
         ]
       }
     },
@@ -846,8 +1291,23 @@
         "key": "software-dev-34:3.2.10",
         "title": "Use case diagrams",
         "front": "Use case diagrams",
-        "back": [
-          "Actors, use cases, the system boundary, and include/extend relationships. Shows what each type of user can do with the system, not how it works internally."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Actors, use cases, the system boundary, and include/extend relationships.",
+              "Shows what each type of user can do with the system, not how it works internally."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Member is an actor — a role interacting with the system from outside the boundary.",
+              "Borrow item is a use case — something the system does for that actor.",
+              "«include» means verifying membership ALWAYS occurs as part of borrowing an item.",
+              "The diagram shows what a user can do, not how the system performs it."
+            ]
+          }
         ]
       }
     },
@@ -871,8 +1331,22 @@
         "key": "software-dev-34:3.2.11",
         "title": "Software requirements specification",
         "front": "Software requirements specification",
-        "back": [
-          "Pulls together the brief, functional and non-functional requirements, constraints, scope and the analysis diagrams into one agreed document that the design stage is built from. Know its purpose and typical contents."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Pulls together the brief, functional and non-functional requirements, constraints, scope and the analysis diagrams into one agreed document that the design stage is built from.",
+              "Know its purpose and typical contents."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Purpose: it is the agreed and documented basis from which the design stage proceeds.",
+              "Any three of: functional requirements, non-functional requirements, constraints, scope, the analysis diagrams, background from the brief.",
+              "It is signed off before design so that 'done' is defined in advance."
+            ]
+          }
         ]
       }
     },
@@ -897,8 +1371,23 @@
         "key": "software-dev-34:3.2.12",
         "title": "Key legal requirements around privacy and ownership of data",
         "front": "Key legal requirements around privacy and ownership of data",
-        "back": [
-          "Privacy Act 1988 (Cwlth) and the APPs (especially APP 11, security), Health Records Act 2001 (HPPs), Privacy and Data Protection Act 2014 (IPPs, Victorian public sector), Copyright Act 1968 (ownership of code and content). Know which applies to which kind of organisation."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Privacy Act 1988 (Cwlth) and the APPs (especially APP 11, security), Health Records Act 2001 (HPPs), Privacy and Data Protection Act 2014 (IPPs, Victorian public sector), Copyright Act 1968 (ownership of code and content).",
+              "Know which applies to which kind of organisation."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Health Records Act 2001 (Vic) — governs handling of health information through the Health Privacy Principles.",
+              "Privacy Act 1988 (Cwlth) — the Australian Privacy Principles; APP 11 requires reasonable steps to secure personal information.",
+              "Also acceptable: Privacy Amendment (Notifiable Data Breaches) Act 2017 — eligible breaches must be reported to the OAIC and affected individuals.",
+              "The obligation must be specific, not just the name of the Act."
+            ]
+          }
         ]
       }
     },
@@ -923,8 +1412,24 @@
         "key": "software-dev-34:3.2.13",
         "title": "File management techniques",
         "front": "File management techniques",
-        "back": [
-          "Meaningful file naming, logical folder structures, version control (e.g. Git/GitHub), backups, archiving and disposal. Tie these to protecting work in progress on a long project."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Meaningful file naming, logical folder structures, version control (e.g.",
+              "Git/GitHub), backups, archiving and disposal.",
+              "Tie these to protecting work in progress on a long project."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Version control (e.g. Git): tracks changes and allows rollback; addresses overwriting each other's work.",
+              "Regular offsite or cloud backups: addresses loss of work through hardware failure.",
+              "Consistent naming and folder structure: addresses time lost locating files and accidental duplication.",
+              "Also acceptable: archiving completed work, secure disposal of superseded files."
+            ]
+          }
         ]
       }
     },
@@ -948,8 +1453,22 @@
         "key": "software-dev-34:3.2.14",
         "title": "Techniques for generating design ideas",
         "front": "Techniques for generating design ideas",
-        "back": [
-          "Ideation tools — brainstorming, mind mapping, sketching, SCAMPER, rapid prototyping. The point is divergence: several genuinely different ideas before you narrow down to one."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ideation tools — brainstorming, mind mapping, sketching, SCAMPER, rapid prototyping.",
+              "The point is divergence: several genuinely different ideas before you narrow down to one."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Any two of: brainstorming, mind mapping, sketching, SCAMPER, rapid prototyping.",
+              "Divergence produces several genuinely different ideas rather than variations on the first one.",
+              "Committing to the first idea risks missing a better approach, and leaves no basis for justifying the choice made."
+            ]
+          }
         ]
       }
     },
@@ -974,8 +1493,25 @@
         "key": "software-dev-34:3.2.15",
         "title": "Criteria for evaluating efficiency and effectiveness",
         "front": "Criteria for evaluating efficiency and effectiveness",
-        "back": [
-          "Measurable criteria written from the requirements. Efficiency covers time, cost and effort; effectiveness covers functionality, accuracy, usability, completeness, readability, attractiveness and timeliness. Written in Unit 3, applied in Unit 4."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Measurable criteria written from the requirements.",
+              "Efficiency covers time, cost and effort",
+              "effectiveness covers functionality, accuracy, usability, completeness, readability, attractiveness and timeliness.",
+              "Written in Unit 3, applied in Unit 4."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Efficiency criterion, e.g. the solution generates a full timetable in under 60 seconds. Measured by timing test runs.",
+              "Effectiveness criterion, e.g. no student is scheduled into two classes in the same period. Measured by checking generated timetables for clashes.",
+              "Efficiency covers time, cost and effort; effectiveness covers functionality, accuracy, usability and completeness.",
+              "Criteria must be measurable or they cannot be applied in the evaluation."
+            ]
+          }
         ]
       }
     },
@@ -1000,8 +1536,23 @@
         "key": "software-dev-34:3.2.16",
         "title": "Tools for turning design ideas into detailed designs",
         "front": "Tools for turning design ideas into detailed designs",
-        "back": [
-          "Data dictionaries, mock-ups, object descriptions, IPO charts, pseudocode. The test of a detailed design: could another competent developer build the solution from it without asking you questions?"
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Data dictionaries, mock-ups, object descriptions, IPO charts, pseudocode.",
+              "The test of a detailed design: could another competent developer build the solution from it without asking you questions?"
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Test: another competent developer could build the solution from the design without asking questions.",
+              "Data dictionary — every variable's type, size, format and validation.",
+              "Mock-ups and object descriptions — the interface and the structure of each class.",
+              "Pseudocode and IPO charts — the logic and the data movement through each module."
+            ]
+          }
         ]
       }
     },
@@ -1026,8 +1577,23 @@
         "key": "software-dev-34:3.2.17",
         "title": "Characteristics of user experiences",
         "front": "Characteristics of user experiences",
-        "back": [
-          "Usefulness, usability, accessibility/findability, desirability, credibility. Be able to explain how each one affects user satisfaction and whether people keep using the software."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Usefulness, usability, accessibility/findability, desirability, credibility.",
+              "Be able to explain how each one affects user satisfaction and whether people keep using the software."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Usefulness — if it does not solve a real problem, users abandon it regardless of quality.",
+              "Usability — if operating it requires training, users make errors and disengage.",
+              "Accessibility — if users with differing abilities cannot operate it, part of the audience is excluded.",
+              "Also acceptable: desirability, credibility."
+            ]
+          }
         ]
       }
     },
@@ -1052,8 +1618,23 @@
         "key": "software-dev-34:3.2.18",
         "title": "Design principles influencing appearance",
         "front": "Design principles influencing appearance",
-        "back": [
-          "Alignment, repetition, contrast, space, balance. Apply them to a given mock-up and explain what a specific change would improve."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Alignment, repetition, contrast, space, balance.",
+              "Apply them to a given mock-up and explain what a specific change would improve."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Repetition is breached — use a single consistent heading font and style throughout.",
+              "Alignment is breached — align all controls to a common left edge or grid.",
+              "Also acceptable: space — add white space between sections to group related content.",
+              "Marks are for naming the principle AND describing a specific corrective change."
+            ]
+          }
         ]
       }
     },
@@ -1078,8 +1659,23 @@
         "key": "software-dev-34:3.2.19",
         "title": "Design principles influencing functionality",
         "front": "Design principles influencing functionality",
-        "back": [
-          "Navigation, ease of use, error tolerance, robustness, accessibility. Also how security features like user authentication or encryption affect functionality and the user experience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Navigation, ease of use, error tolerance, robustness, accessibility.",
+              "Also how security features like user authentication or encryption affect functionality and the user experience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Error tolerance: the solution anticipates mistakes, prevents damage, and helps the user recover.",
+              "Feature: validation with a clear message identifying which field is wrong and why.",
+              "Feature: confirmation before a destructive action, or an undo function.",
+              "Also acceptable: retaining entered data when a form is rejected rather than clearing it."
+            ]
+          }
         ]
       }
     },
@@ -1104,8 +1700,24 @@
         "key": "software-dev-34:4.1.1",
         "title": "Characteristics of efficient and effective solutions",
         "front": "Characteristics of efficient and effective solutions",
-        "back": [
-          "Efficiency is measured in time, cost and effort. Effectiveness is whether it actually does the job — functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message. A solution can easily be one without the other."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Efficiency is measured in time, cost and effort.",
+              "Effectiveness is whether it actually does the job — functionality, accuracy, usability, completeness, readability, attractiveness, timeliness, communication of message.",
+              "A solution can easily be one without the other."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Effective in part — it is functional and accurate, producing correct output.",
+              "Not effective in usability — repeated re-entry frustrates users and increases error rates.",
+              "Not efficient — 40 seconds of loading wastes user time and effort.",
+              "A solution can be effective without being efficient, and the reverse."
+            ]
+          }
         ]
       }
     },
@@ -1129,8 +1741,21 @@
         "key": "software-dev-34:4.1.2",
         "title": "Data types, structures and sources for input, storage and output",
         "front": "Data types, structures and sources for input, storage and output",
-        "back": [
-          "Choosing structures that make manipulation efficient across a whole solution, not one module — how data comes in, how it's held while the program runs, how it's written back out."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Choosing structures that make manipulation efficient across a whole solution, not one module — how data comes in, how it's held while the program runs, how it's written back out."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Data source: a delimited (CSV) file — flat records with fixed fields suit tabular sales data.",
+              "Data structure: an array of records, or an associative array keyed by region for accumulating totals.",
+              "Data type: floating point for the monetary totals; string for the region name."
+            ]
+          }
         ]
       }
     },
@@ -1155,8 +1780,22 @@
         "key": "software-dev-34:4.1.3",
         "title": "Features of a programming language in a full solution",
         "front": "Features of a programming language in a full solution",
-        "back": [
-          "Modularity, functions and methods, classes, error/exception handling, GUI elements, file input and output — used together to build something complete rather than as isolated exercises."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Modularity, functions and methods, classes, error/exception handling, GUI elements, file input and output — used together to build something complete rather than as isolated exercises."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Without handling, a missing or malformed file causes a runtime error and the program crashes.",
+              "The exception should be caught and the failure handled gracefully.",
+              "The user should see a clear message identifying the problem, with the solution remaining usable.",
+              "Robustness: the solution keeps working under unexpected conditions."
+            ]
+          }
         ]
       }
     },
@@ -1181,8 +1820,23 @@
         "key": "software-dev-34:4.1.4",
         "title": "Established and innovative approaches to software development",
         "front": "Established and innovative approaches to software development",
-        "back": [
-          "APIs, libraries, frameworks, public code repositories, AI-based coding assistants. Benefits (speed, reuse, tested code) against risks (dependency, access revoked or the API changed, licensing and IP, security holes, unverified output)."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "APIs, libraries, frameworks, public code repositories, AI-based coding assistants.",
+              "Benefits (speed, reuse, tested code) against risks (dependency, access revoked or the API changed, licensing and IP, security holes, unverified output)."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Benefit: development is faster — the payment logic is already built and tested.",
+              "Benefit: security and compliance are handled by a specialist provider.",
+              "Risk: dependency — if the API changes or access is revoked, the solution breaks.",
+              "Risk: licensing, cost and data sovereignty — customer data passes through a third party."
+            ]
+          }
         ]
       }
     },
@@ -1206,8 +1860,21 @@
         "key": "software-dev-34:4.1.5",
         "title": "Validation techniques",
         "front": "Validation techniques",
-        "back": [
-          "Existence, type and range checking applied at every input point in the solution, with clear feedback to the user when input is rejected."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Existence, type and range checking applied at every input point in the solution, with clear feedback to the user when input is rejected."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Any unvalidated entry point allows invalid data into the system, corrupting stored data and causing runtime errors later.",
+              "Validating in one place only is defeated by a second input path.",
+              "On rejection: the user should see a clear message naming the field and the problem, with their other entries retained rather than cleared."
+            ]
+          }
         ]
       }
     },
@@ -1232,8 +1899,23 @@
         "key": "software-dev-34:4.1.6",
         "title": "Debugging and alpha testing techniques",
         "front": "Debugging and alpha testing techniques",
-        "back": [
-          "Alpha testing is internal — done by you or the development team before release, in a controlled environment. Paired with debugging tools to find and fix faults before real users see them."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Alpha testing is internal — done by you or the development team before release, in a controlled environment.",
+              "Paired with debugging tools to find and fix faults before real users see them."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Alpha testing is internal — carried out by the developer or team in a controlled environment before release.",
+              "Beta testing uses real users in a real environment after alpha testing is complete.",
+              "Both are needed because they find different classes of problem: alpha catches known faults, beta catches uses the developer never imagined.",
+              "Beta testing requires a plan — who tests, what tasks, how feedback is collected."
+            ]
+          }
         ]
       }
     },
@@ -1258,8 +1940,24 @@
         "key": "software-dev-34:4.1.7",
         "title": "Conducting beta testing",
         "front": "Conducting beta testing",
-        "back": [
-          "Real users, real environment, after alpha. Needs a plan: who tests, what tasks they do, how feedback is collected, and how you respond to what comes back. Know how it differs from alpha testing and why both are needed."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Real users, real environment, after alpha.",
+              "Needs a plan: who tests, what tasks they do, how feedback is collected, and how you respond to what comes back.",
+              "Know how it differs from alpha testing and why both are needed."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Who the testers are and how they are selected; the tasks they will perform.",
+              "How feedback will be collected, and how the team will respond to it.",
+              "Beta uses real users in real environments, on hardware and with data the developer never anticipated.",
+              "Developers know how the solution is meant to be used, so they do not test the ways real users get it wrong."
+            ]
+          }
         ]
       }
     },
@@ -1284,8 +1982,23 @@
         "key": "software-dev-34:4.1.8",
         "title": "Features of evaluation strategies",
         "front": "Features of evaluation strategies",
-        "back": [
-          "Three parts: the criteria themselves, what data you'll collect and how, and the timeline plus who is responsible for collecting it. The strategy is planned before the evaluation happens."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Three parts: the criteria themselves, what data you'll collect and how, and the timeline plus who is responsible for collecting it.",
+              "The strategy is planned before the evaluation happens."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The evaluation criteria themselves.",
+              "What data will be collected and how it will be collected.",
+              "The timeline for collection and who is responsible for it.",
+              "The strategy is created during design, before the solution is finished — not after."
+            ]
+          }
         ]
       }
     },
@@ -1310,8 +2023,23 @@
         "key": "software-dev-34:4.1.9",
         "title": "Techniques for applying evaluation criteria",
         "front": "Techniques for applying evaluation criteria",
-        "back": [
-          "Gather evidence — test results, user feedback, usage data — and judge each criterion against it. An evaluation is a supported judgement, not an opinion about how you feel it went."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Gather evidence — test results, user feedback, usage data — and judge each criterion against it.",
+              "An evaluation is a supported judgement, not an opinion about how you feel it went."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Weakness: it is an opinion, not a judgement supported by evidence.",
+              "Weakness: it does not reference the evaluation criteria established during design.",
+              "Stronger: each criterion addressed in turn, stating whether it was met, partly met or not met.",
+              "Stronger: supported by evidence — test results, user survey responses, usage data or timings."
+            ]
+          }
         ]
       }
     },
@@ -1336,8 +2064,22 @@
         "key": "software-dev-34:4.1.10",
         "title": "Factors influencing the effectiveness of project plans",
         "front": "Factors influencing the effectiveness of project plans",
-        "back": [
-          "Realistic time estimates, correct task sequencing and dependencies, identified milestones, resource and skill availability, contingency time, and unexpected events."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Realistic time estimates, correct task sequencing and dependencies, identified milestones, resource and skill availability, contingency time, and unexpected events."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Unrealistic time estimates — use historical data from similar tasks rather than best-case guesses.",
+              "Missing or wrong dependencies — map predecessors properly so sequencing reflects reality.",
+              "No contingency time — build slack into the plan for tasks with uncertain scope.",
+              "Also acceptable: resource or skill availability, unexpected events, scope creep."
+            ]
+          }
         ]
       }
     },
@@ -1362,8 +2104,23 @@
         "key": "software-dev-34:4.1.11",
         "title": "Techniques for recording the progress of projects",
         "front": "Techniques for recording the progress of projects",
-        "back": [
-          "Annotated Gantt charts, project journals and logs, change logs, issue logs, version control history. These become the evidence you use when assessing the plan."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Annotated Gantt charts, project journals and logs, change logs, issue logs, version control history.",
+              "These become the evidence you use when assessing the plan."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Annotated Gantt chart showing actual versus planned dates.",
+              "A project journal or log recording decisions, problems and time spent.",
+              "Change and issue logs, plus version control history.",
+              "These are the evidence used to assess the plan afterwards — without them the evaluation is guesswork."
+            ]
+          }
         ]
       }
     },
@@ -1388,11 +2145,21 @@
         "key": "software-dev-34:4.1.12",
         "title": "Assessing the effectiveness of a project plan",
         "front": "Assessing the effectiveness of a project plan",
-        "back": [
-          "It contains no evidence — no comparison of planned against actual dates.",
-          "It identifies no cause, so nothing can be learned or changed next time.",
-          "Stronger: name the specific tasks that overran, by how long, and why.",
-          "Stronger: state what you would change — a revised estimate, an earlier start, or a reduced scope."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "It contains no evidence — no comparison of planned against actual dates."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It identifies no cause, so nothing can be learned or changed next time.",
+              "Stronger: name the specific tasks that overran, by how long, and why.",
+              "Stronger: state what you would change — a revised estimate, an earlier start, or a reduced scope."
+            ]
+          }
         ]
       }
     },
@@ -1417,8 +2184,24 @@
         "key": "software-dev-34:4.2.1",
         "title": "Goals and objectives of organisations",
         "front": "Goals and objectives of organisations",
-        "back": [
-          "Goals are broad and long-term; objectives are specific and measurable. Be able to link secure development practices to the organisation's goals — business continuity, reputation, customer trust, legal compliance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Goals are broad and long-term",
+              "objectives are specific and measurable.",
+              "Be able to link secure development practices to the organisation's goals — business continuity, reputation, customer trust, legal compliance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Goals are broad, long-term statements of what the organisation is trying to achieve.",
+              "Objectives are specific, measurable steps toward a goal, usually with a timeframe.",
+              "Example: a goal of maintaining customer trust is supported by secure development, since a breach of customer data would directly damage it.",
+              "Also acceptable: business continuity, legal compliance, reputation."
+            ]
+          }
         ]
       }
     },
@@ -1443,8 +2226,23 @@
         "key": "software-dev-34:4.2.2",
         "title": "Advantages and disadvantages of developing software in-house",
         "front": "Advantages and disadvantages of developing software in-house",
-        "back": [
-          "For: control, customisation, retained IP, domain knowledge, data stays internal. Against: cost, time, staffing and skills, and the ongoing maintenance burden falls on you."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "For: control, customisation, retained IP, domain knowledge, data stays internal.",
+              "Against: cost, time, staffing and skills, and the ongoing maintenance burden falls on you."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Advantage: the solution is customised exactly to the organisation's processes.",
+              "Advantage: intellectual property is retained and data never leaves the organisation.",
+              "Disadvantage: higher upfront cost and a longer timeline before it is usable.",
+              "Disadvantage: the organisation carries the ongoing maintenance and support burden."
+            ]
+          }
         ]
       }
     },
@@ -1469,8 +2267,22 @@
         "key": "software-dev-34:4.2.3",
         "title": "Vulnerabilities within insecure development environments",
         "front": "Vulnerabilities within insecure development environments",
-        "back": [
-          "Weak access control, shared or hardcoded credentials, unpatched tools, unsecured or public repositories, no code review, real personal data used as test data, unvetted third-party libraries, insider threat."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Weak access control, shared or hardcoded credentials, unpatched tools, unsecured or public repositories, no code review, real personal data used as test data, unvetted third-party libraries, insider threat."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Hardcoded credentials: anyone reading the code gains access to the connected service.",
+              "Public repository: the source and the embedded keys are exposed to the entire internet.",
+              "Real customer data in testing: a breach of the test environment exposes personal information, likely breaching the Privacy Act 1988.",
+              "1 mark per vulnerability identified with its consequence."
+            ]
+          }
         ]
       }
     },
@@ -1495,8 +2307,23 @@
         "key": "software-dev-34:4.2.4",
         "title": "Security controls to protect practices and data",
         "front": "Security controls to protect practices and data",
-        "back": [
-          "Physical (locks, biometrics, secure server rooms), software (firewalls, antivirus, encryption, multi-factor authentication, access logs), procedural (access policies, code review, patching schedules, backups, staff training). Sort controls into the three categories."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Physical (locks, biometrics, secure server rooms), software (firewalls, antivirus, encryption, multi-factor authentication, access logs), procedural (access policies, code review, patching schedules, backups, staff training).",
+              "Sort controls into the three categories."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Biometric access to the server room — physical control.",
+              "Multi-factor authentication — software control.",
+              "Mandatory code review before merging — procedural control.",
+              "Procedural controls are the category most often omitted in answers."
+            ]
+          }
         ]
       }
     },
@@ -1521,8 +2348,22 @@
         "key": "software-dev-34:4.2.5",
         "title": "Principles of threat modelling",
         "front": "Principles of threat modelling",
-        "back": [
-          "Systematically identify the assets worth protecting, who would attack them and how, and what the impact would be — then rank by likelihood and consequence so controls target real threats rather than guesses."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Systematically identify the assets worth protecting, who would attack them and how, and what the impact would be — then rank by likelihood and consequence so controls target real threats rather than guesses."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the assets worth protecting — data, code, systems, reputation.",
+              "Identify who would attack them, how they would do it, and what the impact would be.",
+              "Rank the threats by likelihood and consequence.",
+              "Controls are then chosen against real, ranked threats rather than guesses, so limited budget is spent where risk is greatest."
+            ]
+          }
         ]
       }
     },
@@ -1547,8 +2388,23 @@
         "key": "software-dev-34:4.2.6",
         "title": "Criteria for evaluating the security of development practices",
         "front": "Criteria for evaluating the security of development practices",
-        "back": [
-          "Confidentiality (only authorised people get access), integrity (data stays accurate and unaltered), availability (accessible when needed). Use these as the framework when a case study asks you to judge current practices."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Confidentiality (only authorised people get access), integrity (data stays accurate and unaltered), availability (accessible when needed).",
+              "Use these as the framework when a case study asks you to judge current practices."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Availability is at risk — data must be accessible when it is needed.",
+              "An untested backup may be corrupt or incomplete, so it provides no guarantee of recovery.",
+              "Integrity may also be compromised if a restored backup contains altered or partial data.",
+              "Confidentiality, integrity and availability are the three criteria."
+            ]
+          }
         ]
       }
     },
@@ -1573,8 +2429,23 @@
         "key": "software-dev-34:4.2.7",
         "title": "Key legislation affecting organisations and data",
         "front": "Key legislation affecting organisations and data",
-        "back": [
-          "Privacy Act 1988 (Cwlth) and the APPs, Privacy Amendment (Notifiable Data Breaches) Act 2017, Health Records Act 2001, Privacy and Data Protection Act 2014, Copyright Act 1968. Know which applies to which organisation and what it actually obliges them to do."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Privacy Act 1988 (Cwlth) and the APPs, Privacy Amendment (Notifiable Data Breaches) Act 2017, Health Records Act 2001, Privacy and Data Protection Act 2014, Copyright Act 1968.",
+              "Know which applies to which organisation and what it actually obliges them to do."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Privacy Amendment (Notifiable Data Breaches) Act 2017, operating under the Privacy Act 1988 (Cwlth).",
+              "Obligation: assess whether the breach is likely to result in serious harm.",
+              "Obligation: notify the OAIC and the affected individuals as soon as practicable.",
+              "APP 11 also requires reasonable steps to have been taken to secure the information beforehand."
+            ]
+          }
         ]
       }
     },
@@ -1599,8 +2470,24 @@
         "key": "software-dev-34:4.2.8",
         "title": "Ethical issues arising when developing software",
         "front": "Ethical issues arising when developing software",
-        "back": [
-          "Ethical is not the same as legal. Collecting more data than needed, using real customer data in testing, attribution of AI-generated or copied code, disclosing known vulnerabilities, developer responsibility for harm. The ACS Code of Professional Conduct is a useful reference point."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ethical is not the same as legal.",
+              "Collecting more data than needed, using real customer data in testing, attribution of AI-generated or copied code, disclosing known vulnerabilities, developer responsibility for harm.",
+              "The ACS Code of Professional Conduct is a useful reference point."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Customers consented to their data being used to provide a service, not for software testing.",
+              "The test environment usually has weaker controls, so the risk of exposure is higher than they agreed to.",
+              "Ethical practice includes data minimisation — use only the data actually needed.",
+              "Alternative: generate synthetic test data, or de-identify the copy so individuals cannot be re-identified."
+            ]
+          }
         ]
       }
     },
@@ -1625,8 +2512,22 @@
         "key": "software-dev-34:4.2.9",
         "title": "Measures to reduce or eliminate threats and risks",
         "front": "Measures to reduce or eliminate threats and risks",
-        "back": [
-          "Prevention, detection and response: patching, multi-factor authentication, encryption, least-privilege access, backups and disaster recovery planning, monitoring, and staff training."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Prevention, detection and response: patching, multi-factor authentication, encryption, least-privilege access, backups and disaster recovery planning, monitoring, and staff training."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Preventative: multi-factor authentication and least-privilege access, stopping unauthorised entry.",
+              "Detective: access logging and monitoring, revealing an intrusion that prevention missed.",
+              "Responsive: tested backups and a documented incident response plan, limiting damage once a breach occurs.",
+              "No preventative control is perfect, so detection and response are needed for the breaches that get through."
+            ]
+          }
         ]
       }
     },
@@ -1651,8 +2552,23 @@
         "key": "software-dev-34:4.2.10",
         "title": "Improving the security of software development practices",
         "front": "Improving the security of software development practices",
-        "back": [
-          "Each recommendation must be tied to a specific threat or vulnerability you identified in the case study, justified, and honest about its cost or limitations. Generic recommendations score poorly."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Each recommendation must be tied to a specific threat or vulnerability you identified in the case study, justified, and honest about its cost or limitations.",
+              "Generic recommendations score poorly."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Recommendation: individual accounts with least-privilege access, addressing the shared administrator account — actions become attributable and a single compromise exposes less.",
+              "Recommendation: a scheduled patching cycle with a named owner, addressing the unpatched tools that leave known exploits open.",
+              "Limitation: both require staff time and may slow the team initially; patching can break existing dependencies.",
+              "Generic recommendations score poorly — each must name the vulnerability from the stimulus."
+            ]
+          }
         ]
       }
     }

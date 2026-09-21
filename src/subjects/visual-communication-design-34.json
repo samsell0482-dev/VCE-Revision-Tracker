@@ -48,8 +48,22 @@
         "key": "visual-communication-design-34:P1",
         "title": "Discover",
         "front": "Discover",
-        "back": [
-          "Researching the problem, the client, the audience and the context, and gathering inspiration before generating solutions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Researching the problem, the client, the audience and the context, and gathering inspiration before generating solutions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The designer researches the problem, the client, the intended audience and the context in which the communication will be encountered.",
+              "Existing solutions and comparable work are analysed to understand conventions and to identify opportunities.",
+              "Generating solutions immediately locks the designer into the first idea, which is usually the most obvious and least distinctive.",
+              "Research also reveals constraints and audience expectations that would otherwise force expensive changes later in the process."
+            ]
+          }
         ]
       }
     },
@@ -73,8 +87,21 @@
         "key": "visual-communication-design-34:P2",
         "title": "Define",
         "front": "Define",
-        "back": [
-          "Synthesising research into a clear statement of the problem to be solved, the communication need and the criteria for success."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Synthesising research into a clear statement of the problem to be solved, the communication need and the criteria for success."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The define phase converts research findings into a focused statement of the actual problem, which is often different from the one originally presented.",
+              "A well-framed statement identifies the audience, the communication need and the context, without prescribing the solution.",
+              "Leaving the solution open allows a wider range of ideas to be explored in the next phase."
+            ]
+          }
         ]
       }
     },
@@ -99,8 +126,22 @@
         "key": "visual-communication-design-34:P3",
         "title": "Develop and ideation",
         "front": "Develop and ideation",
-        "back": [
-          "Divergent generation of many ideas through thumbnails, sketching, brainstorming and mind mapping, then convergent selection and refinement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Divergent generation of many ideas through thumbnails, sketching, brainstorming and mind mapping, then convergent selection and refinement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Divergent thinking generates a large quantity of varied ideas without evaluating them, using rapid techniques such as thumbnails and brainstorming.",
+              "Convergent thinking then evaluates those ideas against the brief and criteria to select the strongest for development.",
+              "Quantity matters in the divergent phase because early ideas tend to be conventional and the more original concepts emerge later.",
+              "Evaluating too early suppresses the unusual ideas that produce distinctive solutions."
+            ]
+          }
         ]
       }
     },
@@ -124,8 +165,21 @@
         "key": "visual-communication-design-34:P4",
         "title": "Deliver",
         "front": "Deliver",
-        "back": [
-          "Refining the chosen concept, resolving technical requirements, producing the final presentation and preparing files for production."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Refining the chosen concept, resolving technical requirements, producing the final presentation and preparing files for production."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A developmental concept explores an idea and may be rough, partial or unresolved in its detail.",
+              "A refined concept resolves every element: composition, typography, colour, scale, alignment and technical specification.",
+              "It is presented in a form appropriate to its final use, including correct dimensions, bleed, resolution or file format for production."
+            ]
+          }
         ]
       }
     },
@@ -149,8 +203,21 @@
         "key": "visual-communication-design-34:P5",
         "title": "Iteration and the non-linear process",
         "front": "Iteration and the non-linear process",
-        "back": [
-          "Returning to earlier phases as new information emerges, and treating feedback and testing as part of the process rather than a final step."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Returning to earlier phases as new information emerges, and treating feedback and testing as part of the process rather than a final step."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Testing a concept often reveals that the problem was framed incorrectly or that an assumption about the audience was wrong.",
+              "The designer then returns to an earlier phase, redefines the problem or generates new ideas, rather than proceeding with a flawed solution.",
+              "Iteration produces better outcomes because each cycle incorporates what was learned from the previous one."
+            ]
+          }
         ]
       }
     },
@@ -174,8 +241,21 @@
         "key": "visual-communication-design-34:E1",
         "title": "Line and shape",
         "front": "Line and shape",
-        "back": [
-          "The expressive and structural roles of line, and the distinction between geometric and organic shape and the associations each carries."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The expressive and structural roles of line, and the distinction between geometric and organic shape and the associations each carries."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Line directs the viewer's eye through a composition and can divide or connect areas of the design.",
+              "Line also carries expressive quality: a thin, even line reads as precise and controlled, while a thick, irregular line reads as energetic or handmade.",
+              "Geometric shapes suggest order, technology and precision, while organic shapes suggest nature, comfort and informality."
+            ]
+          }
         ]
       }
     },
@@ -199,8 +279,21 @@
         "key": "visual-communication-design-34:E2",
         "title": "Form, texture and tone",
         "front": "Form, texture and tone",
-        "back": [
-          "Creating the illusion of three dimensions, the tactile and visual qualities of texture, and the use of tone to model form and create depth."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Creating the illusion of three dimensions, the tactile and visual qualities of texture, and the use of tone to model form and create depth."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Tone describes the lightness or darkness of an area, and is applied according to a consistent light source.",
+              "Surfaces facing the light are rendered lighter, those turned away are darker, and cast shadows anchor the object to a surface.",
+              "Gradual tonal transitions suggest curved surfaces, while abrupt changes suggest flat planes meeting at an edge."
+            ]
+          }
         ]
       }
     },
@@ -225,8 +318,22 @@
         "key": "visual-communication-design-34:E3",
         "title": "Colour",
         "front": "Colour",
-        "back": [
-          "Hue, value and saturation, colour schemes, the psychological and cultural associations of colour, and the difference between RGB and CMYK."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Hue, value and saturation, colour schemes, the psychological and cultural associations of colour, and the difference between RGB and CMYK."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "RGB is an additive colour system used by screens, in which red, green and blue light combine to produce colour.",
+              "CMYK is a subtractive system used in printing, in which cyan, magenta, yellow and black inks absorb light.",
+              "The RGB gamut is wider, so highly saturated screen colours cannot always be reproduced in print and appear duller.",
+              "A designer therefore works in the colour mode matching the final output, and checks print proofs rather than relying on screen appearance."
+            ]
+          }
         ]
       }
     },
@@ -250,8 +357,21 @@
         "key": "visual-communication-design-34:E4",
         "title": "Figure-ground and contrast",
         "front": "Figure-ground and contrast",
-        "back": [
-          "The relationship between positive and negative space, and the use of contrast in size, tone, colour, weight and shape to create emphasis."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The relationship between positive and negative space, and the use of contrast in size, tone, colour, weight and shape to create emphasis."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Figure-ground describes the perceptual separation of a subject from its background.",
+              "Strong contrast in tone, colour or detail makes the figure read clearly and immediately.",
+              "Deliberately ambiguous figure-ground, where the negative space forms a second readable shape, creates a memorable dual image often used in logo design."
+            ]
+          }
         ]
       }
     },
@@ -276,8 +396,22 @@
         "key": "visual-communication-design-34:E5",
         "title": "Balance and scale",
         "front": "Balance and scale",
-        "back": [
-          "Symmetrical, asymmetrical and radial balance, visual weight, and the use of scale and proportion to establish importance."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Symmetrical, asymmetrical and radial balance, visual weight, and the use of scale and proportion to establish importance."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Symmetrical balance places elements of equal visual weight evenly either side of a central axis.",
+              "It reads as formal, stable and traditional, which suits contexts such as certificates and institutional communication.",
+              "Asymmetrical balance distributes unequal elements so that their visual weights offset one another without mirroring.",
+              "It reads as dynamic and contemporary and creates more visual interest, but requires careful judgement to avoid appearing unresolved."
+            ]
+          }
         ]
       }
     },
@@ -302,8 +436,22 @@
         "key": "visual-communication-design-34:E6",
         "title": "Hierarchy and emphasis",
         "front": "Hierarchy and emphasis",
-        "back": [
-          "Directing the order in which information is read through size, weight, colour, position and space, and establishing a clear focal point."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Directing the order in which information is read through size, weight, colour, position and space, and establishing a clear focal point."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Hierarchy is created by varying size, weight, colour, contrast, position and surrounding space so elements rank in importance.",
+              "The most important information is given the greatest visual weight and is usually positioned where the eye enters the composition.",
+              "Without hierarchy every element competes equally for attention, so the viewer does not know where to look first.",
+              "A poster is typically viewed for a second or two, so an unclear hierarchy means the core message is never received."
+            ]
+          }
         ]
       }
     },
@@ -327,8 +475,21 @@
         "key": "visual-communication-design-34:E7",
         "title": "Pattern, repetition and rhythm",
         "front": "Pattern, repetition and rhythm",
-        "back": [
-          "Using repeated elements to create unity and visual rhythm, and the use of variation within repetition to prevent monotony."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Using repeated elements to create unity and visual rhythm, and the use of variation within repetition to prevent monotony."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Repeating consistent typefaces, colours, margins, grid structure and graphic devices across pages establishes a recognisable visual system.",
+              "The reader learns the system quickly, so navigating each new page requires less effort.",
+              "Deliberate variation within that system, such as a differently treated opening page, provides emphasis without breaking the overall unity."
+            ]
+          }
         ]
       }
     },
@@ -353,8 +514,22 @@
         "key": "visual-communication-design-34:E8",
         "title": "Proximity, alignment and space",
         "front": "Proximity, alignment and space",
-        "back": [
-          "Grouping related elements, aligning to an invisible structure, and using white space deliberately rather than treating it as leftover."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Grouping related elements, aligning to an invisible structure, and using white space deliberately rather than treating it as leftover."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Proximity groups related items closely and separates unrelated ones, so the viewer perceives the structure of the information before reading it.",
+              "Alignment relates every element to a shared edge or axis, which produces a sense of order even in an asymmetrical layout.",
+              "White space is not empty space; it creates the separation that makes proximity legible and gives emphasis to what it surrounds.",
+              "Cramming the page to fill it destroys both grouping and emphasis, making the design harder to read rather than more informative."
+            ]
+          }
         ]
       }
     },
@@ -378,8 +553,21 @@
         "key": "visual-communication-design-34:M1",
         "title": "Manual drawing methods",
         "front": "Manual drawing methods",
-        "back": [
-          "Freehand sketching, technical drawing, rendering and the appropriate use of each at different stages of the process."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Freehand sketching, technical drawing, rendering and the appropriate use of each at different stages of the process."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Thumbnails are fast, so many compositional alternatives can be explored in the time one digital version would take.",
+              "Their roughness keeps attention on composition and hierarchy rather than on detail and finish.",
+              "Being quick and disposable, they also reduce the reluctance to abandon an idea that is not working."
+            ]
+          }
         ]
       }
     },
@@ -404,8 +592,22 @@
         "key": "visual-communication-design-34:M2",
         "title": "Technical drawing conventions",
         "front": "Technical drawing conventions",
-        "back": [
-          "Orthogonal drawing with third angle projection, isometric, planometric and perspective drawing, and the conventions of scale and dimensioning."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Orthogonal drawing with third angle projection, isometric, planometric and perspective drawing, and the conventions of scale and dimensioning."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Orthogonal drawing presents separate two-dimensional views of an object, typically front, side and top, drawn to scale with no distortion.",
+              "It is used for technical documentation and manufacture because true dimensions can be measured directly from the drawing.",
+              "Perspective drawing represents the object as the eye would see it, with parallel lines converging at vanishing points.",
+              "It is used for presentation and client communication because it conveys appearance persuasively, but it cannot be measured for production."
+            ]
+          }
         ]
       }
     },
@@ -430,8 +632,22 @@
         "key": "visual-communication-design-34:M3",
         "title": "Two-point perspective",
         "front": "Two-point perspective",
-        "back": [
-          "Horizon line, vanishing points and the construction of forms receding to two points, and the effect of eye level on the view."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Horizon line, vanishing points and the construction of forms receding to two points, and the effect of eye level on the view."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The horizon line represents the viewer's eye level within the scene.",
+              "Two vanishing points are placed on the horizon line, and all receding horizontal edges converge to one or the other.",
+              "Vertical edges remain vertical and parallel to one another.",
+              "Placing the horizon line low makes the object appear imposing, while a high horizon produces a view looking down on it."
+            ]
+          }
         ]
       }
     },
@@ -456,8 +672,22 @@
         "key": "visual-communication-design-34:M4",
         "title": "Digital methods",
         "front": "Digital methods",
-        "back": [
-          "Vector and raster software, the difference between the two file types, resolution, and the use of layers, masks and type tools."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Vector and raster software, the difference between the two file types, resolution, and the use of layers, masks and type tools."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A vector image is defined by mathematical paths, so it can be scaled to any size without loss of quality.",
+              "A raster image is a grid of pixels, so enlarging it beyond its native resolution produces visible pixellation.",
+              "Vectors suit logos, type and illustration that must reproduce at many sizes, from a business card to a billboard.",
+              "Rasters suit photographs and images with continuous tonal variation, and must be supplied at adequate resolution for the intended output size."
+            ]
+          }
         ]
       }
     },
@@ -481,8 +711,21 @@
         "key": "visual-communication-design-34:M5",
         "title": "Models, mock-ups and prototypes",
         "front": "Models, mock-ups and prototypes",
-        "back": [
-          "Producing physical and digital models to test form, scale and function, and presenting concepts in context."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Producing physical and digital models to test form, scale and function, and presenting concepts in context."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A mock-up shows the design at its actual scale and in the setting where the audience will encounter it.",
+              "This reveals problems invisible on screen, such as text too small to read at viewing distance or a logo that fails on a curved surface.",
+              "It also communicates the concept to a client more persuasively, since they can judge the effect rather than imagine it."
+            ]
+          }
         ]
       }
     },
@@ -507,8 +750,22 @@
         "key": "visual-communication-design-34:T1",
         "title": "Typeface classification",
         "front": "Typeface classification",
-        "back": [
-          "Serif, sans serif, script, display and monospaced typefaces, their characteristics and the associations each carries."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Serif, sans serif, script, display and monospaced typefaces, their characteristics and the associations each carries."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Serif typefaces have small strokes at the ends of letterforms, while sans serif typefaces do not.",
+              "Serifs are associated with tradition, authority and formality, and have historically been used for extended printed body text.",
+              "Sans serif typefaces are associated with modernity, clarity and neutrality, and perform well at small sizes on screen.",
+              "The choice should follow the communication's purpose and audience rather than personal preference alone."
+            ]
+          }
         ]
       }
     },
@@ -532,8 +789,21 @@
         "key": "visual-communication-design-34:T2",
         "title": "Typographic anatomy and measurement",
         "front": "Typographic anatomy and measurement",
-        "back": [
-          "Baseline, x-height, ascender, descender, cap height, counter and stem, and the measurement of type size and leading in points."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Baseline, x-height, ascender, descender, cap height, counter and stem, and the measurement of type size and leading in points."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "X-height is the height of the lowercase letters without ascenders or descenders, measured from the baseline.",
+              "Point size measures the overall type body, not the visible letterforms, so typefaces distribute that space differently.",
+              "A typeface with a large x-height appears larger and is generally more legible at small sizes, even at an identical point size."
+            ]
+          }
         ]
       }
     },
@@ -558,8 +828,22 @@
         "key": "visual-communication-design-34:T3",
         "title": "Legibility and readability",
         "front": "Legibility and readability",
-        "back": [
-          "Line length, leading, tracking, kerning, alignment and contrast, and their effect on the ease of reading extended text."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Line length, leading, tracking, kerning, alignment and contrast, and their effect on the ease of reading extended text."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Legibility is how easily individual characters can be distinguished from one another, a property of the typeface itself.",
+              "Readability is how easily extended text can be read, a property of how the type has been set.",
+              "Line length affects readability, since very long lines make it difficult to find the start of the next line.",
+              "Leading and tracking also affect it, as text set too tightly causes lines to blur together and text set too loosely fragments into separate words."
+            ]
+          }
         ]
       }
     },
@@ -584,8 +868,22 @@
         "key": "visual-communication-design-34:T4",
         "title": "Type hierarchy and pairing",
         "front": "Type hierarchy and pairing",
-        "back": [
-          "Establishing levels of information through size, weight, case and colour, and combining typefaces with sufficient contrast."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Establishing levels of information through size, weight, case and colour, and combining typefaces with sufficient contrast."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Differentiate the levels using changes in size, weight, case and colour rather than by changing typeface for each level.",
+              "A heading may be large and bold, a subheading smaller and medium weight, and body text smaller again in regular weight.",
+              "When pairing typefaces, contrast must be clear, typically by combining a serif with a sans serif.",
+              "Two typefaces that are similar but not identical read as an error rather than a deliberate pairing, so either contrast strongly or use one family's weights."
+            ]
+          }
         ]
       }
     },
@@ -609,8 +907,21 @@
         "key": "visual-communication-design-34:T5",
         "title": "Images and photography in design",
         "front": "Images and photography in design",
-        "back": [
-          "Selecting, cropping and treating images, the effect of viewpoint and framing, and the integration of image with type."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Selecting, cropping and treating images, the effect of viewpoint and framing, and the integration of image with type."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Cropping removes context, so the viewer's attention is directed to what remains rather than to the whole scene.",
+              "A tight crop on a face creates intimacy and emotional emphasis, while a wide crop emphasises setting and scale.",
+              "Cropping also changes the image's proportions and its visual weight in the composition, affecting the balance of the layout."
+            ]
+          }
         ]
       }
     },
@@ -635,8 +946,22 @@
         "key": "visual-communication-design-34:D1",
         "title": "Communication design",
         "front": "Communication design",
-        "back": [
-          "Branding, publication, packaging, advertising, signage and digital interface design, and the conventions of each."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Branding, publication, packaging, advertising, signage and digital interface design, and the conventions of each."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It must be simple enough to be recognised instantly and recalled after brief exposure.",
+              "It must be scalable, working at both business card and billboard size, which favours vector construction and limited detail.",
+              "It must be legible in a single colour and in reverse, since it will be applied to varied backgrounds and production methods.",
+              "It must be appropriate to the organisation and distinctive within its sector, so that it is not confused with competitors."
+            ]
+          }
         ]
       }
     },
@@ -661,8 +986,22 @@
         "key": "visual-communication-design-34:D2",
         "title": "Environmental design",
         "front": "Environmental design",
-        "back": [
-          "Architectural, interior, landscape and exhibition design, the representation of three-dimensional space, and the consideration of human movement and scale."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Architectural, interior, landscape and exhibition design, the representation of three-dimensional space, and the consideration of human movement and scale."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Human scale and movement, since people occupy and move through the design rather than viewing it from a fixed position.",
+              "Structural and material constraints, because the design must be physically buildable and safe.",
+              "Site context, including orientation, climate, access and the relationship to surrounding buildings and landscape.",
+              "Accessibility and regulatory compliance also impose requirements that a printed communication does not face."
+            ]
+          }
         ]
       }
     },
@@ -686,8 +1025,21 @@
         "key": "visual-communication-design-34:D3",
         "title": "Industrial design",
         "front": "Industrial design",
-        "back": [
-          "Designing objects and products for manufacture and use, considering ergonomics, materials, production processes and the user's experience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Designing objects and products for manufacture and use, considering ergonomics, materials, production processes and the user's experience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Ergonomics is the study of how people physically interact with objects, and it ensures a product can be used comfortably, safely and efficiently.",
+              "The designer considers the range of body sizes and capabilities in the intended user group rather than a single average user.",
+              "An example is sizing and shaping a handle so it can be gripped securely by users with differing hand sizes and grip strength."
+            ]
+          }
         ]
       }
     },
@@ -711,8 +1063,21 @@
         "key": "visual-communication-design-34:D4",
         "title": "Design conventions across fields",
         "front": "Design conventions across fields",
-        "back": [
-          "The different presentation formats, drawing types and audiences appropriate to each design field."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The different presentation formats, drawing types and audiences appropriate to each design field."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "An environmental design must communicate three-dimensional space, so it uses plans, elevations, sections and perspective renderings.",
+              "A brand identity must communicate consistent application, so it uses the logo at various sizes, colour variants and mock-ups across media.",
+              "The presentation format is determined by what the audience must judge, which differs fundamentally between the two fields."
+            ]
+          }
         ]
       }
     },
@@ -737,8 +1102,22 @@
         "key": "visual-communication-design-34:B1",
         "title": "The design brief",
         "front": "The design brief",
-        "back": [
-          "The components of a brief: client, purpose, audience, context, constraints, deliverables and timeline."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "The components of a brief: client, purpose, audience, context, constraints, deliverables and timeline."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A brief states the client, the communication purpose, the intended audience, the context of use and the required deliverables.",
+              "It also states constraints including budget, timeline, format, existing brand requirements and any legal obligations.",
+              "Explicit constraints prevent the designer from developing a concept that cannot be produced within the available resources.",
+              "They also provide the basis on which the final work is judged, since a solution that ignores a constraint has not met the brief."
+            ]
+          }
         ]
       }
     },
@@ -763,8 +1142,22 @@
         "key": "visual-communication-design-34:B2",
         "title": "Understanding the audience",
         "front": "Understanding the audience",
-        "back": [
-          "Researching the demographics, needs, expectations and viewing context of the intended audience, and designing for them rather than for oneself."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Researching the demographics, needs, expectations and viewing context of the intended audience, and designing for them rather than for oneself."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Viewing distance determines minimum type size and the level of detail that can be perceived.",
+              "Viewing duration determines how much information can be conveyed: a road sign has a second, a brochure has minutes.",
+              "The physical environment affects contrast and colour decisions, since a design viewed in bright sunlight or on a small phone screen has different requirements.",
+              "Designing without considering context typically produces work that succeeds on screen and fails in use."
+            ]
+          }
         ]
       }
     },
@@ -788,8 +1181,21 @@
         "key": "visual-communication-design-34:B3",
         "title": "Research methods",
         "front": "Research methods",
-        "back": [
-          "Primary research through observation, interview and survey, and secondary research through precedent analysis and existing sources."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Primary research through observation, interview and survey, and secondary research through precedent analysis and existing sources."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "It reveals the conventions of the field, which the audience already understands and expects.",
+              "It identifies what competitors are doing, so the new design can be differentiated rather than blending in.",
+              "It provides technical insight into production methods and formats that have proven effective in that context."
+            ]
+          }
         ]
       }
     },
@@ -813,8 +1219,21 @@
         "key": "visual-communication-design-34:B4",
         "title": "Visual research and inspiration",
         "front": "Visual research and inspiration",
-        "back": [
-          "Collecting and annotating visual references, building mood boards, and using them to establish direction without copying."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Collecting and annotating visual references, building mood boards, and using them to establish direction without copying."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "A mood board collects colours, typography, imagery and textures that establish the intended tone and visual direction of the project.",
+              "It communicates that direction to a client quickly and keeps the designer's decisions consistent through development.",
+              "Inspiration extracts a quality or principle and applies it to a new problem, while imitation reproduces another designer's solution, which is both unoriginal and potentially a breach of copyright."
+            ]
+          }
         ]
       }
     },
@@ -839,8 +1258,22 @@
         "key": "visual-communication-design-34:C1",
         "title": "Giving and receiving critique",
         "front": "Giving and receiving critique",
-        "back": [
-          "Describing before judging, referring to the brief and criteria rather than personal taste, and using feedback to inform iteration."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Describing before judging, referring to the brief and criteria rather than personal taste, and using feedback to inform iteration."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Begin by describing what the design does, identifying the choices made in composition, colour and typography.",
+              "Assess those choices against the brief and its stated criteria, including the intended audience and purpose.",
+              "Identify specifically what is working and what is not, and explain the reason in terms of the communication objective.",
+              "A statement of personal preference gives the designer nothing to act on, since it identifies neither the problem nor a direction for revision."
+            ]
+          }
         ]
       }
     },
@@ -865,8 +1298,22 @@
         "key": "visual-communication-design-34:C2",
         "title": "Evaluating against the brief",
         "front": "Evaluating against the brief",
-        "back": [
-          "Testing the resolved design against each requirement of the brief and each criterion, with evidence rather than assertion."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Testing the resolved design against each requirement of the brief and each criterion, with evidence rather than assertion."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Address each criterion from the brief separately rather than giving a general impression of the work.",
+              "State the evidence: what the design does, and whether the intended audience can be shown to respond as required.",
+              "Reach a clear judgement on each criterion, acknowledging where the solution falls short rather than defending every decision.",
+              "Identify what would be changed with more time or resources, which demonstrates critical understanding of the outcome."
+            ]
+          }
         ]
       }
     },
@@ -890,8 +1337,21 @@
         "key": "visual-communication-design-34:C3",
         "title": "Presenting to a client",
         "front": "Presenting to a client",
-        "back": [
-          "Explaining the rationale behind design decisions, connecting them to the brief, and presenting work professionally and in context."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Explaining the rationale behind design decisions, connecting them to the brief, and presenting work professionally and in context."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "The client judges the work against their business need, which they may not be able to assess from appearance alone.",
+              "Explaining how each decision serves the audience and purpose shifts the discussion from personal taste to whether the brief was met.",
+              "It also demonstrates that the solution resulted from research and reasoning rather than arbitrary preference, which builds confidence in the designer."
+            ]
+          }
         ]
       }
     },
@@ -916,8 +1376,22 @@
         "key": "visual-communication-design-34:S1",
         "title": "Copyright and intellectual property",
         "front": "Copyright and intellectual property",
-        "back": [
-          "Ownership of design work, the licensing of fonts and images, attribution, and the distinction between influence and infringement."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Ownership of design work, the licensing of fonts and images, attribution, and the distinction between influence and infringement."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Fonts are licensed rather than owned, and licences specify permitted uses such as desktop, web embedding or commercial distribution.",
+              "Using a font outside its licence terms, including one bundled with software, may breach the licence even though the file is installed.",
+              "Stock photographs require a licence appropriate to the use, since editorial licences typically exclude commercial and advertising use.",
+              "Model and property releases may also be required where identifiable people or private property appear in commercial work."
+            ]
+          }
         ]
       }
     },
@@ -942,8 +1416,22 @@
         "key": "visual-communication-design-34:S2",
         "title": "Ethical and cultural considerations",
         "front": "Ethical and cultural considerations",
-        "back": [
-          "Avoiding misleading communication and stereotyping, representing people respectfully, and the protocols surrounding cultural imagery."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Avoiding misleading communication and stereotyping, representing people respectfully, and the protocols surrounding cultural imagery."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Not to mislead: a design should not create a false impression through selective imagery, distorted data visualisation or deceptive layout.",
+              "To represent people respectfully, avoiding stereotype and considering how the depiction affects the group represented.",
+              "Cultural imagery, particularly Aboriginal and Torres Strait Islander designs and symbols, should not be appropriated, and use requires proper permission and consultation.",
+              "Accessibility is also an ethical obligation, since design that excludes people with impaired vision or colour perception denies them the information."
+            ]
+          }
         ]
       }
     },
@@ -968,8 +1456,22 @@
         "key": "visual-communication-design-34:S3",
         "title": "Sustainability in design",
         "front": "Sustainability in design",
-        "back": [
-          "Material selection, production waste, the life of the product, design for disassembly and the environmental effect of design decisions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Material selection, production waste, the life of the product, design for disassembly and the environmental effect of design decisions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Specify recycled or certified stock and vegetable-based inks, reducing the impact of the materials used.",
+              "Design to standard sheet sizes so that trimming waste is minimised in production.",
+              "Reduce the number of colours and avoid laminates and foils that prevent the finished item from being recycled.",
+              "Consider whether the communication needs to be printed at all, or whether a digital format would meet the brief."
+            ]
+          }
         ]
       }
     },
@@ -994,8 +1496,22 @@
         "key": "visual-communication-design-34:X1",
         "title": "Analysing an unseen design",
         "front": "Analysing an unseen design",
-        "back": [
-          "Describing what is present before interpreting it, using correct terminology for elements and principles, and linking each observation to purpose and audience."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Describing what is present before interpreting it, using correct terminology for elements and principles, and linking each observation to purpose and audience."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Identify the design field, purpose and likely audience from the evidence in the image.",
+              "Describe specific choices using correct terminology, naming the elements and principles at work rather than describing impressionistically.",
+              "Explain the effect of each choice on the viewer and how it serves the communication purpose.",
+              "Reach an overall judgement on whether the design communicates effectively to its intended audience."
+            ]
+          }
         ]
       }
     },
@@ -1019,8 +1535,21 @@
         "key": "visual-communication-design-34:X2",
         "title": "Using terminology precisely",
         "front": "Using terminology precisely",
-        "back": [
-          "Naming elements and principles correctly, distinguishing them from one another, and avoiding vague descriptive language."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Naming elements and principles correctly, distinguishing them from one another, and avoiding vague descriptive language."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Elements are the components from which a design is built, such as line, shape, form, colour, tone, texture and type.",
+              "Principles are the ways those components are arranged and related, such as balance, hierarchy, contrast, proximity, alignment and repetition.",
+              "A response that confuses the two, for example describing colour as a principle, indicates imprecise understanding."
+            ]
+          }
         ]
       }
     },
@@ -1044,8 +1573,21 @@
         "key": "visual-communication-design-34:X3",
         "title": "Drawing under exam conditions",
         "front": "Drawing under exam conditions",
-        "back": [
-          "Managing time across drawing tasks, working from construction lines to detail, and presenting drawings cleanly with correct conventions."
+        "sections": [
+          {
+            "heading": "Definition / key knowledge",
+            "lines": [
+              "Managing time across drawing tasks, working from construction lines to detail, and presenting drawings cleanly with correct conventions."
+            ]
+          },
+          {
+            "heading": "What to remember",
+            "lines": [
+              "Construct lightly first, establishing proportion, horizon line and vanishing points before committing to any detail.",
+              "Work across the whole drawing at a consistent level of resolution rather than finishing one corner in detail and leaving the rest blank.",
+              "Reserve time to line in and clean up, since an accurate but unresolved drawing presents poorly and loses marks for finish."
+            ]
+          }
         ]
       }
     }
