@@ -33,7 +33,7 @@
       "card": {
         "key": "health-human-development-34:3.1.1",
         "title": "Health, wellbeing and illness",
-        "front": "Two people with the same diagnosed condition describe their health differently. Explain how this illustrates the subjective nature of health and give one reason their perceptions might change over time.",
+        "front": "Health, wellbeing and illness",
         "back": [
           "Subjective means a person's judgement of their health depends on their own experience and perspective.",
           "Different expectations, support or ability to participate can lead the two people to different assessments despite the same diagnosis.",
@@ -61,7 +61,7 @@
       "card": {
         "key": "health-human-development-34:3.1.2",
         "title": "Five dimensions working together",
-        "front": "Name the five dimensions of health and wellbeing and explain how a change in one can affect another, using a worked example.",
+        "front": "Five dimensions working together",
         "back": [
           "The five dimensions are physical, social, emotional, mental and spiritual health and wellbeing.",
           "They are interrelated, so a change in one dimension commonly produces change in the others.",
@@ -90,7 +90,7 @@
       "card": {
         "key": "health-human-development-34:3.1.3",
         "title": "Health as a shared resource",
-        "front": "Explain what it means to describe health and wellbeing as a resource for the individual, the nation and the world.",
+        "front": "Health as a shared resource",
         "back": [
           "For the individual, good health and wellbeing allows participation in work, study and relationships, and reduces the personal cost of illness.",
           "For the nation, a healthy population is more productive, requires less health expenditure and has higher rates of workforce participation, which increases tax revenue and economic growth.",
@@ -119,7 +119,7 @@
       "card": {
         "key": "health-human-development-34:3.1.4",
         "title": "New cases and existing cases",
-        "front": "Distinguish between incidence and prevalence, and explain why a condition can have low incidence but high prevalence.",
+        "front": "New cases and existing cases",
         "back": [
           "Incidence is the number or rate of new cases of a condition arising in a population in a given period.",
           "Prevalence is the total number or proportion of cases of a condition present in a population at a given time, including both new and existing cases.",
@@ -148,7 +148,7 @@
       "card": {
         "key": "health-human-development-34:3.1.5",
         "title": "Illness, mortality and life expectancy",
-        "front": "Define morbidity, mortality and life expectancy, and explain why life expectancy alone does not describe a population's health status.",
+        "front": "Illness, mortality and life expectancy",
         "back": [
           "Morbidity refers to ill health in an individual and the levels of ill health in a population.",
           "Mortality refers to death, usually expressed as a rate per 100000 people in a given period.",
@@ -177,7 +177,7 @@
       "card": {
         "key": "health-human-development-34:3.1.6",
         "title": "Burden of disease measures",
-        "front": "Explain what DALY, YLL and YLD measure and why burden of disease data is more useful than mortality data alone.",
+        "front": "Burden of disease measures",
         "back": [
           "A DALY is one lost year of healthy life, and is the measure used to express burden of disease.",
           "DALY is the sum of YLL, years of life lost due to premature death, and YLD, years lived with disability.",
@@ -205,7 +205,7 @@
       "card": {
         "key": "health-human-development-34:3.1.7",
         "title": "Healthy years and self-reported health",
-        "front": "Explain what health-adjusted life expectancy measures and what self-assessed health status adds to the picture.",
+        "front": "Healthy years and self-reported health",
         "back": [
           "Health-adjusted life expectancy is the number of years a person can expect to live in full health, without the reduced functioning caused by disease or injury.",
           "It is lower than life expectancy, and the gap represents the years expected to be lived with illness or disability.",
@@ -233,7 +233,7 @@
       "card": {
         "key": "health-human-development-34:3.1.8",
         "title": "Biological influences",
-        "front": "Name three biological factors that influence health status and explain how one of them contributes to cardiovascular disease.",
+        "front": "Biological influences",
         "back": [
           "Biological factors include genetics, body weight, blood pressure, blood cholesterol, glucose regulation, birth weight, age and sex.",
           "High blood pressure forces the heart to work harder and damages the walls of arteries over time.",
@@ -262,7 +262,7 @@
       "card": {
         "key": "health-human-development-34:3.1.9",
         "title": "Social and cultural influences",
-        "front": "Explain how socioeconomic status and social isolation each influence health status.",
+        "front": "Social and cultural influences",
         "back": [
           "Socioeconomic status combines income, education and occupation, and lower status is associated with worse health outcomes on almost every measure.",
           "Lower income restricts the ability to afford nutritious food, secure housing, health insurance and timely treatment, while lower education reduces health literacy and the ability to act on health information.",
@@ -291,7 +291,7 @@
       "card": {
         "key": "health-human-development-34:3.1.10",
         "title": "Environmental influences",
-        "front": "Name three environmental factors affecting health status and explain how urban design influences health outcomes.",
+        "front": "Environmental influences",
         "back": [
           "Environmental factors include housing quality, the work environment, urban design and infrastructure, and climate and weather.",
           "Urban design determines whether physical activity is a convenient part of daily life, through footpaths, bike lanes, parks and access to public transport.",
@@ -320,7 +320,7 @@
       "card": {
         "key": "health-human-development-34:3.1.11",
         "title": "Smoking, vaping and alcohol",
-        "front": "Explain how tobacco smoking contributes to Australia's burden of disease, and one reason rates differ between population groups.",
+        "front": "Smoking, vaping and alcohol",
         "back": [
           "Tobacco smoke damages the airways and alveoli, causing chronic obstructive pulmonary disease, and contains carcinogens that cause lung and other cancers.",
           "It also damages blood vessels and raises blood pressure, contributing to cardiovascular disease.",
@@ -349,7 +349,7 @@
       "card": {
         "key": "health-human-development-34:3.1.12",
         "title": "Body weight and dietary patterns",
-        "front": "Explain how overweight and obesity affect health status, referring to at least two body systems.",
+        "front": "Body weight and dietary patterns",
         "back": [
           "Excess body fat increases insulin resistance, which raises blood glucose levels and leads to type 2 diabetes.",
           "Additional body mass raises blood pressure and blood cholesterol, increasing the workload of the cardiovascular system and the risk of heart disease and stroke.",
@@ -378,7 +378,7 @@
       "card": {
         "key": "health-human-development-34:3.1.13",
         "title": "Reading Australian health data",
-        "front": "Explain how to use Australian health data to compare the health status of two population groups.",
+        "front": "Reading Australian health data",
         "back": [
           "Identify the specific indicator being compared, such as life expectancy, mortality rate or burden of disease, and check the units and time period.",
           "Quote specific figures for each group and state the size of the difference, as a gap in years or as a ratio or percentage.",
@@ -406,7 +406,7 @@
       "card": {
         "key": "health-human-development-34:3.2.1",
         "title": "Public health before modern treatment",
-        "front": "A town improves its sewerage system and drinking-water supply. Explain how this represents old public health and how it could improve population health.",
+        "front": "Public health before modern treatment",
         "back": [
           "The initiative improves environmental conditions for a whole population rather than treating only individual patients.",
           "Separating sewage from drinking water can reduce exposure to pathogens.",
@@ -434,7 +434,7 @@
       "card": {
         "key": "health-human-development-34:3.2.2",
         "title": "Medical care and technology",
-        "front": "Describe the biomedical approach to health and evaluate it with one strength and one limitation.",
+        "front": "Medical care and technology",
         "back": [
           "The biomedical approach focuses on the physical or biological aspects of disease and illness, and is practised by health professionals to diagnose and treat individual patients.",
           "A strength is that it creates advances in technology and research, extending life expectancy and improving quality of life through treatments, vaccines and surgery.",
@@ -463,7 +463,7 @@
       "card": {
         "key": "health-human-development-34:3.2.3",
         "title": "Social approaches to health",
-        "front": "Explain the social model of health and how it differs from the biomedical approach.",
+        "front": "Social approaches to health",
         "back": [
           "The social model of health is a conceptual framework that addresses the broader determinants of health rather than focusing on individual biology.",
           "Its principles are to address the broader determinants of health, act to reduce social inequities, empower individuals and communities, access health care, and act to enable intersectoral collaboration.",
@@ -492,12 +492,9 @@
       "card": {
         "key": "health-human-development-34:3.2.4",
         "title": "Ottawa Charter in action",
-        "front": "Name the five action areas of the Ottawa Charter and apply two of them to reducing smoking rates.",
+        "front": "Ottawa Charter in action",
         "back": [
-          "The action areas are build healthy public policy, create supportive environments, strengthen community action, develop personal skills and reorient health services.",
-          "Build healthy public policy: legislating plain packaging, higher tobacco excise and bans on smoking in enclosed public spaces.",
-          "Develop personal skills: education campaigns and Quitline counselling that build the knowledge and skills to stop smoking.",
-          "Create supportive environments would include smoke-free workplaces and venues that make not smoking the easier choice."
+          "Recognise the five action areas: healthy public policy, supportive environments, community action, personal skills and reoriented health services. Apply them to concrete program features."
         ]
       }
     },
@@ -521,7 +518,7 @@
       "card": {
         "key": "health-human-development-34:3.2.5",
         "title": "Evaluating health promotion",
-        "front": "Explain how the effectiveness of a health promotion program is judged.",
+        "front": "Evaluating health promotion",
         "back": [
           "Identify the program's stated objectives and the population group it targeted, since effectiveness is measured against its own aims.",
           "Compare data before and after the program on relevant indicators, such as participation rates, behaviour change or changes in incidence.",
@@ -550,7 +547,7 @@
       "card": {
         "key": "health-human-development-34:3.2.6",
         "title": "Aboriginal and Torres Strait Islander health initiatives",
-        "front": "Explain two features that make a health initiative effective in improving Aboriginal and Torres Strait Islander health and wellbeing.",
+        "front": "Aboriginal and Torres Strait Islander health initiatives",
         "back": [
           "Community control and consultation, so that programs are designed and delivered by Aboriginal and Torres Strait Islander communities rather than imposed on them.",
           "Cultural safety, so that services respect culture, language and kinship and do not repeat experiences of racism or discrimination that deter people from seeking care.",
@@ -579,7 +576,7 @@
       "card": {
         "key": "health-human-development-34:3.2.7",
         "title": "Australian healthy-eating guidance",
-        "front": "Distinguish between the Australian Dietary Guidelines and the Australian Guide to Healthy Eating, and state one guideline.",
+        "front": "Australian healthy-eating guidance",
         "back": [
           "The Australian Dietary Guidelines are a set of written recommendations about the types and amounts of food that promote health and reduce the risk of diet-related disease.",
           "The Australian Guide to Healthy Eating is a visual food selection guide, a pie chart showing the proportions of the five food groups that should be eaten each day.",
@@ -608,7 +605,7 @@
       "card": {
         "key": "health-human-development-34:3.2.8",
         "title": "Barriers to dietary change",
-        "front": "Explain three barriers that prevent Australians from following dietary guidance.",
+        "front": "Barriers to dietary change",
         "back": [
           "Cost: nutritious fresh food can be more expensive than energy-dense processed alternatives, particularly for low income households.",
           "Time and convenience: preparing meals from fresh ingredients takes longer than purchasing prepared or takeaway food, which is a barrier for people working long or irregular hours.",
@@ -637,7 +634,7 @@
       "card": {
         "key": "health-human-development-34:3.2.9",
         "title": "Medicare and private insurance",
-        "front": "Explain how Medicare promotes access to health care and state one thing it does not cover.",
+        "front": "Medicare and private insurance",
         "back": [
           "Medicare is Australia's universal health insurance scheme, funded through taxation including the Medicare levy.",
           "It provides free treatment as a public patient in a public hospital and covers or subsidises consultations with general practitioners and specialists.",
@@ -666,7 +663,7 @@
       "card": {
         "key": "health-human-development-34:3.2.10",
         "title": "PBS and NDIS",
-        "front": "Explain the purpose of the Pharmaceutical Benefits Scheme and the National Disability Insurance Scheme.",
+        "front": "PBS and NDIS",
         "back": [
           "The PBS subsidises the cost of a wide range of prescription medicines, so patients pay only a set co-payment rather than the full price.",
           "A safety net reduces the cost further once a household reaches a threshold in a calendar year, which protects people who need many medicines.",
@@ -695,7 +692,7 @@
       "card": {
         "key": "health-human-development-34:3.2.11",
         "title": "Health-system trade-offs",
-        "front": "Explain the meaning of sustainability, access and equity as they apply to Australia's health system, using an example of each.",
+        "front": "Health-system trade-offs",
         "back": [
           "Sustainability means the system can meet the needs of the present population while retaining the capacity, workforce and funding to meet future needs.",
           "Access means all people can obtain health services regardless of where they live, their income or their background, for example bulk billing removing the cost barrier.",
@@ -724,12 +721,9 @@
       "card": {
         "key": "health-human-development-34:3.2.12",
         "title": "Explaining long-term improvements",
-        "front": "Explain two reasons for Australia's improvements in health status since 1900, referring to both old public health and modern approaches.",
+        "front": "Explaining long-term improvements",
         "back": [
-          "Old public health improvements, including safe drinking water, sewerage, improved housing and better nutrition, dramatically reduced infectious disease and infant mortality in the early twentieth century.",
-          "Quarantine, food safety regulation and improved working conditions further reduced deaths from communicable disease.",
-          "Later improvements came from the biomedical approach, including antibiotics, vaccination, improved surgical techniques and treatment of cardiovascular disease.",
-          "More recently the social model and the Ottawa Charter have reduced smoking rates and road deaths through legislation, supportive environments and education."
+          "Read Australian health trends since 1900 and justify explanations involving public health, medical developments and health promotion."
         ]
       }
     },
@@ -752,7 +746,7 @@
       "card": {
         "key": "health-human-development-34:4.1.1",
         "title": "What human development means",
-        "front": "A community program helps adults access education and participate in local decision-making. Explain two ways this could support human development.",
+        "front": "What human development means",
         "back": [
           "Education can strengthen people's knowledge and capabilities, expanding their future choices.",
           "Participation in decisions can increase people's agency and ability to shape the conditions in which they live.",
@@ -780,7 +774,7 @@
       "card": {
         "key": "health-human-development-34:4.1.2",
         "title": "Using the Human Development Index",
-        "front": "Name the dimensions of the Human Development Index and evaluate its usefulness as a measure of human development.",
+        "front": "Using the Human Development Index",
         "back": [
           "The HDI combines a long and healthy life measured by life expectancy at birth, knowledge measured by mean and expected years of schooling, and a decent standard of living measured by gross national income per capita.",
           "Its strength is combining health, education and income into one comparable figure, which is broader than income alone.",
@@ -809,7 +803,7 @@
       "card": {
         "key": "health-human-development-34:4.1.3",
         "title": "Comparing country income groups",
-        "front": "Explain how patterns of health status and burden of disease differ between high income and low income countries.",
+        "front": "Comparing country income groups",
         "back": [
           "Low income countries have higher rates of communicable disease, maternal and neonatal conditions and undernutrition, particularly among children.",
           "These reflect limited access to safe water, sanitation, immunisation and skilled health care, and produce high YLL through premature death.",
@@ -838,7 +832,7 @@
       "card": {
         "key": "health-human-development-34:4.1.4",
         "title": "Comparing global outcomes",
-        "front": "Explain three differences in health outcomes between low, middle and high income countries, quoting the type of indicator you would use.",
+        "front": "Comparing global outcomes",
         "back": [
           "Life expectancy is substantially lower in low income countries, often by twenty years or more compared with high income countries.",
           "Under-five mortality rates are many times higher in low income countries, reflecting infectious disease, undernutrition and lack of skilled birth attendance.",
@@ -867,12 +861,9 @@
       "card": {
         "key": "health-human-development-34:4.1.5",
         "title": "Safe water and sanitation",
-        "front": "Explain how a lack of safe water and sanitation affects health status and human development.",
+        "front": "Safe water and sanitation",
         "back": [
-          "Contaminated water transmits pathogens causing diarrhoeal disease, cholera and typhoid, which are major causes of death in children under five.",
-          "Repeated diarrhoeal infection prevents absorption of nutrients, causing undernutrition, stunting and impaired cognitive development.",
-          "Collecting water consumes hours each day, usually for women and girls, reducing time available for schooling and paid work.",
-          "Reduced schooling and productivity limit income and empowerment, so poor water and sanitation constrain human development as well as health."
+          "Trace how access to safe water and sanitation can influence both health outcomes and opportunities for human development."
         ]
       }
     },
@@ -896,7 +887,7 @@
       "card": {
         "key": "health-human-development-34:4.1.6",
         "title": "Poverty and unequal treatment",
-        "front": "Explain how poverty and discrimination act as barriers to health and human development.",
+        "front": "Poverty and unequal treatment",
         "back": [
           "Poverty restricts the ability to afford adequate food, safe housing, clean water, schooling and health care, so basic needs go unmet.",
           "It also forces trade-offs, such as choosing between food and medicine, and creates chronic stress that itself damages health.",
@@ -925,7 +916,7 @@
       "card": {
         "key": "health-human-development-34:4.1.7",
         "title": "Three dimensions of sustainability",
-        "front": "Name the three dimensions of sustainability and explain how each relates to health and wellbeing.",
+        "front": "Three dimensions of sustainability",
         "back": [
           "Environmental sustainability means using natural resources so that the environment can continue to provide clean air, water, food and shelter for future generations.",
           "Social sustainability means maintaining the systems and relationships, including health care, education, peace and social inclusion, that allow communities to continue functioning.",
@@ -954,7 +945,7 @@
       "card": {
         "key": "health-human-development-34:4.1.8",
         "title": "Climate-related global change",
-        "front": "Explain three ways climate change affects health status globally.",
+        "front": "Climate-related global change",
         "back": [
           "Rising temperatures increase deaths and illness from heat stress, particularly among the elderly, the very young and outdoor workers.",
           "Changing rainfall patterns and extreme weather reduce crop yields and damage water supplies, increasing undernutrition and waterborne disease.",
@@ -983,12 +974,9 @@
       "card": {
         "key": "health-human-development-34:4.1.9",
         "title": "Conflict and mass migration",
-        "front": "Explain how conflict and mass migration affect health and human development.",
+        "front": "Conflict and mass migration",
         "back": [
-          "Conflict causes direct death and injury, and destroys hospitals, water systems, schools and transport infrastructure.",
-          "Health workers flee or are killed, so immunisation, maternal care and treatment of chronic conditions stop, and preventable disease returns.",
-          "Displaced people often live in overcrowded camps with inadequate water and sanitation, where communicable disease spreads rapidly.",
-          "Education is interrupted for years and economies are destroyed, so the loss of human development persists long after fighting ends."
+          "Trace effects on safety, services, relationships and opportunities. Analyse a particular context and avoid assuming all migration has identical consequences."
         ]
       }
     },
@@ -1012,7 +1000,7 @@
       "card": {
         "key": "health-human-development-34:4.1.10",
         "title": "Trade and commercial exposure",
-        "front": "Explain how the global distribution and marketing of tobacco, alcohol and processed foods affects health in low and middle income countries.",
+        "front": "Trade and commercial exposure",
         "back": [
           "As regulation tightens in high income countries, companies expand marketing into low and middle income countries where controls are weaker.",
           "Advertising, sponsorship and low prices increase consumption of tobacco, alcohol and energy-dense processed foods.",
@@ -1041,7 +1029,7 @@
       "card": {
         "key": "health-human-development-34:4.1.11",
         "title": "Tourism and digital technologies",
-        "front": "Explain one positive and one negative effect of increased tourism and digital technology on health and human development.",
+        "front": "Tourism and digital technologies",
         "back": [
           "Tourism generates income, employment and infrastructure such as roads, clean water and airports, which can raise living standards for local communities.",
           "Tourism can also spread infectious disease rapidly between countries, and can strain local water and waste systems and damage ecosystems.",
@@ -1069,7 +1057,7 @@
       "card": {
         "key": "health-human-development-34:4.2.1",
         "title": "Why the Sustainable Development Goals matter",
-        "front": "Explain why progress on a goal outside SDG 3 can still improve health and human development. Use access to clean water as your example.",
+        "front": "Why the Sustainable Development Goals matter",
         "back": [
           "The goals interact: conditions outside health services can affect health outcomes.",
           "Safer water can reduce exposure to waterborne pathogens and associated illness, contributing to SDG 3.",
@@ -1097,7 +1085,7 @@
       "card": {
         "key": "health-human-development-34:4.2.2",
         "title": "Key features of SDG 3",
-        "front": "State the aim of Sustainable Development Goal 3 and describe two of its targets.",
+        "front": "Key features of SDG 3",
         "back": [
           "SDG 3 aims to ensure healthy lives and promote wellbeing for all at all ages.",
           "One target is to reduce the global maternal mortality ratio and end preventable deaths of newborns and children under five.",
@@ -1126,7 +1114,7 @@
       "card": {
         "key": "health-human-development-34:4.2.3",
         "title": "SDG 1 and SDG 3",
-        "front": "Explain the relationship between SDG 1, no poverty, and SDG 3, good health and wellbeing.",
+        "front": "SDG 1 and SDG 3",
         "back": [
           "Poverty prevents people from affording nutritious food, safe housing, clean water and health care, so it directly produces ill health.",
           "Reducing poverty raises the resources available for the basic needs that health depends on, improving health status.",
@@ -1155,12 +1143,9 @@
       "card": {
         "key": "health-human-development-34:4.2.4",
         "title": "SDG 2 and SDG 3",
-        "front": "Explain the relationship between SDG 2, zero hunger, and SDG 3, good health and wellbeing.",
+        "front": "SDG 2 and SDG 3",
         "back": [
-          "SDG 2 aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
-          "Undernutrition weakens the immune system, so children are more likely to die from otherwise treatable infections such as measles and diarrhoeal disease.",
-          "Chronic undernutrition in early childhood causes stunting and impaired cognitive development, which cannot be fully reversed later.",
-          "Adequate nutrition therefore reduces child mortality and morbidity, directly advancing the targets of SDG 3."
+          "Connect food security and improved nutrition with health. Explain how progress can also support learning, work and participation."
         ]
       }
     },
@@ -1184,7 +1169,7 @@
       "card": {
         "key": "health-human-development-34:4.2.5",
         "title": "SDG 4 and SDG 3",
-        "front": "Explain how progress on SDG 4, quality education, contributes to SDG 3, good health and wellbeing.",
+        "front": "SDG 4 and SDG 3",
         "back": [
           "Education increases health literacy, so people can understand health information, recognise symptoms and follow treatment.",
           "Educated women have fewer, better spaced pregnancies and are more likely to use antenatal care and have their children immunised.",
@@ -1213,7 +1198,7 @@
       "card": {
         "key": "health-human-development-34:4.2.6",
         "title": "SDG 5 and SDG 3",
-        "front": "Explain how progress on SDG 5, gender equality, contributes to health and wellbeing.",
+        "front": "SDG 5 and SDG 3",
         "back": [
           "Gender equality gives women control over decisions about their own health, including whether and when to seek care.",
           "Access to family planning and reproductive health services reduces maternal mortality and improves birth spacing and infant survival.",
@@ -1242,7 +1227,7 @@
       "card": {
         "key": "health-human-development-34:4.2.7",
         "title": "SDG 6 and SDG 3",
-        "front": "Explain how progress on SDG 6, clean water and sanitation, contributes to SDG 3.",
+        "front": "SDG 6 and SDG 3",
         "back": [
           "Safe drinking water and adequate sanitation prevent transmission of the pathogens causing diarrhoeal disease, cholera and typhoid.",
           "Diarrhoeal disease is a leading cause of death in children under five, so improving water and sanitation directly reduces child mortality.",
@@ -1271,7 +1256,7 @@
       "card": {
         "key": "health-human-development-34:4.2.8",
         "title": "SDG 12 and SDG 3",
-        "front": "Explain how progress on SDG 12, responsible consumption and production, relates to health and wellbeing.",
+        "front": "SDG 12 and SDG 3",
         "back": [
           "SDG 12 promotes sustainable patterns of consumption and production, including reducing waste and managing chemicals safely.",
           "Sound management of chemicals and waste reduces air, water and soil contamination, lowering rates of respiratory disease, poisoning and cancer.",
@@ -1300,12 +1285,9 @@
       "card": {
         "key": "health-human-development-34:4.2.9",
         "title": "WHO goals and objectives",
-        "front": "State the role of the World Health Organization and describe two of its priorities.",
+        "front": "WHO goals and objectives",
         "back": [
-          "The WHO is the United Nations agency responsible for international public health, directing and coordinating health work between countries.",
-          "It sets norms and standards, provides technical support, monitors health trends and coordinates responses to health emergencies.",
-          "One priority is achieving universal health coverage, so that all people can access quality health services without financial hardship.",
-          "Another is protecting people from health emergencies, including detecting and responding to outbreaks, and a third is promoting healthier populations by addressing the determinants of health."
+          "Learn the WHO goal and objectives specified in current VCAA support materials. Identify how an organisation's action in a scenario reflects them."
         ]
       }
     },
@@ -1329,7 +1311,7 @@
       "card": {
         "key": "health-human-development-34:4.2.10",
         "title": "Forms and purposes of aid",
-        "front": "Distinguish between emergency aid, bilateral aid and multilateral aid, and state a purpose of each.",
+        "front": "Forms and purposes of aid",
         "back": [
           "Emergency or humanitarian aid provides immediate relief after a disaster or conflict, such as food, shelter, water and medical care, to save lives.",
           "Bilateral aid is given by one government directly to another, usually for longer-term development projects agreed between the two countries.",
@@ -1358,7 +1340,7 @@
       "card": {
         "key": "health-human-development-34:4.2.11",
         "title": "Australia's aid partnerships",
-        "front": "Describe two features of Australia's aid program and explain why the Indo-Pacific region is its focus.",
+        "front": "Australia's aid partnerships",
         "back": [
           "Australia's aid program focuses on the Indo-Pacific, particularly the Pacific and Southeast Asia, and is delivered as bilateral, multilateral and non-government partnerships.",
           "It prioritises health system strengthening, education, gender equality, disaster resilience and economic development.",
@@ -1387,7 +1369,7 @@
       "card": {
         "key": "health-human-development-34:4.2.12",
         "title": "Judging an aid program",
-        "front": "Explain four criteria used to judge whether an aid program is effective.",
+        "front": "Judging an aid program",
         "back": [
           "Whether it addresses the underlying cause of the problem rather than only its symptoms, since treating symptoms produces only temporary improvement.",
           "Whether the community participated in designing and delivering it, since programs imposed from outside often do not match local priorities and are abandoned.",
@@ -1416,12 +1398,9 @@
       "card": {
         "key": "health-human-development-34:4.2.13",
         "title": "Individual and collective action",
-        "front": "Describe two types of social action an individual can take to promote global health, and explain what makes such action effective.",
+        "front": "Individual and collective action",
         "back": [
-          "Individuals can raise awareness and advocate, for example by signing petitions, contacting members of parliament or campaigning for increased aid funding.",
-          "Individuals can also contribute directly by donating to reputable non-government organisations or volunteering skills and time.",
-          "Consumer choices such as buying fair trade products shift demand towards producers meeting labour and environmental standards.",
-          "Action is most effective when it is sustained rather than one-off, directed to organisations working with communities rather than imposing on them, and combined with others so it influences government policy."
+          "Propose achievable actions with communities or national and international organisations. Explain how participation can contribute to health and human development."
         ]
       }
     }

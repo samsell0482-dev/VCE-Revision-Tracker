@@ -35,11 +35,9 @@
       "card": {
         "key": "maths-methods-34:1.1",
         "title": "Graphs of polynomial functions",
-        "front": "For f(x) = x³ − 4x, state the x-intercepts, describe the end behaviour, and state the number of turning points.",
+        "front": "Graphs of polynomial functions",
         "back": [
-          "Factorise: x(x² − 4) = x(x − 2)(x + 2), so intercepts at x = −2, 0, 2.",
-          "As x → ∞, f(x) → ∞; as x → −∞, f(x) → −∞ (positive leading coefficient, odd degree).",
-          "A cubic with three distinct real roots has two turning points."
+          "Key features by degree — axis intercepts, turning points, end behaviour. Sketching by hand up to degree 4, and reading a rule off a graph."
         ]
       }
     },
@@ -62,11 +60,9 @@
       "card": {
         "key": "maths-methods-34:1.2",
         "title": "Power functions",
-        "front": "State the maximal domain and the range of f(x) = x^(1/2) − 3, and describe the shape of its graph.",
+        "front": "Power functions",
         "back": [
-          "Maximal domain: [0, ∞) — the square root requires a non-negative argument.",
-          "Range: [−3, ∞).",
-          "Shape: the graph of y = √x translated 3 units down; increasing, concave down, endpoint at (0, −3)."
+          "y = xⁿ for n ∈ Q. Shape for positive, negative and fractional n; maximal domain and range; asymptotic behaviour where it applies."
         ]
       }
     },
@@ -89,11 +85,9 @@
       "card": {
         "key": "maths-methods-34:1.3",
         "title": "Exponential functions",
-        "front": "The graph of y = 2e^(x−1) + 3 is obtained from y = e^x. State the transformations applied in order, the equation of the horizontal asymptote, and the y-intercept.",
+        "front": "Exponential functions",
         "back": [
-          "Dilation by factor 2 from the x-axis, translation 1 unit right, translation 3 units up.",
-          "Horizontal asymptote: y = 3.",
-          "y-intercept: x = 0 gives y = 2e^(−1) + 3 = 2/e + 3 ≈ 3.74."
+          "y = aˣ for a ∈ R, and y = eˣ in particular. The key points (−1, 1/a), (0, 1) and (1, a), the horizontal asymptote, and growth vs decay."
         ]
       }
     },
@@ -116,11 +110,9 @@
       "card": {
         "key": "maths-methods-34:1.4",
         "title": "Logarithmic functions",
-        "front": "For y = log_e(2x − 6), state the maximal domain, the equation of the vertical asymptote, and the x-intercept.",
+        "front": "Logarithmic functions",
         "back": [
-          "Requires 2x − 6 > 0, so domain is (3, ∞).",
-          "Vertical asymptote: x = 3.",
-          "x-intercept when 2x − 6 = 1, so x = 3.5."
+          "y = logₑ(x) and y = log₁₀(x). Vertical asymptote, domain, and the inverse relationship with the exponential function."
         ]
       }
     },
@@ -144,11 +136,9 @@
       "card": {
         "key": "maths-methods-34:1.5",
         "title": "Circular functions",
-        "front": "State the amplitude, period and range of y = −3 sin(2x) + 1, and give the coordinates of its first maximum for x ≥ 0.",
+        "front": "Circular functions",
         "back": [
-          "Amplitude 3; period 2π/2 = π; range [−2, 4].",
-          "The negative coefficient reflects the graph, so the first maximum occurs where sin(2x) = −1.",
-          "2x = 3π/2, so x = 3π/4, giving the point (3π/4, 4)."
+          "y = sin(x), y = cos(x) and y = tan(x). Amplitude, period, range, exact values, and the asymptotes of tan."
         ]
       }
     },
@@ -172,12 +162,9 @@
       "card": {
         "key": "maths-methods-34:1.6",
         "title": "Transformations",
-        "front": "Describe the sequence of transformations mapping y = f(x) to y = −f(2(x + 1)) − 4, in the correct order.",
+        "front": "Transformations",
         "back": [
-          "Dilation by factor 1/2 from the y-axis (parallel to the x-axis).",
-          "Translation 1 unit in the negative x direction.",
-          "Reflection in the x-axis, then translation 4 units down.",
-          "Dilations and reflections are applied before translations."
+          "y = A f(n(x + b)) + c where A, n ≠ 0. Dilations (both 'parallel to' and 'from' an axis), reflections and translations, and the order in which they apply."
         ]
       }
     },
@@ -201,12 +188,9 @@
       "card": {
         "key": "maths-methods-34:1.7",
         "title": "The inverse transformation",
-        "front": "The graph of y = f(x) is transformed to y = 3f(x − 2). Describe the transformation that maps the new graph back to the original.",
+        "front": "The inverse transformation",
         "back": [
-          "Reverse each transformation, in reverse order.",
-          "Translate 2 units in the negative x direction.",
-          "Then dilate by factor 1/3 from the x-axis.",
-          "Mapping: (x, y) → (x − 2, y/3)."
+          "Working backwards from a transformed graph to the original function, and describing the mapping that does it."
         ]
       }
     },
@@ -229,11 +213,9 @@
       "card": {
         "key": "maths-methods-34:1.8",
         "title": "Families of transformed functions",
-        "front": "For the family y = x² + bx + 1 where b ∈ R, determine the values of b for which the graph has no x-intercepts.",
+        "front": "Families of transformed functions",
         "back": [
-          "No x-intercepts when the discriminant is negative.",
-          "Δ = b² − 4(1)(1) = b² − 4 < 0.",
-          "b² < 4, so −2 < b < 2."
+          "How the graph changes as a single transformation parameter varies, and what stays fixed."
         ]
       }
     },
@@ -255,10 +237,9 @@
       "card": {
         "key": "maths-methods-34:1.9",
         "title": "Sum and difference functions",
-        "front": "Given f(x) = √x with domain [0, ∞) and g(x) = x − 2 with domain R, state the domain of (f + g)(x) and find (f + g)(4).",
+        "front": "Sum and difference functions",
         "back": [
-          "Domain of a sum is the intersection of the domains: [0, ∞).",
-          "(f + g)(4) = √4 + (4 − 2) = 2 + 2 = 4."
+          "Graphs of f + g and f − g, including the domain of the result being the intersection of the two domains."
         ]
       }
     },
@@ -281,11 +262,9 @@
       "card": {
         "key": "maths-methods-34:1.10",
         "title": "Product functions",
-        "front": "For f(x) = x and g(x) = x − 3, sketch the key features of y = f(x)g(x), stating the x-intercepts and the coordinates of the turning point.",
+        "front": "Product functions",
         "back": [
-          "The product is x(x − 3) = x² − 3x, a parabola.",
-          "x-intercepts at x = 0 and x = 3 — where either factor is zero.",
-          "Turning point midway at x = 1.5, giving (1.5, −2.25)."
+          "The graph of f × g, including where it cuts the axes and how the factors' signs determine its shape."
         ]
       }
     },
@@ -309,11 +288,9 @@
       "card": {
         "key": "maths-methods-34:1.11",
         "title": "Composite functions",
-        "front": "Let f(x) = √x with domain [0, ∞) and g(x) = x − 5 with domain R. Determine whether f(g(x)) is defined, and if so state its rule and domain.",
+        "front": "Composite functions",
         "back": [
-          "f(g(x)) requires ran(g) ⊆ dom(f). ran(g) = R, dom(f) = [0, ∞), so not defined on all of R.",
-          "Restricting: need x − 5 ≥ 0, so x ≥ 5.",
-          "f(g(x)) = √(x − 5), domain [5, ∞)."
+          "Graphs of f ∘ g. The existence condition ran(g) ⊆ dom(f), and finding the domain and range of the composite. Composites giving reciprocal or quotient functions are excluded."
         ]
       }
     },
@@ -337,12 +314,9 @@
       "card": {
         "key": "maths-methods-34:1.12",
         "title": "Modelling practical situations",
-        "front": "The depth of water in a harbour is modelled by d(t) = 4 + 2sin(πt/6), where t is hours after midnight. State the maximum depth, the time it first occurs, and the period of the model.",
+        "front": "Modelling practical situations",
         "back": [
-          "Maximum depth = 4 + 2 = 6 metres, when sin(πt/6) = 1.",
-          "πt/6 = π/2 gives t = 3, so 3 am.",
-          "Period = 2π ÷ (π/6) = 12 hours.",
-          "Minimum depth is 2 metres, at 9 am."
+          "Using polynomial, power, circular, exponential and logarithmic functions, their transformations and combinations, including simple piecewise (hybrid) functions."
         ]
       }
     },
@@ -365,11 +339,9 @@
       "card": {
         "key": "maths-methods-34:1.13",
         "title": "The language of key features",
-        "front": "Explain the difference between the maximal (implied) domain of a function and a restricted domain, using y = 1/(x − 2) as your example.",
+        "front": "The language of key features",
         "back": [
-          "The maximal domain is every value of x for which the rule is defined: R \\ {2}.",
-          "A restricted domain is a smaller domain deliberately imposed, e.g. (2, ∞).",
-          "Restricting is often done to make a function one-to-one so an inverse exists."
+          "Domain, maximal or implied domain, co-domain, range, asymptotic behaviour, symmetry, stationary points and points of inflection — used precisely, because marks hang on the wording."
         ]
       }
     },
@@ -393,12 +365,9 @@
       "card": {
         "key": "maths-methods-34:2.1",
         "title": "Solving polynomial equations",
-        "front": "Given that x = 2 is a solution of x³ − 3x² − 4x + 12 = 0, factorise the cubic fully and state all solutions.",
+        "front": "Solving polynomial equations",
         "back": [
-          "Since x = 2 is a root, (x − 2) is a factor.",
-          "Dividing: x³ − 3x² − 4x + 12 = (x − 2)(x² − x − 6).",
-          "Factorise the quadratic: (x − 3)(x + 2).",
-          "Solutions: x = −2, 2, 3."
+          "Real coefficients, degree n with up to n real solutions. Factor and remainder theorems, the rational root theorem, and numerical solutions where exact ones aren't required."
         ]
       }
     },
@@ -422,12 +391,9 @@
       "card": {
         "key": "maths-methods-34:2.2",
         "title": "Inverse functions",
-        "front": "For f(x) = (x − 1)² with domain [1, ∞), find the rule and domain of f⁻¹, and explain why the domain restriction was necessary.",
+        "front": "Inverse functions",
         "back": [
-          "Let y = (x − 1)², swap: x = (y − 1)², so y = 1 + √x (taking the positive root to match the restricted domain).",
-          "f⁻¹(x) = 1 + √x, domain [0, ∞) — which is the range of f.",
-          "Without restriction, f is many-to-one, so no inverse function exists.",
-          "The domain of the inverse is the range of the original."
+          "The condition for an inverse to exist (one-to-one, or a restricted domain that makes it so), finding the rule, swapping domain and range, and the reflection in y = x."
         ]
       }
     },
@@ -450,11 +416,9 @@
       "card": {
         "key": "maths-methods-34:2.3",
         "title": "Using inverses to solve equations",
-        "front": "Solve 3e^(2x) − 5 = 16 for x, giving an exact answer.",
+        "front": "Using inverses to solve equations",
         "back": [
-          "3e^(2x) = 21, so e^(2x) = 7.",
-          "Take the natural log of both sides: 2x = log_e(7).",
-          "x = ½ log_e(7)."
+          "Applying inverse operations to exponential, logarithmic, circular and power equations."
         ]
       }
     },
@@ -477,11 +441,9 @@
       "card": {
         "key": "maths-methods-34:2.4",
         "title": "Composition of functions",
-        "front": "Let f(x) = x² and g(x) = 2x + 1, both with domain R. Find the rules for f(g(x)) and g(f(x)) and state why they differ.",
+        "front": "Composition of functions",
         "back": [
-          "f(g(x)) = (2x + 1)² = 4x² + 4x + 1.",
-          "g(f(x)) = 2x² + 1.",
-          "Composition is not commutative — the order in which the operations are applied changes the result."
+          "(f ∘ g)(x) = f(g(x)), defined when ran(g) ⊆ dom(f). Finding the rule, domain and range of a composite."
         ]
       }
     },
@@ -504,11 +466,9 @@
       "card": {
         "key": "maths-methods-34:2.5",
         "title": "Solving f(x) = g(x)",
-        "front": "Solve x² − 4 = 3x − 6 algebraically, and state what the solutions represent graphically.",
+        "front": "Solving f(x) = g(x)",
         "back": [
-          "x² − 3x + 2 = 0, giving (x − 1)(x − 2) = 0.",
-          "x = 1 and x = 2.",
-          "These are the x-coordinates of the points where the parabola y = x² − 4 and the line y = 3x − 6 intersect."
+          "Over a specified interval, by graphical, numerical and algebraic methods, choosing whichever is appropriate."
         ]
       }
     },
@@ -533,12 +493,9 @@
       "card": {
         "key": "maths-methods-34:2.6",
         "title": "Literal equations and equations with a parameter",
-        "front": "Consider the system kx + 3y = 6 and 2x + ky = 4, where k ∈ R. Find the values of k for which the system has no solution.",
+        "front": "Literal equations and equations with a parameter",
         "back": [
-          "Write as a matrix and use the determinant: det = k·k − 3·2 = k² − 6.",
-          "A unique solution exists when k² − 6 ≠ 0, i.e. k ≠ ±√6.",
-          "When k = √6 the equations are inconsistent (check by substitution) so there is no solution.",
-          "Always test both values — one may give infinitely many solutions instead of none."
+          "Solving for x in terms of constants, and finding the general solution — including the values of the parameter for which no solution or infinitely many exist."
         ]
       }
     },
@@ -562,12 +519,9 @@
       "card": {
         "key": "maths-methods-34:2.7",
         "title": "Simultaneous linear equations",
-        "front": "For what value of m do the equations 2x + 3y = 7 and 4x + my = 14 have infinitely many solutions? Explain geometrically.",
+        "front": "Simultaneous linear equations",
         "back": [
-          "Infinitely many solutions when one equation is a multiple of the other.",
-          "The second is twice the first when m = 6: 4x + 6y = 14.",
-          "Geometrically the two lines coincide — they are the same line, so every point on it is a solution.",
-          "If m = 6 but the constant were not 14, the lines would be parallel and there would be no solution."
+          "Including the cases of no solution and infinitely many solutions. Geometric interpretation is required for two equations in two variables only."
         ]
       }
     },
@@ -591,12 +545,9 @@
       "card": {
         "key": "maths-methods-34:2.8",
         "title": "Exponent and logarithm laws",
-        "front": "Solve log_e(x) + log_e(x − 3) = log_e(10) for x.",
+        "front": "Exponent and logarithm laws",
         "back": [
-          "Combine: log_e(x(x − 3)) = log_e(10), so x² − 3x = 10.",
-          "x² − 3x − 10 = 0, giving (x − 5)(x + 2) = 0, so x = 5 or x = −2.",
-          "Reject x = −2: the domain requires x > 3 for both logarithms to be defined.",
-          "x = 5."
+          "Applied to simplifying expressions and solving equations, including changing base and dealing with restrictions on the domain."
         ]
       }
     },
@@ -621,12 +572,9 @@
       "card": {
         "key": "maths-methods-34:2.9",
         "title": "Exact solutions of trigonometric equations",
-        "front": "Solve 2 sin(2x) = √3 for x ∈ [0, 2π], giving exact values.",
+        "front": "Exact solutions of trigonometric equations",
         "back": [
-          "sin(2x) = √3/2. Let u = 2x, where u ∈ [0, 4π].",
-          "sin(u) = √3/2 at u = π/3, 2π/3, and then adding 2π: 7π/3, 8π/3.",
-          "x = u/2 = π/6, π/3, 7π/6, 4π/3.",
-          "Change the interval for u first — that is where solutions are usually lost."
+          "Solving sin(ax + b) = c, cos(ax + b) = c and tan(ax + b) = c by hand over a given interval, finding every solution in that interval rather than just the first."
         ]
       }
     },
@@ -650,12 +598,9 @@
       "card": {
         "key": "maths-methods-34:2.10",
         "title": "Newton's method",
-        "front": "Newton's method is used to approximate a root of f(x) = x³ − 2x − 5 starting at x₀ = 2. Write the iteration formula and find x₁.",
+        "front": "Newton's method",
         "back": [
-          "x_(n+1) = x_n − f(x_n)/f′(x_n), with f′(x) = 3x² − 2.",
-          "f(2) = 8 − 4 − 5 = −1; f′(2) = 12 − 2 = 10.",
-          "x₁ = 2 − (−1)/10 = 2.1.",
-          "The method fails if f′(x_n) = 0, or may diverge from a poor starting value."
+          "The algorithm for numerically approximating a root, applying it by hand for an iteration or two, and knowing when it fails."
         ]
       }
     },
@@ -679,12 +624,9 @@
       "card": {
         "key": "maths-methods-34:3.1",
         "title": "Limits, continuity and differentiability",
-        "front": "Explain the difference between a function being continuous at a point and being differentiable at that point, and give an example of a function that is one but not the other.",
+        "front": "Limits, continuity and differentiability",
         "back": [
-          "Continuous at x = a: there is no break — the limit as x → a equals f(a).",
-          "Differentiable at x = a: the gradient approaching from the left equals that from the right.",
-          "f(x) = |x| is continuous at x = 0 but not differentiable — the gradient jumps from −1 to 1.",
-          "Differentiability implies continuity, but not the reverse."
+          "The graphical treatment — recognising where a function is continuous but not differentiable, and what a limit means at a point."
         ]
       }
     },
@@ -708,12 +650,9 @@
       "card": {
         "key": "maths-methods-34:3.2",
         "title": "Differentiation from first principles",
-        "front": "Use first principles to find the derivative of f(x) = x² + 3x.",
+        "front": "Differentiation from first principles",
         "back": [
-          "f′(x) = lim(h→0) [f(x + h) − f(x)]/h",
-          "= lim [((x+h)² + 3(x+h)) − (x² + 3x)]/h = lim [2xh + h² + 3h]/h",
-          "= lim (2x + h + 3) as h → 0",
-          "= 2x + 3."
+          "The limit definition of the derivative, and applying it to simple functions by hand."
         ]
       }
     },
@@ -737,12 +676,9 @@
       "card": {
         "key": "maths-methods-34:3.3",
         "title": "Deducing the graph of the derivative",
-        "front": "The graph of y = f(x) has a local maximum at x = −1, a local minimum at x = 3, and is increasing for x > 3. Describe the key features of the graph of y = f′(x).",
+        "front": "Deducing the graph of the derivative",
         "back": [
-          "f′(x) = 0 at x = −1 and x = 3 — stationary points become x-intercepts of the derivative.",
-          "f′(x) > 0 for x < −1 and for x > 3 (f increasing).",
-          "f′(x) < 0 for −1 < x < 3 (f decreasing).",
-          "So the derivative graph cuts the axis downward at −1 and upward at 3."
+          "Going from the graph of f to the graph of f′ — stationary points become x-intercepts, and the sign of the gradient sets the sign of f′."
         ]
       }
     },
@@ -766,12 +702,9 @@
       "card": {
         "key": "maths-methods-34:3.4",
         "title": "Deducing the graph of an antiderivative",
-        "front": "The graph of y = f(x) is a straight line with a constant positive gradient. Describe the shape of the graph of an antiderivative of f, and explain why there are infinitely many.",
+        "front": "Deducing the graph of an antiderivative",
         "back": [
-          "If f is linear, an antiderivative is quadratic — a parabola.",
-          "A positive gradient in f means the antiderivative is concave up.",
-          "Antiderivatives differ by an arbitrary constant c, which translates the graph vertically.",
-          "Infinitely many because any value of c satisfies F′(x) = f(x)."
+          "Going the other way, from the graph of a function to the graph of one of its antiderivatives."
         ]
       }
     },
@@ -794,11 +727,9 @@
       "card": {
         "key": "maths-methods-34:3.5",
         "title": "Standard derivatives",
-        "front": "Differentiate each: y = x^(3/2), y = log_e(x), y = tan(x).",
+        "front": "Standard derivatives",
         "back": [
-          "d/dx of x^(3/2) = (3/2)x^(1/2).",
-          "d/dx of log_e(x) = 1/x.",
-          "d/dx of tan(x) = sec²(x), equivalently 1/cos²(x)."
+          "Derivatives of xⁿ for n ∈ Q, eˣ, logₑ(x), sin(x), cos(x) and tan(x)."
         ]
       }
     },
@@ -820,10 +751,9 @@
       "card": {
         "key": "maths-methods-34:3.6",
         "title": "Sum, difference and constant multiple rules",
-        "front": "Differentiate y = 4x³ − 5e^x + 2log_e(x).",
+        "front": "Sum, difference and constant multiple rules",
         "back": [
-          "dy/dx = 12x² − 5e^x + 2/x.",
-          "Each term differentiated separately; constants multiply through."
+          "Differentiating linear combinations of the standard functions."
         ]
       }
     },
@@ -847,11 +777,9 @@
       "card": {
         "key": "maths-methods-34:3.7",
         "title": "The product rule",
-        "front": "Find dy/dx for y = x² sin(x), and evaluate it at x = π.",
+        "front": "The product rule",
         "back": [
-          "Product rule: dy/dx = 2x sin(x) + x² cos(x).",
-          "At x = π: sin(π) = 0, cos(π) = −1.",
-          "dy/dx = 0 + π²(−1) = −π²."
+          "Applied by hand to simple combinations of polynomial, exponential, circular, logarithmic and power functions."
         ]
       }
     },
@@ -874,11 +802,9 @@
       "card": {
         "key": "maths-methods-34:3.8",
         "title": "The quotient rule",
-        "front": "Find the derivative of y = (2x + 1)/(x − 3) and state the value of x for which it is undefined.",
+        "front": "The quotient rule",
         "back": [
-          "Quotient rule: [(2)(x − 3) − (2x + 1)(1)] / (x − 3)²",
-          "= (2x − 6 − 2x − 1)/(x − 3)² = −7/(x − 3)².",
-          "Undefined at x = 3, where the original function has a vertical asymptote."
+          "Applied by hand, including recognising when rearranging first is quicker."
         ]
       }
     },
@@ -901,11 +827,9 @@
       "card": {
         "key": "maths-methods-34:3.9",
         "title": "The chain rule",
-        "front": "Find the gradient of the tangent to y = (3x² − 1)⁴ at x = 1.",
+        "front": "The chain rule",
         "back": [
-          "Chain rule: dy/dx = 4(3x² − 1)³ × 6x = 24x(3x² − 1)³.",
-          "At x = 1: 3(1) − 1 = 2, so (2)³ = 8.",
-          "dy/dx = 24 × 1 × 8 = 192."
+          "Differentiating composite functions, including nested transformations of the standard functions."
         ]
       }
     },
@@ -929,12 +853,9 @@
       "card": {
         "key": "maths-methods-34:3.10",
         "title": "Graph sketching using differentiation",
-        "front": "For f(x) = x³ − 3x² + 1, find the stationary points and determine the nature of each.",
+        "front": "Graph sketching using differentiation",
         "back": [
-          "f′(x) = 3x² − 6x = 3x(x − 2), so stationary at x = 0 and x = 2.",
-          "f(0) = 1, f(2) = 8 − 12 + 1 = −3.",
-          "f″(x) = 6x − 6. At x = 0, f″ = −6 < 0 → local maximum (0, 1).",
-          "At x = 2, f″ = 6 > 0 → local minimum (2, −3)."
+          "Locating stationary points and determining their nature, finding points of inflection, and identifying intervals where a function is strictly increasing or strictly decreasing."
         ]
       }
     },
@@ -958,12 +879,9 @@
       "card": {
         "key": "maths-methods-34:3.11",
         "title": "Optimisation",
-        "front": "A rectangular pen is built against a wall using 40 m of fencing on three sides. Find the dimensions giving the maximum area, and state the maximum area.",
+        "front": "Optimisation",
         "back": [
-          "Let the two equal sides be x and the third be 40 − 2x. Area A = x(40 − 2x) = 40x − 2x².",
-          "dA/dx = 40 − 4x = 0, so x = 10.",
-          "Second derivative is −4 < 0, confirming a maximum.",
-          "Dimensions 10 m by 20 m, maximum area 200 m². Check endpoints x = 0 and x = 20 both give A = 0."
+          "Local maximum and minimum values over an interval, applied to problems in context — including checking the endpoints of the interval, which is where marks are usually lost."
         ]
       }
     },
@@ -987,12 +905,9 @@
       "card": {
         "key": "maths-methods-34:3.12",
         "title": "Tangents, normals and rates of change",
-        "front": "Find the equation of the tangent to y = x² − 2x at the point where x = 3, and the equation of the normal at the same point.",
+        "front": "Tangents, normals and rates of change",
         "back": [
-          "y(3) = 9 − 6 = 3, so the point is (3, 3).",
-          "dy/dx = 2x − 2, so the gradient at x = 3 is 4.",
-          "Tangent: y − 3 = 4(x − 3), i.e. y = 4x − 9.",
-          "Normal gradient = −1/4, so y − 3 = −¼(x − 3), i.e. y = −x/4 + 15/4."
+          "The gradient of a tangent at a point, the equation of a tangent or normal, and interpreting the derivative as a rate of change in context."
         ]
       }
     },
@@ -1016,12 +931,9 @@
       "card": {
         "key": "maths-methods-34:3.13",
         "title": "Antiderivatives",
-        "front": "Find the antiderivative of f(x) = 6x² + e^(2x) − sin(3x).",
+        "front": "Antiderivatives",
         "back": [
-          "Antiderivative of 6x² is 2x³.",
-          "Antiderivative of e^(2x) is ½e^(2x).",
-          "Antiderivative of −sin(3x) is (1/3)cos(3x).",
-          "F(x) = 2x³ + ½e^(2x) + (1/3)cos(3x) + c — do not omit the constant."
+          "Antiderivatives of polynomial and power functions, and of f(ax + b) where f is xⁿ for n ∈ Q, eˣ, sin(x) or cos(x), plus linear combinations of these."
         ]
       }
     },
@@ -1046,12 +958,9 @@
       "card": {
         "key": "maths-methods-34:3.14",
         "title": "The definite integral as a limiting sum",
-        "front": "Use the trapezium rule with two intervals of equal width to estimate the area under y = x² between x = 0 and x = 2, and state whether the estimate is an over- or underestimate.",
+        "front": "The definite integral as a limiting sum",
         "back": [
-          "Interval width h = 1; values y(0) = 0, y(1) = 1, y(2) = 4.",
-          "Area ≈ ½(1)[0 + 2(1) + 4] = ½(6) = 3.",
-          "The exact value is 8/3 ≈ 2.67.",
-          "It is an overestimate because y = x² is concave up, so each chord lies above the curve."
+          "Informal treatment of the integral as a limit of a sum, and approximating a definite integral using the trapezium rule."
         ]
       }
     },
@@ -1074,11 +983,9 @@
       "card": {
         "key": "maths-methods-34:3.15",
         "title": "The fundamental theorem of calculus",
-        "front": "State the fundamental theorem of calculus and use it to evaluate the definite integral of 3x² from x = 1 to x = 3.",
+        "front": "The fundamental theorem of calculus",
         "back": [
-          "If F is an antiderivative of f, then the definite integral of f from a to b equals F(b) − F(a).",
-          "An antiderivative of 3x² is x³.",
-          "F(3) − F(1) = 27 − 1 = 26."
+          "The link between antidifferentiation and the definite integral, and the properties of definite integrals."
         ]
       }
     },
@@ -1102,12 +1009,9 @@
       "card": {
         "key": "maths-methods-34:3.16",
         "title": "Area under and between curves",
-        "front": "Find the area of the region enclosed between y = x² and y = 2x.",
+        "front": "Area under and between curves",
         "back": [
-          "Intersections: x² = 2x gives x(x − 2) = 0, so x = 0 and x = 2.",
-          "Between these, 2x lies above x², so integrate (2x − x²) from 0 to 2.",
-          "Antiderivative: x² − x³/3, evaluated 0 to 2 gives 4 − 8/3.",
-          "Area = 4/3 square units."
+          "Finding the area of a region bounded by lines or curves over a specified interval, including handling signed area where the curve crosses the axis."
         ]
       }
     },
@@ -1130,11 +1034,9 @@
       "card": {
         "key": "maths-methods-34:3.17",
         "title": "Average value of a function",
-        "front": "Find the average value of f(x) = x² over the interval [0, 3].",
+        "front": "Average value of a function",
         "back": [
-          "Average value = 1/(b − a) × the definite integral of f from a to b.",
-          "= (1/3) × [x³/3] from 0 to 3 = (1/3)(9) = 3.",
-          "Note this is not the same as the average of the endpoint values."
+          "The definition and its calculation over an interval."
         ]
       }
     },
@@ -1158,12 +1060,9 @@
       "card": {
         "key": "maths-methods-34:3.18",
         "title": "Applications of integration",
-        "front": "A particle's velocity is v(t) = 3t² − 12 m s⁻¹. Find the displacement from t = 0 to t = 4, and explain why this differs from the distance travelled.",
+        "front": "Applications of integration",
         "back": [
-          "Displacement = integral of v from 0 to 4 = [t³ − 12t] from 0 to 4 = 64 − 48 = 16 m.",
-          "v = 0 when 3t² = 12, so t = 2. The particle moves backwards for 0 < t < 2.",
-          "Distance requires integrating |v|: |−16| from 0 to 2, plus 32 from 2 to 4, giving 48 m.",
-          "Displacement counts direction; distance does not."
+          "Problems in context, including the use of integration with probability density functions for continuous random variables."
         ]
       }
     },
@@ -1186,11 +1085,9 @@
       "card": {
         "key": "maths-methods-34:4.1",
         "title": "Random variables",
-        "front": "Explain the difference between a discrete and a continuous random variable, giving one example of each from a school context.",
+        "front": "Random variables",
         "back": [
-          "Discrete: takes countable, separate values — the number of students absent in a class.",
-          "Continuous: takes any value in an interval — the time a student takes to run 100 m.",
-          "Probability for a continuous variable is found over an interval, never at a single point."
+          "The concept of a random variable, discrete versus continuous, and what a probability distribution specifies."
         ]
       }
     },
@@ -1213,11 +1110,9 @@
       "card": {
         "key": "maths-methods-34:4.2",
         "title": "Discrete probability distributions",
-        "front": "A discrete random variable has Pr(X = 1) = 0.2, Pr(X = 2) = 3k, Pr(X = 3) = 0.3 and Pr(X = 4) = k. Find k.",
+        "front": "Discrete probability distributions",
         "back": [
-          "All probabilities must sum to 1.",
-          "0.2 + 3k + 0.3 + k = 1",
-          "4k = 0.5, so k = 0.125."
+          "Specification by rule, table or graph; the probability mass function; and the requirement that the probabilities sum to one."
         ]
       }
     },
@@ -1241,12 +1136,9 @@
       "card": {
         "key": "maths-methods-34:4.3",
         "title": "Mean, variance and standard deviation of a discrete random variable",
-        "front": "For X with Pr(X = 0) = 0.4, Pr(X = 1) = 0.4 and Pr(X = 2) = 0.2, find E(X) and sd(X).",
+        "front": "Mean, variance and standard deviation of a discrete random variable",
         "back": [
-          "E(X) = 0(0.4) + 1(0.4) + 2(0.2) = 0.8.",
-          "E(X²) = 0(0.4) + 1(0.4) + 4(0.2) = 1.2.",
-          "Var(X) = E(X²) − [E(X)]² = 1.2 − 0.64 = 0.56.",
-          "sd(X) = √0.56 = 0.748 (3 dp)."
+          "Calculating E(X), Var(X) and sd(X), and interpreting each in the context of the distribution."
         ]
       }
     },
@@ -1270,12 +1162,9 @@
       "card": {
         "key": "maths-methods-34:4.4",
         "title": "Bernoulli trials",
-        "front": "State the four conditions required for a sequence of Bernoulli trials, and explain whether drawing three cards from a deck without replacement satisfies them.",
+        "front": "Bernoulli trials",
         "back": [
-          "Two outcomes per trial; a fixed number of trials; constant probability of success; trials independent.",
-          "Drawing without replacement changes the probability on each draw.",
-          "Trials are therefore not independent and p is not constant — not Bernoulli trials.",
-          "With replacement, it would satisfy all four."
+          "The conditions that define them, and recognising whether a described situation actually satisfies those conditions."
         ]
       }
     },
@@ -1298,11 +1187,9 @@
       "card": {
         "key": "maths-methods-34:4.5",
         "title": "The binomial distribution",
-        "front": "For X ~ Bi(8, 0.3), find Pr(X = 3), the mean and the variance.",
+        "front": "The binomial distribution",
         "back": [
-          "Pr(X = 3) = ⁸C₃(0.3)³(0.7)⁵ = 56 × 0.027 × 0.16807 = 0.254 (3 dp).",
-          "Mean = np = 8 × 0.3 = 2.4.",
-          "Variance = np(1 − p) = 8 × 0.3 × 0.7 = 1.68."
+          "Pr(X = x) = ⁿCₓ pˣ(1 − p)ⁿ⁻ˣ, mean np and variance np(1 − p), and how changing n or p changes the shape of the distribution."
         ]
       }
     },
@@ -1327,12 +1214,9 @@
       "card": {
         "key": "maths-methods-34:4.6",
         "title": "Applying the binomial distribution",
-        "front": "A machine produces items with a 5% defect rate. In a random sample of 20 items, find the probability that at least two are defective, and the mean number of defective items.",
+        "front": "Applying the binomial distribution",
         "back": [
-          "X ~ Bi(20, 0.05).",
-          "Pr(X ≥ 2) = 1 − Pr(X = 0) − Pr(X = 1).",
-          "Pr(X = 0) = 0.95²⁰ = 0.3585; Pr(X = 1) = 20(0.05)(0.95)¹⁹ = 0.3774.",
-          "Pr(X ≥ 2) = 1 − 0.7359 = 0.264 (3 dp). Mean = np = 20 × 0.05 = 1."
+          "Including 'at least' and 'at most' phrasing, conditional probability, and finding the smallest n that meets a stated condition."
         ]
       }
     },
@@ -1355,11 +1239,9 @@
       "card": {
         "key": "maths-methods-34:4.7",
         "title": "Continuous random variables and probability density functions",
-        "front": "A continuous random variable has f(x) = kx for 0 ≤ x ≤ 4 and zero elsewhere. Find k, then find Pr(1 < X < 2).",
+        "front": "Continuous random variables and probability density functions",
         "back": [
-          "Total area must equal 1: the integral of kx from 0 to 4 = k[x²/2] = 8k = 1, so k = 1/8.",
-          "Pr(1 < X < 2) = integral of x/8 from 1 to 2 = [x²/16] from 1 to 2.",
-          "= 4/16 − 1/16 = 3/16 = 0.1875."
+          "The requirements that f(x) ≥ 0 and the total area equals one, and Pr(a < X < b) as a definite integral."
         ]
       }
     },
@@ -1383,12 +1265,9 @@
       "card": {
         "key": "maths-methods-34:4.8",
         "title": "Measures for a continuous random variable",
-        "front": "For the probability density function f(x) = x/8 on [0, 4], find the mean and the median.",
+        "front": "Measures for a continuous random variable",
         "back": [
-          "Mean = integral of x·f(x) from 0 to 4 = integral of x²/8 = [x³/24] from 0 to 4 = 64/24 = 8/3 ≈ 2.67.",
-          "Median m satisfies the integral of f from 0 to m = 0.5.",
-          "[x²/16] from 0 to m = m²/16 = 0.5, so m² = 8.",
-          "m = 2√2 ≈ 2.83."
+          "Mean, median, percentiles, variance and standard deviation, and setting up the integral that each one requires."
         ]
       }
     },
@@ -1412,12 +1291,9 @@
       "card": {
         "key": "maths-methods-34:4.9",
         "title": "The normal distribution",
-        "front": "For X ~ N(60, 5²), use the 68–95–99.7 rule to state the percentage of values between 50 and 65, without standardising.",
+        "front": "The normal distribution",
         "back": [
-          "50 is 2 standard deviations below the mean; 65 is 1 above.",
-          "Between −2 sd and the mean: 95/2 = 47.5%.",
-          "Between the mean and +1 sd: 68/2 = 34%.",
-          "Total = 81.5%."
+          "Its shape and symmetry, the effect of μ and σ, and the approximate 68–95–99.7 proportions within one, two and three standard deviations."
         ]
       }
     },
@@ -1442,12 +1318,9 @@
       "card": {
         "key": "maths-methods-34:4.10",
         "title": "Standardising and finding normal probabilities",
-        "front": "For X ~ N(70, 8²), find Pr(X > 82) using standardisation, and state the z-score involved.",
+        "front": "Standardising and finding normal probabilities",
         "back": [
-          "z = (82 − 70)/8 = 1.5.",
-          "Pr(X > 82) = Pr(Z > 1.5).",
-          "= 1 − 0.9332 = 0.0668, about 6.7%.",
-          "Roughly consistent with the 95% rule: about 2.5% lie beyond z = 2."
+          "Z = (X − μ)/σ, the standard normal distribution, and using technology to find probabilities or to work backwards from a probability to a value."
         ]
       }
     },
@@ -1472,12 +1345,9 @@
       "card": {
         "key": "maths-methods-34:4.11",
         "title": "Random sampling and the sample proportion",
-        "front": "Explain what is meant by saying the sample proportion is a random variable, and state the mean and standard deviation of its distribution for samples of size n from a population with proportion p.",
+        "front": "Random sampling and the sample proportion",
         "back": [
-          "Each random sample gives a different value of p̂, so p̂ varies according to a probability distribution.",
-          "Mean of the distribution of p̂ = p.",
-          "Standard deviation = √(p(1 − p)/n).",
-          "Increasing n decreases the standard deviation, so estimates cluster more tightly around p."
+          "Sample proportion p̂ defined as a random variable, and how it varies from sample to sample."
         ]
       }
     },
@@ -1501,12 +1371,9 @@
       "card": {
         "key": "maths-methods-34:4.12",
         "title": "The distribution of sample proportions",
-        "front": "A population has p = 0.4. For samples of size 100, state the mean and standard deviation of the distribution of sample proportions, and describe its shape.",
+        "front": "The distribution of sample proportions",
         "back": [
-          "Mean = p = 0.4.",
-          "Standard deviation = √(0.4 × 0.6/100) = √0.0024 = 0.049.",
-          "For large n the distribution of p̂ is approximately normal.",
-          "So about 95% of sample proportions fall within roughly 0.30 to 0.50."
+          "Mean p and standard deviation √(p(1 − p)/n), and simulating repeated random sampling to see the distribution form."
         ]
       }
     },
@@ -1530,12 +1397,9 @@
       "card": {
         "key": "maths-methods-34:4.13",
         "title": "Confidence intervals for a population proportion",
-        "front": "In a sample of 200 voters, 96 support a proposal. Construct an approximate 95% confidence interval for the population proportion.",
+        "front": "Confidence intervals for a population proportion",
         "back": [
-          "p̂ = 96/200 = 0.48.",
-          "Standard error = √(0.48 × 0.52/200) = √0.001248 = 0.0353.",
-          "95% interval: 0.48 ± 1.96 × 0.0353 = 0.48 ± 0.0692.",
-          "Interval is (0.411, 0.549)."
+          "The approximate interval from a large sample, the role of the quantile z, and the 95% interval as the case where z ≈ 1.96."
         ]
       }
     },
@@ -1559,12 +1423,9 @@
       "card": {
         "key": "maths-methods-34:4.14",
         "title": "Interpreting a confidence interval",
-        "front": "A 95% confidence interval for a population proportion is (0.38, 0.46). Explain what this does and does not tell you.",
+        "front": "Interpreting a confidence interval",
         "back": [
-          "It is a plausible range for the population proportion based on this one sample.",
-          "'95%' refers to the method: about 95% of intervals built this way from repeated samples would capture the true p.",
-          "It does NOT mean there is a 95% probability that p lies in this particular interval — p is fixed, the interval varies.",
-          "A different sample would give a different interval."
+          "What the interval actually claims, how intervals vary between samples, and why a wider interval is not automatically a worse one."
         ]
       }
     },
@@ -1589,12 +1450,9 @@
       "card": {
         "key": "maths-methods-34:5.1",
         "title": "Algorithm design",
-        "front": "Trace the following and state the values printed in order: n ← 20; k ← 6; while n > k do n ← n − k; print n; end while.",
+        "front": "Algorithm design",
         "back": [
-          "First pass: n = 20 − 6 = 14, print 14. 14 > 6, continue.",
-          "Second pass: n = 8, print 8. 8 > 6, continue.",
-          "Third pass: n = 2, print 2. 2 > 6 is false, loop ends.",
-          "Printed: 14, 8, 2."
+          "Sequencing, decision-making and repetition as the building blocks, and representing the ordered steps of a mathematical process."
         ]
       }
     },
@@ -1618,12 +1476,9 @@
       "card": {
         "key": "maths-methods-34:5.2",
         "title": "Pseudocode",
-        "front": "Write pseudocode that repeatedly halves a positive number n until it is less than 1, printing the count of halvings performed.",
+        "front": "Pseudocode",
         "back": [
-          "count ← 0",
-          "while n ≥ 1 do: n ← n/2; count ← count + 1; end while",
-          "print count",
-          "A pre-test loop is correct here — if n < 1 initially, the answer should be 0 halvings."
+          "Reading pseudocode and tracing what it produces, and writing it for a process such as Newton's method or the bisection method."
         ]
       }
     },
@@ -1646,11 +1501,9 @@
       "card": {
         "key": "maths-methods-34:5.3",
         "title": "Examples, counter-examples and general cases",
-        "front": "A student claims 'for all real x, x² > x'. Provide a counter-example and explain what a counter-example establishes.",
+        "front": "Examples, counter-examples and general cases",
         "back": [
-          "Take x = 0.5: x² = 0.25, which is not greater than 0.5.",
-          "A single counter-example disproves a universal claim.",
-          "No number of supporting examples can prove such a claim — only a general argument can."
+          "Their role in working mathematically — a single counter-example disproves, an example never proves."
         ]
       }
     },
@@ -1673,11 +1526,9 @@
       "card": {
         "key": "maths-methods-34:5.4",
         "title": "Exact versus approximate results",
-        "front": "A CAS returns 0.6931472 as the solution of e^x = 2. State the exact solution and explain when an approximate answer is acceptable.",
+        "front": "Exact versus approximate results",
         "back": [
-          "Exact solution: x = log_e(2).",
-          "An approximation is acceptable only when the question asks for a decimal answer, or specifies decimal places or significant figures.",
-          "Exam 1 is technology-free and almost always requires exact form."
+          "Recognising which form technology has given you, and rounding to a stated number of decimal places or significant figures."
         ]
       }
     },
@@ -1700,11 +1551,9 @@
       "card": {
         "key": "maths-methods-34:5.5",
         "title": "Domain and range when graphing with technology",
-        "front": "A student graphs y = 1/(x − 2) on technology and reports that the graph 'has a vertical line at x = 2'. Explain the error and how to set the graph up correctly.",
+        "front": "Domain and range when graphing with technology",
         "back": [
-          "The near-vertical line is a rendering artefact — the technology joins points either side of the asymptote.",
-          "There is no point on the graph at x = 2; the function is undefined there.",
-          "Set the domain to exclude x = 2, or use a graph style that does not connect across the discontinuity."
+          "Setting a window that actually shows the key features, and specifying domain restrictions correctly."
         ]
       }
     },
@@ -1728,11 +1577,9 @@
       "card": {
         "key": "maths-methods-34:5.6",
         "title": "Parameters and families of functions",
-        "front": "For the family of functions y = a(x − 2)² + 1 where a ∈ R \\ {0}, state which features are fixed and which change as a varies.",
+        "front": "Parameters and families of functions",
         "back": [
-          "Fixed: the turning point is always (2, 1); the axis of symmetry is always x = 2.",
-          "Changes: the width of the parabola, and whether it opens up (a > 0) or down (a < 0).",
-          "Number of x-intercepts changes: none if a > 0, two if a < 0."
+          "The role of a parameter in the general form of a function or equation, and generating families of graphs to see its effect."
         ]
       }
     },
@@ -1756,12 +1603,9 @@
       "card": {
         "key": "maths-methods-34:5.7",
         "title": "Numerical, graphical and symbolic forms",
-        "front": "A function has a numerical table showing a sign change between x = 1 and x = 2, a graph crossing the x-axis once in that interval, and the rule f(x) = x³ − 3x − 1. Explain how the three representations agree.",
+        "front": "Numerical, graphical and symbolic forms",
         "back": [
-          "The sign change in the table indicates f(a) and f(b) have opposite signs.",
-          "The graph crossing the axis is that same root shown visually.",
-          "The rule can be used with Newton's method or a CAS solver to locate the root numerically.",
-          "All three describe the same fact: a solution of f(x) = 0 lies between 1 and 2."
+          "Linking the three representations of the same function or equation, and matching features across them."
         ]
       }
     },
@@ -1784,11 +1628,9 @@
       "card": {
         "key": "maths-methods-34:5.8",
         "title": "Choosing and justifying CAS functionality",
-        "front": "A student uses a CAS 'solve' command and obtains an answer of 1.4142136. Explain what has gone wrong if an exact answer was required, and how to obtain one.",
+        "front": "Choosing and justifying CAS functionality",
         "back": [
-          "The technology has returned a decimal approximation rather than an exact value.",
-          "The exact answer is √2.",
-          "Set the CAS to exact or auto mode, or use an exact-form solve command rather than a numerical solver."
+          "Selecting the right tool for the task, applying suitable constraints and conditions, and verifying the result rather than trusting it."
         ]
       }
     },
@@ -1811,11 +1653,9 @@
       "card": {
         "key": "maths-methods-34:5.9",
         "title": "Communicating mathematical reasoning",
-        "front": "A student writes only '= 24' as their answer to a four-mark problem and receives one mark. Explain what was missing and what a full response requires.",
+        "front": "Communicating mathematical reasoning",
         "back": [
-          "The reasoning is absent — marks are allocated to the stages of the solution, not only the final value.",
-          "Required: the relationship or rule being used, the substitution, the working, then the answer.",
-          "The answer should be stated in context with units where relevant."
+          "Setting out the stages — formulation, solution, interpretation — so the working can be followed, which is what the modelling and problem-solving tasks are marked on."
         ]
       }
     }

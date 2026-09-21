@@ -32,12 +32,9 @@
       "card": {
         "key": "general-maths-34:1.1",
         "title": "Types of data",
-        "front": "Classify each variable: shirt size (S, M, L); number of siblings; time to complete a puzzle; eye colour.",
+        "front": "Types of data",
         "back": [
-          "Shirt size — categorical, ordinal (the categories have a natural order).",
-          "Number of siblings — numerical, discrete (countable).",
-          "Time to complete a puzzle — numerical, continuous.",
-          "Eye colour — categorical, nominal (no natural order)."
+          "Categorical (nominal or ordinal) and numerical (discrete or continuous). Getting this wrong at the start pushes you into the wrong display and the wrong statistics."
         ]
       }
     },
@@ -61,12 +58,9 @@
       "card": {
         "key": "general-maths-34:1.2",
         "title": "Displaying categorical data",
-        "front": "Explain when a percentage segmented bar chart is more useful than a bar chart of counts, and state what its total always represents.",
+        "front": "Displaying categorical data",
         "back": [
-          "Percentaged charts allow groups of different sizes to be compared fairly.",
-          "Raw counts mislead when one group is much larger than another.",
-          "Each segmented bar totals 100%.",
-          "Percentages must be calculated within each category of the explanatory variable."
+          "Frequency tables, bar charts and percentaged segmented bar charts, and the mode as the measure of centre."
         ]
       }
     },
@@ -90,11 +84,9 @@
       "card": {
         "key": "general-maths-34:1.3",
         "title": "Displaying numerical data",
-        "front": "A data set of 60 values has a strongly right-skewed distribution with two very large values. State which graphical display is most appropriate and justify your choice.",
+        "front": "Displaying numerical data",
         "back": [
-          "A histogram or a boxplot — both handle a moderate-to-large data set and show shape clearly.",
-          "A boxplot is preferable if the outliers need to be identified individually.",
-          "A dot plot or stem plot becomes unwieldy at 60 values and spreads badly with extreme values."
+          "Histograms, stem plots and dot plots, and choosing between them according to sample size, context and purpose."
         ]
       }
     },
@@ -118,12 +110,9 @@
       "card": {
         "key": "general-maths-34:1.4",
         "title": "Describing a distribution",
-        "front": "A histogram shows a long tail extending to the right, a peak at the left, and two isolated bars well beyond the tail. Describe the distribution and state which measures of centre and spread should be reported.",
+        "front": "Describing a distribution",
         "back": [
-          "Shape: positively (right) skewed, with possible outliers.",
-          "Centre should be reported as the median — the mean is dragged upward by the tail and outliers.",
-          "Spread should be reported as the IQR for the same reason.",
-          "A full description names shape, centre, spread and outliers, with values and units."
+          "Shape (symmetric, positively or negatively skewed), centre, spread and outliers — reported together, in the context of the data."
         ]
       }
     },
@@ -147,12 +136,9 @@
       "card": {
         "key": "general-maths-34:1.5",
         "title": "Summary statistics",
-        "front": "For the data 4, 7, 7, 9, 12, 15, 40, calculate the median and explain why it is a better measure of centre than the mean here.",
+        "front": "Summary statistics",
         "back": [
-          "Ordered already; n = 7, so the median is the 4th value = 9.",
-          "The mean is 94/7 = 13.4, which is larger than all but two of the values.",
-          "40 is an outlier that drags the mean upward.",
-          "The median is resistant to outliers, so it better represents a typical value."
+          "Median, range and IQR for skewed data or data with outliers; mean and standard deviation for approximately symmetric data. Be able to justify the choice."
         ]
       }
     },
@@ -176,12 +162,9 @@
       "card": {
         "key": "general-maths-34:1.6",
         "title": "Five-number summary and boxplots",
-        "front": "A data set has Q1 = 24, median = 31, Q3 = 40. Calculate the upper and lower fences and determine whether a value of 66 is an outlier.",
+        "front": "Five-number summary and boxplots",
         "back": [
-          "IQR = 40 − 24 = 16.",
-          "Lower fence = 24 − 1.5(16) = 24 − 24 = 0.",
-          "Upper fence = 40 + 1.5(16) = 40 + 24 = 64.",
-          "66 > 64, so it is an outlier and is plotted as a separate point on the boxplot."
+          "The boxplot as the graphical form of the five-number summary, with the lower fence Q1 − 1.5 × IQR and upper fence Q3 + 1.5 × IQR used to identify possible outliers."
         ]
       }
     },
@@ -205,11 +188,9 @@
       "card": {
         "key": "general-maths-34:1.7",
         "title": "The normal distribution and the 68–95–99.7% rule",
-        "front": "The weights of a product are normally distributed with mean 500 g and standard deviation 12 g. Find the percentage of products weighing between 476 g and 512 g.",
+        "front": "The normal distribution and the 68–95–99.7% rule",
         "back": [
-          "476 g is 2 standard deviations below the mean; 512 g is 1 above.",
-          "From the 68–95–99.7 rule: 95%/2 = 47.5% lies between −2 sd and the mean; 68%/2 = 34% between the mean and +1 sd.",
-          "47.5 + 34 = 81.5%."
+          "Applying the rule to bell-shaped distributions to find the percentage of values within one, two or three standard deviations of the mean."
         ]
       }
     },
@@ -233,12 +214,9 @@
       "card": {
         "key": "general-maths-34:1.8",
         "title": "Standardised (z) scores",
-        "front": "Test scores are normally distributed with mean 68 and standard deviation 9. A student scores 86. Calculate their standardised score and state the percentage of students who scored below them.",
+        "front": "Standardised (z) scores",
         "back": [
-          "z = (86 − 68)/9 = 18/9 = 2.",
-          "The score is 2 standard deviations above the mean.",
-          "From the 68–95–99.7 rule, 95% lie within 2 sd, so 2.5% lie above +2 sd.",
-          "97.5% of students scored below them."
+          "Calculating and interpreting them, and using them to compare values that come from different distributions."
         ]
       }
     },
@@ -262,12 +240,9 @@
       "card": {
         "key": "general-maths-34:1.9",
         "title": "Comparing distributions across groups",
-        "front": "Two parallel boxplots show group A with median 42 and IQR 10, group B with median 35 and IQR 22. Write a comparison of the two distributions.",
+        "front": "Comparing distributions across groups",
         "back": [
-          "Centre: group A has the higher median (42 versus 35), so A's typical value is higher.",
-          "Spread: group B is far more variable (IQR 22 versus 10), so B's values are less consistent.",
-          "A complete comparison addresses centre, spread, shape and outliers.",
-          "Always quote the actual values rather than saying only 'higher' or 'more spread out'."
+          "Parallel boxplots and back-to-back stem plots, comparing centre, spread and outliers, and reporting the differences in context."
         ]
       }
     },
@@ -291,12 +266,9 @@
       "card": {
         "key": "general-maths-34:1.10",
         "title": "Response and explanatory variables",
-        "front": "A researcher investigates whether hours of study predicts exam score. Identify the response and explanatory variables and explain how you decided.",
+        "front": "Response and explanatory variables",
         "back": [
-          "Explanatory variable: hours of study — the variable used to explain or predict.",
-          "Response variable: exam score — the variable being predicted.",
-          "The explanatory variable goes on the horizontal axis of a scatterplot.",
-          "Getting this the wrong way round invalidates the regression line that follows."
+          "Identifying which is which before doing anything else — every later step, including which axis is which, depends on it."
         ]
       }
     },
@@ -321,12 +293,9 @@
       "card": {
         "key": "general-maths-34:1.11",
         "title": "Two categorical variables",
-        "front": "A two-way table shows that 60 of 150 males and 30 of 100 females prefer option A. Calculate the relevant percentages and state whether an association is present.",
+        "front": "Two categorical variables",
         "back": [
-          "Males: 60/150 = 40%. Females: 30/100 = 30%.",
-          "Percentages must be calculated within each category of the explanatory variable.",
-          "40% versus 30% suggests an association — preference for option A differs by gender.",
-          "Always quote both percentages when justifying an association."
+          "Two-way frequency tables and percentaged segmented bar charts, and describing the association by comparing percentages between groups."
         ]
       }
     },
@@ -350,12 +319,9 @@
       "card": {
         "key": "general-maths-34:1.12",
         "title": "A numerical variable across categories",
-        "front": "Explain how parallel boxplots are used to investigate an association between a numerical and a categorical variable, and what would indicate no association.",
+        "front": "A numerical variable across categories",
         "back": [
-          "A separate boxplot is drawn for the numerical variable within each category.",
-          "An association is indicated when the medians differ noticeably between categories.",
-          "No association when the boxplots have similar medians and similar spreads.",
-          "Report the medians with values when justifying your conclusion."
+          "Using parallel boxplots to investigate the association, and describing the difference in medians in context."
         ]
       }
     },
@@ -379,12 +345,9 @@
       "card": {
         "key": "general-maths-34:1.13",
         "title": "Scatterplots",
-        "front": "Describe the three features required when describing the association shown in a scatterplot, and write a full description for a plot showing points falling closely along a downward line.",
+        "front": "Scatterplots",
         "back": [
-          "Direction, form and strength.",
-          "Direction: negative. Form: linear. Strength: strong.",
-          "Full description: there is a strong, negative, linear association between the two variables.",
-          "Name the variables in the description rather than saying 'x and y'."
+          "Describing the association between two numerical variables by direction, form and strength."
         ]
       }
     },
@@ -408,12 +371,9 @@
       "card": {
         "key": "general-maths-34:1.14",
         "title": "Pearson's correlation coefficient r",
-        "front": "State the three assumptions required for Pearson's correlation coefficient to be an appropriate measure, and interpret a value of r = −0.85.",
+        "front": "Pearson's correlation coefficient r",
         "back": [
-          "Both variables are numerical; the association is linear; there are no clear outliers.",
-          "r = −0.85 indicates a strong negative linear association.",
-          "The sign gives direction; the magnitude gives strength.",
-          "r says nothing about causation, and is misleading if the form is non-linear."
+          "Calculating and interpreting it, and the assumptions it depends on — numerical data, a linear form and no clear outliers."
         ]
       }
     },
@@ -437,12 +397,9 @@
       "card": {
         "key": "general-maths-34:1.15",
         "title": "The coefficient of determination",
-        "front": "A regression of exam score on study hours gives r = 0.70. Calculate the coefficient of determination and interpret it in context.",
+        "front": "The coefficient of determination",
         "back": [
-          "r² = 0.70² = 0.49, or 49%.",
-          "Interpretation: 49% of the variation in exam score can be explained by the variation in study hours.",
-          "Use that exact framing — 'explained by the variation in' — or marks are lost.",
-          "The remaining 51% is due to other factors."
+          "r² calculated from r, and interpreted as the percentage of variation in the response variable explained by the explanatory variable — using that exact framing."
         ]
       }
     },
@@ -466,12 +423,9 @@
       "card": {
         "key": "general-maths-34:1.16",
         "title": "Correlation and causation",
-        "front": "Ice cream sales and drowning incidents are strongly positively correlated. Explain why this does not show that ice cream causes drownings, naming the relevant non-causal explanation.",
+        "front": "Correlation and causation",
         "back": [
-          "Correlation does not establish causation.",
-          "This is a common response: a third variable — temperature — influences both.",
-          "Hot weather increases both ice cream sales and swimming, and so drowning risk.",
-          "Other non-causal explanations are coincidence and confounding variables."
+          "Non-causal explanations for an observed association: coincidence, confounding variables and common response."
         ]
       }
     },
@@ -495,12 +449,9 @@
       "card": {
         "key": "general-maths-34:1.17",
         "title": "The least squares line",
-        "front": "Explain what the least squares line minimises, and state the assumption that must hold for it to be appropriate.",
+        "front": "The least squares line",
         "back": [
-          "It minimises the sum of the squared vertical distances (residuals) from each point to the line.",
-          "Squaring means positive and negative residuals do not cancel, and large errors are penalised more.",
-          "The assumption is that the association is linear.",
-          "This is checked with a residual plot — random scatter supports it, a pattern does not."
+          "Fitting the line, what 'least squares' actually minimises, and the assumptions behind the method."
         ]
       }
     },
@@ -524,12 +475,9 @@
       "card": {
         "key": "general-maths-34:1.18",
         "title": "Interpreting and using the regression line",
-        "front": "A least squares line is height = 120 + 0.8 × age, fitted for ages 5 to 12. Interpret the slope in context, and explain why predicting the height of a 30-year-old is unsound.",
+        "front": "Interpreting and using the regression line",
         "back": [
-          "Slope: on average, height increases by 0.8 cm for each additional year of age.",
-          "The intercept (120 cm at age 0) has no sensible meaning here — it lies outside the data range.",
-          "Predicting at age 30 is extrapolation, well beyond the fitted range of 5 to 12.",
-          "The linear relationship cannot be assumed to continue, so the prediction is unreliable."
+          "Interpreting the slope and intercept in the context of the data, making predictions, and the distinction between interpolation and extrapolation."
         ]
       }
     },
@@ -552,11 +500,9 @@
       "card": {
         "key": "general-maths-34:1.19",
         "title": "Residuals and residual plots",
-        "front": "A residual plot shows a clear curved pattern. State what this indicates and what the analyst should do next.",
+        "front": "Residuals and residual plots",
         "back": [
-          "The linear model is not appropriate — the linearity assumption has been violated.",
-          "A random scatter about zero would indicate the assumption holds.",
-          "Apply a transformation (squared, log or reciprocal) to linearise, then refit the least squares line."
+          "Calculating a residual, and using a residual plot to decide whether the linearity assumption holds — a clear pattern means it doesn't."
         ]
       }
     },
@@ -580,11 +526,9 @@
       "card": {
         "key": "general-maths-34:1.20",
         "title": "Data transformation",
-        "front": "A scatterplot of y against x is curved, opening upward. A squared transformation is applied to x, giving the line y = 3 + 0.5x². Predict y when x = 4, and explain why the transformation was applied.",
+        "front": "Data transformation",
         "back": [
-          "Substitute x = 4: x² = 16, so y = 3 + 0.5(16) = 11.",
-          "The transformation straightens the relationship so a least squares line can validly be fitted.",
-          "Transform the variable on the side that will straighten the curve — check the residual plot afterwards."
+          "Squared, logarithmic and reciprocal transformations applied to x or y to linearise an association, then fitting and using the transformed model."
         ]
       }
     },
@@ -608,12 +552,9 @@
       "card": {
         "key": "general-maths-34:1.21",
         "title": "Time series plots",
-        "front": "Name four features that should be identified when describing a time series plot, and state what distinguishes a cycle from seasonality.",
+        "front": "Time series plots",
         "back": [
-          "Trend, seasonality, cycles, irregular fluctuations — plus outliers and structural change.",
-          "Seasonality repeats over a fixed and known period, such as quarters or months.",
-          "A cycle repeats over a longer and variable period with no fixed length.",
-          "Structural change is an abrupt, lasting shift in the pattern."
+          "Describing a time series by trend, seasonality, cycles, structural change, possible outliers and irregular fluctuations."
         ]
       }
     },
@@ -638,12 +579,9 @@
       "card": {
         "key": "general-maths-34:1.22",
         "title": "Smoothing",
-        "front": "The daily values are 14, 18, 11, 20, 16, 22, 19. Calculate the three-median smoothed value for the fourth day.",
+        "front": "Smoothing",
         "back": [
-          "Three-median smoothing uses the value and its immediate neighbours.",
-          "For day 4: the values are 11, 20, 16.",
-          "Ordered: 11, 16, 20 — the median is 16.",
-          "Smoothed value for day 4 is 16."
+          "Moving means with an odd number of points, moving means with an even number and centring, and moving medians — including smoothing graphically."
         ]
       }
     },
@@ -668,12 +606,9 @@
       "card": {
         "key": "general-maths-34:1.23",
         "title": "Seasonal indices",
-        "front": "Quarterly sales for quarter 3 are $48 000 and the seasonal index for quarter 3 is 1.2. Calculate the deseasonalised figure, and state what the index value tells you.",
+        "front": "Seasonal indices",
         "back": [
-          "Deseasonalised = actual / seasonal index = 48 000 / 1.2 = $40 000.",
-          "An index above 1 means quarter 3 sales are typically higher than average.",
-          "Specifically, 20% above the quarterly average.",
-          "The four quarterly indices must sum to 4."
+          "Calculating them, interpreting what an index above or below 1 means, and deseasonalising and reseasonalising data."
         ]
       }
     },
@@ -697,12 +632,9 @@
       "card": {
         "key": "general-maths-34:1.24",
         "title": "Forecasting",
-        "front": "A least squares line fitted to deseasonalised quarterly sales is sales = 2400 + 150 × quarter number. The seasonal index for quarter 4 is 1.3. Forecast the actual sales for quarter 12.",
+        "front": "Forecasting",
         "back": [
-          "Deseasonalised forecast: 2400 + 150 × 12 = 2400 + 1800 = 4200.",
-          "Quarter 12 is a fourth quarter, so reseasonalise using the index 1.3.",
-          "Actual forecast = 4200 × 1.3 = 5460.",
-          "Deseasonalise by dividing; reseasonalise by multiplying."
+          "Fitting a least squares line to deseasonalised time series data, forecasting forward, and reseasonalising the forecast."
         ]
       }
     },
@@ -726,12 +658,9 @@
       "card": {
         "key": "general-maths-34:2.1",
         "title": "First-order linear recurrence relations",
-        "front": "A recurrence relation is V₀ = 5000, V_(n+1) = 0.85V_n + 200. Calculate V₁ and V₂, and state what the two constants represent.",
+        "front": "First-order linear recurrence relations",
         "back": [
-          "V₁ = 0.85(5000) + 200 = 4250 + 200 = 4450.",
-          "V₂ = 0.85(4450) + 200 = 3782.5 + 200 = 3982.50.",
-          "0.85 is the multiplier — here a 15% reduction each period.",
-          "200 is a fixed amount added each period, independent of the balance."
+          "Reading a relation of the form u₀ = a, uₙ₊₁ = Ruₙ + d, generating terms, and deducing the explicit rule."
         ]
       }
     },
@@ -755,12 +684,9 @@
       "card": {
         "key": "general-maths-34:2.2",
         "title": "Flat rate depreciation",
-        "front": "A machine costing $24 000 is depreciated by the flat rate method at 12% per annum. Write the recurrence relation and find its value after 4 years.",
+        "front": "Flat rate depreciation",
         "back": [
-          "Flat rate depreciates by 12% of the ORIGINAL value each year: 0.12 × 24 000 = $2880.",
-          "V₀ = 24 000, V_(n+1) = V_n − 2880.",
-          "After 4 years: 24 000 − 4(2880) = 24 000 − 11 520 = $12 480.",
-          "The graph is a straight line — constant reduction each period."
+          "The recurrence relation and the rule for the value after n periods, and the straight-line graph it produces."
         ]
       }
     },
@@ -784,12 +710,9 @@
       "card": {
         "key": "general-maths-34:2.3",
         "title": "Unit cost depreciation",
-        "front": "A van bought for $45 000 depreciates at 18 cents per kilometre. Find its value after travelling 60 000 km, and state one advantage of unit cost over flat rate depreciation.",
+        "front": "Unit cost depreciation",
         "back": [
-          "Depreciation = 0.18 × 60 000 = $10 800.",
-          "Value = 45 000 − 10 800 = $34 200.",
-          "Unit cost reflects actual use rather than elapsed time.",
-          "A vehicle driven little retains more value, which matches reality better than a time-based method."
+          "Depreciation by use rather than time, and setting up the relation when the rate is per kilometre or per item."
         ]
       }
     },
@@ -813,12 +736,9 @@
       "card": {
         "key": "general-maths-34:2.4",
         "title": "Reducing balance depreciation",
-        "front": "Equipment worth $18 000 depreciates by the reducing balance method at 20% per annum. Find its value after 3 years, and explain why it never reaches zero.",
+        "front": "Reducing balance depreciation",
         "back": [
-          "Each year the value is multiplied by 0.80: V_(n+1) = 0.80V_n.",
-          "After 3 years: 18 000 × 0.80³ = 18 000 × 0.512 = $9216.",
-          "Each year removes 20% of the CURRENT value, which shrinks each time.",
-          "The amount removed keeps decreasing, so the value approaches but never reaches zero."
+          "The recurrence relation and rule, and why the value never quite reaches zero."
         ]
       }
     },
@@ -842,12 +762,9 @@
       "card": {
         "key": "general-maths-34:2.5",
         "title": "Simple interest",
-        "front": "$7500 is invested at 5.2% per annum simple interest. Calculate the interest earned in 3 years and the final balance, and state how simple interest relates to flat rate depreciation.",
+        "front": "Simple interest",
         "back": [
-          "Annual interest = 0.052 × 7500 = $390.",
-          "Over 3 years: 3 × 390 = $1170.",
-          "Balance = 7500 + 1170 = $8670.",
-          "Both are linear — a fixed amount is added or removed each period, based on the original value."
+          "Investments and loans modelled with linear growth, and the link to flat rate depreciation as the same mathematics."
         ]
       }
     },
@@ -870,11 +787,9 @@
       "card": {
         "key": "general-maths-34:2.6",
         "title": "Compound interest",
-        "front": "An investment of $6000 earns 4.8% per annum compounding monthly. Write the recurrence relation and find the balance after 2 years.",
+        "front": "Compound interest",
         "back": [
-          "Monthly rate = 4.8/12 = 0.4%, so R = 1.004.",
-          "V₀ = 6000, V_(n+1) = 1.004 V_n.",
-          "After 24 months: 6000 × 1.004²⁴ = 6000 × 1.10058 = $6603.48."
+          "The recurrence relation and rule, converting between annual and per-period rates, and the effective annual interest rate."
         ]
       }
     },
@@ -898,12 +813,9 @@
       "card": {
         "key": "general-maths-34:2.7",
         "title": "Reducing balance loans",
-        "front": "A $20 000 reducing balance loan at 6% per annum compounding monthly is repaid with monthly payments of $400. Calculate the interest charged in the first month and the balance after the first payment.",
+        "front": "Reducing balance loans",
         "back": [
-          "Monthly rate = 6/12 = 0.5%.",
-          "Interest = 20 000 × 0.005 = $100.",
-          "Principal reduction = 400 − 100 = $300.",
-          "Balance after first payment = 20 000 − 300 = $19 700."
+          "Amortisation tables, and splitting each repayment into its interest and principal reduction components."
         ]
       }
     },
@@ -927,12 +839,9 @@
       "card": {
         "key": "general-maths-34:2.8",
         "title": "Using a finance solver",
-        "front": "Using a finance solver for a loan, state what each of N, I%, PV, PMT and FV represents, and explain the sign convention.",
+        "front": "Using a finance solver",
         "back": [
-          "N = number of payment periods; I% = annual interest rate; PV = present value (amount borrowed).",
-          "PMT = payment per period; FV = future value (balance remaining).",
-          "Money received is positive and money paid out is negative, so for a loan PV is positive and PMT negative.",
-          "Getting the signs wrong is the single most common source of error."
+          "Entering the five quantities correctly, getting the signs right, and solving for the payment, the number of periods, the rate or the balance."
         ]
       }
     },
@@ -956,12 +865,9 @@
       "card": {
         "key": "general-maths-34:2.9",
         "title": "Interest-only loans",
-        "front": "A $150 000 interest-only loan is charged 5.4% per annum compounding monthly. Calculate the required monthly repayment and explain why the balance never reduces.",
+        "front": "Interest-only loans",
         "back": [
-          "Monthly rate = 5.4/12 = 0.45%.",
-          "Interest per month = 150 000 × 0.0045 = $675.",
-          "Repayment must equal the interest charged, so $675 per month.",
-          "Because the payment exactly cancels the interest, no principal is repaid and the balance stays at $150 000."
+          "The condition that makes a loan interest-only, and the repayment required to hold the balance constant."
         ]
       }
     },
@@ -985,12 +891,9 @@
       "card": {
         "key": "general-maths-34:2.10",
         "title": "Annuities",
-        "front": "A retiree invests $400 000 at 4.2% per annum compounding monthly and withdraws $2500 each month. Calculate the balance after one month and explain whether this annuity will eventually be exhausted.",
+        "front": "Annuities",
         "back": [
-          "Monthly rate = 4.2/12 = 0.35%. Interest = 400 000 × 0.0035 = $1400.",
-          "Balance = 400 000 + 1400 − 2500 = $398 900.",
-          "The withdrawal exceeds the interest, so the balance falls each month.",
-          "It will eventually be exhausted — this is an annuity, not a perpetuity."
+          "Drawing down an investment with regular withdrawals, the recurrence relation, and the amortisation table."
         ]
       }
     },
@@ -1014,12 +917,9 @@
       "card": {
         "key": "general-maths-34:2.11",
         "title": "Perpetuities",
-        "front": "A $250 000 fund earns 5.4% per annum compounding monthly. Determine the maximum monthly payment that can be made in perpetuity.",
+        "front": "Perpetuities",
         "back": [
-          "A perpetuity requires the payment to exactly equal the interest earned each period.",
-          "Monthly rate = 5.4/12 = 0.45%.",
-          "Payment = 250 000 × 0.0045 = $1125 per month.",
-          "Any larger payment erodes the principal and the fund eventually runs out."
+          "The condition for a payment to continue indefinitely, and calculating the payment or the principal required."
         ]
       }
     },
@@ -1042,11 +942,9 @@
       "card": {
         "key": "general-maths-34:2.12",
         "title": "Annuity investments",
-        "front": "An annuity investment starts at $5000 with $200 added at the end of each month, earning 3.6% per annum compounding monthly. Write the recurrence relation and find the balance after two months.",
+        "front": "Annuity investments",
         "back": [
-          "Monthly rate = 0.3%, so R = 1.003. V₀ = 5000, V_(n+1) = 1.003V_n + 200.",
-          "After 1 month: 5000 × 1.003 + 200 = $5215.00.",
-          "After 2 months: 5215 × 1.003 + 200 = $5430.65."
+          "Compound interest investments with regular equal additions to the principal, and the rule for the balance after n periods."
         ]
       }
     },
@@ -1070,12 +968,9 @@
       "card": {
         "key": "general-maths-34:2.13",
         "title": "Changing conditions",
-        "front": "A $30 000 loan at 6% per annum compounding monthly has repayments of $600. After 12 months the rate rises to 7.2%. Explain how you would find the new balance after a further 6 months.",
+        "front": "Changing conditions",
         "back": [
-          "Run the first 12 months at a monthly rate of 0.5% with PMT = 600, and record the balance.",
-          "That balance becomes the new present value — restart the model from it.",
-          "Run the next 6 months at the new monthly rate of 7.2/12 = 0.6%.",
-          "Never apply an average rate across the whole term; solve each stage separately."
+          "Handling an interest rate change, an extra lump sum or a change in repayment partway through, by restarting the model from the current balance."
         ]
       }
     },
@@ -1099,12 +994,9 @@
       "card": {
         "key": "general-maths-34:3.1",
         "title": "Matrices, order and types",
-        "front": "Matrix A has 3 rows and 4 columns. State its order, the element a₂₃'s position, and whether A + Aᵀ is defined.",
+        "front": "Matrices, order and types",
         "back": [
-          "Order is 3 × 4, always rows × columns.",
-          "a₂₃ is the element in row 2, column 3.",
-          "Aᵀ has order 4 × 3, so A + Aᵀ is not defined.",
-          "Addition requires both matrices to have identical order."
+          "Order as rows × columns, and the row, column, square, zero, identity, diagonal, symmetric and triangular types."
         ]
       }
     },
@@ -1128,12 +1020,9 @@
       "card": {
         "key": "general-maths-34:3.2",
         "title": "Addition, subtraction and scalar multiplication",
-        "front": "Given A = [[2, 1], [0, 3]] and B = [[1, 4], [2, 1]], calculate 2A − B.",
+        "front": "Addition, subtraction and scalar multiplication",
         "back": [
-          "2A = [[4, 2], [0, 6]].",
-          "Subtract B element by element.",
-          "2A − B = [[4−1, 2−4], [0−2, 6−1]]",
-          "= [[3, −2], [−2, 5]]."
+          "Including the condition that the matrices must have the same order."
         ]
       }
     },
@@ -1157,12 +1046,9 @@
       "card": {
         "key": "general-maths-34:3.3",
         "title": "Matrix multiplication and powers",
-        "front": "Given A of order 2 × 3 and B of order 3 × 2, state whether AB and BA are defined, give the order of each that is, and explain the general rule.",
+        "front": "Matrix multiplication and powers",
         "back": [
-          "AB is defined: the inner dimensions (3 and 3) match. Order of AB is 2 × 2.",
-          "BA is also defined: inner dimensions (2 and 2) match. Order of BA is 3 × 3.",
-          "Rule: (m × n)(n × p) is defined and gives an m × p matrix.",
-          "AB and BA are generally different — matrix multiplication is not commutative."
+          "The condition for the product to be defined, why order matters, and raising a square matrix to a power."
         ]
       }
     },
@@ -1185,11 +1071,9 @@
       "card": {
         "key": "general-maths-34:3.4",
         "title": "Matrices in practical problems",
-        "front": "A 1×3 matrix of prices [4 6 9] and a 3×1 column matrix of quantities [10; 5; 2] are multiplied. State the order of the product, calculate it, and explain what it represents.",
+        "front": "Matrices in practical problems",
         "back": [
-          "A 1×3 multiplied by a 3×1 gives a 1×1 matrix.",
-          "4(10) + 6(5) + 9(2) = 40 + 30 + 18 = 88.",
-          "The product represents the total cost of the items."
+          "Storing and manipulating information — costing and pricing, inventories, and using row or column summing matrices to total rows or columns."
         ]
       }
     },
@@ -1213,12 +1097,9 @@
       "card": {
         "key": "general-maths-34:3.5",
         "title": "Determinant and inverse",
-        "front": "For A = [[4, 2], [3, 1]], calculate the determinant and the inverse.",
+        "front": "Determinant and inverse",
         "back": [
-          "det A = (4)(1) − (2)(3) = 4 − 6 = −2.",
-          "For [[a, b], [c, d]] the inverse is (1/det)[[d, −b], [−c, a]].",
-          "A⁻¹ = (1/−2)[[1, −2], [−3, 4]]",
-          "= [[−0.5, 1], [1.5, −2]]. If det were 0 the matrix would be singular with no inverse."
+          "The determinant of a 2 × 2 matrix, finding the inverse, and recognising a singular matrix with no inverse."
         ]
       }
     },
@@ -1242,12 +1123,9 @@
       "card": {
         "key": "general-maths-34:3.6",
         "title": "Solving simultaneous equations with matrices",
-        "front": "Solve the system 2x + 3y = 13 and x − y = 1 using matrix methods.",
+        "front": "Solving simultaneous equations with matrices",
         "back": [
-          "Write as AX = B with A = [[2,3],[1,−1]], X = [x; y], B = [13; 1].",
-          "det A = (2)(−1) − (3)(1) = −5, so the inverse exists.",
-          "A⁻¹ = (1/−5)[[−1,−3],[−1,2]].",
-          "X = A⁻¹B gives x = 3.2, y = 2.2. Check: 2(3.2) + 3(2.2) = 6.4 + 6.6 = 13. ✓"
+          "Writing a system in matrix form and solving it using the inverse."
         ]
       }
     },
@@ -1271,12 +1149,9 @@
       "card": {
         "key": "general-maths-34:3.7",
         "title": "Communication and dominance matrices",
-        "front": "In a dominance matrix for four teams, explain what squaring the matrix achieves and how an overall ranking is produced.",
+        "front": "Communication and dominance matrices",
         "back": [
-          "The original matrix records one-step dominances — who directly beat whom.",
-          "Squaring it counts two-step dominances: A beat B, and B beat C.",
-          "Add the one-step and two-step matrices to give a combined score for each competitor.",
-          "Rank by summing each row of that combined matrix, highest total first."
+          "Squaring a matrix to count two-step links, and combining matrices to rank individuals by dominance."
         ]
       }
     },
@@ -1300,12 +1175,9 @@
       "card": {
         "key": "general-maths-34:3.8",
         "title": "Permutation matrices",
-        "front": "Explain what a permutation matrix does, and state what happens when one is applied repeatedly to the same column matrix.",
+        "front": "Permutation matrices",
         "back": [
-          "A permutation matrix reorders the rows (or columns) of another matrix.",
-          "It contains exactly one 1 in each row and each column, with all other entries 0.",
-          "Applying it repeatedly cycles the entries through a repeating pattern.",
-          "After a fixed number of applications the original order returns."
+          "Using a matrix to reorder the rows or columns of another matrix, and the effect of applying it repeatedly."
         ]
       }
     },
@@ -1329,12 +1201,9 @@
       "card": {
         "key": "general-maths-34:3.9",
         "title": "Transition and state matrices",
-        "front": "In a town, 80% of bus users continue next month and 20% switch to driving; 10% of drivers switch to the bus. Write the transition matrix and find the state after one month if 500 use the bus and 900 drive.",
+        "front": "Transition and state matrices",
         "back": [
-          "T = [[0.8, 0.1], [0.2, 0.9]], with columns summing to 1 and order (bus, drive).",
-          "S₀ = [500; 900].",
-          "Bus next month: 0.8(500) + 0.1(900) = 400 + 90 = 490.",
-          "Drive next month: 0.2(500) + 0.9(900) = 100 + 810 = 910."
+          "Building a transition matrix from a diagram or a worded description, with columns summing to one, and defining the initial state matrix."
         ]
       }
     },
@@ -1358,12 +1227,9 @@
       "card": {
         "key": "general-maths-34:3.10",
         "title": "Long-run behaviour",
-        "front": "Explain what a steady state solution is for a transition matrix model, and describe how to find it using technology.",
+        "front": "Long-run behaviour",
         "back": [
-          "The steady state is the distribution that no longer changes from one step to the next.",
-          "Compute Sₙ = Tⁿ S₀ for increasingly large n until the values stabilise.",
-          "In practice raising T to a high power, such as T⁵⁰, gives columns that are identical.",
-          "The steady state does not depend on the initial state matrix for a regular transition matrix."
+          "Using Sₙ = Tⁿ S₀ to find a future state, and finding the steady state that the system settles towards."
         ]
       }
     },
@@ -1387,12 +1253,9 @@
       "card": {
         "key": "general-maths-34:3.11",
         "title": "Transition matrices with additions",
-        "front": "A population is modelled by S_(n+1) = T·S_n + B where B = [50; −20]. Explain what B represents and why this model may have no steady state.",
+        "front": "Transition matrices with additions",
         "back": [
-          "B is a fixed quantity added to or removed from each category every step, independent of the transition proportions.",
-          "Here 50 are added to the first category and 20 removed from the second each period.",
-          "Because the additions do not depend on the current state, the totals can grow or shrink without limit.",
-          "The system may therefore never settle to a steady state, unlike a pure T·S_n model."
+          "Models of the form Sₙ₊₁ = T Sₙ + B, where a fixed number is added or removed each step, and why no steady state may exist."
         ]
       }
     },
@@ -1416,12 +1279,9 @@
       "card": {
         "key": "general-maths-34:3.12",
         "title": "Leslie matrices",
-        "front": "A Leslie matrix has first row [0 1.4 0.8] and subdiagonal entries 0.6 and 0.3. Explain what each set of values represents.",
+        "front": "Leslie matrices",
         "back": [
-          "The first row holds birth rates: the average offspring produced by each age group per period.",
-          "Age group 1 produces none; group 2 produces 1.4; group 3 produces 0.8.",
-          "The subdiagonal holds survival rates: 0.6 of group 1 survive into group 2, and 0.3 of group 2 into group 3.",
-          "All other entries are zero — individuals can only advance one age group per period."
+          "Population models split into age groups, with birth rates in the first row and survival rates on the subdiagonal."
         ]
       }
     },
@@ -1445,12 +1305,9 @@
       "card": {
         "key": "general-maths-34:4.1",
         "title": "Graph terminology",
-        "front": "Define degree, and for a graph with 5 vertices of degrees 2, 3, 3, 4 and 4, determine the number of edges.",
+        "front": "Graph terminology",
         "back": [
-          "The degree of a vertex is the number of edge-ends attached to it; a loop contributes 2.",
-          "Sum of degrees = 2 + 3 + 3 + 4 + 4 = 16.",
-          "The sum of degrees equals twice the number of edges.",
-          "Edges = 16/2 = 8."
+          "Vertex, edge, loop, multiple edge and degree. Directed and undirected, simple, connected, complete, bipartite graphs and subgraphs."
         ]
       }
     },
@@ -1474,12 +1331,9 @@
       "card": {
         "key": "general-maths-34:4.2",
         "title": "Adjacency matrices",
-        "front": "Explain how an adjacency matrix records a graph, including how loops are represented, and state why the matrix is symmetric for an undirected graph.",
+        "front": "Adjacency matrices",
         "back": [
-          "Entry (i, j) gives the number of edges directly connecting vertex i to vertex j.",
-          "A loop at vertex i is conventionally recorded as 1 in position (i, i) for an undirected graph.",
-          "In an undirected graph an edge from i to j is also an edge from j to i.",
-          "So entry (i, j) equals entry (j, i), making the matrix symmetric."
+          "Constructing one from a graph and reading a graph off one, including how loops are counted."
         ]
       }
     },
@@ -1503,12 +1357,9 @@
       "card": {
         "key": "general-maths-34:4.3",
         "title": "Planar graphs and Euler's formula",
-        "front": "A connected planar graph has 7 vertices and 11 edges. Use Euler's formula to find the number of faces.",
+        "front": "Planar graphs and Euler's formula",
         "back": [
-          "Euler's formula: v − e + f = 2.",
-          "7 − 11 + f = 2",
-          "f = 2 + 11 − 7 = 6.",
-          "The count of faces includes the infinite outer region."
+          "Redrawing a graph so no edges cross, and applying v − e + f = 2."
         ]
       }
     },
@@ -1532,12 +1383,9 @@
       "card": {
         "key": "general-maths-34:4.4",
         "title": "Walks, trails, paths, circuits and cycles",
-        "front": "Define a walk, a trail, a path and a cycle, and state what distinguishes each from the one before it.",
+        "front": "Walks, trails, paths, circuits and cycles",
         "back": [
-          "Walk: any sequence of edges from one vertex to another; repeats allowed.",
-          "Trail: a walk with no repeated edge (vertices may repeat).",
-          "Path: a walk with no repeated vertex, and therefore no repeated edge.",
-          "Cycle: a path that starts and finishes at the same vertex. A circuit is a trail that does the same."
+          "The distinctions between them, which is where most of the marks in this topic are won or lost."
         ]
       }
     },
@@ -1561,12 +1409,9 @@
       "card": {
         "key": "general-maths-34:4.5",
         "title": "Eulerian trails and circuits",
-        "front": "A graph has exactly two vertices of odd degree. State whether an Eulerian trail and an Eulerian circuit exist, and where any trail must begin and end.",
+        "front": "Eulerian trails and circuits",
         "back": [
-          "An Eulerian trail exists — a graph with exactly two odd vertices has one.",
-          "No Eulerian circuit exists; that requires every vertex to have even degree.",
-          "The trail must start at one odd vertex and finish at the other.",
-          "Eulerian routes use every EDGE exactly once."
+          "The conditions in terms of the number of odd-degree vertices, and where such a trail must start and finish."
         ]
       }
     },
@@ -1590,12 +1435,9 @@
       "card": {
         "key": "general-maths-34:4.6",
         "title": "Hamiltonian paths and cycles",
-        "front": "Distinguish a Hamiltonian path from a Hamiltonian cycle, and explain how both differ from the Eulerian equivalents.",
+        "front": "Hamiltonian paths and cycles",
         "back": [
-          "Hamiltonian path: visits every VERTEX exactly once.",
-          "Hamiltonian cycle: does the same and returns to the starting vertex.",
-          "Eulerian routes use every EDGE exactly once instead.",
-          "There is no simple degree test for the existence of a Hamiltonian route."
+          "Visiting every vertex once, and the difference from the Eulerian case which visits every edge."
         ]
       }
     },
@@ -1619,12 +1461,9 @@
       "card": {
         "key": "general-maths-34:4.7",
         "title": "Trees and spanning trees",
-        "front": "Define a tree and a spanning tree, and state how many edges a spanning tree of a graph with 9 vertices must contain.",
+        "front": "Trees and spanning trees",
         "back": [
-          "A tree is a connected graph with no cycles.",
-          "A spanning tree is a subgraph that is a tree and includes every vertex of the original graph.",
-          "A tree on n vertices has exactly n − 1 edges.",
-          "So a spanning tree here has 8 edges."
+          "The defining properties of a tree, and identifying a spanning tree within a larger graph."
         ]
       }
     },
@@ -1648,12 +1487,9 @@
       "card": {
         "key": "general-maths-34:4.8",
         "title": "Minimum spanning trees",
-        "front": "Describe how Prim's algorithm builds a minimum spanning tree, and state one reason a minimum spanning tree might not be unique.",
+        "front": "Minimum spanning trees",
         "back": [
-          "Start at any vertex. Add the cheapest edge connecting the tree to a vertex not yet included.",
-          "Repeat until every vertex is connected, never adding an edge that would form a cycle.",
-          "Stop after n − 1 edges have been added.",
-          "If two edges have equal weight at a choice point, different valid trees of the same total weight can result."
+          "Applying Prim's algorithm and reporting the total weight of the resulting tree."
         ]
       }
     },
@@ -1677,12 +1513,9 @@
       "card": {
         "key": "general-maths-34:4.9",
         "title": "Shortest path problems",
-        "front": "Explain how Dijkstra's algorithm finds a shortest path, and state one situation where inspection is sufficient instead.",
+        "front": "Shortest path problems",
         "back": [
-          "It assigns each vertex a tentative distance from the start, beginning at zero.",
-          "It repeatedly selects the unvisited vertex with the smallest tentative distance and updates its neighbours.",
-          "The process ends when the destination is reached with a confirmed minimum.",
-          "For a small network with few routes, checking each path by inspection is faster and less error-prone."
+          "Solving by inspection for small networks and by Dijkstra's algorithm for larger ones."
         ]
       }
     },
@@ -1706,12 +1539,9 @@
       "card": {
         "key": "general-maths-34:4.10",
         "title": "Flow problems",
-        "front": "A network has three cuts separating source from sink with capacities 24, 19 and 27. State the maximum flow and explain the reasoning.",
+        "front": "Flow problems",
         "back": [
-          "The maximum flow equals the capacity of the minimum cut.",
-          "The minimum of 24, 19 and 27 is 19.",
-          "Maximum flow = 19.",
-          "A valid cut must sever every path from source to sink, and only edges directed source-to-sink count toward its capacity."
+          "Capacities, sources and sinks, identifying cuts and their capacity, and using the minimum cut to find the maximum flow."
         ]
       }
     },
@@ -1735,12 +1565,9 @@
       "card": {
         "key": "general-maths-34:4.11",
         "title": "Matching problems",
-        "front": "Explain what a bipartite graph is and how the Hungarian algorithm is used in an allocation problem.",
+        "front": "Matching problems",
         "back": [
-          "A bipartite graph has two distinct sets of vertices, with edges only between the sets, never within one.",
-          "In allocation, one set is workers and the other tasks, with edge weights giving cost or time.",
-          "The Hungarian algorithm subtracts row and column minimums, then covers zeros with the fewest lines.",
-          "It finds the allocation with the lowest total cost, one worker to one task."
+          "Bipartite graphs and allocation, and using the Hungarian algorithm to find the optimal assignment."
         ]
       }
     },
@@ -1764,12 +1591,9 @@
       "card": {
         "key": "general-maths-34:4.12",
         "title": "Project networks",
-        "front": "Activities: A (3 days, no predecessor), B (5, no predecessor), C (4, after A), D (2, after A and B), E (6, after C and D). Determine the minimum completion time.",
+        "front": "Project networks",
         "back": [
-          "Path A–C–E: 3 + 4 + 6 = 13 days.",
-          "Path A–D–E: 3 + 2 + 6 = 11 days.",
-          "Path B–D–E: 5 + 2 + 6 = 13 days.",
-          "Minimum completion time = 13 days; both A–C–E and B–D–E are critical."
+          "Building a network from a table of activities, durations and immediate predecessors, including the use of dummy activities."
         ]
       }
     },
@@ -1793,12 +1617,9 @@
       "card": {
         "key": "general-maths-34:4.13",
         "title": "Forward and backward scanning",
-        "front": "For an activity with earliest start time 7, duration 4, and latest finish time 15, calculate the float and state whether the activity is critical.",
+        "front": "Forward and backward scanning",
         "back": [
-          "Earliest finish time = 7 + 4 = 11.",
-          "Latest start time = 15 − 4 = 11.",
-          "Float = latest start − earliest start = 11 − 7 = 4 days.",
-          "Float is non-zero, so the activity is not on the critical path."
+          "Earliest start times, latest start times, and calculating the float of each activity."
         ]
       }
     },
@@ -1822,12 +1643,9 @@
       "card": {
         "key": "general-maths-34:4.14",
         "title": "Critical path analysis",
-        "front": "Explain what the critical path represents in a project network, how it is identified, and why a manager would monitor it closely.",
+        "front": "Critical path analysis",
         "back": [
-          "It is the longest path through the network, and so sets the minimum project completion time.",
-          "Identified by forward and backward scanning — activities with zero float are on it.",
-          "Any delay to a critical activity delays the whole project by the same amount.",
-          "Non-critical activities have float and can slip without affecting the finish date."
+          "Identifying the critical path, the minimum completion time, and which activities have no float."
         ]
       }
     },
@@ -1851,12 +1669,9 @@
       "card": {
         "key": "general-maths-34:4.15",
         "title": "Crashing",
-        "front": "A project has critical path A–C–E of 13 days and a second path B–D–E of 12 days. Activity C is crashed by 3 days. Determine the new minimum completion time.",
+        "front": "Crashing",
         "back": [
-          "Crashing C by 3 reduces A–C–E from 13 to 10 days.",
-          "B–D–E is unaffected and remains 12 days.",
-          "The critical path has shifted to B–D–E, so the new completion time is 12 days.",
-          "Crashing beyond the point where another path becomes critical gains nothing."
+          "Reducing activity durations at a cost, and recognising when the critical path shifts to a different sequence."
         ]
       }
     },
@@ -1880,12 +1695,9 @@
       "card": {
         "key": "general-maths-34:5.1",
         "title": "Modelling in context",
-        "front": "A student models a population with a recurrence relation assuming a constant growth rate. State two assumptions this model makes and one limitation that follows.",
+        "front": "Modelling in context",
         "back": [
-          "Assumes the growth rate stays constant over every period modelled.",
-          "Assumes no external shocks — no migration, disease or resource limit.",
-          "Limitation: predictions become unreliable over long time spans as conditions change.",
-          "Stating assumptions is part of the modelling process, not an optional extra."
+          "Selecting a standard model for a practical situation, and stating the assumptions and conditions it relies on."
         ]
       }
     },
@@ -1909,12 +1721,9 @@
       "card": {
         "key": "general-maths-34:5.2",
         "title": "Computational thinking and algorithms",
-        "front": "An algorithm is: set total to 0; for each value in the list, if the value is above 50, add it to total; report total. State what the algorithm computes and identify the decision and repetition steps.",
+        "front": "Computational thinking and algorithms",
         "back": [
-          "It computes the sum of all values greater than 50.",
-          "Repetition: 'for each value in the list' — the loop.",
-          "Decision: 'if the value is above 50' — the conditional.",
-          "Sequencing, decision and repetition are the three building blocks of any algorithm."
+          "Abstraction, decomposition, pattern and algorithm applied to problem-solving, and following an algorithm step by step."
         ]
       }
     },
@@ -1938,12 +1747,9 @@
       "card": {
         "key": "general-maths-34:5.3",
         "title": "Exact versus approximate results",
-        "front": "A finance solver returns a repayment of 486.3271. State how this should be reported for a monthly loan repayment and explain why.",
+        "front": "Exact versus approximate results",
         "back": [
-          "Report as $486.33, rounded UP to the nearest cent.",
-          "Money is quoted to two decimal places.",
-          "For a repayment that must clear a loan, rounding down would leave a small balance outstanding.",
-          "Always check whether the question specifies rounding — if it does, follow it exactly."
+          "Knowing which form your technology has given you, and rounding to a stated number of decimal places or significant figures."
         ]
       }
     },
@@ -1967,12 +1773,9 @@
       "card": {
         "key": "general-maths-34:5.4",
         "title": "Using technology well",
-        "front": "A student enters PV = −20000 and PMT = −400 into a finance solver for a loan and gets an impossible answer. Explain the error and give the correct sign convention.",
+        "front": "Using technology well",
         "back": [
-          "Both values have the same sign, which the solver interprets as money flowing the same direction.",
-          "Convention: money received is positive, money paid out is negative.",
-          "For a loan you receive the principal, so PV = +20000, and you pay the repayments, so PMT = −400.",
-          "Always check the answer is plausible before using it."
+          "The finance solver, statistics and regression functions, and matrix operations — choosing the right one and verifying the output rather than trusting it."
         ]
       }
     },
@@ -1996,12 +1799,9 @@
       "card": {
         "key": "general-maths-34:5.5",
         "title": "Interpreting and reporting results",
-        "front": "A student reports 'the answer is 13'. Explain what is missing and rewrite it for a project network question about completion time.",
+        "front": "Interpreting and reporting results",
         "back": [
-          "No units, no context, and no indication of what the number measures.",
-          "Rewritten: 'The minimum completion time for the project is 13 days.'",
-          "State the quantity, the value and the unit, in the context of the question.",
-          "Where relevant, comment on whether the answer is reasonable."
+          "Reporting an answer in the context of the problem, with units, and discussing the limitations of the model used."
         ]
       }
     }

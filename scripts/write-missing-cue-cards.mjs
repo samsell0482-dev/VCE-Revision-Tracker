@@ -1,10 +1,12 @@
-// Generates or refreshes each cue card from the point's first exam-style
-// practice question. Refreshing existing cards keeps keys, titles and answers
-// aligned when a curriculum checkpoint is renamed or moved.
+// Generates or refreshes each cue card from its study-design checkpoint.
+// The point title is the term or concept to recall and the authored detail is
+// the subject-specific definition or key knowledge. Practice questions stay
+// separate so the cue-card deck teaches content instead of repeating the quiz.
 import {readdir,readFile,writeFile} from 'node:fs/promises';
 
 const dir=new URL('../src/subjects/',import.meta.url);
 const files=(await readdir(dir)).filter(file=>file.endsWith('.json')).sort();
+const instructionStart=/^(?:explain|describe|identify|compare|evaluate|analyse|discuss|outline|distinguish|apply|use|calculate|construct|interpret|investigate|know|understand)\b/i;
 let cardsAdded=0;
 let subjectsUpdated=0;
 
@@ -14,16 +16,22 @@ for(const file of files){
  let changed=false;
 
  for(const point of subject.points){
+  if(!point.title?.trim()||!point.detail?.trim()){
+   throw new Error(`${subject.name} ${point.id} needs a study-design concept and definition before a cue card can be written`);
+  }
   const question=point.questions?.[0];
-  if(!question?.q||!Array.isArray(question.answer)||question.answer.length===0){
-   throw new Error(`${subject.name} ${point.id} needs a complete question and answer before a cue card can be written`);
+  const back=instructionStart.test(point.detail)
+   ?question?.answer?.filter(line=>typeof line==='string'&&line.trim())
+   :[point.detail];
+  if(!back?.length){
+   throw new Error(`${subject.name} ${point.id} needs authored key knowledge for its definition card`);
   }
 
   const card={
    key:`${subject.id}:${point.id}`,
    title:point.title,
-   front:question.q,
-   back:[...question.answer]
+   front:point.title,
+   back
   };
   if(JSON.stringify(point.card)!==JSON.stringify(card)){
    point.card=card;

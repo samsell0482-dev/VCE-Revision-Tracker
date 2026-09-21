@@ -47,12 +47,9 @@
       "card": {
         "key": "chemistry-34:S1",
         "title": "Aims, hypotheses and variables",
-        "front": "A student investigates how the concentration of hydrochloric acid affects the rate of reaction with magnesium ribbon. Write a hypothesis and identify all three variable types.",
+        "front": "Aims, hypotheses and variables",
         "back": [
-          "Hypothesis: as the concentration of hydrochloric acid increases, the rate of reaction with magnesium will increase.",
-          "Independent variable: concentration of hydrochloric acid.",
-          "Dependent variable: rate of reaction, for example volume of hydrogen collected per unit time.",
-          "Controlled variables include temperature, surface area and mass of magnesium, and volume of acid."
+          "Writing a research question and a testable hypothesis; identifying the independent, dependent and controlled variables in a chemical investigation."
         ]
       }
     },
@@ -75,11 +72,9 @@
       "card": {
         "key": "chemistry-34:S2",
         "title": "Accuracy, precision and validity",
-        "front": "Three titrations give concordant titres that are all 0.40 mL higher than the true value. Describe the accuracy and precision and identify the likely cause.",
+        "front": "Accuracy, precision and validity",
         "back": [
-          "The results are precise because the titres agree closely with one another.",
-          "They are not accurate because all results are displaced from the true value in the same direction.",
-          "This pattern indicates a systematic error, such as a burette that was not rinsed with the titrant or an incorrectly standardised solution."
+          "Distinguishing accuracy from precision; repeatability and reproducibility; validity of a method and of a conclusion; the role of a standard or known sample."
         ]
       }
     },
@@ -102,11 +97,9 @@
       "card": {
         "key": "chemistry-34:S3",
         "title": "Uncertainty, significant figures and errors",
-        "front": "A mass of 2.50 g is dissolved in 250.0 mL of solution. State how many significant figures the calculated concentration should be reported to and justify your answer.",
+        "front": "Uncertainty, significant figures and errors",
         "back": [
-          "The answer should be reported to three significant figures.",
-          "In multiplication and division the result carries the same number of significant figures as the least precise measurement.",
-          "The mass 2.50 g has three significant figures, which is fewer than the four in 250.0 mL."
+          "Recording measurements to the precision of the instrument, propagating uncertainty through calculations, expressing answers to an appropriate number of significant figures, and classifying random, systematic and personal errors."
         ]
       }
     },
@@ -129,11 +122,9 @@
       "card": {
         "key": "chemistry-34:S4",
         "title": "Using the data book and chemical conventions",
-        "front": "State two conventions that must be followed when writing a thermochemical equation, and explain why each matters.",
+        "front": "Using the data book and chemical conventions",
         "back": [
-          "State symbols must be included, because the enthalpy change depends on whether reactants and products are solid, liquid, gas or aqueous.",
-          "The enthalpy change must be quoted with a sign and with units of kJ per mole for the equation as written.",
-          "Doubling the coefficients doubles the enthalpy change, so the equation and the value must match."
+          "Locating standard electrode potentials, molar masses, enthalpy data and spectroscopic tables; using correct state symbols, formulae and units throughout working."
         ]
       }
     },
@@ -156,11 +147,9 @@
       "card": {
         "key": "chemistry-34:3.1.1",
         "title": "Renewable and non-renewable fuels",
-        "front": "Compare biodiesel with petrodiesel in terms of renewability and net carbon dioxide emissions.",
+        "front": "Renewable and non-renewable fuels",
         "back": [
-          "Biodiesel is renewable because it is produced from plant or animal oils that can be regrown within a human timescale.",
-          "Petrodiesel is non-renewable because crude oil formed over millions of years and is consumed far faster than it forms.",
-          "Biodiesel has a lower net carbon dioxide output because the crops absorb carbon dioxide during growth, although production and transport still release some."
+          "Classifying fossil fuels, biofuels and other energy sources as renewable or non-renewable; comparing them on availability, greenhouse emissions and energy density."
         ]
       }
     },
@@ -183,11 +172,9 @@
       "card": {
         "key": "chemistry-34:3.1.2",
         "title": "Complete and incomplete combustion",
-        "front": "Write a balanced equation for the incomplete combustion of octane producing carbon monoxide only, and state one hazard of incomplete combustion.",
+        "front": "Complete and incomplete combustion",
         "back": [
-          "2 C8H18(l) + 17 O2(g) produces 16 CO(g) + 18 H2O(g).",
-          "Incomplete combustion releases less energy per mole of fuel than complete combustion.",
-          "Carbon monoxide is toxic because it binds irreversibly to haemoglobin, reducing oxygen transport, and soot particulates cause respiratory harm."
+          "Writing balanced equations for complete and incomplete combustion of hydrocarbons and alcohols; the products formed and the consequences of incomplete combustion."
         ]
       }
     },
@@ -210,11 +197,9 @@
       "card": {
         "key": "chemistry-34:3.1.3",
         "title": "Thermochemical equations and enthalpy",
-        "front": "The combustion of one mole of methane releases 890 kJ. Write the thermochemical equation and state the enthalpy change when 0.25 mol is burned.",
+        "front": "Thermochemical equations and enthalpy",
         "back": [
-          "CH4(g) + 2 O2(g) produces CO2(g) + 2 H2O(l), with an enthalpy change of negative 890 kJ per mole.",
-          "Burning 0.25 mol releases 0.25 multiplied by 890, which is 222.5 kJ.",
-          "The enthalpy change is negative 222.5 kJ because the reaction is exothermic."
+          "Exothermic and endothermic reactions, the sign convention for enthalpy change, and scaling enthalpy with the coefficients of the equation."
         ]
       }
     },
@@ -237,11 +222,9 @@
       "card": {
         "key": "chemistry-34:3.1.4",
         "title": "Energy profile diagrams and catalysts",
-        "front": "Sketch in words how an energy profile diagram changes when a catalyst is added to an exothermic reaction, and explain the effect on the enthalpy change.",
+        "front": "Energy profile diagrams and catalysts",
         "back": [
-          "A second, lower curve appears with a smaller activation energy hump, representing the alternative reaction pathway.",
-          "The energy levels of the reactants and products are unchanged.",
-          "The enthalpy change is therefore unchanged, because it depends only on the difference between reactant and product energies."
+          "Labelling reactants, products, activation energy, the activated complex and the enthalpy change; the effect of a catalyst on the activation energy but not the enthalpy change."
         ]
       }
     },
@@ -264,11 +247,9 @@
       "card": {
         "key": "chemistry-34:3.1.5",
         "title": "Energy density and calculations",
-        "front": "Ethanol releases 1364 kJ per mole on complete combustion. Calculate its energy density in kJ per gram and comment on how it compares with octane at about 48 kJ per gram.",
+        "front": "Energy density and calculations",
         "back": [
-          "The molar mass of ethanol, C2H5OH, is 46.0 g per mole.",
-          "Energy density is 1364 divided by 46.0, which is 29.7 kJ per gram.",
-          "Ethanol has a lower energy density than octane because the carbon in ethanol is already partly oxidised, so less energy is released per gram."
+          "Calculating the energy released per gram or per litre of a fuel, and comparing fuels on both an energy density and a mass or volume basis."
         ]
       }
     },
@@ -291,11 +272,9 @@
       "card": {
         "key": "chemistry-34:3.1.6",
         "title": "Calorimetry and calibration",
-        "front": "Explain why a bomb calorimeter is calibrated before use and describe how a calibration factor is determined electrically.",
+        "front": "Calorimetry and calibration",
         "back": [
-          "Calibration determines how much energy is required to raise the calorimeter temperature by one degree Celsius, since heat is absorbed by the whole apparatus, not just the water.",
-          "A known electrical energy is supplied by passing a measured current at a measured voltage for a measured time, and the temperature rise is recorded.",
-          "The calibration factor is the electrical energy supplied divided by the temperature change, in joules per degree Celsius."
+          "Solution calorimetry and bomb calorimetry, the calibration factor determined electrically or from a known reaction, and the calculation of energy released by a sample."
         ]
       }
     },
@@ -318,11 +297,9 @@
       "card": {
         "key": "chemistry-34:3.1.7",
         "title": "Sources of error in calorimetry",
-        "front": "A solution calorimetry experiment gives an enthalpy of combustion lower in magnitude than the accepted value. Give two reasons and classify the type of error.",
+        "front": "Sources of error in calorimetry",
         "back": [
-          "Heat is lost to the surroundings rather than being transferred to the water, so the measured temperature rise is too small.",
-          "Incomplete combustion means less energy is released per mole of fuel burned.",
-          "Both are systematic errors, because they shift every result in the same direction; insulating the apparatus and ensuring adequate oxygen would reduce them."
+          "Heat loss to the surroundings, incomplete combustion, evaporation and the effect of each on the calculated enthalpy change; improvements to reduce error."
         ]
       }
     },
@@ -345,11 +322,9 @@
       "card": {
         "key": "chemistry-34:3.1.8",
         "title": "Oxidation numbers and redox",
-        "front": "In the reaction between zinc metal and copper(II) ions, identify what is oxidised, what is reduced and name the oxidising agent.",
+        "front": "Oxidation numbers and redox",
         "back": [
-          "Zinc is oxidised, as its oxidation number rises from 0 to positive 2 and it loses two electrons.",
-          "Copper(II) ions are reduced, as the oxidation number falls from positive 2 to 0.",
-          "The copper(II) ion is the oxidising agent because it accepts electrons and is itself reduced."
+          "Assigning oxidation numbers, identifying the species oxidised and reduced, and naming the oxidising and reducing agents in a redox reaction."
         ]
       }
     },
@@ -372,11 +347,9 @@
       "card": {
         "key": "chemistry-34:3.1.9",
         "title": "Writing and balancing half-equations",
-        "front": "Balance the half-equation for the reduction of the permanganate ion to the manganese(II) ion in acidic solution.",
+        "front": "Writing and balancing half-equations",
         "back": [
-          "Balance manganese first: MnO4 minus becomes Mn 2 plus.",
-          "Balance oxygen with water and hydrogen with hydrogen ions: MnO4 minus plus 8 H plus gives Mn 2 plus plus 4 H2O.",
-          "Balance charge with electrons: MnO4 minus plus 8 H plus plus 5 electrons gives Mn 2 plus plus 4 H2O."
+          "Balancing half-equations in acidic conditions using water, hydrogen ions and electrons, and combining half-equations so that electrons cancel."
         ]
       }
     },
@@ -400,12 +373,9 @@
       "card": {
         "key": "chemistry-34:3.1.10",
         "title": "Galvanic cell structure and operation",
-        "front": "Describe the role of the salt bridge in a galvanic cell and state the direction in which each type of ion moves.",
+        "front": "Galvanic cell structure and operation",
         "back": [
-          "The salt bridge completes the circuit by allowing ions to move between the two half-cells.",
-          "It maintains electrical neutrality, because the anode half-cell accumulates positive charge and the cathode half-cell accumulates negative charge.",
-          "Anions move through the bridge towards the anode half-cell, and cations move towards the cathode half-cell.",
-          "Without it, charge build-up would stop electron flow almost immediately."
+          "Anode, cathode, electrolytes, salt bridge and external circuit; the direction of electron and ion flow; polarity of each electrode."
         ]
       }
     },
@@ -428,11 +398,9 @@
       "card": {
         "key": "chemistry-34:3.1.11",
         "title": "The electrochemical series and cell voltage",
-        "front": "Using standard electrode potentials, explain how to determine which half-cell is the anode and calculate the cell voltage.",
+        "front": "The electrochemical series and cell voltage",
         "back": [
-          "The half-cell with the more negative standard electrode potential undergoes oxidation and is the anode.",
-          "The half-cell with the more positive potential undergoes reduction and is the cathode.",
-          "The cell voltage is the reduction potential of the cathode minus the reduction potential of the anode, and a positive value indicates a spontaneous reaction."
+          "Using standard electrode potentials to predict the spontaneous direction of a redox reaction and to calculate the maximum cell voltage under standard conditions."
         ]
       }
     },
@@ -455,11 +423,9 @@
       "card": {
         "key": "chemistry-34:3.1.12",
         "title": "Limitations of the electrochemical series",
-        "front": "A predicted spontaneous reaction does not occur at a measurable rate. Explain why the electrochemical series may fail to predict what happens in practice.",
+        "front": "Limitations of the electrochemical series",
         "back": [
-          "The electrochemical series predicts whether a reaction is thermodynamically favourable, not how fast it occurs.",
-          "The values apply only at standard conditions of 1 molar solutions, 100 kPa and 25 degrees Celsius; different conditions change the potentials.",
-          "Surface coatings, passivation or the presence of alternative reactions such as water being oxidised may also alter the outcome."
+          "Why predictions may fail: non-standard concentrations and temperature, the state of the electrode surface, competing reactions and reaction rate."
         ]
       }
     },
@@ -482,11 +448,9 @@
       "card": {
         "key": "chemistry-34:3.1.13",
         "title": "Primary, secondary and fuel cells",
-        "front": "Distinguish between a primary cell, a secondary cell and a fuel cell.",
+        "front": "Primary, secondary and fuel cells",
         "back": [
-          "A primary cell is not rechargeable, because the products are unable to be converted back to reactants by applying a voltage.",
-          "A secondary cell is rechargeable, as the electrode reactions can be reversed by an applied external voltage.",
-          "A fuel cell is continuously supplied with reactants from an external source, so it does not run down provided the fuel supply continues."
+          "Comparing single-use, rechargeable and continuously fed cells on reversibility, lifetime and application; the structure of a hydrogen fuel cell."
         ]
       }
     },
@@ -510,12 +474,9 @@
       "card": {
         "key": "chemistry-34:3.1.14",
         "title": "Hydrogen fuel cells",
-        "front": "Write the half-equations and overall equation for an acidic hydrogen-oxygen fuel cell, and state one advantage over a petrol engine.",
+        "front": "Hydrogen fuel cells",
         "back": [
-          "Anode: H2(g) gives 2 H plus plus 2 electrons.",
-          "Cathode: O2(g) plus 4 H plus plus 4 electrons gives 2 H2O(l).",
-          "Overall: 2 H2(g) plus O2(g) gives 2 H2O(l).",
-          "An advantage is higher energy efficiency, because chemical energy is converted directly to electrical energy without the thermal losses of a heat engine, and the only product is water."
+          "Half-equations in acidic and alkaline electrolytes, the overall reaction, and the advantages and disadvantages compared with combustion of fossil fuels."
         ]
       }
     },
@@ -538,11 +499,9 @@
       "card": {
         "key": "chemistry-34:3.1.15",
         "title": "Faraday's laws and electrochemical calculations",
-        "front": "A current of 2.00 A is passed for 30.0 minutes through a cell depositing copper from copper(II) ions. Calculate the mass of copper deposited.",
+        "front": "Faraday's laws and electrochemical calculations",
         "back": [
-          "Charge equals 2.00 multiplied by 1800 seconds, which is 3600 C.",
-          "Moles of electrons equals 3600 divided by 96500, which is 0.0373 mol; the half-equation requires 2 electrons per copper, so moles of copper is 0.01865 mol.",
-          "Mass equals 0.01865 multiplied by 63.5, which is 1.18 g."
+          "Using charge equals current multiplied by time, the Faraday constant and the mole ratio in a half-equation to calculate the mass of product or the time required."
         ]
       }
     },
@@ -565,11 +524,9 @@
       "card": {
         "key": "chemistry-34:3.2.1",
         "title": "Collision theory and rate",
-        "front": "Using collision theory, explain why not every collision between reactant particles results in a reaction.",
+        "front": "Collision theory and rate",
         "back": [
-          "Particles must collide with energy equal to or greater than the activation energy to break the existing bonds.",
-          "Particles must also collide with the correct orientation so that the reacting parts of the molecules meet.",
-          "Collisions failing either condition are unsuccessful and the particles simply rebound."
+          "Successful collisions requiring sufficient energy and correct orientation; the relationship between the frequency of successful collisions and reaction rate."
         ]
       }
     },
@@ -592,11 +549,9 @@
       "card": {
         "key": "chemistry-34:3.2.2",
         "title": "Factors affecting reaction rate",
-        "front": "Explain in terms of collision theory why a small increase in temperature can produce a large increase in reaction rate.",
+        "front": "Factors affecting reaction rate",
         "back": [
-          "Increasing temperature increases the average kinetic energy, so particles move faster and collide more frequently.",
-          "More importantly, a much greater proportion of particles now has energy exceeding the activation energy.",
-          "The number of successful collisions per second therefore rises sharply, which has a larger effect than collision frequency alone."
+          "Temperature, concentration, pressure, surface area and catalysts explained in terms of collision frequency and the proportion of particles with sufficient energy."
         ]
       }
     },
@@ -619,11 +574,9 @@
       "card": {
         "key": "chemistry-34:3.2.3",
         "title": "Maxwell-Boltzmann distributions",
-        "front": "Describe how a Maxwell-Boltzmann distribution curve changes when the temperature is raised, and what this shows about reaction rate.",
+        "front": "Maxwell-Boltzmann distributions",
         "back": [
-          "The peak of the curve becomes lower and shifts to the right, towards higher energies.",
-          "The total area under the curve is unchanged because the number of particles is unchanged.",
-          "A larger area lies beyond the activation energy, showing that a greater proportion of particles can react, so the rate increases."
+          "Interpreting the distribution of particle energies, the shift with temperature, and the shaded region beyond the activation energy with and without a catalyst."
         ]
       }
     },
@@ -646,11 +599,9 @@
       "card": {
         "key": "chemistry-34:3.2.4",
         "title": "Catalysts and reaction pathways",
-        "front": "Explain why adding a catalyst increases the rate of both the forward and the reverse reaction equally, and state the effect on the equilibrium position.",
+        "front": "Catalysts and reaction pathways",
         "back": [
-          "A catalyst lowers the activation energy of the forward and reverse reactions by the same amount, because it provides one alternative pathway.",
-          "Both rates therefore increase by the same factor.",
-          "Equilibrium is reached sooner but the equilibrium position and the value of the equilibrium constant are unchanged."
+          "How a catalyst provides an alternative pathway of lower activation energy, the difference between homogeneous and heterogeneous catalysts, and why a catalyst is not consumed."
         ]
       }
     },
@@ -673,11 +624,9 @@
       "card": {
         "key": "chemistry-34:3.2.5",
         "title": "Dynamic equilibrium",
-        "front": "Explain what is meant by dynamic equilibrium and state two observations consistent with a system being at equilibrium.",
+        "front": "Dynamic equilibrium",
         "back": [
-          "Dynamic equilibrium occurs in a closed system when the rate of the forward reaction equals the rate of the reverse reaction.",
-          "Reactions continue at the molecular level, but the concentrations of all species remain constant.",
-          "Observations include a constant colour intensity and a constant pressure or concentration over time."
+          "The characteristics of dynamic equilibrium in a closed system: equal forward and reverse rates, constant macroscopic properties and continuing molecular change."
         ]
       }
     },
@@ -700,11 +649,9 @@
       "card": {
         "key": "chemistry-34:3.2.6",
         "title": "The equilibrium constant",
-        "front": "For a reaction, K equals 1.0 times 10 to the power of negative 5 at 500 K. State what this indicates and how K changes if the equation is reversed.",
+        "front": "The equilibrium constant",
         "back": [
-          "A very small K indicates that at equilibrium the mixture consists mainly of reactants, so the reaction proceeds only to a small extent.",
-          "Reversing the equation gives an equilibrium constant equal to the reciprocal, which is 1.0 times 10 to the power of 5.",
-          "K changes only with temperature, not with concentration, pressure or the presence of a catalyst."
+          "Writing an expression for the equilibrium constant, the effect of changing the equation, units, and what the magnitude of the constant indicates about the extent of reaction."
         ]
       }
     },
@@ -727,11 +674,9 @@
       "card": {
         "key": "chemistry-34:3.2.7",
         "title": "Le Chatelier's principle",
-        "front": "For an exothermic gaseous reaction with fewer moles of gas on the product side, predict and explain the effect of increasing the temperature.",
+        "front": "Le Chatelier's principle",
         "back": [
-          "Increasing temperature favours the endothermic direction, which here is the reverse reaction.",
-          "The equilibrium position shifts to the left, so the yield of product decreases.",
-          "The equilibrium constant also decreases, because K changes with temperature."
+          "Predicting the effect of changes in concentration, pressure, volume and temperature on the equilibrium position, and explaining the direction of the net change."
         ]
       }
     },
@@ -754,11 +699,9 @@
       "card": {
         "key": "chemistry-34:3.2.8",
         "title": "Concentration-time and rate graphs",
-        "front": "Describe how the concentration-time graph differs when equilibrium is disturbed by adding more reactant compared with raising the temperature.",
+        "front": "Concentration-time and rate graphs",
         "back": [
-          "Adding reactant produces an immediate vertical jump in that species only, followed by a gradual curve as the system re-establishes equilibrium.",
-          "Raising the temperature produces no instantaneous jump; all concentrations change gradually as both rates increase.",
-          "A temperature change also alters the value of K, whereas a concentration change does not."
+          "Interpreting the shape of concentration-time graphs after a disturbance, including the instantaneous jump for a concentration change and the gradual change for temperature."
         ]
       }
     },
@@ -782,12 +725,9 @@
       "card": {
         "key": "chemistry-34:3.2.9",
         "title": "Yield, rate and industrial compromise",
-        "front": "Ammonia synthesis is exothermic and produces fewer moles of gas. Explain the compromise conditions used industrially.",
+        "front": "Yield, rate and industrial compromise",
         "back": [
-          "A low temperature would favour a higher equilibrium yield because the forward reaction is exothermic.",
-          "However, a low temperature gives an unacceptably slow rate, so a moderate temperature of around 400 to 500 degrees Celsius is used with a catalyst.",
-          "High pressure favours the side with fewer moles of gas, increasing yield and rate, so high pressure is used.",
-          "Pressure is limited by the cost and safety of the equipment, and unreacted gases are recycled."
+          "Balancing the conditions that maximise yield against those that maximise rate and minimise cost, illustrated by an industrial process such as ammonia synthesis."
         ]
       }
     },
@@ -810,11 +750,9 @@
       "card": {
         "key": "chemistry-34:3.2.10",
         "title": "Electrolytic cells",
-        "front": "Compare a galvanic cell with an electrolytic cell in terms of energy conversion, spontaneity and electrode polarity.",
+        "front": "Electrolytic cells",
         "back": [
-          "A galvanic cell converts chemical energy into electrical energy through a spontaneous reaction; an electrolytic cell converts electrical energy into chemical energy and drives a non-spontaneous reaction.",
-          "In both, oxidation occurs at the anode and reduction at the cathode.",
-          "In a galvanic cell the anode is negative and the cathode positive; in an electrolytic cell the anode is positive and the cathode negative."
+          "Structure of an electrolytic cell, the polarity of the electrodes, the direction of electron flow and the conversion of electrical energy into chemical energy."
         ]
       }
     },
@@ -837,11 +775,9 @@
       "card": {
         "key": "chemistry-34:3.2.11",
         "title": "Predicting electrolysis products",
-        "front": "Explain how to predict the products when a dilute aqueous solution of sodium chloride is electrolysed with inert electrodes.",
+        "front": "Predicting electrolysis products",
         "back": [
-          "List all species present, including water, sodium ions and chloride ions.",
-          "At the cathode the strongest oxidising agent is reduced; water is reduced in preference to sodium ions, giving hydrogen gas.",
-          "At the anode the strongest reducing agent is oxidised; in dilute solution water is oxidised to oxygen, although at high chloride concentration chlorine may be produced instead."
+          "Using the electrochemical series to identify the strongest oxidising and reducing agents present, including water, and accounting for concentration and electrode material."
         ]
       }
     },
@@ -864,11 +800,9 @@
       "card": {
         "key": "chemistry-34:3.2.12",
         "title": "Commercial electrolysis and electroplating",
-        "front": "Describe how an iron object is electroplated with silver, naming the anode, cathode and electrolyte.",
+        "front": "Commercial electrolysis and electroplating",
         "back": [
-          "The iron object is made the cathode so that silver ions are reduced onto its surface.",
-          "A bar of pure silver is the anode, which is oxidised to replace the silver ions removed from solution.",
-          "The electrolyte is a solution containing silver ions, and a low current gives a thin, even, adherent coating."
+          "Electroplating and electrorefining, the choice of electrolyte and electrodes, and the use of electrolysis in producing reactive metals."
         ]
       }
     },
@@ -891,11 +825,9 @@
       "card": {
         "key": "chemistry-34:3.2.13",
         "title": "Rechargeable cells",
-        "front": "Explain the conditions a cell must meet to be rechargeable and state which electrode is connected to the positive terminal during recharging.",
+        "front": "Rechargeable cells",
         "back": [
-          "The products of discharge must remain in contact with the electrodes rather than dispersing or changing state.",
-          "The electrode reactions must be readily reversible without competing side reactions.",
-          "During recharging the cell acts as an electrolytic cell, so the electrode that was the cathode on discharge becomes the anode and is connected to the positive terminal of the power supply."
+          "The reversal of electrode reactions during recharging, the conditions required for a cell to be rechargeable, and the practical limits on cycle life."
         ]
       }
     },
@@ -917,10 +849,9 @@
       "card": {
         "key": "chemistry-34:4.1.1",
         "title": "Hydrocarbon families",
-        "front": "Distinguish between a saturated and an unsaturated hydrocarbon and describe a simple chemical test that distinguishes them.",
+        "front": "Hydrocarbon families",
         "back": [
-          "A saturated hydrocarbon contains only single carbon-carbon bonds, while an unsaturated hydrocarbon contains at least one double or triple bond.",
-          "Bromine water is decolourised rapidly by an unsaturated compound through an addition reaction, but not by a saturated one in the dark."
+          "Alkanes, alkenes and alkynes; saturated and unsaturated compounds; general formulae and the effect of a double or triple bond on reactivity."
         ]
       }
     },
@@ -943,11 +874,9 @@
       "card": {
         "key": "chemistry-34:4.1.2",
         "title": "Functional groups",
-        "front": "Identify the functional group present in a molecule containing a carbonyl carbon bonded to an OH group, and state two properties it confers.",
+        "front": "Functional groups",
         "back": [
-          "The functional group is a carboxyl group, so the compound is a carboxylic acid.",
-          "It is weakly acidic, donating a proton to form a carboxylate ion.",
-          "It forms hydrogen bonds, giving relatively high boiling points and appreciable solubility in water for short chains."
+          "Recognising haloalkanes, alcohols, aldehydes, ketones, carboxylic acids, esters, amines and amides from structural formulae, and the properties each group confers."
         ]
       }
     },
@@ -970,11 +899,9 @@
       "card": {
         "key": "chemistry-34:4.1.3",
         "title": "IUPAC nomenclature",
-        "front": "Explain the steps used to name a branched haloalkane systematically.",
+        "front": "IUPAC nomenclature",
         "back": [
-          "Identify the longest continuous carbon chain and name it as the parent alkane.",
-          "Number the chain from the end that gives the lowest set of locants to the substituents.",
-          "Name the substituents with their position numbers, list them alphabetically, and use di, tri and tetra prefixes for repeats without affecting alphabetical order."
+          "Naming straight-chain and branched compounds up to C8: identifying the longest chain containing the functional group, numbering to give the lowest locants, and alphabetising substituents."
         ]
       }
     },
@@ -997,11 +924,9 @@
       "card": {
         "key": "chemistry-34:4.1.4",
         "title": "Structural isomers",
-        "front": "Name the three types of structural isomerism and give an example of each for compounds with the formula C4H10O or C4H8.",
+        "front": "Structural isomers",
         "back": [
-          "Chain isomerism differs in the branching of the carbon skeleton, for example butan-1-ol and 2-methylpropan-1-ol.",
-          "Positional isomerism differs in the position of the functional group, for example butan-1-ol and butan-2-ol.",
-          "Functional group isomerism has different functional groups with the same molecular formula, for example butan-1-ol and diethyl ether."
+          "Chain, positional and functional group isomerism; drawing and identifying isomers of a given molecular formula."
         ]
       }
     },
@@ -1024,11 +949,9 @@
       "card": {
         "key": "chemistry-34:4.1.5",
         "title": "Stereoisomers",
-        "front": "Explain what makes a carbon atom chiral and why optical isomerism matters in pharmaceuticals.",
+        "front": "Stereoisomers",
         "back": [
-          "A chiral carbon is bonded to four different atoms or groups, so the molecule and its mirror image are not superimposable.",
-          "The two enantiomers have identical physical properties except for the direction in which they rotate plane-polarised light.",
-          "Biological receptors and enzymes are themselves chiral, so one enantiomer may be therapeutic while the other is inactive or harmful."
+          "Cis and trans isomerism about a carbon-carbon double bond, and optical isomerism arising from a chiral carbon bonded to four different groups."
         ]
       }
     },
@@ -1051,11 +974,9 @@
       "card": {
         "key": "chemistry-34:4.1.6",
         "title": "Intermolecular forces and physical properties",
-        "front": "Explain why propan-1-ol has a much higher boiling point than propane, despite similar molar masses.",
+        "front": "Intermolecular forces and physical properties",
         "back": [
-          "Propane is non-polar and experiences only dispersion forces between molecules.",
-          "Propan-1-ol contains an O-H bond, so molecules form hydrogen bonds with one another.",
-          "Hydrogen bonds are considerably stronger than dispersion forces, so more energy is needed to separate the molecules and the boiling point is higher."
+          "Dispersion forces, dipole-dipole attraction and hydrogen bonding; explaining trends in boiling point and solubility across and within homologous series."
         ]
       }
     },
@@ -1078,11 +999,9 @@
       "card": {
         "key": "chemistry-34:4.1.7",
         "title": "Solubility trends in homologous series",
-        "front": "Explain why methanol is completely miscible with water but hexan-1-ol is only slightly soluble.",
+        "front": "Solubility trends in homologous series",
         "back": [
-          "Both contain a hydroxyl group that forms hydrogen bonds with water.",
-          "In hexan-1-ol the long non-polar hydrocarbon chain dominates the molecule and cannot form favourable interactions with water.",
-          "Disrupting the hydrogen bonding of water is not compensated for, so solubility falls as chain length increases."
+          "The balance between a polar functional group and a non-polar hydrocarbon chain, and why solubility in water falls as chain length increases."
         ]
       }
     },
@@ -1105,11 +1024,9 @@
       "card": {
         "key": "chemistry-34:4.2.1",
         "title": "Substitution reactions of alkanes",
-        "front": "Write the equation for the reaction of ethane with chlorine in UV light and explain why a mixture of products forms.",
+        "front": "Substitution reactions of alkanes",
         "back": [
-          "C2H6 plus Cl2, in UV light, gives C2H5Cl plus HCl.",
-          "Further substitution can occur on the product, giving dichloroethane and more highly substituted compounds.",
-          "Substitution can also occur at different positions on longer chains, so a mixture rather than a single product is obtained."
+          "Halogenation of alkanes in the presence of UV light, the formation of a haloalkane and a hydrogen halide, and the production of a mixture of products."
         ]
       }
     },
@@ -1132,11 +1049,9 @@
       "card": {
         "key": "chemistry-34:4.2.2",
         "title": "Addition reactions of alkenes",
-        "front": "State the reagent and conditions needed to convert propene to propan-2-ol, and explain why this is an addition reaction.",
+        "front": "Addition reactions of alkenes",
         "back": [
-          "Water is added in the presence of a strong acid catalyst such as dilute sulfuric acid.",
-          "The carbon-carbon double bond opens and H and OH add across the two carbons.",
-          "No atoms are lost from the molecule, so all the atoms of both reactants appear in the single product, which is characteristic of addition."
+          "Addition of hydrogen, halogens, hydrogen halides and water across a double bond; the conditions required and the products formed."
         ]
       }
     },
@@ -1159,11 +1074,9 @@
       "card": {
         "key": "chemistry-34:4.2.3",
         "title": "Reactions of haloalkanes",
-        "front": "State the reagent and conditions used to convert 1-chlorobutane to butan-1-ol and classify the reaction type.",
+        "front": "Reactions of haloalkanes",
         "back": [
-          "Aqueous sodium hydroxide is used, with warming under reflux.",
-          "The hydroxide ion replaces the chlorine atom, which leaves as a chloride ion.",
-          "The reaction is a substitution reaction, specifically nucleophilic substitution."
+          "Substitution of a halogen by hydroxide to form an alcohol, and by ammonia or cyanide to extend a pathway; the conditions required."
         ]
       }
     },
@@ -1186,11 +1099,9 @@
       "card": {
         "key": "chemistry-34:4.2.4",
         "title": "Oxidation of alcohols",
-        "front": "Explain how the products of oxidation differ for primary, secondary and tertiary alcohols, naming a suitable oxidising agent.",
+        "front": "Oxidation of alcohols",
         "back": [
-          "Acidified potassium permanganate or acidified potassium dichromate is a suitable oxidising agent.",
-          "A primary alcohol is oxidised first to an aldehyde and then to a carboxylic acid; distillation can isolate the aldehyde.",
-          "A secondary alcohol is oxidised to a ketone, and a tertiary alcohol is not oxidised because the carbon bearing the OH group has no hydrogen atom attached."
+          "Primary alcohols oxidised to aldehydes then carboxylic acids, secondary alcohols to ketones, and tertiary alcohols resisting oxidation; the oxidising agents used."
         ]
       }
     },
@@ -1213,11 +1124,9 @@
       "card": {
         "key": "chemistry-34:4.2.5",
         "title": "Esterification and hydrolysis",
-        "front": "Write a word equation for the formation of ethyl ethanoate, state the catalyst required and explain why the yield is limited.",
+        "front": "Esterification and hydrolysis",
         "back": [
-          "Ethanoic acid plus ethanol gives ethyl ethanoate plus water.",
-          "Concentrated sulfuric acid is used as a catalyst and dehydrating agent, with heating under reflux.",
-          "The reaction is reversible and reaches equilibrium, so the yield is limited unless water is removed or one reactant is used in excess."
+          "Condensation of a carboxylic acid with an alcohol under acid catalysis to produce an ester and water, and the reverse hydrolysis reaction in acidic or basic conditions."
         ]
       }
     },
@@ -1241,12 +1150,9 @@
       "card": {
         "key": "chemistry-34:4.2.6",
         "title": "Constructing reaction pathways",
-        "front": "Outline a two-step pathway to convert ethene into ethyl ethanoate, naming the reagents at each step.",
+        "front": "Constructing reaction pathways",
         "back": [
-          "Step 1: react ethene with water using a dilute sulfuric acid catalyst to form ethanol by addition.",
-          "Step 2a: oxidise some of the ethanol with acidified permanganate or dichromate under reflux to give ethanoic acid.",
-          "Step 2b: react the remaining ethanol with the ethanoic acid using concentrated sulfuric acid to form ethyl ethanoate.",
-          "Each step must state both the reagent and the condition for full marks."
+          "Selecting a sequence of reactions to convert one organic compound to another, stating reagents and conditions at each step and identifying intermediates."
         ]
       }
     },
@@ -1269,11 +1175,9 @@
       "card": {
         "key": "chemistry-34:4.2.7",
         "title": "Green chemistry and yield",
-        "front": "Explain why an addition reaction has a higher atom economy than a substitution reaction, and define percentage yield.",
+        "front": "Green chemistry and yield",
         "back": [
-          "In an addition reaction, all atoms of the reactants end up in the single desired product, so the atom economy approaches 100 per cent.",
-          "In a substitution reaction, a by-product such as a hydrogen halide is formed, so some atoms are wasted.",
-          "Percentage yield is the actual mass of product obtained divided by the theoretical mass, multiplied by 100."
+          "Percentage yield and atom economy, why addition reactions have a higher atom economy than substitution, and strategies for reducing waste in organic synthesis."
         ]
       }
     },
@@ -1296,11 +1200,9 @@
       "card": {
         "key": "chemistry-34:4.3.1",
         "title": "Mass spectrometry",
-        "front": "A mass spectrum shows a molecular ion peak at m/z 74 and a strong fragment at m/z 59. Suggest what these indicate.",
+        "front": "Mass spectrometry",
         "back": [
-          "The molecular ion peak at 74 gives the molar mass of the compound as 74 grams per mole.",
-          "A loss of 15 mass units corresponds to the loss of a methyl group, so the molecule contains a CH3 group that fragments readily.",
-          "Combined with other evidence this is consistent with a compound such as butan-1-ol or methyl propanoate, which requires further spectra to distinguish."
+          "Interpreting the molecular ion peak to find molar mass, using fragmentation peaks to identify structural features, and recognising isotope patterns."
         ]
       }
     },
@@ -1323,11 +1225,9 @@
       "card": {
         "key": "chemistry-34:4.3.2",
         "title": "Infrared spectroscopy",
-        "front": "An infrared spectrum shows a broad band at about 3000 to 3500 per centimetre and a strong sharp band at about 1700 per centimetre. Identify the likely functional group.",
+        "front": "Infrared spectroscopy",
         "back": [
-          "The strong sharp band near 1700 per centimetre indicates a carbonyl C=O bond.",
-          "A very broad band in the 2500 to 3500 range alongside the carbonyl indicates an O-H of a carboxylic acid.",
-          "If the broad band were narrower and around 3200 to 3550 without a carbonyl, an alcohol would be indicated instead."
+          "Using characteristic absorption bands to identify functional groups, particularly O-H, N-H, C=O and C-H, and using the fingerprint region for identity confirmation."
         ]
       }
     },
@@ -1351,12 +1251,9 @@
       "card": {
         "key": "chemistry-34:4.3.3",
         "title": "Proton NMR spectroscopy",
-        "front": "A proton NMR spectrum shows a triplet and a quartet in the integration ratio 3 to 2. Deduce the fragment present and explain your reasoning.",
+        "front": "Proton NMR spectroscopy",
         "back": [
-          "Two signals means two different proton environments.",
-          "An integration ratio of 3 to 2 indicates three protons in one environment and two in the other, consistent with CH3 and CH2.",
-          "The n plus 1 rule means the CH3 signal is split into a triplet by two neighbouring protons, and the CH2 signal is split into a quartet by three.",
-          "The fragment is therefore an ethyl group, CH3CH2."
+          "Interpreting the number of signals, chemical shift, integration ratio and spin-spin splitting according to the n plus 1 rule."
         ]
       }
     },
@@ -1379,11 +1276,9 @@
       "card": {
         "key": "chemistry-34:4.3.4",
         "title": "Carbon-13 NMR spectroscopy",
-        "front": "Explain how a carbon-13 NMR spectrum can distinguish propan-1-ol from propan-2-ol.",
+        "front": "Carbon-13 NMR spectroscopy",
         "back": [
-          "Propan-1-ol has three different carbon environments, so it produces three signals.",
-          "Propan-2-ol is symmetrical about the central carbon, so the two methyl carbons are equivalent and it produces only two signals.",
-          "The number of signals therefore identifies which isomer is present."
+          "Counting distinct carbon environments from the number of signals, and using chemical shift ranges to identify carbon in particular environments."
         ]
       }
     },
@@ -1407,12 +1302,9 @@
       "card": {
         "key": "chemistry-34:4.3.5",
         "title": "Combining spectra to determine structure",
-        "front": "Describe the order in which you would use mass, infrared and NMR spectra to determine an unknown structure and what each contributes.",
+        "front": "Combining spectra to determine structure",
         "back": [
-          "Use the mass spectrum first to obtain the molar mass from the molecular ion and identify key fragments.",
-          "Use the infrared spectrum to identify the functional groups present, such as C=O, O-H or N-H.",
-          "Use carbon-13 NMR to count distinct carbon environments, then proton NMR with integration and splitting to determine how the hydrogens are arranged.",
-          "Finally, combine the evidence into a structure that is consistent with every spectrum."
+          "Using mass, infrared and NMR data together, in a logical order, to deduce a complete structural formula and justify each deduction."
         ]
       }
     },
@@ -1435,11 +1327,9 @@
       "card": {
         "key": "chemistry-34:4.3.6",
         "title": "Chromatography",
-        "front": "Explain how HPLC separates the components of a mixture and how it is used to determine the concentration of one component.",
+        "front": "Chromatography",
         "back": [
-          "Components partition between a liquid mobile phase and a solid stationary phase; those with greater affinity for the stationary phase move more slowly and have longer retention times.",
-          "Standards of known concentration are run to construct a calibration curve of peak area against concentration.",
-          "The peak area of the unknown is read off the calibration curve to obtain its concentration."
+          "Separation by differing affinities for the stationary and mobile phases, retention time and Rf values, and the use of calibration curves in HPLC for quantitative analysis."
         ]
       }
     },
@@ -1462,11 +1352,9 @@
       "card": {
         "key": "chemistry-34:4.3.7",
         "title": "Volumetric analysis",
-        "front": "State two properties required of a primary standard and explain why concordant titres are needed.",
+        "front": "Volumetric analysis",
         "back": [
-          "A primary standard must be of high purity, stable in air and not hygroscopic, with a known formula and preferably a high molar mass.",
-          "Its concentration can then be calculated accurately from the mass dissolved.",
-          "Concordant titres, usually within 0.10 mL, show that the results are precise, and averaging them reduces the effect of random error."
+          "Primary standards, standardisation, the role of aliquots and titres, concordant results, indicator choice and the calculation of concentration from a titration."
         ]
       }
     },
@@ -1489,11 +1377,9 @@
       "card": {
         "key": "chemistry-34:4.3.8",
         "title": "Redox and back titrations",
-        "front": "Explain the purpose of a back titration and the steps in the calculation.",
+        "front": "Redox and back titrations",
         "back": [
-          "A back titration is used when the analyte reacts slowly, is insoluble or would give an unclear endpoint in a direct titration.",
-          "A known excess of reagent is added and allowed to react completely, and the unreacted excess is then titrated.",
-          "Moles of reagent reacting with the analyte equal the moles added minus the moles found in the back titration, and the analyte amount follows from the mole ratio."
+          "Titrations using a redox indicator or self-indicating reagent, and back titration where an excess reagent is added and the unreacted portion determined."
         ]
       }
     },
@@ -1516,11 +1402,9 @@
       "card": {
         "key": "chemistry-34:4.4.1",
         "title": "Carbohydrates",
-        "front": "Explain why humans can digest starch but not cellulose, even though both are glucose polymers.",
+        "front": "Carbohydrates",
         "back": [
-          "Starch and cellulose differ in the type of glycosidic linkage between glucose units.",
-          "Human digestive enzymes have active sites complementary only to the linkage found in starch.",
-          "Cellulose therefore passes through undigested and acts as dietary fibre."
+          "Monosaccharides, disaccharides and polysaccharides; condensation polymerisation and hydrolysis; the difference between starch, glycogen and cellulose."
         ]
       }
     },
@@ -1543,11 +1427,9 @@
       "card": {
         "key": "chemistry-34:4.4.2",
         "title": "Proteins and amino acids",
-        "front": "Explain what a zwitterion is and how the charge on an amino acid changes as the pH is lowered below the isoelectric point.",
+        "front": "Proteins and amino acids",
         "back": [
-          "A zwitterion is a species carrying both a positive and a negative charge, with a protonated amino group and a deprotonated carboxyl group, and no overall charge.",
-          "Below the isoelectric point the higher concentration of hydrogen ions protonates the carboxylate group.",
-          "The amino acid then carries an overall positive charge."
+          "Amino acid structure, zwitterions and the effect of pH, condensation to form peptide bonds, and the primary to quaternary levels of protein structure."
         ]
       }
     },
@@ -1570,11 +1452,9 @@
       "card": {
         "key": "chemistry-34:4.4.3",
         "title": "Denaturation of proteins",
-        "front": "Explain how a change in pH denatures an enzyme and why the enzyme loses activity.",
+        "front": "Denaturation of proteins",
         "back": [
-          "Changing pH alters the protonation of the acidic and basic R groups in the protein chain.",
-          "Ionic interactions and hydrogen bonds maintaining the tertiary structure are disrupted, so the chain unfolds.",
-          "The active site loses its specific three-dimensional shape and is no longer complementary to the substrate, so catalysis stops."
+          "How heat, pH change and heavy metal ions disrupt the bonding that maintains secondary and tertiary structure, and the effect on function."
         ]
       }
     },
@@ -1597,11 +1477,9 @@
       "card": {
         "key": "chemistry-34:4.4.4",
         "title": "Enzymes as biological catalysts",
-        "front": "Describe the effect of increasing temperature on enzyme activity from 20 to 60 degrees Celsius, explaining the shape of the curve.",
+        "front": "Enzymes as biological catalysts",
         "back": [
-          "From 20 degrees the rate increases because particles collide more frequently and with greater energy.",
-          "The rate peaks at the optimum temperature, where the greatest number of substrate molecules is being converted.",
-          "Above the optimum the rate falls sharply because the enzyme denatures and the active site loses its shape."
+          "The active site and enzyme-substrate complex, the effect of temperature and pH on rate, and competitive and non-competitive inhibition."
         ]
       }
     },
@@ -1624,11 +1502,9 @@
       "card": {
         "key": "chemistry-34:4.4.5",
         "title": "Fats and oils",
-        "front": "Explain why an unsaturated fat is usually liquid at room temperature while a saturated fat is solid.",
+        "front": "Fats and oils",
         "back": [
-          "Saturated fatty acid chains are straight, so molecules pack closely together and experience strong dispersion forces.",
-          "Cis double bonds in unsaturated chains introduce kinks that prevent close packing.",
-          "Weaker dispersion forces between unsaturated molecules mean a lower melting point, so they are liquid at room temperature."
+          "Triglycerides formed by condensation of glycerol with fatty acids, saturated and unsaturated fatty acids, and the link between structure, melting point and health."
         ]
       }
     },
@@ -1651,11 +1527,9 @@
       "card": {
         "key": "chemistry-34:4.4.6",
         "title": "Vitamins and their solubility",
-        "front": "Explain, in terms of structure, why vitamin C is water soluble while vitamin A is fat soluble, and give one consequence.",
+        "front": "Vitamins and their solubility",
         "back": [
-          "Vitamin C contains several hydroxyl groups that hydrogen bond with water, whereas vitamin A is largely a non-polar hydrocarbon chain.",
-          "Water-soluble vitamins are not stored in the body and excess is excreted in urine, so a regular intake is needed.",
-          "Fat-soluble vitamins accumulate in fatty tissue, so excessive intake can become toxic."
+          "The distinction between water-soluble and fat-soluble vitamins based on molecular structure, and the consequences for storage and excess intake."
         ]
       }
     },
@@ -1678,11 +1552,9 @@
       "card": {
         "key": "chemistry-34:4.4.7",
         "title": "Energy content of food",
-        "front": "A 100 g serving contains 20.0 g protein, 5.0 g fat and 30.0 g carbohydrate. Using 17 kJ per gram for protein and carbohydrate and 37 kJ per gram for fat, calculate the energy content.",
+        "front": "Energy content of food",
         "back": [
-          "Protein: 20.0 multiplied by 17 equals 340 kJ, and carbohydrate: 30.0 multiplied by 17 equals 510 kJ.",
-          "Fat: 5.0 multiplied by 37 equals 185 kJ.",
-          "Total energy content is 340 plus 510 plus 185, which is 1035 kJ per 100 g."
+          "Calculating the energy available from carbohydrates, proteins and fats using their energy values, and comparing calculated with measured energy content."
         ]
       }
     },
@@ -1705,11 +1577,9 @@
       "card": {
         "key": "chemistry-34:4.4.8",
         "title": "Metabolism of food",
-        "front": "Explain the role of hydrolysis reactions in digestion and why these reactions are catalysed in the body.",
+        "front": "Metabolism of food",
         "back": [
-          "Hydrolysis breaks the bonds in large polymers by adding water, releasing monomers such as glucose and amino acids.",
-          "These smaller molecules can be absorbed through the intestinal wall and transported in the blood.",
-          "Uncatalysed hydrolysis is far too slow at body temperature, so enzymes lower the activation energy to give useful rates."
+          "Hydrolysis of macromolecules during digestion, the oxidation of glucose in cellular respiration, and the role of ATP in transferring energy."
         ]
       }
     },
@@ -1732,11 +1602,9 @@
       "card": {
         "key": "chemistry-34:I1",
         "title": "Designing a chemical investigation",
-        "front": "Outline three features a chemistry investigation method must include to produce valid and repeatable results.",
+        "front": "Designing a chemical investigation",
         "back": [
-          "All variables other than the independent variable must be controlled, so any change in the dependent variable can be attributed to the independent variable.",
-          "The method must be sufficiently detailed that another student could follow it exactly, supporting repeatability.",
-          "Multiple trials at each level of the independent variable must be specified so random error can be reduced by averaging."
+          "Developing a question and hypothesis within a designated topic, selecting a methodology, and planning a method with appropriate controls, replicates and safety measures."
         ]
       }
     },
@@ -1759,11 +1627,9 @@
       "card": {
         "key": "chemistry-34:I2",
         "title": "Risk assessment and safe handling",
-        "front": "State two pieces of information found in a safety data sheet and explain how each affects the design of a practical method.",
+        "front": "Risk assessment and safe handling",
         "back": [
-          "Hazard classification identifies whether a substance is corrosive, flammable or toxic, determining the protective equipment and handling procedures required.",
-          "Disposal information determines whether waste can be washed down the sink or must be collected for specialist disposal.",
-          "First aid measures also inform what must be available before the practical begins."
+          "Identifying hazards from safety data sheets, selecting appropriate personal protective equipment and disposal methods, and managing waste responsibly."
         ]
       }
     },
@@ -1786,11 +1652,9 @@
       "card": {
         "key": "chemistry-34:I3",
         "title": "Processing and presenting chemical data",
-        "front": "A student obtains one result that is far from the other four. Explain how this should be handled and reported.",
+        "front": "Processing and presenting chemical data",
         "back": [
-          "The value should be identified as a possible outlier and reported in the raw data rather than silently deleted.",
-          "It should only be excluded from the mean if there is a documented reason, such as a recorded procedural error in the logbook.",
-          "If no reason exists it should be retained, and its effect on the conclusion discussed as a limitation."
+          "Tabulating raw data with units, calculating means and excluding justified outliers, plotting graphs with a line of best fit and identifying the relationship shown."
         ]
       }
     },
@@ -1813,11 +1677,9 @@
       "card": {
         "key": "chemistry-34:I4",
         "title": "Drawing conclusions and evaluating",
-        "front": "Write the components of a strong conclusion for a chemistry investigation and state what does not belong in it.",
+        "front": "Drawing conclusions and evaluating",
         "back": [
-          "A statement of whether the data supported the hypothesis, referring to specific processed results such as a gradient or a mean.",
-          "A brief chemical explanation of why the relationship occurred.",
-          "New data, unsupported speculation and detailed evaluation of limitations belong in the discussion rather than the conclusion."
+          "Writing a conclusion that responds to the hypothesis using the data, and evaluating the accuracy, precision and validity of the method before suggesting improvements."
         ]
       }
     }

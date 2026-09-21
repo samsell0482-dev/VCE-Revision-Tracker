@@ -47,12 +47,9 @@
       "card": {
         "key": "biology-34:S1",
         "title": "Aims, questions, hypotheses and variables",
-        "front": "A student investigates the effect of temperature on the rate of an enzyme-catalysed reaction. Write a testable hypothesis and identify the independent and dependent variables.",
+        "front": "Aims, questions, hypotheses and variables",
         "back": [
-          "Hypothesis: as temperature increases towards the optimum, the rate of reaction will increase, then fall sharply above the optimum as the enzyme denatures.",
-          "Independent variable: temperature of the reaction mixture.",
-          "Dependent variable: rate of reaction, for example volume of product formed per minute.",
-          "A hypothesis must be a testable prediction about a relationship, not a restatement of the aim."
+          "Writing an aim and a research question; identifying independent, dependent and controlled variables; writing a hypothesis as a testable prediction that names the direction of the expected effect."
         ]
       }
     },
@@ -75,11 +72,9 @@
       "card": {
         "key": "biology-34:S2",
         "title": "Scientific methodologies",
-        "front": "Researchers compare lung cancer rates in smokers and non-smokers using existing hospital records. Name the methodology and explain why a causal claim cannot be made.",
+        "front": "Scientific methodologies",
         "back": [
-          "Methodology: a correlational study.",
-          "The independent variable was not manipulated by the researchers and participants were not randomly allocated.",
-          "Uncontrolled extraneous variables could explain the relationship, so only an association can be claimed."
+          "Distinguishing controlled experiment, correlational study, classification and identification, fieldwork, modelling, simulation, literature review, product or process development, and case study, and choosing the one that suits a question."
         ]
       }
     },
@@ -102,11 +97,9 @@
       "card": {
         "key": "biology-34:S3",
         "title": "Accuracy, precision, repeatability, reproducibility and validity",
-        "front": "Five readings of a solution's concentration cluster tightly but all sit well above the known value. Describe the precision and accuracy of these results, and suggest a likely cause.",
+        "front": "Accuracy, precision, repeatability, reproducibility and validity",
         "back": [
-          "The results are precise because the repeated readings are close to one another.",
-          "The results are not accurate because they are consistently far from the known true value.",
-          "A systematic error such as an uncalibrated instrument would produce this pattern."
+          "Accuracy is closeness to a true value; precision is how close repeated measurements are to each other; repeatability is the same team repeating the same method; reproducibility is a different team or method; validity is whether the investigation actually tests the hypothesis."
         ]
       }
     },
@@ -129,11 +122,9 @@
       "card": {
         "key": "biology-34:S4",
         "title": "Errors, outliers and uncertainty",
-        "front": "Explain why repeating a measurement many times reduces the effect of random error but not systematic error.",
+        "front": "Errors, outliers and uncertainty",
         "back": [
-          "Random errors vary unpredictably in size and direction, so they tend to cancel when many readings are averaged.",
-          "Systematic errors shift every reading in the same direction by a similar amount, so averaging preserves the shift.",
-          "Systematic error is addressed by calibrating or changing the instrument or method."
+          "Random errors scatter data and are reduced by repeat trials and averaging; systematic errors shift every reading in one direction and are reduced by calibration; personal errors are mistakes. Outliers are identified, reported and only excluded with justification."
         ]
       }
     },
@@ -156,11 +147,9 @@
       "card": {
         "key": "biology-34:S5",
         "title": "Controls, control groups and sample size",
-        "front": "Distinguish between a controlled variable and a control group, using an example from a plant growth experiment.",
+        "front": "Controls, control groups and sample size",
         "back": [
-          "A controlled variable is a factor kept constant across all groups, such as light intensity or pot size.",
-          "A control group is a group that does not receive the experimental treatment, such as plants given water with no fertiliser.",
-          "The control group provides the baseline that treated groups are compared against."
+          "The difference between a controlled variable and a control group; the purpose of a control group as a comparison; why larger samples and random allocation reduce the influence of individual variation."
         ]
       }
     },
@@ -183,11 +172,9 @@
       "card": {
         "key": "biology-34:S6",
         "title": "Presenting and analysing data",
-        "front": "A student measures oxygen produced by pondweed at six light intensities. State the graph type they should use and justify the choice.",
+        "front": "Presenting and analysing data",
         "back": [
-          "A line graph should be used.",
-          "Both light intensity and oxygen produced are continuous numerical variables, so intermediate values are meaningful.",
-          "Light intensity, the independent variable, goes on the horizontal axis."
+          "Choosing an appropriate table or graph; independent variable on the horizontal axis; using line graphs for continuous data and column graphs for discrete categories; describing trends, patterns and relationships rather than restating every value."
         ]
       }
     },
@@ -210,11 +197,9 @@
       "card": {
         "key": "biology-34:S7",
         "title": "Conclusions, limitations and evaluation",
-        "front": "A conclusion states that a drug 'cures' a disease after a trial on 12 people with no control group. Identify two problems and state how the conclusion should be qualified.",
+        "front": "Conclusions, limitations and evaluation",
         "back": [
-          "The sample size of 12 is too small to generalise to a population.",
-          "Without a control group there is no comparison, so improvement could be due to a placebo effect or natural recovery.",
-          "The conclusion should be limited to the sample tested and should describe an association rather than a cure."
+          "Writing a conclusion that refers to the hypothesis and the data, and evaluating limitations of the method, sample and measurement before suggesting improvements."
         ]
       }
     },
@@ -237,11 +222,9 @@
       "card": {
         "key": "biology-34:S8",
         "title": "Ethical concepts and ethical understandings",
-        "front": "A company wants to store DNA samples from a trial and reuse them in future unrelated research. Identify two ethical concepts at stake and explain how each applies.",
+        "front": "Ethical concepts and ethical understandings",
         "back": [
-          "Respect: participants' autonomy requires informed consent for each use of their genetic material, not blanket consent.",
-          "Non-maleficence: reuse could expose participants to harm such as discrimination or loss of privacy.",
-          "Integrity would also require the company to disclose honestly how the samples will be used and stored."
+          "Beneficence, integrity, justice, non-maleficence and respect, and how they apply to biological research involving humans, animals, tissue samples and genetic information."
         ]
       }
     },
@@ -264,11 +247,9 @@
       "card": {
         "key": "biology-34:3.1.1",
         "title": "Structure of DNA",
-        "front": "Describe the structure of a DNA molecule, referring to nucleotides, the bonding between strands and the orientation of the strands.",
+        "front": "Structure of DNA",
         "back": [
-          "Each nucleotide consists of a deoxyribose sugar, a phosphate group and one of four nitrogenous bases.",
-          "Nucleotides join by covalent bonds between the sugar of one and the phosphate of the next, forming a sugar-phosphate backbone.",
-          "The two strands are antiparallel and are held together by hydrogen bonds between complementary bases, A with T and G with C."
+          "Nucleotide subunits of deoxyribose, phosphate and a base; the antiparallel double helix; complementary base pairing of A with T and G with C by hydrogen bonds; the sugar-phosphate backbone."
         ]
       }
     },
@@ -290,10 +271,9 @@
       "card": {
         "key": "biology-34:3.1.2",
         "title": "Chromosomes, histones and chromatin",
-        "front": "Explain the role of histone proteins in eukaryotic cells.",
+        "front": "Chromosomes, histones and chromatin",
         "back": [
-          "DNA wraps around histone proteins to form nucleosomes, which allows a very long molecule to be packaged into the nucleus.",
-          "The tightness of this packaging affects whether genes can be accessed by transcription machinery, so histones also contribute to gene regulation."
+          "How DNA is wound around histone proteins to form nucleosomes, which coil into chromatin and condense into chromosomes; why packaging matters for storage and for access during transcription."
         ]
       }
     },
@@ -316,11 +296,9 @@
       "card": {
         "key": "biology-34:3.1.3",
         "title": "Genome, gene and proteome",
-        "front": "Two cells in the same person have identical genomes but different proteomes. Explain how this is possible.",
+        "front": "Genome, gene and proteome",
         "back": [
-          "Every body cell contains the same DNA because it is derived from the same zygote by mitosis.",
-          "Different genes are switched on or off in different cell types, so different proteins are transcribed and translated.",
-          "The proteome is also affected by alternative splicing and post-translational modification, and it changes over time."
+          "The genome as all the genetic material of an organism, a gene as a segment coding for a functional product, and the proteome as all the proteins expressed by a cell or organism at a given time."
         ]
       }
     },
@@ -342,10 +320,9 @@
       "card": {
         "key": "biology-34:3.1.4",
         "title": "Gene structure in prokaryotes and eukaryotes",
-        "front": "State one structural difference between a typical prokaryotic gene and a typical eukaryotic gene, and one consequence of that difference.",
+        "front": "Gene structure in prokaryotes and eukaryotes",
         "back": [
-          "Eukaryotic genes contain non-coding introns between coding exons, while prokaryotic coding regions are continuous.",
-          "As a consequence, eukaryotic pre-mRNA must be spliced before translation, whereas prokaryotic mRNA can be translated immediately."
+          "Promoter, coding region and terminator; operator and operon organisation in prokaryotes; exons and introns in eukaryotes; why prokaryotic genes are continuous."
         ]
       }
     },
@@ -368,11 +345,9 @@
       "card": {
         "key": "biology-34:3.1.5",
         "title": "RNA structure and types",
-        "front": "Compare the structure of DNA and mRNA, and state the function of tRNA.",
+        "front": "RNA structure and types",
         "back": [
-          "DNA is double stranded and contains deoxyribose and thymine; mRNA is single stranded and contains ribose and uracil.",
-          "DNA is much longer and remains in the nucleus, while mRNA is short and moves to the cytosol.",
-          "tRNA carries a specific amino acid and has an anticodon that base-pairs with the complementary mRNA codon during translation."
+          "Single-stranded RNA with ribose and uracil; the roles of mRNA as the transcript, tRNA as the amino acid carrier with an anticodon, and rRNA as part of the ribosome."
         ]
       }
     },
@@ -395,11 +370,9 @@
       "card": {
         "key": "biology-34:3.1.6",
         "title": "Transcription",
-        "front": "Outline the process of transcription in a eukaryotic cell.",
+        "front": "Transcription",
         "back": [
-          "RNA polymerase binds to the promoter region of the gene and unwinds the DNA double helix.",
-          "Free RNA nucleotides are joined in a complementary sequence against the template strand, with uracil pairing to adenine.",
-          "The enzyme reaches the terminator, the pre-mRNA transcript is released and the DNA rewinds."
+          "RNA polymerase binding at the promoter, unwinding the helix, reading the template strand and building pre-mRNA from complementary free nucleotides until the terminator is reached."
         ]
       }
     },
@@ -422,11 +395,9 @@
       "card": {
         "key": "biology-34:3.1.7",
         "title": "RNA processing and alternative splicing",
-        "front": "Explain how one gene can give rise to more than one protein in a eukaryotic cell.",
+        "front": "RNA processing and alternative splicing",
         "back": [
-          "Pre-mRNA contains both exons and introns, and introns are removed during RNA processing.",
-          "In alternative splicing, different combinations of exons are joined together to produce different mature mRNA molecules.",
-          "Each mature mRNA is translated into a polypeptide with a different amino acid sequence, so one gene yields several proteins."
+          "Addition of a methylated cap and a poly-A tail, removal of introns and splicing of exons; alternative splicing producing several mature mRNAs and therefore several proteins from one gene."
         ]
       }
     },
@@ -449,11 +420,9 @@
       "card": {
         "key": "biology-34:3.1.8",
         "title": "The genetic code",
-        "front": "The genetic code is described as degenerate and universal. Explain what each term means and give one consequence of universality.",
+        "front": "The genetic code",
         "back": [
-          "Degenerate means most amino acids are specified by more than one codon, so some base substitutions do not change the amino acid.",
-          "Universal means the same codons specify the same amino acids in nearly all organisms.",
-          "A consequence is that a human gene inserted into a bacterium produces the same protein, which makes recombinant technology possible."
+          "Triplet codons read from mRNA; the code as degenerate, non-overlapping and near universal; the start codon AUG and the three stop codons; reading a codon table."
         ]
       }
     },
@@ -477,12 +446,9 @@
       "card": {
         "key": "biology-34:3.1.9",
         "title": "Translation",
-        "front": "Describe the process of translation from the arrival of mRNA in the cytosol to the release of a polypeptide.",
+        "front": "Translation",
         "back": [
-          "The mRNA binds to a ribosome and the ribosome moves to the start codon AUG.",
-          "A tRNA with the complementary anticodon delivers its amino acid to the ribosome.",
-          "A peptide bond forms between adjacent amino acids and the ribosome translocates one codon along the mRNA.",
-          "When a stop codon is reached no tRNA binds, and the completed polypeptide is released."
+          "Initiation at the start codon, tRNA anticodons pairing with codons in the ribosome, peptide bond formation, translocation and termination at a stop codon."
         ]
       }
     },
@@ -505,11 +471,9 @@
       "card": {
         "key": "biology-34:3.1.10",
         "title": "Amino acids and levels of protein structure",
-        "front": "A single base substitution changes one amino acid in a protein and the protein no longer functions. Explain how this occurs.",
+        "front": "Amino acids and levels of protein structure",
         "back": [
-          "The primary structure determines how the chain folds, because interactions between R groups set the tertiary structure.",
-          "Changing one amino acid can alter or remove an interaction, so the protein folds into a different three-dimensional shape.",
-          "The active or binding site is no longer complementary to its substrate or target, so function is lost."
+          "Amino acid structure and the twenty amino acids; primary sequence, secondary helices and sheets, tertiary folding from R group interactions, and quaternary association of subunits."
         ]
       }
     },
@@ -533,12 +497,9 @@
       "card": {
         "key": "biology-34:3.1.11",
         "title": "The protein secretory pathway",
-        "front": "Trace the path of a protein that is exported from a cell, naming the organelles involved and what happens at each.",
+        "front": "The protein secretory pathway",
         "back": [
-          "mRNA is transcribed in the nucleus and moves through a nuclear pore to a ribosome on the rough endoplasmic reticulum.",
-          "The polypeptide is synthesised into the rough endoplasmic reticulum, where initial folding occurs.",
-          "A transport vesicle buds off and carries the protein to the Golgi apparatus, where it is further modified and packaged.",
-          "A secretory vesicle carries the protein to the plasma membrane and releases it by exocytosis."
+          "Nucleus, ribosome, rough endoplasmic reticulum, transport vesicle, Golgi apparatus, secretory vesicle and plasma membrane, and the modification that occurs at each stage."
         ]
       }
     },
@@ -561,11 +522,9 @@
       "card": {
         "key": "biology-34:3.1.12",
         "title": "Functional diversity of proteins",
-        "front": "Using two named examples, explain how the shape of a protein relates to its function.",
+        "front": "Functional diversity of proteins",
         "back": [
-          "Haemoglobin has a quaternary structure with haem groups shaped to bind oxygen reversibly for transport.",
-          "An antibody has a Y shape with variable regions complementary to one specific antigen, allowing specific binding.",
-          "In both cases a precise three-dimensional shape creates a binding site that fits one kind of molecule."
+          "Structural, enzymatic, transport, receptor, hormonal, immunological and contractile roles, with the link between shape and function in each case."
         ]
       }
     },
@@ -588,11 +547,9 @@
       "card": {
         "key": "biology-34:3.1.13",
         "title": "Gene regulation and the trp operon",
-        "front": "Explain what happens to the trp operon when tryptophan levels in a bacterial cell rise.",
+        "front": "Gene regulation and the trp operon",
         "back": [
-          "Tryptophan acts as a corepressor and binds to the repressor protein produced by the regulatory gene.",
-          "The activated repressor changes shape and binds to the operator region.",
-          "RNA polymerase can no longer transcribe the structural genes, so the enzymes for tryptophan synthesis are not made and resources are conserved."
+          "Repressible operons; the roles of the regulatory gene, repressor protein, operator and structural genes; how tryptophan acts as a corepressor to switch the operon off."
         ]
       }
     },
@@ -615,11 +572,9 @@
       "card": {
         "key": "biology-34:3.1.14",
         "title": "Enzymes used to manipulate DNA",
-        "front": "Explain why sticky ends are more useful than blunt ends when a gene is inserted into a plasmid.",
+        "front": "Enzymes used to manipulate DNA",
         "back": [
-          "Sticky ends are short single-stranded overhangs produced by a staggered cut.",
-          "If the plasmid and the gene are cut with the same restriction enzyme, their overhangs are complementary and pair by hydrogen bonding.",
-          "This holds the fragments in place and in the correct orientation so DNA ligase can seal the sugar-phosphate backbone, which is more efficient than joining blunt ends."
+          "Restriction endonucleases cutting at recognition sites to give sticky or blunt ends, DNA ligase joining fragments, and DNA polymerase extending a strand from a primer."
         ]
       }
     },
@@ -642,11 +597,9 @@
       "card": {
         "key": "biology-34:3.1.15",
         "title": "Polymerase chain reaction",
-        "front": "Describe the three steps of one PCR cycle and state the temperature change that drives each.",
+        "front": "Polymerase chain reaction",
         "back": [
-          "Denaturation at around 95 degrees Celsius breaks the hydrogen bonds and separates the two DNA strands.",
-          "Annealing at around 50 to 60 degrees Celsius allows primers to bind to the complementary sequences flanking the target region.",
-          "Extension at around 72 degrees Celsius allows heat-stable DNA polymerase to add free nucleotides and build new complementary strands."
+          "Denaturation, annealing of primers and extension by heat-stable polymerase; the role of temperature at each step; exponential amplification of a target sequence."
         ]
       }
     },
@@ -669,11 +622,9 @@
       "card": {
         "key": "biology-34:3.1.16",
         "title": "Gel electrophoresis",
-        "front": "Explain why DNA fragments separate into bands during gel electrophoresis and how fragment size is determined.",
+        "front": "Gel electrophoresis",
         "back": [
-          "DNA is negatively charged because of its phosphate groups, so it migrates towards the positive electrode.",
-          "Smaller fragments pass through the pores of the gel more easily and travel further than larger fragments in the same time.",
-          "Distances travelled are compared with a standard ladder of known fragment sizes to estimate the size of each band."
+          "Separation of fragments by size through a gel under an electric field; movement of the negatively charged DNA towards the positive electrode; use of a size standard to estimate fragment lengths."
         ]
       }
     },
@@ -696,11 +647,9 @@
       "card": {
         "key": "biology-34:3.1.17",
         "title": "Recombinant plasmids and bacterial transformation",
-        "front": "Outline how bacteria can be made to produce human insulin.",
+        "front": "Recombinant plasmids and bacterial transformation",
         "back": [
-          "The human insulin gene is isolated and cut out using a restriction enzyme, and a plasmid is cut with the same enzyme.",
-          "DNA ligase joins the gene into the plasmid to form a recombinant plasmid, which is taken up by bacteria during transformation.",
-          "Transformed bacteria are selected using a marker gene and then cultured, transcribing and translating the gene to produce insulin."
+          "Plasmids as vectors, insertion of a gene of interest, transformation of bacteria and the use of antibiotic-resistance or marker genes to select transformed cells."
         ]
       }
     },
@@ -723,11 +672,9 @@
       "card": {
         "key": "biology-34:3.1.18",
         "title": "CRISPR-Cas9 gene editing",
-        "front": "Explain how the CRISPR-Cas9 system edits a specific gene and why it is described as precise.",
+        "front": "CRISPR-Cas9 gene editing",
         "back": [
-          "A guide RNA is designed to be complementary to the target DNA sequence and directs the Cas9 enzyme to that site.",
-          "Cas9 makes a double-stranded cut at that location.",
-          "The cell's repair machinery may disable the gene or insert a supplied sequence; precision comes from the guide RNA binding only to a matching sequence."
+          "Guide RNA directing the Cas9 nuclease to a complementary target sequence, the double-strand cut, and repair that disables a gene or inserts a new sequence."
         ]
       }
     },
@@ -750,11 +697,9 @@
       "card": {
         "key": "biology-34:3.1.19",
         "title": "Transgenic and genetically modified organisms",
-        "front": "Distinguish between a genetically modified organism and a transgenic organism, and give one example of a transgenic organism.",
+        "front": "Transgenic and genetically modified organisms",
         "back": [
-          "A genetically modified organism has had its genome altered in any way, including the removal or alteration of its own genes.",
-          "A transgenic organism specifically contains a gene from a different species.",
-          "Bt cotton, which carries a bacterial gene for an insecticidal protein, is an example of a transgenic organism."
+          "The difference between a genetically modified and a transgenic organism; agricultural, medical and industrial applications; benefits and risks to be weighed."
         ]
       }
     },
@@ -777,11 +722,9 @@
       "card": {
         "key": "biology-34:3.1.20",
         "title": "Social and ethical implications of genetic technologies",
-        "front": "A new gene therapy is extremely effective but extremely expensive. Use two ethical concepts to discuss whether it should be publicly funded.",
+        "front": "Social and ethical implications of genetic technologies",
         "back": [
-          "Justice requires fair distribution of benefits and burdens, so a treatment available only to the wealthy raises equity concerns.",
-          "Beneficence supports funding because the therapy produces substantial benefit for patients.",
-          "A reasoned position must weigh the opportunity cost of directing limited public funds away from other treatments."
+          "Consent, privacy of genetic information, access and equity, ecological risk, and the use of ethical concepts to weigh competing interests in gene technology debates."
         ]
       }
     },
@@ -804,11 +747,9 @@
       "card": {
         "key": "biology-34:3.2.1",
         "title": "Enzymes and activation energy",
-        "front": "Explain how an enzyme increases the rate of a reaction, referring to activation energy.",
+        "front": "Enzymes and activation energy",
         "back": [
-          "The enzyme binds the substrate at its active site and stabilises the transition state.",
-          "This lowers the activation energy needed for the reaction to proceed.",
-          "A greater proportion of collisions therefore have sufficient energy to react, so the rate increases; the enzyme is unchanged and can be reused."
+          "Enzymes as biological catalysts that lower activation energy without being consumed, allowing reactions to proceed at body temperature and at useful rates."
         ]
       }
     },
@@ -831,11 +772,9 @@
       "card": {
         "key": "biology-34:3.2.2",
         "title": "Models of enzyme action and specificity",
-        "front": "Describe the induced fit model and explain how it differs from the lock-and-key model.",
+        "front": "Models of enzyme action and specificity",
         "back": [
-          "In the induced fit model the active site is flexible and changes shape slightly as the substrate binds, creating a closer fit.",
-          "In the lock-and-key model the active site is a rigid shape exactly complementary to the substrate.",
-          "Induced fit better explains how binding strains bonds in the substrate and how some enzymes act on several similar substrates."
+          "The lock-and-key model and the induced fit model; why an active site is complementary to only one substrate or a small group of similar substrates."
         ]
       }
     },
@@ -858,11 +797,9 @@
       "card": {
         "key": "biology-34:3.2.3",
         "title": "Coenzymes and cofactors",
-        "front": "Explain the role of NAD plus in cellular respiration and why the cell must regenerate it.",
+        "front": "Coenzymes and cofactors",
         "back": [
-          "NAD plus is a coenzyme that accepts hydrogen ions and electrons released during glycolysis and the Krebs cycle, becoming NADH.",
-          "NADH carries these electrons to the electron transport chain, where their energy is used to make ATP.",
-          "If NAD plus is not regenerated, glycolysis and the Krebs cycle stall because there is no acceptor for the released electrons."
+          "Roles of NAD plus, NADP plus, FAD and coenzyme A in carrying hydrogen ions, electrons or acetyl groups between stages of photosynthesis and respiration."
         ]
       }
     },
@@ -885,11 +822,9 @@
       "card": {
         "key": "biology-34:3.2.4",
         "title": "Factors affecting enzyme activity",
-        "front": "Describe and explain the shape of a graph of reaction rate against substrate concentration at a fixed enzyme concentration.",
+        "front": "Factors affecting enzyme activity",
         "back": [
-          "Rate increases steeply at low substrate concentration because more active sites are occupied as substrate is added.",
-          "The curve then levels off because all active sites are occupied and the enzyme is saturated.",
-          "Beyond this point, enzyme concentration rather than substrate concentration is the limiting factor."
+          "The effect of temperature, pH, substrate concentration and enzyme concentration on rate, including optimum values, denaturation and saturation."
         ]
       }
     },
@@ -912,11 +847,9 @@
       "card": {
         "key": "biology-34:3.2.5",
         "title": "Competitive and non-competitive inhibition",
-        "front": "Distinguish between competitive and non-competitive inhibition, and explain how increasing substrate concentration affects each.",
+        "front": "Competitive and non-competitive inhibition",
         "back": [
-          "A competitive inhibitor has a shape similar to the substrate and binds to the active site, blocking substrate binding.",
-          "A non-competitive inhibitor binds at an allosteric site elsewhere, changing the shape of the active site so the substrate no longer fits.",
-          "Increasing substrate concentration reduces the effect of a competitive inhibitor but has little effect on non-competitive inhibition."
+          "Competitive inhibitors binding at the active site and being outcompeted by high substrate concentration; non-competitive inhibitors binding elsewhere and changing the shape of the active site."
         ]
       }
     },
@@ -939,11 +872,9 @@
       "card": {
         "key": "biology-34:3.2.6",
         "title": "ATP and energy transfer",
-        "front": "Explain why cells use ATP rather than glucose directly as an energy source for cellular work.",
+        "front": "ATP and energy transfer",
         "back": [
-          "ATP releases a small, usable quantity of energy when it is hydrolysed to ADP and inorganic phosphate, which matches the requirement of individual reactions.",
-          "Glucose holds a large amount of energy that would be wasted or damaging if released in one step.",
-          "ATP can also be made and used rapidly anywhere in the cell, coupling energy-releasing to energy-requiring reactions."
+          "ATP as the immediate energy currency of the cell, the release of energy when the terminal phosphate bond is hydrolysed to ADP and phosphate, and the regeneration of ATP by photosynthesis and respiration."
         ]
       }
     },
@@ -966,11 +897,9 @@
       "card": {
         "key": "biology-34:3.2.7",
         "title": "Chloroplast structure and the overall equation",
-        "front": "Write the overall balanced equation for photosynthesis and state where each stage occurs in the chloroplast.",
+        "front": "Chloroplast structure and the overall equation",
         "back": [
-          "Six carbon dioxide plus six water, in the presence of light and chlorophyll, produces one glucose plus six oxygen.",
-          "The light-dependent stage occurs at the thylakoid membranes of the grana.",
-          "The light-independent stage occurs in the stroma."
+          "Thylakoid membranes, grana and stroma; the balanced equation for photosynthesis; the location of each stage within the organelle."
         ]
       }
     },
@@ -993,11 +922,9 @@
       "card": {
         "key": "biology-34:3.2.8",
         "title": "The light-dependent stage",
-        "front": "State the inputs and outputs of the light-dependent stage of photosynthesis and explain the origin of the oxygen released.",
+        "front": "The light-dependent stage",
         "back": [
-          "Inputs: light energy, water, ADP and inorganic phosphate, and NADP plus.",
-          "Outputs: ATP, NADPH and oxygen gas.",
-          "Oxygen comes from the photolysis of water, in which light energy splits water into hydrogen ions, electrons and oxygen."
+          "Absorption of light by chlorophyll, photolysis of water releasing oxygen, and the production of ATP and NADPH for the next stage."
         ]
       }
     },
@@ -1020,11 +947,9 @@
       "card": {
         "key": "biology-34:3.2.9",
         "title": "The light-independent stage",
-        "front": "Explain why the light-independent stage stops within minutes if a plant is placed in darkness, even though it does not use light directly.",
+        "front": "The light-independent stage",
         "back": [
-          "The light-independent stage requires ATP and NADPH, which are produced only by the light-dependent stage.",
-          "In darkness the light-dependent stage stops, so supplies of ATP and NADPH are quickly exhausted.",
-          "Without these inputs, carbon dioxide cannot be reduced and glucose production ceases."
+          "Carbon fixation by rubisco in the Calvin cycle, use of ATP and NADPH from the light-dependent stage, and the production of glucose in the stroma."
         ]
       }
     },
@@ -1047,11 +972,9 @@
       "card": {
         "key": "biology-34:3.2.10",
         "title": "Factors affecting the rate of photosynthesis",
-        "front": "A graph of photosynthesis rate against light intensity rises then plateaus. Explain the plateau and predict the effect of also raising the carbon dioxide concentration.",
+        "front": "Factors affecting the rate of photosynthesis",
         "back": [
-          "At low light intensity, light is the limiting factor, so the rate rises as intensity increases.",
-          "At the plateau some other factor, such as carbon dioxide concentration or temperature, has become limiting.",
-          "Increasing carbon dioxide would raise the plateau to a higher rate if carbon dioxide was the limiting factor."
+          "Light intensity, carbon dioxide concentration, water availability and temperature as limiting factors; interpreting plateau and decline on rate graphs."
         ]
       }
     },
@@ -1074,11 +997,9 @@
       "card": {
         "key": "biology-34:3.2.11",
         "title": "C3, C4 and CAM plants",
-        "front": "Explain how the adaptation of CAM plants reduces water loss while still allowing carbon fixation.",
+        "front": "C3, C4 and CAM plants",
         "back": [
-          "CAM plants open their stomata at night, when temperature is lower and humidity higher, so less water is lost by transpiration.",
-          "Carbon dioxide taken in at night is fixed and stored as an organic acid.",
-          "During the day the stomata close and the stored carbon dioxide is released for the Calvin cycle, which requires the light-dependent products."
+          "Photorespiration in hot, dry conditions; the spatial separation of carbon fixation in C4 plants and the temporal separation in CAM plants as adaptations that limit water loss."
         ]
       }
     },
@@ -1101,11 +1022,9 @@
       "card": {
         "key": "biology-34:3.2.12",
         "title": "Improving photosynthetic efficiency",
-        "front": "Explain one biotechnological strategy used to increase crop yield through improved photosynthetic efficiency.",
+        "front": "Improving photosynthetic efficiency",
         "back": [
-          "Carbon dioxide enrichment in glasshouses raises the concentration above atmospheric levels so that carbon dioxide is no longer limiting.",
-          "This increases the rate of carbon fixation in the Calvin cycle and therefore glucose production and biomass.",
-          "Alternatives include engineering C4 traits into C3 crops to reduce losses from photorespiration."
+          "Agricultural and biotechnological strategies such as controlled environment cropping, carbon dioxide enrichment, altering rubisco and engineering C4 traits into C3 crops."
         ]
       }
     },
@@ -1128,11 +1047,9 @@
       "card": {
         "key": "biology-34:3.2.13",
         "title": "Mitochondrial structure and the overall equation",
-        "front": "Explain how the folded inner membrane of the mitochondrion supports the function of the organelle.",
+        "front": "Mitochondrial structure and the overall equation",
         "back": [
-          "The cristae greatly increase the surface area of the inner membrane.",
-          "The electron transport chain and ATP synthase are embedded in this membrane, so a larger area allows more of these proteins.",
-          "More electron transport chains means more ATP can be produced per unit time."
+          "Outer and inner membranes, cristae and matrix; the balanced equation for aerobic cellular respiration; the location of each stage."
         ]
       }
     },
@@ -1156,12 +1073,9 @@
       "card": {
         "key": "biology-34:3.2.14",
         "title": "Glycolysis, the Krebs cycle and the electron transport chain",
-        "front": "Name the location and the ATP yield of each of the three stages of aerobic cellular respiration.",
+        "front": "Glycolysis, the Krebs cycle and the electron transport chain",
         "back": [
-          "Glycolysis occurs in the cytosol, splits glucose into two pyruvate molecules and yields a net two ATP plus two NADH.",
-          "The Krebs cycle occurs in the mitochondrial matrix, releases carbon dioxide and yields two ATP plus NADH and FADH2 per glucose.",
-          "The electron transport chain occurs on the inner mitochondrial membrane and yields most of the ATP, around twenty-six to twenty-eight.",
-          "Oxygen is the final electron acceptor, forming water, and the total yield is about thirty to thirty-two ATP per glucose."
+          "Inputs, outputs, location and ATP yield of each stage of aerobic respiration, including the role of NADH and FADH2 in carrying electrons to the inner membrane."
         ]
       }
     },
@@ -1184,11 +1098,9 @@
       "card": {
         "key": "biology-34:3.2.15",
         "title": "Anaerobic fermentation",
-        "front": "Compare anaerobic fermentation in a human muscle cell with anaerobic fermentation in yeast, including the products and ATP yield of each.",
+        "front": "Anaerobic fermentation",
         "back": [
-          "In human muscle cells, pyruvate is converted to lactic acid and no carbon dioxide is released.",
-          "In yeast, pyruvate is converted to ethanol and carbon dioxide.",
-          "Both yield only two ATP per glucose because only glycolysis produces ATP; the conversion of pyruvate regenerates NAD plus so glycolysis can continue."
+          "Lactic acid fermentation in animal cells and ethanol fermentation in yeast and plants; why the ATP yield is only two per glucose; the regeneration of NAD plus."
         ]
       }
     },
@@ -1211,11 +1123,9 @@
       "card": {
         "key": "biology-34:3.2.16",
         "title": "Biotechnological applications of respiration",
-        "front": "Explain how yeast is used to produce bioethanol and evaluate one advantage and one limitation of bioethanol as a fuel.",
+        "front": "Biotechnological applications of respiration",
         "back": [
-          "Yeast ferments sugars from crops such as sugar cane or corn anaerobically, producing ethanol and carbon dioxide, and the ethanol is then distilled.",
-          "An advantage is that the crop absorbs carbon dioxide as it grows, so net carbon emissions are lower than for fossil fuels.",
-          "A limitation is that land, water and fertiliser used for fuel crops compete with food production, and processing itself requires energy."
+          "Anaerobic fermentation in brewing and baking, bioethanol production from crops and waste, and comparison of the energy inputs and outputs of biofuels."
         ]
       }
     },
@@ -1238,11 +1148,9 @@
       "card": {
         "key": "biology-34:4.1.1",
         "title": "Cellular and non-cellular pathogens",
-        "front": "Distinguish between a cellular and a non-cellular pathogen, giving one example of each.",
+        "front": "Cellular and non-cellular pathogens",
         "back": [
-          "A cellular pathogen is made of one or more cells and can reproduce independently, for example a bacterium such as Salmonella.",
-          "A non-cellular pathogen is not made of cells and must use a host cell to replicate, for example a virus such as influenza.",
-          "Prions are also non-cellular, being misfolded proteins that cause other proteins to misfold."
+          "Bacteria, fungi, protozoa and parasites as cellular pathogens; viruses and prions as non-cellular; how each causes disease."
         ]
       }
     },
@@ -1265,11 +1173,9 @@
       "card": {
         "key": "biology-34:4.1.2",
         "title": "Antigens, self and non-self",
-        "front": "Explain how the immune system distinguishes its own cells from a pathogen.",
+        "front": "Antigens, self and non-self",
         "back": [
-          "Body cells display self-antigens, including MHC class I markers, which immune cells recognise as belonging to the organism.",
-          "Pathogens display non-self antigens on their surfaces that do not match the host markers.",
-          "Lymphocytes that would react against self-antigens are normally destroyed or inactivated during development, so only non-self antigens trigger a response."
+          "Antigens as molecules that trigger an immune response; self-antigens and MHC markers; how the immune system distinguishes self from non-self."
         ]
       }
     },
@@ -1292,11 +1198,9 @@
       "card": {
         "key": "biology-34:4.1.3",
         "title": "Plant defences",
-        "front": "Describe one physical and one chemical defence used by plants against pathogens.",
+        "front": "Plant defences",
         "back": [
-          "A physical defence is the waxy cuticle or bark, which prevents pathogens from entering the plant tissues.",
-          "A chemical defence is the production of toxins or antimicrobial compounds that kill or inhibit invading organisms.",
-          "Plants may also seal off infected tissue by killing surrounding cells to limit spread."
+          "Physical barriers such as cuticle, bark and thorns; chemical defences such as toxins and antimicrobial compounds; localised responses such as galls and cell death at the infection site."
         ]
       }
     },
@@ -1319,11 +1223,9 @@
       "card": {
         "key": "biology-34:4.1.4",
         "title": "First line of defence in animals",
-        "front": "Explain how the first line of defence prevents infection, referring to a physical, a chemical and a microbiological barrier.",
+        "front": "First line of defence in animals",
         "back": [
-          "Physical: intact skin forms a barrier that pathogens cannot readily penetrate, and cilia sweep trapped pathogens out of the airways.",
-          "Chemical: stomach acid and lysozyme in tears and saliva destroy many pathogens before they can establish.",
-          "Microbiota: harmless resident bacteria compete with pathogens for nutrients and space, making colonisation more difficult."
+          "Skin, mucous membranes, cilia, stomach acid, lysozyme in tears and saliva, and the protective role of normal microbiota."
         ]
       }
     },
@@ -1346,11 +1248,9 @@
       "card": {
         "key": "biology-34:4.1.5",
         "title": "Inflammation and the innate response",
-        "front": "Describe the inflammatory response and explain how it helps to remove a pathogen.",
+        "front": "Inflammation and the innate response",
         "back": [
-          "Damaged tissue and mast cells release histamine, which causes vasodilation and increases capillary permeability.",
-          "Increased blood flow causes redness, heat and swelling and delivers more plasma and leukocytes to the site.",
-          "Phagocytes move out of the capillaries into the tissue to engulf and destroy pathogens and debris."
+          "Mast cells releasing histamine, vasodilation and increased permeability, the movement of phagocytes to the site, and the signs of inflammation."
         ]
       }
     },
@@ -1373,11 +1273,9 @@
       "card": {
         "key": "biology-34:4.1.6",
         "title": "Innate cells and chemicals",
-        "front": "State the role of natural killer cells and of interferons in the innate immune response.",
+        "front": "Innate cells and chemicals",
         "back": [
-          "Natural killer cells detect body cells with abnormal or absent MHC class I markers, such as virus-infected or cancerous cells, and trigger their death.",
-          "Interferons are released by virus-infected cells and signal neighbouring cells to increase their antiviral defences.",
-          "Both act non-specifically, without being tailored to a particular antigen, and do not produce memory."
+          "Phagocytes such as macrophages and neutrophils, natural killer cells, the complement system, interferons and fever as non-specific defences."
         ]
       }
     },
@@ -1400,11 +1298,9 @@
       "card": {
         "key": "biology-34:4.1.7",
         "title": "The lymphatic system",
-        "front": "Explain the role of the lymphatic system in the immune response and why lymph nodes swell during an infection.",
+        "front": "The lymphatic system",
         "back": [
-          "Lymph collects fluid and pathogens from tissues and carries antigen-presenting cells to lymph nodes.",
-          "Lymph nodes contain large numbers of lymphocytes, so this is where antigen presentation and clonal selection occur.",
-          "Nodes swell because lymphocytes proliferate rapidly there during clonal expansion."
+          "Lymph vessels, lymph nodes and lymphoid organs; the movement of antigen-presenting cells and lymphocytes; why nodes swell during infection."
         ]
       }
     },
@@ -1427,11 +1323,9 @@
       "card": {
         "key": "biology-34:4.1.8",
         "title": "Third line of defence and immunological memory",
-        "front": "Compare the primary and secondary immune responses to the same antigen.",
+        "front": "Third line of defence and immunological memory",
         "back": [
-          "The primary response has a lag of several days while clonal selection and expansion occur, and antibody concentration rises slowly to a lower peak.",
-          "The secondary response is faster because memory B and T cells specific to that antigen already exist.",
-          "Antibody concentration rises sooner, reaches a higher peak and is sustained longer, so symptoms may not develop."
+          "Specificity of the adaptive response, the lag before a primary response, and the faster, larger secondary response produced by memory cells."
         ]
       }
     },
@@ -1454,11 +1348,9 @@
       "card": {
         "key": "biology-34:4.1.9",
         "title": "Humoral immunity and antibodies",
-        "front": "Describe the structure of an antibody and explain two ways antibodies help to eliminate a pathogen.",
+        "front": "Humoral immunity and antibodies",
         "back": [
-          "An antibody is a Y-shaped protein with two variable regions at the tips that bind one specific antigen, and a constant region.",
-          "Antibodies can agglutinate pathogens by binding several at once, clumping them so phagocytes can engulf them more easily.",
-          "Antibodies can neutralise toxins or block a virus from attaching to host cells, and can mark pathogens for destruction by complement."
+          "B cell activation, clonal expansion into plasma cells and memory cells, antibody structure with variable and constant regions, and antibody actions such as agglutination and neutralisation."
         ]
       }
     },
@@ -1482,12 +1374,9 @@
       "card": {
         "key": "biology-34:4.1.10",
         "title": "Cell-mediated immunity and antigen presentation",
-        "front": "Outline the sequence of events from a dendritic cell engulfing a virus to the destruction of virus-infected body cells.",
+        "front": "Cell-mediated immunity and antigen presentation",
         "back": [
-          "The dendritic cell engulfs the virus and presents fragments of viral antigen on its MHC class II markers.",
-          "It migrates to a lymph node where a helper T cell with a complementary receptor binds and is activated.",
-          "The activated helper T cell releases cytokines that stimulate the clonal expansion of cytotoxic T cells specific to that antigen.",
-          "Cytotoxic T cells recognise the viral antigen presented on MHC class I of infected body cells and trigger their death."
+          "Antigen-presenting cells, MHC class I and II, helper T cells activating B cells and cytotoxic T cells, and cytotoxic T cells destroying infected cells."
         ]
       }
     },
@@ -1510,11 +1399,9 @@
       "card": {
         "key": "biology-34:4.1.11",
         "title": "Natural, artificial, active and passive immunity",
-        "front": "Classify the immunity gained by an infant from breast milk and the immunity gained from a vaccination, and explain why they differ in duration.",
+        "front": "Natural, artificial, active and passive immunity",
         "back": [
-          "Breast milk provides natural passive immunity, because ready-made antibodies are transferred without the infant's immune system responding.",
-          "Vaccination provides artificial active immunity, because the infant's own immune system responds to introduced antigens.",
-          "Passive immunity is short-lived because the antibodies are broken down and no memory cells are produced, while active immunity is long-lasting because memory cells are formed."
+          "Classifying immunity by how antigens or antibodies were acquired; the duration of protection in each case and the presence or absence of memory."
         ]
       }
     },
@@ -1537,11 +1424,9 @@
       "card": {
         "key": "biology-34:4.1.12",
         "title": "Vaccines and herd immunity",
-        "front": "Explain how herd immunity protects a child who is too immunocompromised to be vaccinated.",
+        "front": "Vaccines and herd immunity",
         "back": [
-          "When a high proportion of the population is immune, most contacts of an infected person are unable to be infected.",
-          "The chain of transmission is broken, so the pathogen circulates at a much lower level in the community.",
-          "The unvaccinated child is therefore much less likely to encounter an infectious person, even though they have no immunity themselves."
+          "Vaccine composition, the primary response they induce, booster doses and the way high vaccination coverage protects those who cannot be vaccinated."
         ]
       }
     },
@@ -1564,11 +1449,9 @@
       "card": {
         "key": "biology-34:4.1.13",
         "title": "Allergies and autoimmune disease",
-        "front": "Explain the difference between an allergic reaction and an autoimmune disease, and describe what happens in the body during an allergic response.",
+        "front": "Allergies and autoimmune disease",
         "back": [
-          "An allergic reaction is an exaggerated immune response to a harmless non-self antigen such as pollen.",
-          "An autoimmune disease occurs when the immune system fails to recognise self-antigens and attacks the body's own tissues.",
-          "In an allergic response, IgE antibodies bind to mast cells and trigger the release of histamine, causing vasodilation, swelling, mucus production and, in severe cases, anaphylaxis."
+          "Allergy as a hypersensitive response to a harmless antigen involving IgE, mast cells and histamine; autoimmune disease as a failure of self-tolerance."
         ]
       }
     },
@@ -1591,11 +1474,9 @@
       "card": {
         "key": "biology-34:4.1.14",
         "title": "Emerging pathogens, antigenic drift and shift",
-        "front": "Explain why the influenza vaccine must be reformulated each year.",
+        "front": "Emerging pathogens, antigenic drift and shift",
         "back": [
-          "Influenza viruses accumulate small mutations in their surface antigens through antigenic drift.",
-          "Memory cells and antibodies produced against last season's antigens no longer bind the altered antigens effectively.",
-          "The vaccine is therefore updated to match the strains predicted to circulate, so that a protective specific response is produced."
+          "Why new and re-emerging diseases appear, the accumulation of small mutations in antigenic drift and the reassortment of genetic material in antigenic shift."
         ]
       }
     },
@@ -1618,11 +1499,9 @@
       "card": {
         "key": "biology-34:4.1.15",
         "title": "Monoclonal antibodies and immunotherapies",
-        "front": "Explain why monoclonal antibodies can deliver a cancer drug to tumour cells with fewer side effects than conventional chemotherapy.",
+        "front": "Monoclonal antibodies and immunotherapies",
         "back": [
-          "Monoclonal antibodies are identical and bind to one specific antigen found on the surface of the tumour cells.",
-          "A drug attached to the antibody is therefore delivered mainly to cells carrying that antigen.",
-          "Healthy cells lacking the antigen receive much less of the drug, so damage to normal dividing tissue is reduced."
+          "Production of identical antibodies against a single antigen; use in diagnosis, targeted drug delivery and cancer treatment; the principle of rational drug design."
         ]
       }
     },
@@ -1645,11 +1524,9 @@
       "card": {
         "key": "biology-34:4.1.16",
         "title": "Developing and evaluating treatments",
-        "front": "Explain the purpose of a double-blind, placebo-controlled trial when a new vaccine is tested.",
+        "front": "Developing and evaluating treatments",
         "back": [
-          "A placebo group provides a comparison so that any effect of the vaccine can be separated from natural variation and the placebo effect.",
-          "Double blinding means neither participants nor researchers know the allocation, which prevents expectation from biasing reported symptoms or assessments.",
-          "Together these features improve the validity of the conclusion that the vaccine caused the observed difference."
+          "Preclinical testing and the phases of clinical trials, the roles of scientists, regulators and health organisations, and the use of controls and blinding in drug trials."
         ]
       }
     },
@@ -1672,11 +1549,9 @@
       "card": {
         "key": "biology-34:4.2.1",
         "title": "Types of mutation",
-        "front": "Explain why the insertion of a single base usually has a more severe effect on a protein than the substitution of a single base.",
+        "front": "Types of mutation",
         "back": [
-          "An insertion shifts the reading frame, so every codon after the insertion point is altered.",
-          "This changes most of the amino acid sequence from that point on and may introduce a premature stop codon.",
-          "A substitution changes at most one codon, and because the code is degenerate it may not change the amino acid at all."
+          "Point mutations including silent, missense and nonsense; block mutations such as deletion, duplication, inversion and translocation; frameshift effects of insertions and deletions."
         ]
       }
     },
@@ -1699,11 +1574,9 @@
       "card": {
         "key": "biology-34:4.2.2",
         "title": "Somatic and germline mutations, and mutagens",
-        "front": "Explain why a somatic mutation caused by UV radiation does not contribute to the evolution of the species.",
+        "front": "Somatic and germline mutations, and mutagens",
         "back": [
-          "A somatic mutation occurs in a body cell, not in a gamete or a cell that produces gametes.",
-          "It is therefore not passed to offspring and does not change allele frequencies in the next generation.",
-          "Only germline mutations are inherited and can be acted on by natural selection over generations."
+          "Which mutations can be inherited; physical, chemical and biological mutagens; why only germline mutations contribute to evolution."
         ]
       }
     },
@@ -1726,11 +1599,9 @@
       "card": {
         "key": "biology-34:4.2.3",
         "title": "Sources of genetic variation",
-        "front": "Describe three processes that generate genetic variation in a sexually reproducing population.",
+        "front": "Sources of genetic variation",
         "back": [
-          "Mutation introduces new alleles into the population and is the only source of entirely new genetic material.",
-          "Crossing over in prophase I exchanges segments between homologous chromosomes, producing new combinations of alleles.",
-          "Independent assortment in metaphase I and random fertilisation combine alleles in new ways in each offspring."
+          "Mutation as the ultimate source of new alleles, and crossing over, independent assortment and random fertilisation as sources of new combinations."
         ]
       }
     },
@@ -1754,12 +1625,9 @@
       "card": {
         "key": "biology-34:4.2.4",
         "title": "Natural selection",
-        "front": "A population of beetles on a dark-soiled island becomes predominantly dark over fifty generations. Explain this change using natural selection.",
+        "front": "Natural selection",
         "back": [
-          "There was pre-existing variation in colour in the population, caused by different alleles.",
-          "Predation acted as a selection pressure, and dark beetles were better camouflaged against the dark soil.",
-          "Dark beetles were more likely to survive to reproductive age and pass on their alleles for dark colour.",
-          "Over many generations the frequency of the dark allele increased in the population."
+          "Variation, selection pressure, differential survival and reproduction, and the increase in the frequency of advantageous alleles over generations."
         ]
       }
     },
@@ -1782,11 +1650,9 @@
       "card": {
         "key": "biology-34:4.2.5",
         "title": "Genetic drift, bottleneck and founder effects",
-        "front": "Distinguish between the bottleneck effect and the founder effect, and state one consequence common to both.",
+        "front": "Genetic drift, bottleneck and founder effects",
         "back": [
-          "A bottleneck occurs when a population is drastically reduced by an event such as a disaster, leaving a small unrepresentative group of survivors.",
-          "The founder effect occurs when a small group leaves and establishes a new population elsewhere.",
-          "Both produce a population with reduced genetic diversity whose allele frequencies differ from the original population by chance, making it more vulnerable to environmental change and disease."
+          "Random changes in allele frequency in small populations; the bottleneck effect after a population crash and the founder effect when a small group establishes a new population."
         ]
       }
     },
@@ -1809,11 +1675,9 @@
       "card": {
         "key": "biology-34:4.2.6",
         "title": "Gene flow",
-        "front": "Explain how gene flow between two populations affects the likelihood that they will become separate species.",
+        "front": "Gene flow",
         "back": [
-          "Gene flow introduces alleles from one population into the other, making their gene pools more similar.",
-          "This counteracts the divergence produced by different selection pressures, mutation and drift.",
-          "Speciation is therefore less likely while gene flow continues, and more likely once populations are isolated."
+          "Movement of alleles between populations through migration and interbreeding, and its effect of reducing genetic differences between populations."
         ]
       }
     },
@@ -1837,12 +1701,9 @@
       "card": {
         "key": "biology-34:4.2.7",
         "title": "Antibiotic and pesticide resistance",
-        "front": "Explain how a population of bacteria becomes resistant to an antibiotic, and why finishing a full course of antibiotics matters.",
+        "front": "Antibiotic and pesticide resistance",
         "back": [
-          "Random mutation produces a small number of bacteria that already carry an allele conferring resistance before the antibiotic is used.",
-          "The antibiotic acts as a selection pressure and kills the non-resistant bacteria.",
-          "Resistant bacteria survive and reproduce rapidly, so the frequency of the resistance allele increases in the population.",
-          "Stopping a course early leaves partially resistant bacteria alive to reproduce, and resistance genes can also spread horizontally on plasmids."
+          "Resistance arising from pre-existing variation, the antibiotic acting as a selection pressure, and the role of overuse and incomplete courses in spreading resistant strains."
         ]
       }
     },
@@ -1865,11 +1726,9 @@
       "card": {
         "key": "biology-34:4.2.8",
         "title": "Selective breeding",
-        "front": "Compare artificial selection with natural selection and state one risk of long-term selective breeding.",
+        "front": "Selective breeding",
         "back": [
-          "Both rely on existing variation and both change allele frequencies over generations.",
-          "In artificial selection humans choose which individuals breed for a desired trait, whereas in natural selection the environment determines differential survival and reproduction.",
-          "Long-term selective breeding narrows the gene pool, leaving the population vulnerable to disease and reducing the variation available for future change."
+          "Artificial selection of desirable phenotypes over generations, its similarities to and differences from natural selection, and the risk of reduced genetic diversity."
         ]
       }
     },
@@ -1893,12 +1752,9 @@
       "card": {
         "key": "biology-34:4.2.9",
         "title": "Speciation",
-        "front": "Describe how allopatric speciation could produce two species of lizard from one original population.",
+        "front": "Speciation",
         "back": [
-          "A geographic barrier such as a river or mountain range divides the original population into two, preventing gene flow.",
-          "The two populations experience different selection pressures and accumulate different mutations.",
-          "Genetic drift and natural selection cause the gene pools to diverge over many generations.",
-          "The populations eventually become so different that they can no longer interbreed to produce fertile offspring, even if they meet again, and are therefore separate species."
+          "Allopatric speciation following geographic isolation and sympatric speciation without it; the accumulation of differences until reproductive isolation is complete."
         ]
       }
     },
@@ -1921,11 +1777,9 @@
       "card": {
         "key": "biology-34:4.2.10",
         "title": "The fossil record",
-        "front": "Explain what a transitional fossil shows and why the fossil record is incomplete.",
+        "front": "The fossil record",
         "back": [
-          "A transitional fossil has features of two groups and provides evidence of a link between an ancestral and a descendant group.",
-          "Fossilisation requires rapid burial in the absence of oxygen and decomposers, which occurs rarely.",
-          "Soft-bodied organisms fossilise poorly, many fossils are destroyed by geological processes, and only a fraction of those formed have been found."
+          "Conditions required for fossilisation, types of fossils, index and transitional fossils, and why the fossil record is incomplete."
         ]
       }
     },
@@ -1948,11 +1802,9 @@
       "card": {
         "key": "biology-34:4.2.11",
         "title": "Dating techniques",
-        "front": "A fossil is estimated to be about two million years old. Explain why carbon-14 dating would not be suitable and suggest an alternative.",
+        "front": "Dating techniques",
         "back": [
-          "Carbon-14 has a half-life of about 5730 years, so after two million years almost no carbon-14 remains to measure.",
-          "An isotope with a much longer half-life, such as potassium-40, would be used instead.",
-          "Potassium-40 dating is applied to volcanic rock layers above and below the fossil to bracket its age."
+          "Relative dating by stratigraphy and index fossils; absolute dating by radiometric decay and half-life; choosing a technique appropriate to the age of the sample."
         ]
       }
     },
@@ -1975,11 +1827,9 @@
       "card": {
         "key": "biology-34:4.2.12",
         "title": "Structural morphology as evidence",
-        "front": "Distinguish between homologous and analogous structures and state what each indicates about relatedness.",
+        "front": "Structural morphology as evidence",
         "back": [
-          "Homologous structures have a similar underlying structure but may have different functions, such as the pentadactyl limb of a human, whale and bat.",
-          "They indicate descent from a common ancestor followed by divergent evolution.",
-          "Analogous structures have similar functions but different underlying structures, such as the wings of an insect and a bird, and indicate convergent evolution rather than close relatedness."
+          "Homologous structures indicating common ancestry through divergent evolution, analogous structures indicating convergent evolution, and vestigial structures."
         ]
       }
     },
@@ -2002,11 +1852,9 @@
       "card": {
         "key": "biology-34:4.2.13",
         "title": "Molecular homology",
-        "front": "A protein from species X differs from the human version at 4 amino acids, and from species Y at 27. Interpret this evidence.",
+        "front": "Molecular homology",
         "back": [
-          "Species X shares a more recent common ancestor with humans than species Y does.",
-          "Fewer sequence differences indicate that less time has elapsed for mutations to accumulate since the lineages diverged.",
-          "Molecular evidence is used alongside structural and fossil evidence because rates of change can vary between proteins and lineages."
+          "Comparison of DNA and amino acid sequences between species, and the inference that fewer differences indicate a more recent common ancestor."
         ]
       }
     },
@@ -2029,11 +1877,9 @@
       "card": {
         "key": "biology-34:4.2.14",
         "title": "Molecular clocks",
-        "front": "State the key assumption underlying the molecular clock and one limitation of the technique.",
+        "front": "Molecular clocks",
         "back": [
-          "It assumes that mutations accumulate at an approximately constant rate over time in the sequence being compared.",
-          "A limitation is that mutation rates differ between genes, species and time periods, particularly where selection is acting.",
-          "Clocks must therefore be calibrated against independently dated fossil evidence."
+          "The assumption of an approximately constant rate of mutation in selectively neutral regions, calibration against the fossil record, and limitations of the method."
         ]
       }
     },
@@ -2056,11 +1902,9 @@
       "card": {
         "key": "biology-34:4.2.15",
         "title": "Phylogenetic trees",
-        "front": "Explain how to determine from a phylogenetic tree which of two species is more closely related to a third.",
+        "front": "Phylogenetic trees",
         "back": [
-          "Trace back from each species to the node where its lineage meets that of the third species.",
-          "The species whose most recent common ancestor with the third species is closer to the tips is the more closely related.",
-          "Physical similarity and the order of the branch tips along the page are not reliable guides; only branching order matters."
+          "Reading nodes as common ancestors, branch points as divergence events, and using shared derived characteristics to construct and interpret trees."
         ]
       }
     },
@@ -2083,11 +1927,9 @@
       "card": {
         "key": "biology-34:4.2.16",
         "title": "Extinction and mass extinction events",
-        "front": "Explain why a specialist species with a small population is more vulnerable to extinction than a generalist with a large range.",
+        "front": "Extinction and mass extinction events",
         "back": [
-          "A specialist depends on a narrow range of food or habitat, so a change in those conditions removes its resources entirely.",
-          "A small population has reduced genetic diversity, so it is less likely to contain alleles that suit the new conditions.",
-          "A generalist can switch resources and a large range means local changes affect only part of the population."
+          "Causes of extinction, characteristics that make species vulnerable, and how mass extinctions open niches and accelerate diversification of surviving groups."
         ]
       }
     },
@@ -2110,11 +1952,9 @@
       "card": {
         "key": "biology-34:4.2.17",
         "title": "Hominin characteristics and trends",
-        "front": "Identify two skeletal features that indicate a hominin fossil was bipedal and explain how each supports upright walking.",
+        "front": "Hominin characteristics and trends",
         "back": [
-          "A foramen magnum positioned centrally under the skull balances the head directly above the spine.",
-          "A short, broad, bowl-shaped pelvis supports the internal organs and anchors muscles used in upright walking.",
-          "An S-shaped spine, angled femur and non-opposable big toe with an arched foot also indicate weight bearing and striding."
+          "Bipedalism and the associated skeletal changes, increasing cranial capacity, reduced prognathism and dentition, and the use of these features to interpret hominin fossils."
         ]
       }
     },
@@ -2137,11 +1977,9 @@
       "card": {
         "key": "biology-34:4.2.18",
         "title": "Homo sapiens, Neanderthals and human migration",
-        "front": "Describe two lines of evidence that support the out-of-Africa model of modern human origins.",
+        "front": "Homo sapiens, Neanderthals and human migration",
         "back": [
-          "The oldest Homo sapiens fossils are found in Africa, with progressively younger fossils found further from Africa.",
-          "Genetic diversity is greatest in African populations, consistent with a longer period of accumulated mutation there.",
-          "Mitochondrial DNA and Y chromosome lineages of modern populations trace back to African ancestors, while Neanderthal DNA in non-African genomes indicates later interbreeding during migration."
+          "Evidence for the out-of-Africa model, comparisons between Homo sapiens and Homo neanderthalensis, and evidence of interbreeding from Neanderthal and Denisovan DNA."
         ]
       }
     },
@@ -2164,11 +2002,9 @@
       "card": {
         "key": "biology-34:4.3.1",
         "title": "Designing the investigation",
-        "front": "Outline three decisions that must be made when designing a controlled experiment, and explain why each affects the validity of the results.",
+        "front": "Designing the investigation",
         "back": [
-          "Choosing which variable to manipulate and which to measure determines whether the investigation actually tests the hypothesis.",
-          "Deciding which variables to control prevents extraneous variables from confounding the results.",
-          "Choosing the number of trials and the sample size affects how well random error and individual variation are accounted for."
+          "Selecting a question within a designated topic, developing an aim and hypothesis, choosing a methodology and planning a repeatable method with appropriate controls."
         ]
       }
     },
@@ -2191,11 +2027,9 @@
       "card": {
         "key": "biology-34:4.3.2",
         "title": "Logbook, safety and ethics",
-        "front": "Explain why a logbook is required and what should be recorded in it if a method is changed part-way through an investigation.",
+        "front": "Logbook, safety and ethics",
         "back": [
-          "The logbook is an authenticated primary record that allows the work to be verified and reproduced.",
-          "Any change to the method must be recorded with the date and the reason for the change.",
-          "Data collected before and after the change must be clearly distinguished so that results are interpreted correctly."
+          "Maintaining a logbook as an authenticated record of planning, changes and raw data; risk assessment; ethical considerations for organisms and participants."
         ]
       }
     },
@@ -2218,11 +2052,9 @@
       "card": {
         "key": "biology-34:4.3.3",
         "title": "Generating and recording data",
-        "front": "State two features of a well-constructed results table and explain why each is needed.",
+        "front": "Generating and recording data",
         "back": [
-          "Column headings include the quantity and its unit, so readers can interpret the values without ambiguity.",
-          "Values are recorded to a consistent number of decimal places reflecting the precision of the instrument.",
-          "Raw data and processed values such as means are shown separately so calculations can be checked."
+          "Collecting primary quantitative and qualitative data, choosing appropriate units and precision, and organising raw data into tables with headings and units."
         ]
       }
     },
@@ -2245,11 +2077,9 @@
       "card": {
         "key": "biology-34:4.3.4",
         "title": "Analysing and evaluating results",
-        "front": "An investigation produced results that broadly matched the hypothesis but had a large spread between trials. Evaluate this outcome and suggest one improvement.",
+        "front": "Analysing and evaluating results",
         "back": [
-          "The large spread indicates low precision, most likely caused by random error in measurement or uncontrolled variation between samples.",
-          "The conclusion can still be supported, but with reduced confidence, and the limitation must be stated.",
-          "Increasing the number of trials and tightening control of extraneous variables would reduce the spread."
+          "Identifying trends and relationships, distinguishing correlation from causation, evaluating the accuracy, precision, repeatability and validity of the method, and suggesting improvements."
         ]
       }
     },
@@ -2272,11 +2102,9 @@
       "card": {
         "key": "biology-34:4.3.5",
         "title": "Communicating with a scientific poster",
-        "front": "State what belongs in the discussion section of a scientific poster, and how it differs from the conclusion.",
+        "front": "Communicating with a scientific poster",
         "back": [
-          "The discussion interprets the results, links them to the hypothesis and relevant biology, and evaluates limitations and sources of error.",
-          "The conclusion is a brief statement of what was found in relation to the aim, without new interpretation.",
-          "The discussion may also suggest further investigations; the conclusion should not introduce information not supported by the results."
+          "The structure of a scientific poster including title, introduction, methodology and method, results, discussion and conclusion, and conventions for referencing and figures."
         ]
       }
     }

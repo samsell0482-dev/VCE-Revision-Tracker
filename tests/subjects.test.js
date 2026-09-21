@@ -59,12 +59,17 @@ test('every subject has a practice question on every point',()=>{
  }
 });
 test('every revision point has a complete cue card',()=>{
+ const instructionStart=/^(?:explain|describe|identify|compare|evaluate|analyse|discuss|outline|distinguish|apply|use|calculate|construct|interpret|investigate|know|understand)\b/i;
  for(const s of subjects){
   for(const p of s.points){
    assert.ok(p.card,s.id+' '+p.id+' has no cue card');
    assert.ok(p.card.key&&p.card.title&&p.card.front,s.id+' '+p.id+' has an incomplete cue-card prompt');
    assert.ok(Array.isArray(p.card.back)&&p.card.back.length,s.id+' '+p.id+' has no cue-card answer');
    assert.ok(p.card.back.every(line=>typeof line==='string'&&line.trim()),s.id+' '+p.id+' has a blank cue-card answer line');
+   assert.equal(p.card.front,p.title,s.id+' '+p.id+' cue-card front should be the study-design concept');
+   const expectedBack=instructionStart.test(p.detail)?p.questions[0].answer:[p.detail];
+   assert.deepEqual(p.card.back,expectedBack,s.id+' '+p.id+' cue-card back should use the subject-specific key knowledge');
+   assert.notEqual(p.card.front,p.questions?.[0]?.q,s.id+' '+p.id+' cue card repeats its practice question');
   }
  }
 });

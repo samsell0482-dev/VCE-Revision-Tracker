@@ -18,15 +18,23 @@ test('every added subject is offered at setup and opens with all of its content'
  expect(errors).toEqual([]);
 });
 test('a new subject rates, builds a cue card and saves a practice answer',async({page})=>{
- const bio=subjects.find(s=>s.id==='biology-34'),first=bio.points[0];
+ const bio=subjects.find(s=>s.id==='biology-34'),first=bio.points[0],second=bio.points[1];
  await openSubjectSetup(page);
  await page.getByRole('checkbox',{name:'Biology',exact:true}).check();
  await page.getByRole('button',{name:'Start revising'}).click();
  await page.locator('#subject-list > button').click();
  await page.getByRole('button',{name:'Mark '+first.id+" as couldn't explain it",exact:true}).click();
+ await page.getByRole('button',{name:'Mark '+second.id+" as couldn't explain it",exact:true}).click();
  await page.getByRole('button',{name:'Cue cards',exact:true}).click();
- await expect(page.locator('.qcard')).toHaveCount(1);
- await expect(page.locator('.qcard')).toContainText(first.title);
+ await expect(page.locator('.deck .qcard')).toHaveCount(2);
+ await expect(page.locator('.deck .qcard').first()).toContainText(first.title);
+ await page.getByRole('button',{name:'Focus on cue card: '+first.title}).click();
+ await expect(page.getByRole('dialog',{name:first.title})).toBeVisible();
+ await expect(page.locator('html')).toHaveCSS('overflow','hidden');
+ await page.getByRole('button',{name:'Next'}).click();
+ await expect(page.getByRole('dialog',{name:second.title})).toBeVisible();
+ await page.keyboard.press('Escape');
+ await expect(page.getByRole('dialog')).toHaveCount(0);
  await page.getByRole('button',{name:'Practice',exact:true}).click();
  await page.locator('textarea').first().fill('Biology practice answer');
  await page.reload();

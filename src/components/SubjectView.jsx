@@ -1,4 +1,4 @@
-import React,{useEffect,useState} from 'react';
+import React,{useEffect,useRef,useState} from 'react';
 import {loadSubject} from '../subject-loader.js';
 import {Chips,Legend,ratingStates,tally} from './Common.jsx';
 
@@ -19,24 +19,49 @@ function bestScore(record){
  return scores.length?Math.max(...scores):null;
 }
 
+function FocusedCueCard({item,index,total,onClose,onMove}){
+ const ref=useRef(null),titleId='focused-cue-card-title';
+ useEffect(()=>{
+  const html=document.documentElement,body=document.body,htmlOverflow=html.style.overflow,bodyOverflow=body.style.overflow;
+  html.style.overflow='hidden';body.style.overflow='hidden';ref.current.showModal();
+  return()=>{html.style.overflow=htmlOverflow;body.style.overflow=bodyOverflow;};
+ },[]);
+ return <dialog className="card-focus" ref={ref} aria-labelledby={titleId} onCancel={event=>{event.preventDefault();onClose();}}>
+  <div className="card-focus-toolbar"><span>{index+1} of {total}</span><button type="button" className="ghost card-focus-close" onClick={onClose} aria-label="Close focused cue card">Close</button></div>
+  <article className={'qcard card-focus-card '+(item.state===1?'red':'amber')}>
+   <div className="qcard-head"><span className="refs">{item.refs.join(' + ')}</span><span>Term / concept</span></div>
+   <h2 id={titleId}>{item.card.front}</h2>
+   <p className="card-focus-label">Definition / required knowledge</p>
+   <ul>{item.card.back.map((line,lineIndex)=><li key={lineIndex}>{line}</li>)}</ul>
+  </article>
+  <div className="card-focus-nav"><button type="button" className="ghost" disabled={total<2} onClick={()=>onMove(-1)}>← Previous</button><button type="button" className="ghost" disabled={total<2} onClick={()=>onMove(1)}>Next →</button></div>
+ </dialog>;
+}
+
 function CueCards({subject,ratings}){
+ const [focusedKey,setFocusedKey]=useState(null),lastTrigger=useRef(null);
  const groups=[1,2].map(state=>{
   const seen=new Map();
   for(const point of subject.points.filter(point=>ratings[subject.id][point.id]===state)){
-   const card=point.card||{front:'Explain '+point.title+'.',back:point.detail.split(/(?:;|\. )/).filter(Boolean)},key=card.key||point.id;
+   const card=point.card||{front:point.title,back:[point.detail]},key=card.key||point.id;
    if(seen.has(key))seen.get(key).refs.push(point.id);
-   else seen.set(key,{card,refs:[point.id],title:card.title||point.title});
+   else seen.set(key,{card,refs:[point.id]});
   }
   return {state,cards:[...seen.values()]};
  });
+ const allCards=groups.flatMap(group=>group.cards.map(item=>({...item,state:group.state,key:item.card.key||item.refs[0]})));
+ const focusedIndex=allCards.findIndex(item=>item.key===focusedKey),focused=allCards[focusedIndex];
+ const openCard=(event,key)=>{lastTrigger.current=event.currentTarget;setFocusedKey(key);};
+ const closeCard=()=>{setFocusedKey(null);requestAnimationFrame(()=>lastTrigger.current?.focus());};
+ const moveCard=direction=>setFocusedKey(allCards[(focusedIndex+direction+allCards.length)%allCards.length].key);
  if(groups.every(group=>!group.cards.length))return <div className="empty"><strong>Nothing red or amber right now.</strong><span>Rate some topics to build your revision deck.</span></div>;
  return <section id="cards">{groups.map(({state,cards})=>cards.length>0&&<section key={state}>
   <div className="deck-head"><h3>{state===1?'Red':'Amber'}</h3><span>{cards.length} cards</span></div>
-  <div className="deck">{cards.map(({card,refs,title})=><article className={'qcard '+(state===1?'red':'amber')} key={refs[0]}>
-   <div className="qcard-head"><span className="refs">{refs.join(' + ')}</span></div><h4>{title}</h4><p className="front">{card.front}</p>
+  <div className="deck">{cards.map(({card,refs})=>{const key=card.key||refs[0];return <article className={'qcard '+(state===1?'red':'amber')} key={refs[0]} role="button" tabIndex="0" aria-haspopup="dialog" aria-label={'Focus on cue card: '+card.front} onClick={event=>openCard(event,key)} onKeyDown={event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();openCard(event,key);}}}>
+   <div className="qcard-head"><span className="refs">{refs.join(' + ')}</span><span>Term / concept</span></div><h4>{card.front}</h4>
    <ul>{card.back.map((line,index)=><li key={index}>{line}</li>)}</ul>
-  </article>)}</div>
- </section>)}<div className="print-row"><button className="ghost" onClick={()=>window.print()}>Print the deck</button></div></section>;
+  </article>;})}</div>
+ </section>)}<div className="print-row"><button className="ghost" onClick={()=>window.print()}>Print the deck</button></div>{focused&&<FocusedCueCard key={focused.key} item={focused} index={focusedIndex} total={allCards.length} onClose={closeCard} onMove={moveCard}/>}</section>;
 }
 
 function Question({item,attempt,onUpdate}){

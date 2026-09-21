@@ -38,12 +38,9 @@
       "card": {
         "key": "english-language-34:3.1.1",
         "title": "The role of Standard English in informal texts",
-        "front": "Explain why a text can depart from Standard English deliberately rather than through error, and describe how you would tell the two apart in an informal text.",
+        "front": "The role of Standard English in informal texts",
         "back": [
-          "Standard English is the codified variety used as a reference point, not a measure of correctness.",
-          "Deliberate departure is systematic and serves a purpose — solidarity, identity, humour, speed.",
-          "Error is inconsistent and serves no communicative function.",
-          "Consistency across the text, and whether the feature fits the tenor and audience, distinguish them."
+          "How SAE functions as the reference point that informality is measured against, and what it means for a text to depart from it deliberately rather than through error."
         ]
       }
     },
@@ -67,12 +64,9 @@
       "card": {
         "key": "english-language-34:3.1.2",
         "title": "Functions of language in a given context",
-        "front": "A friend texts: 'hey u free sat? think im gonna lose it if i dont get out of the house lol'. Identify two functions of language operating and justify each.",
+        "front": "Functions of language in a given context",
         "back": [
-          "Referential — the message conveys information and a question about Saturday availability.",
-          "Emotive — 'lose it', 'lol' express the speaker's emotional state.",
-          "Also acceptable: phatic, maintaining the social connection between friends.",
-          "Conative if the request is read as directing the friend to respond."
+          "Jakobson's six functions — referential, emotive, conative, phatic, metalinguistic, poetic — and identifying which are operating in a text, usually more than one."
         ]
       }
     },
@@ -96,12 +90,9 @@
       "card": {
         "key": "english-language-34:3.1.3",
         "title": "Register, tenor and audience in informal texts",
-        "front": "Explain how tenor shapes the level of informality, using the contrast between a message to a sibling and one to a new employer.",
+        "front": "Register, tenor and audience in informal texts",
         "back": [
-          "Tenor is the relationship between participants, including social distance and relative power.",
-          "Low social distance and equal power with a sibling permit slang, ellipsis and minimal mitigation.",
-          "High social distance and unequal power with an employer require standard forms, full clauses and negative politeness.",
-          "The same speaker shifts register because the tenor changes, not their ability."
+          "How the relationship between participants, their social distance and the assumed audience drive the level of informality."
         ]
       }
     },
@@ -126,13 +117,9 @@
       "card": {
         "key": "english-language-34:3.1.4",
         "title": "Features of informal writing",
-        "front": "Identify four features that mark a written text as informal and explain what each contributes to the relationship between writer and reader.",
+        "front": "Features of informal writing",
         "back": [
-          "Contractions and shortenings — signal casualness and speed.",
-          "Colloquial lexis or slang — signals shared identity and reduces social distance.",
-          "Ellipsis and sentence fragments — assume shared context between writer and reader.",
-          "Non-standard orthography, emojis, lower case — substitute for prosody and mark intimacy.",
-          "Each should be tied to intimacy, solidarity or equality."
+          "Across a range of texts: abbreviations, spellings reflecting pronunciation, syntactic creativity, ellipsis, shortened lexical forms, non-linear structure."
         ]
       }
     },
@@ -156,12 +143,9 @@
       "card": {
         "key": "english-language-34:3.1.5",
         "title": "Features of informal speech",
-        "front": "Explain why non-fluency features in a transcript are evidence of informality rather than evidence of a poor speaker.",
+        "front": "Features of informal speech",
         "back": [
-          "Spontaneous speech is planned in real time, so pauses, false starts and repairs are expected.",
-          "Their presence shows low planning and an unrehearsed exchange, characteristic of informal contexts.",
-          "Filled pauses also hold the floor while the speaker formulates the next utterance.",
-          "Judging them as errors is a prescriptivist reading; descriptively they are normal features of speech."
+          "Spontaneity and planning both playing a role, prosodic and paralinguistic support, and the idiosyncratic choices individual speakers make."
         ]
       }
     },
@@ -185,12 +169,9 @@
       "card": {
         "key": "english-language-34:3.1.6",
         "title": "Context and language features in informal texts",
-        "front": "Explain how the situational context of a group chat between close friends produces the specific language features found in it.",
+        "front": "Context and language features in informal texts",
         "back": [
-          "Tenor: close, equal relationships mean low social distance and minimal face mitigation.",
-          "Field: everyday personal subject matter allows colloquial lexis rather than specialised terms.",
-          "Mode: written but spontaneous, so it borrows spoken features — ellipsis, fragments, emojis for prosody.",
-          "Shared cultural context means much can be left implicit, producing high inference and in-group references."
+          "The relationship between the situational and cultural context of an exchange and the specific features that appear in it — the heart of every analytical commentary."
         ]
       }
     },
@@ -214,12 +195,9 @@
       "card": {
         "key": "english-language-34:3.1.7",
         "title": "Features of spoken discourse in informal texts",
-        "front": "Explain how openings and closings differ between an informal conversation between friends and a formal job interview.",
+        "front": "Features of spoken discourse in informal texts",
         "back": [
-          "Informal: openings are loose, may skip greetings entirely, and closings are negotiated over several turns.",
-          "Formal: openings follow convention with explicit greetings and often self-identification.",
-          "Formal closings are managed by the participant with higher status, signalling the end clearly.",
-          "The difference reflects tenor — social distance requires more explicit structuring."
+          "Openings and closings, adjacency pairs, minimal responses, overlapping speech, discourse markers and non-fluency features, and what each contributes."
         ]
       }
     },
@@ -243,12 +221,9 @@
       "card": {
         "key": "english-language-34:3.1.8",
         "title": "Subsystem patterning, colloquial language and slang",
-        "front": "Distinguish colloquial language from slang, and explain how each contributes to informality in a text between teenagers.",
+        "front": "Subsystem patterning, colloquial language and slang",
         "back": [
-          "Colloquial language is informal but widely understood across the speech community.",
-          "Slang is group-specific, changes faster, and marks membership of a particular group.",
-          "Colloquialism lowers formality and signals a relaxed register.",
-          "Slang additionally excludes outsiders and constructs in-group identity for the participants."
+          "Identifying patterning across the subsystems, and the role of colloquialisms and slang in marking informality and in-group membership."
         ]
       }
     },
@@ -272,12 +247,9 @@
       "card": {
         "key": "english-language-34:3.1.9",
         "title": "Taboo language, dysphemism and swearing",
-        "front": "A transcript of close friends contains repeated swearing. Explain why this is not necessarily aggressive, and identify what it is likely achieving.",
+        "front": "Taboo language, dysphemism and swearing",
         "back": [
-          "Swearing is not only used to offend — its function depends on context and tenor.",
-          "Among close friends it commonly signals solidarity and in-group membership.",
-          "It marks the exchange as informal and relaxed, where taboo constraints can be suspended.",
-          "It can also intensify emotion or add humour rather than express hostility."
+          "Swearing patterns and taboo language as markers of informality and solidarity, and the social work they do beyond giving offence."
         ]
       }
     },
@@ -301,12 +273,9 @@
       "card": {
         "key": "english-language-34:3.1.10",
         "title": "Emoticons, emojis and context-specific graphemes",
-        "front": "Explain how emojis and non-standard orthography compensate for the absence of prosodic and paralinguistic features in written informal texts.",
+        "front": "Emoticons, emojis and context-specific graphemes",
         "back": [
-          "Written text lacks pitch, stress, volume and facial expression, which carry attitude in speech.",
-          "Emojis substitute for facial expression, marking humour, sarcasm or softening a face-threatening act.",
-          "Capitals and repeated letters substitute for volume and elongation ('STOP', 'nooooo').",
-          "Meaning is context-specific and varies between groups and generations."
+          "How written informal texts substitute for prosody and paralinguistics, and how a grapheme's meaning shifts with context."
         ]
       }
     },
@@ -330,12 +299,9 @@
       "card": {
         "key": "english-language-34:3.1.11",
         "title": "Discourse strategies and cooperation",
-        "front": "Using the concepts of turn-taking, topic management and repair, explain how participants in an informal conversation cooperate.",
+        "front": "Discourse strategies and cooperation",
         "back": [
-          "Turn-taking: participants use prosodic and grammatical cues to pass the floor; overlap is often supportive.",
-          "Topic management: topics are introduced, developed and shifted collaboratively rather than controlled by one speaker.",
-          "Repair: self-repair and other-repair fix breakdowns without threatening face.",
-          "Backchannels signal continued attention, encouraging the speaker to continue."
+          "Topic management, turn-taking, repair sequences, and the ways speakers cooperate to keep an interaction running."
         ]
       }
     },
@@ -359,12 +325,9 @@
       "card": {
         "key": "english-language-34:3.1.12",
         "title": "Informality for intimacy, solidarity and equality",
-        "front": "Explain how informal language can be used to build solidarity, and identify two specific features that achieve this.",
+        "front": "Informality for intimacy, solidarity and equality",
         "back": [
-          "Solidarity is the sense of shared identity and belonging between participants.",
-          "Feature: slang or in-group lexis, comprehensible only to members, marking who belongs.",
-          "Feature: hypocoristics and nicknames, signalling familiarity and reducing social distance.",
-          "Also acceptable: swearing used non-aggressively, ellipsis assuming shared knowledge, positive politeness."
+          "How informal choices reduce social distance, including the politeness strategies that support it."
         ]
       }
     },
@@ -388,12 +351,9 @@
       "card": {
         "key": "english-language-34:3.1.13",
         "title": "Informality for innovation, harmony and in-group membership",
-        "front": "Explain how informal language promotes linguistic innovation and helps negotiate social taboos, giving an example of each.",
+        "front": "Informality for innovation, harmony and in-group membership",
         "back": [
-          "Informal contexts tolerate novelty, so neologisms, blends and new slang emerge and spread there first.",
-          "Example: internet-origin coinages entering everyday speech before any dictionary records them.",
-          "Taboo topics are negotiated through euphemism, dysphemism and humour, letting participants discuss the difficult.",
-          "Example: joking dysphemism about illness or death, which manages discomfort while allowing the subject to be raised."
+          "Promoting linguistic innovation, negotiating social taboos, building rapport, and signalling who belongs to the group and who doesn't."
         ]
       }
     },
@@ -417,12 +377,9 @@
       "card": {
         "key": "english-language-34:3.1.14",
         "title": "Cohesion and coherence in informal texts",
-        "front": "Explain why an informal conversation between close friends may have low cohesion but remain highly coherent for its participants.",
+        "front": "Cohesion and coherence in informal texts",
         "back": [
-          "Shared context means much is left implicit — ellipsis, deixis and unexplained references reduce surface cohesion.",
-          "Participants supply the missing links through inference from shared knowledge.",
-          "Coherence depends on whether it makes sense to its audience, not on explicit linking devices.",
-          "An outsider reading the same transcript may find it incoherent."
+          "The discourse factors that hold an informal text together, and why a text can be cohesive without being coherent or the reverse."
         ]
       }
     },
@@ -446,12 +403,9 @@
       "card": {
         "key": "english-language-34:3.1.15",
         "title": "Transcription conventions",
-        "front": "A transcript line reads: '12 A: so (.) i mean it's not [that] bad'. Explain what each convention represents.",
+        "front": "Transcription conventions",
         "back": [
-          "'12' is the line number, used for accurate reference in an analysis.",
-          "'(.)' marks a micropause — a brief pause too short to time.",
-          "'[' marks the onset of overlapping speech with another speaker.",
-          "Always quote line numbers when referring to a transcript in your answer."
+          "The conventions for transcribing spoken English — symbols, legend and line numbers — and referring to line numbers accurately in an analysis."
         ]
       }
     },
@@ -475,12 +429,9 @@
       "card": {
         "key": "english-language-34:3.2.1",
         "title": "The role of Standard English in formal texts",
-        "front": "Explain what a writer's use of Standard English in a formal text signals to the reader, and why the variety carries that force.",
+        "front": "The role of Standard English in formal texts",
         "back": [
-          "It signals authority, credibility and membership of educated institutional discourse.",
-          "SAE carries overt prestige because it is the codified variety used by powerful institutions.",
-          "That prestige is a social fact, not a linguistic one — SAE is not inherently clearer or more logical.",
-          "Departing from it in a formal text risks the writer being judged as less competent."
+          "How SAE carries prestige in formal contexts, and what its use signals about the writer or speaker."
         ]
       }
     },
@@ -503,11 +454,9 @@
       "card": {
         "key": "english-language-34:3.2.2",
         "title": "Functions of language in formal texts",
-        "front": "Identify the dominant function of language in a public health advertisement and explain how a second function supports it.",
+        "front": "Functions of language in formal texts",
         "back": [
-          "Conative is dominant — the text directs the audience to change behaviour.",
-          "Referential support: statistics or medical information establish the basis for the instruction.",
-          "Poetic function may also operate through slogans, alliteration or rhythm making the message memorable."
+          "The same six functions, but identifying how they operate in planned, edited and often public language."
         ]
       }
     },
@@ -531,12 +480,9 @@
       "card": {
         "key": "english-language-34:3.2.3",
         "title": "Register, tenor and audience in formal texts",
-        "front": "Explain how anticipating an unknown, public audience shapes the language of a formal written text.",
+        "front": "Register, tenor and audience in formal texts",
         "back": [
-          "Context cannot be assumed, so the text must be explicit — low deixis, few unexplained references.",
-          "Interpretation cannot be checked in real time, so cohesion and structure must be strong.",
-          "The widest plausible audience is addressed, so specialised terms are defined or avoided.",
-          "Face needs of a diverse audience are managed through non-discriminatory language and hedging."
+          "How anticipating an audience's interpretation shapes formal choices, and how tenor sets the degree of formality."
         ]
       }
     },
@@ -560,12 +506,9 @@
       "card": {
         "key": "english-language-34:3.2.4",
         "title": "Context and language features in formal texts",
-        "front": "Explain how the situational context of a government media release shapes its language features.",
+        "front": "Context and language features in formal texts",
         "back": [
-          "Tenor: distant and institutional, requiring formality and negative politeness.",
-          "Field: policy or administrative matter, drawing on jargon and specialised lexis.",
-          "Mode: written, planned and edited, producing complex syntax and strong cohesion.",
-          "The audience is unknown and public, so context must be made explicit rather than assumed — and language may be chosen to obscure as well as clarify."
+          "The relationship between situational and cultural context and the features that appear — including what the context makes explicit that an informal text would leave assumed."
         ]
       }
     },
@@ -590,13 +533,9 @@
       "card": {
         "key": "english-language-34:3.2.5",
         "title": "Features of formal writing",
-        "front": "Identify four features of formal written language and explain what each signals.",
+        "front": "Features of formal writing",
         "back": [
-          "Standard English and careful editing — signals authority and credibility.",
-          "Complex syntax with subordination — allows precise qualification of claims.",
-          "Nominalisation — raises formality and can remove the actor from the clause.",
-          "Specialised lexis or jargon — establishes expertise and assumes an informed reader.",
-          "Also acceptable: explicitness, low deixis, strong cohesive linking."
+          "Greater cohesion, editing, explicitness about context, complex syntax and nominalisation — and the capacity to be deliberately ambiguous."
         ]
       }
     },
@@ -620,12 +559,9 @@
       "card": {
         "key": "english-language-34:3.2.6",
         "title": "Features of formal speech",
-        "front": "Explain how a formal speech differs from both spontaneous speech and formal writing.",
+        "front": "Features of formal speech",
         "back": [
-          "Unlike spontaneous speech, it is rehearsed and edited, so non-fluency is minimal and structure is planned.",
-          "It carries written-language organisation: full clauses, clear sections, strong cohesion.",
-          "Unlike formal writing, it retains prosody and paralinguistics — pitch, stress, pause and gesture used deliberately for effect.",
-          "It sits between the two modes rather than belonging wholly to either."
+          "Formal speech carrying the organisational features of written language while still drawing on prosody and paralinguistic features; rehearsal and editing."
         ]
       }
     },
@@ -649,12 +585,9 @@
       "card": {
         "key": "english-language-34:3.2.7",
         "title": "Features of spoken discourse in formal texts",
-        "front": "Explain how turn-taking and topic management differ in a courtroom exchange compared with a casual conversation.",
+        "front": "Features of spoken discourse in formal texts",
         "back": [
-          "Turn-taking rights are allocated by role — the barrister questions, the witness answers.",
-          "Topic control sits with the more powerful participant; the witness cannot introduce a new topic.",
-          "Interruption is marked and often sanctioned rather than supportive.",
-          "This reflects the institutional tenor and the unequal power relationship."
+          "How the discourse features of speech appear, or are suppressed, in a planned formal spoken text."
         ]
       }
     },
@@ -678,12 +611,9 @@
       "card": {
         "key": "english-language-34:3.2.8",
         "title": "Subsystem patterning and rhetoric",
-        "front": "A speech includes: 'We have the resources. We have the expertise. We have the will.' Analyse the patterning used and its persuasive effect.",
+        "front": "Subsystem patterning and rhetoric",
         "back": [
-          "Syntactic parallelism: three clauses of identical structure.",
-          "Repetition (anaphora) of 'We have the' at the start of each.",
-          "Tricolon: the three-part structure creates rhythm and a sense of completeness.",
-          "Effect: builds cumulative force, and the inclusive 'we' aligns speaker with audience, making the conclusion feel inevitable."
+          "Patterning across the subsystems used rhetorically — syntactic patterning such as antithesis, listing and parallelism, and phonological patterning."
         ]
       }
     },
@@ -707,12 +637,9 @@
       "card": {
         "key": "english-language-34:3.2.9",
         "title": "Jargon, euphemism, doublespeak and non-discriminatory language",
-        "front": "Distinguish euphemism from doublespeak, and explain the different purposes each serves in public language.",
+        "front": "Jargon, euphemism, doublespeak and non-discriminatory language",
         "back": [
-          "Euphemism substitutes a milder term for one considered harsh or taboo, usually to protect face.",
-          "Doublespeak deliberately obscures or reverses meaning to conceal an unwelcome reality.",
-          "Euphemism: 'passed away' for died — softening for the hearer's benefit.",
-          "Doublespeak: 'rightsizing' for mass redundancy — protecting the speaker, not the hearer."
+          "Jargon establishing expertise or excluding outsiders, euphemism negotiating taboo, doublespeak obscuring, and non-discriminatory language as a deliberate choice."
         ]
       }
     },
@@ -736,12 +663,9 @@
       "card": {
         "key": "english-language-34:3.2.10",
         "title": "Discourse strategies and cooperation in formal contexts",
-        "front": "Explain how politeness strategies are used to manage the power imbalance in a formal workplace email from an employee to a senior manager.",
+        "front": "Discourse strategies and cooperation in formal contexts",
         "back": [
-          "Negative politeness dominates: hedging, modality and apology minimise imposition.",
-          "Indirect requests ('I was wondering whether') give the manager an easy refusal.",
-          "Formal address terms and full standard forms acknowledge the status difference.",
-          "The greater the social distance and power gap, the more mitigation is required."
+          "How cooperation is managed when roles and turn-taking rights are unequal."
         ]
       }
     },
@@ -765,12 +689,9 @@
       "card": {
         "key": "english-language-34:3.2.11",
         "title": "Formality for distance, authority and expertise",
-        "front": "Explain how formal language reinforces social distance and establishes expertise, naming one feature that achieves each.",
+        "front": "Formality for distance, authority and expertise",
         "back": [
-          "Social distance: negative politeness and formal address terms mark the participants as non-intimate.",
-          "Feature: modality and hedging ('it may be appropriate to consider') avoid direct imposition.",
-          "Expertise: jargon and specialised lexis signal membership of a professional field.",
-          "Jargon simultaneously establishes authority for insiders and excludes those outside the field."
+          "Politeness strategies in formal texts, reinforcing social distance and hierarchy, and establishing expertise and authority."
         ]
       }
     },
@@ -794,12 +715,9 @@
       "card": {
         "key": "english-language-34:3.2.12",
         "title": "Formality for harmony, taboo and obfuscation",
-        "front": "A company statement reads: 'Regrettably, a small number of accounts may have been subject to unauthorised access.' Analyse how the language manages the situation.",
+        "front": "Formality for harmony, taboo and obfuscation",
         "back": [
-          "Agentless passive 'may have been subject to' removes the company as actor, obscuring responsibility.",
-          "Modality 'may' and the minimiser 'a small number' reduce the apparent scale.",
-          "'Unauthorised access' is a euphemism for a data breach.",
-          "The text sits toward the obfuscation end of the clarify–manipulate–obfuscate range while appearing to disclose."
+          "Promoting social harmony, negotiating social taboos and building rapport, and the clarify–manipulate–obfuscate range, particularly in public language."
         ]
       }
     },
@@ -823,12 +741,9 @@
       "card": {
         "key": "english-language-34:3.2.13",
         "title": "Cohesion and coherence in formal texts",
-        "front": "Explain why formal written texts typically show higher cohesion than informal spoken texts.",
+        "front": "Cohesion and coherence in formal texts",
         "back": [
-          "Formal texts are planned and edited, so cohesive devices can be deliberately inserted.",
-          "The audience is unknown and absent, so links must be made explicit rather than inferred.",
-          "Conjunctive adverbials, clear reference chains and consistent lexical fields do the work that shared context does in conversation.",
-          "Informal speech relies on inference and deixis instead."
+          "The discourse factors creating cohesion and coherence, and why formal texts usually score higher on both."
         ]
       }
     },
@@ -852,12 +767,9 @@
       "card": {
         "key": "english-language-34:4.1.1",
         "title": "Standard Australian English and its role",
-        "front": "Explain what gives Standard Australian English its status, and why describing other varieties as 'incorrect' is a prescriptivist position.",
+        "front": "Standard Australian English and its role",
         "back": [
-          "SAE is codified in dictionaries, grammars and style guides and used by institutions — education, government, media.",
-          "Its status is social and historical, not a property of the variety itself.",
-          "Other varieties are systematic and rule-governed, with their own consistent patterns.",
-          "Calling them incorrect applies SAE's norms as a universal standard, which is prescriptivism."
+          "The features that distinguish SAE, and how public institutions afford it prestige in Australian society."
         ]
       }
     },
@@ -881,12 +793,9 @@
       "card": {
         "key": "english-language-34:4.1.2",
         "title": "Identities conveyed in Australian texts",
-        "front": "Explain how a text can convey an Australian identity, naming two linguistic features and their effect.",
+        "front": "Identities conveyed in Australian texts",
         "back": [
-          "Lexis: distinctly Australian terms and hypocoristics (arvo, servo, ute) signal shared cultural knowledge.",
-          "Phonology: Australian vowels and non-rhoticity mark the speaker as local.",
-          "Discourse: understatement, self-deprecation and the levelling of status markers.",
-          "Together these construct an identity recognisable to insiders and often stereotyped by outsiders."
+          "The ways a variety of identities are conveyed and reflected in written and spoken Australian texts."
         ]
       }
     },
@@ -910,12 +819,9 @@
       "card": {
         "key": "english-language-34:4.1.3",
         "title": "Broad, General and Cultivated accents",
-        "front": "Describe the three Australian accent groups and explain how attitudes to them have shifted.",
+        "front": "Broad, General and Cultivated accents",
         "back": [
-          "Broad — strongest Australian features, historically associated with rural and working-class speakers.",
-          "General — the most widely used variety, occupying the middle of the continuum.",
-          "Cultivated — closest to Received Pronunciation, historically associated with prestige and education.",
-          "Cultivated has declined and now sometimes attracts negative judgement as affected, while Broad carries covert prestige as authentically Australian."
+          "The evolution of the three Australian accent groups, their phonological features, and the attitudes attached to each."
         ]
       }
     },
@@ -939,12 +845,9 @@
       "card": {
         "key": "english-language-34:4.1.4",
         "title": "Cultural variation in Australian English",
-        "front": "Name three varieties of English used in Australia and describe one distinguishing feature of each.",
+        "front": "Cultural variation in Australian English",
         "back": [
-          "Standard Australian English — codified, used in education, government and media.",
-          "Aboriginal Australian Englishes — a continuum drawing on First Nations languages, contact language and non-standard English features.",
-          "Migrant ethnolects — combine Australian English with features of a community's first language.",
-          "All three are systematic varieties; the differences are patterned, not random."
+          "How English varies according to culture — Standard Australian English, Aboriginal Australian Englishes and migrant ethnolects, and the features that mark each."
         ]
       }
     },
@@ -968,12 +871,9 @@
       "card": {
         "key": "english-language-34:4.1.5",
         "title": "Attitudes to varieties of English",
-        "front": "A talkback caller complains that young people 'are ruining the language'. Identify the position taken and write a descriptivist response.",
+        "front": "Attitudes to varieties of English",
         "back": [
-          "Prescriptivist — treating one variety as correct and change as decay.",
-          "Descriptivist response: language change is constant, systematic and observable in every period.",
-          "Features now considered standard were themselves once condemned as errors.",
-          "The task of linguistics is to describe how language is used, not to rule on how it should be."
+          "Attitudes within Australian society to different varieties, including prescriptivist and descriptivist positions, and what those attitudes reveal about the holder."
         ]
       }
     },
@@ -997,12 +897,9 @@
       "card": {
         "key": "english-language-34:4.1.6",
         "title": "Global contact and modern technologies",
-        "front": "Explain two ways global contact and modern technologies are changing Australian English, with an example of each.",
+        "front": "Global contact and modern technologies",
         "back": [
-          "Borrowing and Americanisation: American lexis and spellings spread through media and software defaults.",
-          "Technology-driven innovation: new coinages and abbreviations originate online and move into speech.",
-          "Convergence: exposure to global varieties reduces some distinctly Australian features.",
-          "Speed of spread has increased — an innovation can be national within weeks rather than years."
+          "How English in Australia is being shaped by global contact, technology and other social change."
         ]
       }
     },
@@ -1026,12 +923,9 @@
       "card": {
         "key": "english-language-34:4.1.7",
         "title": "Language and national identity",
-        "front": "Explain how language conveys a perceived national identity, and why that identity is contested.",
+        "front": "Language and national identity",
         "back": [
-          "Shared lexis, accent and discourse conventions construct a recognisable national variety.",
-          "Certain features become emblematic — hypocoristics, understatement, the 'fair go' register of egalitarianism.",
-          "Contested because the identity constructed often reflects only some Australians.",
-          "It can exclude First Nations peoples and migrant communities whose varieties are equally Australian."
+          "The role of language in conveying a perceived national identity, and why that identity is contested rather than settled."
         ]
       }
     },
@@ -1055,12 +949,9 @@
       "card": {
         "key": "english-language-34:4.1.8",
         "title": "Stereotypes and their validity",
-        "front": "A commentator claims that speakers of a Broad Australian accent 'sound uneducated'. Evaluate this claim using your knowledge of language attitudes.",
+        "front": "Stereotypes and their validity",
         "back": [
-          "This is a stereotype: a feature associated with a group and generalised to individuals.",
-          "Accent is not correlated with intelligence or education — it is a systematic phonological variety.",
-          "The judgement reflects overt prestige attached to more standard varieties, not linguistic fact.",
-          "Variation within any accent group exceeds the variation between groups, so the generalisation fails."
+          "Language features associated with emerging and established stereotypes, adopted consciously or subconsciously, and challenging the validity of those associations."
         ]
       }
     },
@@ -1084,12 +975,9 @@
       "card": {
         "key": "english-language-34:4.2.1",
         "title": "Sociolects and idiolects",
-        "front": "Define sociolect and idiolect, and explain why an individual belongs to several sociolects at once.",
+        "front": "Sociolects and idiolects",
         "back": [
-          "Sociolect: variation associated with a social group — age, occupation, interest, education, gender.",
-          "Idiolect: the unique combination of features used by one individual at a point in their life.",
-          "A person belongs simultaneously to groups defined by age, workplace, interests and region.",
-          "Their idiolect draws on all of these, and shifts as those group memberships change."
+          "Social and personal variation according to age, gender, sexuality, occupation, interests, aspirations and education."
         ]
       }
     },
@@ -1113,12 +1001,9 @@
       "card": {
         "key": "english-language-34:4.2.2",
         "title": "Representations of identity in texts",
-        "front": "Explain how a text can represent a group identity, using the concepts of lexis and discourse.",
+        "front": "Representations of identity in texts",
         "back": [
-          "Shared lexis — jargon, slang or in-group terms that only members fully interpret.",
-          "Discourse features — shared conventions for openings, humour, turn-taking and topic.",
-          "These construct the boundary of the group, marking who is inside and who is not.",
-          "Representation may be produced by the group itself, or imposed on it by outsiders through stereotype."
+          "How individual and group identities are represented across a range of written and spoken texts."
         ]
       }
     },
@@ -1142,12 +1027,9 @@
       "card": {
         "key": "english-language-34:4.2.3",
         "title": "Social expectations and community attitudes",
-        "front": "Explain how community expectations shape an individual's language choices in a workplace, and what happens when those expectations are breached.",
+        "front": "Social expectations and community attitudes",
         "back": [
-          "Communities establish norms for register, taboo and politeness appropriate to each setting.",
-          "Individuals shift within their repertoire to meet the expectation — more formal register, less slang, more mitigation.",
-          "Breaching the norm carries social cost: loss of credibility, exclusion, or formal sanction.",
-          "Conforming earns acceptance and access to the group's resources."
+          "The ways the language of individuals and of groups is shaped by what the surrounding community expects and accepts."
         ]
       }
     },
@@ -1171,12 +1053,9 @@
       "card": {
         "key": "english-language-34:4.2.4",
         "title": "Linguistic repertoire, power and prestige",
-        "front": "Explain how a speaker might use their linguistic repertoire to gain prestige in two different contexts, referring to both overt and covert prestige.",
+        "front": "Linguistic repertoire, power and prestige",
         "back": [
-          "Repertoire is the range of varieties and registers a speaker can draw on.",
-          "In a job interview, shifting toward SAE and formal register claims overt prestige and institutional authority.",
-          "Among a peer group, using slang or a local variety claims covert prestige and signals solidarity.",
-          "A wider repertoire means more situations can be navigated successfully."
+          "How people draw on their repertoire to gain power and prestige, including exploiting overt and covert norms."
         ]
       }
     },
@@ -1200,12 +1079,9 @@
       "card": {
         "key": "english-language-34:4.2.5",
         "title": "Overt and covert prestige",
-        "front": "Define overt and covert prestige and explain how one speaker might pursue both in a single day.",
+        "front": "Overt and covert prestige",
         "back": [
-          "Overt prestige attaches to the standard variety, recognised publicly and institutionally.",
-          "Covert prestige attaches to non-standard forms, valued within a group for signalling authenticity.",
-          "In a job interview the speaker shifts toward SAE, claiming overt prestige.",
-          "With friends afterwards they use slang and a broader accent, claiming covert prestige. Both are strategic uses of one repertoire."
+          "Overt prestige attached to standard varieties and covert prestige attached to local forms, and how both can be deliberately used."
         ]
       }
     },
@@ -1229,12 +1105,9 @@
       "card": {
         "key": "english-language-34:4.2.6",
         "title": "Code switching and belonging",
-        "front": "Explain why code switching is evidence of linguistic skill rather than deficiency.",
+        "front": "Code switching and belonging",
         "back": [
-          "Code switching requires competence in more than one variety and the judgement to know when each fits.",
-          "Switches are typically rule-governed and occur at grammatically permissible points.",
-          "It is used purposefully — to signal group membership, express an idea unavailable in the other code, or include a listener.",
-          "Treating it as confusion applies a monolingual standard to multilingual competence."
+          "Code switching as a means of demonstrating group membership and belonging, rather than as a deficiency."
         ]
       }
     },
@@ -1258,12 +1131,9 @@
       "card": {
         "key": "english-language-34:4.2.7",
         "title": "Social attitudes, language choices and discrimination",
-        "front": "Explain how attitudes toward a language variety can result in social disadvantage, with reference to a specific context.",
+        "front": "Social attitudes, language choices and discrimination",
         "back": [
-          "Attitudes toward a variety transfer onto its speakers, who are judged on competence or character.",
-          "In employment, a candidate speaking a stigmatised ethnolect may be rated less favourably despite equal qualifications.",
-          "Consequences extend to education, housing and treatment in the justice system.",
-          "Linguistic prejudice often operates as an acceptable proxy for racial or class prejudice."
+          "The relationship between social attitudes and language choices, and how personal associations and prejudices can lead to social disadvantage and discrimination."
         ]
       }
     },
@@ -1287,12 +1157,9 @@
       "card": {
         "key": "english-language-34:M1",
         "title": "Connected speech processes",
-        "front": "In a transcript, a speaker produces 'goin' to the shops' and 'han(d)bag'. Identify the connected speech process in each case and explain what their presence suggests about the exchange.",
+        "front": "Connected speech processes",
         "back": [
-          "'goin'' — elision: the final consonant of the -ing cluster is dropped.",
-          "'han(d)bag' — elision of /d/ in the consonant cluster.",
-          "Both suggest rapid, spontaneous, informal speech.",
-          "They indicate low planning and reduced social distance, not careless or incorrect speech."
+          "Assimilation, vowel reduction, elision and insertion — identifying them in a transcript and explaining what they signal about formality and planning."
         ]
       }
     },
@@ -1315,11 +1182,9 @@
       "card": {
         "key": "english-language-34:M2",
         "title": "The IPA and transcription of Australian English",
-        "front": "Explain what is meant by saying Australian English is non-rhotic, and give one example using IPA.",
+        "front": "The IPA and transcription of Australian English",
         "back": [
-          "The /r/ phoneme is not pronounced when it follows a vowel and is not followed by another vowel.",
-          "'car' is /kaː/ rather than /kaːr/.",
-          "Also acceptable: 'farm' /faːm/, 'water' /woːtə/."
+          "Reading and writing IPA transcriptions of Australian English as described by Harrington, Cox & Evans."
         ]
       }
     },
@@ -1343,12 +1208,9 @@
       "card": {
         "key": "english-language-34:M3",
         "title": "Prosodic features",
-        "front": "A speaker delivers a line with rising intonation at the end of a declarative and stress placed on the final word. Explain what each prosodic feature contributes to the meaning.",
+        "front": "Prosodic features",
         "back": [
-          "Rising intonation on a declarative (HRT) can seek agreement, signal uncertainty, or invite the listener to respond.",
-          "Stress on the final word foregrounds it as the most important information in the utterance.",
-          "Together they can soften an assertion and reduce the face threat of disagreeing.",
-          "Name the feature AND state its function — not the label alone."
+          "Pitch, stress, volume, tempo and intonation, and the meaning each carries in a spoken text."
         ]
       }
     },
@@ -1372,12 +1234,9 @@
       "card": {
         "key": "english-language-34:M4",
         "title": "Phonological patterning",
-        "front": "A public health slogan reads 'Slow down, stay safe, save lives'. Identify one phonological and one syntactic patterning feature and explain the effect of each.",
+        "front": "Phonological patterning",
         "back": [
-          "Phonological — alliteration of /s/ across 'slow', 'stay', 'safe', 'save': memorability and cohesion.",
-          "Syntactic — parallelism: three imperative verb phrases of matching structure.",
-          "The rhythm of the tricolon gives the slogan force and makes it easy to recall.",
-          "Marks require the effect, not just the identification."
+          "Alliteration, assonance, consonance, onomatopoeia, rhythm and rhyme — and what the patterning achieves rather than just naming it."
         ]
       }
     },
@@ -1401,12 +1260,9 @@
       "card": {
         "key": "english-language-34:M5",
         "title": "Word formation processes",
-        "front": "Identify the word formation process used to create each of the following: 'brunch', 'ANZAC', 'to medal' (as in to win a medal), 'servo'.",
+        "front": "Word formation processes",
         "back": [
-          "'brunch' — blending of breakfast and lunch.",
-          "'ANZAC' — acronym: pronounced as a word, not letter by letter.",
-          "'to medal' — conversion of word class, noun to verb.",
-          "'servo' — shortening with hypocoristic -o suffix."
+          "Affixation, abbreviation, shortening, compounding, blending, backformation, conversion of word class, initialism, acronym and contraction."
         ]
       }
     },
@@ -1430,12 +1286,9 @@
       "card": {
         "key": "english-language-34:M6",
         "title": "Hypocoristic use of suffixes",
-        "front": "Explain what hypocoristics are, give two Australian examples, and describe their social function.",
+        "front": "Hypocoristic use of suffixes",
         "back": [
-          "Hypocoristics shorten a word and add a suffix, usually -ie/-y or -o.",
-          "Examples: mozzie, arvo, tradie, barbie, servo.",
-          "They mark informality and signal solidarity and shared Australian identity.",
-          "They carry the same denotation as the full form but different connotation."
+          "The Australian pattern of mozzie, sickie, tradie — same denotation as the original, different connotation and formality."
         ]
       }
     },
@@ -1458,11 +1311,9 @@
       "card": {
         "key": "english-language-34:M7",
         "title": "Word classes",
-        "front": "In the sentence 'The council may consider the proposal next month', identify the modal verb, the determiner and the adverbial, and explain what the modal contributes.",
+        "front": "Word classes",
         "back": [
-          "Modal verb: 'may'. Determiner: 'The'. Adverbial: 'next month'.",
-          "The modal expresses possibility rather than certainty.",
-          "It hedges the commitment, leaving the council free not to act — a negative politeness or evasion strategy."
+          "Nouns including pronouns; verbs including auxiliary and modal verbs; adjectives; adverbs; prepositions; conjunctions (coordinators and subordinators); determiners; interjections."
         ]
       }
     },
@@ -1486,12 +1337,9 @@
       "card": {
         "key": "english-language-34:M8",
         "title": "Lexical word formation and loss",
-        "front": "Identify the process of lexical change in each: 'esky' used for any portable cooler; 'the government's implementation of the policy'; 'doomscrolling'.",
+        "front": "Lexical word formation and loss",
         "back": [
-          "'esky' — commonisation: a proper noun (brand name) becoming a common noun.",
-          "'implementation' — nominalisation: the verb 'implement' converted to a noun.",
-          "'doomscrolling' — neologism, formed by compounding.",
-          "Nominalisation raises formality and removes the actor from the clause."
+          "Neologism, borrowings, commonisation and nominalisation."
         ]
       }
     },
@@ -1514,11 +1362,9 @@
       "card": {
         "key": "english-language-34:M9",
         "title": "Phrases",
-        "front": "Identify the head of the noun phrase 'the recently approved planning application' and explain what the length of this phrase suggests about the text's register.",
+        "front": "Phrases",
         "back": [
-          "Head: 'application'.",
-          "'the', 'recently approved' and 'planning' are all premodifiers.",
-          "Heavily premodified noun phrases are characteristic of formal, written, often bureaucratic register."
+          "Noun phrase, verb phrase, adjective phrase, adverb phrase and prepositional phrase — identifying them and naming their head."
         ]
       }
     },
@@ -1542,12 +1388,9 @@
       "card": {
         "key": "english-language-34:M10",
         "title": "Clauses",
-        "front": "Classify the sentence 'Although the deadline had passed, the committee accepted the submission because the delay was explained' by structure, and identify the subordinating conjunctions.",
+        "front": "Clauses",
         "back": [
-          "Complex sentence — one main clause with two subordinate clauses.",
-          "Main clause: 'the committee accepted the submission'.",
-          "Subordinating conjunctions: 'Although' and 'because'.",
-          "A high density of subordination is a marker of formal written register."
+          "Functions within the clause — subject, object, predicate, complement, adverbial — and combining clauses through coordination and subordination."
         ]
       }
     },
@@ -1571,12 +1414,9 @@
       "card": {
         "key": "english-language-34:M11",
         "title": "Sentence structures and types",
-        "front": "Classify each by structure and by type: 'Stop.' / 'Although it rained, the match continued, and the crowd stayed.' / 'What time does it start?'",
+        "front": "Sentence structures and types",
         "back": [
-          "'Stop.' — simple structure, imperative type.",
-          "'Although it rained, the match continued, and the crowd stayed.' — compound-complex; declarative.",
-          "'What time does it start?' — simple structure, interrogative type.",
-          "Structure counts clauses; type identifies communicative function. Both are needed."
+          "Fragments; simple, compound, complex and compound-complex structures. Declarative, imperative, interrogative and exclamative types, and their communicative function."
         ]
       }
     },
@@ -1600,12 +1440,9 @@
       "card": {
         "key": "english-language-34:M12",
         "title": "Word order",
-        "front": "A speaker says: 'Never in my life have I seen anything like it.' Identify the departure from standard word order and explain its effect.",
+        "front": "Word order",
         "back": [
-          "Fronting of the adverbial 'Never in my life', with subject–auxiliary inversion following.",
-          "Standard order would be 'I have never seen anything like it'.",
-          "The marked order foregrounds the adverbial, giving emphasis and heightening the emotional force.",
-          "It also raises the register — inversion of this kind is rare in casual speech."
+          "Subject–verb–object, modifiers within a noun phrase, and the placement of adverbials — including what a departure from expected order achieves."
         ]
       }
     },
@@ -1629,12 +1466,9 @@
       "card": {
         "key": "english-language-34:M13",
         "title": "Active and passive voice",
-        "front": "A media release states: 'Errors were made in the processing of applications.' Identify the voice used, explain what the construction achieves, and rewrite it in the active voice.",
+        "front": "Active and passive voice",
         "back": [
-          "Agentless passive — 'were made' with no 'by' phrase identifying who made the errors.",
-          "It removes the actor, so responsibility is obscured while the error is acknowledged.",
-          "It also raises formality and depersonalises the statement.",
-          "Active: 'We made errors in processing applications' — or name the responsible party."
+          "Including agentless passives, and why a writer might choose to remove the agent."
         ]
       }
     },
@@ -1658,12 +1492,9 @@
       "card": {
         "key": "english-language-34:M14",
         "title": "Syntactic patterning",
-        "front": "A politician says: 'We were not elected to manage decline; we were elected to build.' Identify the syntactic patterning and explain its rhetorical effect.",
+        "front": "Syntactic patterning",
         "back": [
-          "Antithesis — two contrasting ideas placed in a parallel grammatical structure.",
-          "Parallelism reinforces it: 'we were elected to...' repeated across both clauses.",
-          "The balance makes the contrast memorable and frames the second option as obviously preferable.",
-          "It also creates an in-group 'we' aligning speaker and audience."
+          "Antithesis, listing and parallelism, and the rhetorical effect each produces."
         ]
       }
     },
@@ -1686,11 +1517,9 @@
       "card": {
         "key": "english-language-34:M15",
         "title": "Paralinguistic features",
-        "front": "A transcript notes (laughs) and (creaky voice) alongside the spoken text. Explain what these annotations are recording and why they matter to an analysis.",
+        "front": "Paralinguistic features",
         "back": [
-          "Both are paralinguistic features — vocal effects accompanying speech rather than prosodic properties of it.",
-          "They carry meaning the words alone do not: laughter can soften a face-threatening act or signal solidarity.",
-          "Creaky voice may mark the end of a turn or a particular social identity."
+          "Vocal effects including whispers and laughter; non-verbal communication including gesture, facial expression and eye contact; creakiness and breathiness."
         ]
       }
     },
@@ -1714,12 +1543,9 @@
       "card": {
         "key": "english-language-34:M16",
         "title": "Transcription conventions",
-        "front": "Explain what (2.0), = and ↗ conventionally represent in a transcript, and why the legend matters.",
+        "front": "Transcription conventions",
         "back": [
-          "(2.0) — a timed pause of two seconds.",
-          "= — latching, where one turn follows immediately with no gap.",
-          "↗ — rising intonation on the following segment.",
-          "Conventions vary between transcripts, so the legend supplied with the text governs interpretation."
+          "The symbols, legend and line numbering used for transcribing spoken language, and reading them accurately under exam pressure."
         ]
       }
     },
@@ -1744,13 +1570,9 @@
       "card": {
         "key": "english-language-34:M17",
         "title": "Cohesion",
-        "front": "Identify four cohesive devices in the following and name each: 'The council released the report. It recommended three changes. However, these were rejected. The decision disappointed residents.'",
+        "front": "Cohesion",
         "back": [
-          "'It' — anaphoric reference back to 'the report'.",
-          "'However' — a conjunctive adverbial signalling contrast.",
-          "'these' — anaphoric reference to 'three changes'.",
-          "'The decision' — lexical cohesion, summarising the previous clause with a related noun.",
-          "Also acceptable: collocation across 'council', 'report', 'recommended'."
+          "Lexical choice (synonymy, antonymy, hyponymy, hypernymy), collocation, information flow (clefting, front focus, end focus), anaphoric and cataphoric reference, deictics, repetition, substitution, ellipsis, conjunctions and adverbials."
         ]
       }
     },
@@ -1774,12 +1596,9 @@
       "card": {
         "key": "english-language-34:M18",
         "title": "Coherence",
-        "front": "Explain the difference between cohesion and coherence, and describe how a text could be cohesive but incoherent.",
+        "front": "Coherence",
         "back": [
-          "Cohesion is the surface linking of a text through reference, conjunctions, ellipsis and lexical choice.",
-          "Coherence is whether the text makes sense as a whole to its reader.",
-          "A text can chain pronouns and conjunctions correctly while the ideas do not follow logically.",
-          "Coherence also depends on inference, logical ordering, formatting and conventions."
+          "Cohesion, inference, logical ordering, formatting, and consistency and conventions — and the difference between coherence and cohesion."
         ]
       }
     },
@@ -1803,12 +1622,9 @@
       "card": {
         "key": "english-language-34:M19",
         "title": "Features of spoken discourse",
-        "front": "A transcript shows: A: 'so anyway (0.5) um the thing is—' B: 'mm' A: 'the thing is we can't afford it'. Identify three features of spoken discourse present.",
+        "front": "Features of spoken discourse",
         "back": [
-          "Discourse markers: 'so', 'anyway'.",
-          "Non-fluency: a filled pause 'um', a pause (0.5), a false start and self-repair on 'the thing is—'.",
-          "Minimal response / backchannel: B's 'mm', signalling active listening without taking the floor.",
-          "Repetition of 'the thing is' is the repair completing the abandoned utterance."
+          "Openings and closings, adjacency pairs, minimal responses and backchannels, overlapping speech, discourse markers and particles, and non-fluency features including pauses, filled pauses, false starts, repetition and repairs."
         ]
       }
     },
@@ -1832,12 +1648,9 @@
       "card": {
         "key": "english-language-34:M20",
         "title": "Strategies in spoken discourse",
-        "front": "Distinguish between features of spoken discourse and strategies in spoken discourse, giving one example of each.",
+        "front": "Strategies in spoken discourse",
         "back": [
-          "Features are what appears in the text: discourse markers, non-fluency, adjacency pairs, backchannels.",
-          "Strategies are what speakers DO with those features to manage the interaction.",
-          "Feature example: overlapping speech. Strategy example: turn-taking — claiming or yielding the floor.",
-          "Also strategies: topic management, repair, code switching."
+          "Topic management, turn-taking, management of repair sequences, and code switching as a marker of group membership."
         ]
       }
     },
@@ -1861,12 +1674,9 @@
       "card": {
         "key": "english-language-34:M21",
         "title": "Politeness strategies",
-        "front": "A colleague writes: 'Sorry to bother you — I don't suppose you'd have a moment to look at this, if you get a chance?' Identify the politeness strategies and explain which face need they address.",
+        "front": "Politeness strategies",
         "back": [
-          "Negative politeness — the writer avoids imposing.",
-          "Apology ('sorry to bother you'), hedging ('I don't suppose', 'if you get a chance') and modality ('would').",
-          "These address the reader's negative face: the want to be unimpeded and free from imposition.",
-          "The request is a face-threatening act, and the mitigation reduces the threat."
+          "Positive and negative face, positive and negative face-threatening acts, and positive and negative politeness."
         ]
       }
     },
@@ -1889,11 +1699,9 @@
       "card": {
         "key": "english-language-34:M22",
         "title": "Semantic domain, inference and the sign",
-        "front": "A restaurant review contains 'palate', 'reduction', 'plating' and 'seasoning'. Identify what these words form and explain what it reveals about the text.",
+        "front": "Semantic domain, inference and the sign",
         "back": [
-          "They form a semantic domain (or lexical field) of food and cooking.",
-          "The domain establishes the field of the text and builds lexical cohesion.",
-          "It also signals the writer's expertise and assumes a reader who shares the register."
+          "The relation of meaning and sign, semantic domains as lexical sets sharing a property, and inference as meaning the audience supplies."
         ]
       }
     },
@@ -1917,12 +1725,9 @@
       "card": {
         "key": "english-language-34:M23",
         "title": "Semantic patterning",
-        "front": "A news headline reads: 'Budget leaves households drowning'. Identify the semantic patterning device and explain its effect on the reader's interpretation.",
+        "front": "Semantic patterning",
         "back": [
-          "Metaphor — households are described as drowning, mapping financial pressure onto physical danger.",
-          "It frames the situation as urgent and life-threatening rather than merely difficult.",
-          "The connotation positions the reader to view the budget negatively.",
-          "Also acceptable: hyperbole, given the exaggeration involved."
+          "Figurative language, irony, metaphor, oxymoron, simile, hyperbole, personification, animation, puns and lexical ambiguity."
         ]
       }
     },
@@ -1946,12 +1751,9 @@
       "card": {
         "key": "english-language-34:M24",
         "title": "Sense relations",
-        "front": "Define hyponymy and antonymy, give an example of each, and explain how sense relations contribute to cohesion in a text.",
+        "front": "Sense relations",
         "back": [
-          "Hyponymy: a word whose meaning is included in a broader term — 'sedan' is a hyponym of 'vehicle'.",
-          "Antonymy: words of opposite meaning — 'increase' and 'decrease'.",
-          "Using related words across a text links sentences without repeating the same term.",
-          "This creates lexical cohesion and helps the reader follow the topic."
+          "Synonymy, antonymy, hyponymy and hypernymy, idiom, and denotation versus connotation."
         ]
       }
     },
@@ -1975,12 +1777,9 @@
       "card": {
         "key": "english-language-34:M25",
         "title": "Euphemism and dysphemism",
-        "front": "Distinguish euphemism from dysphemism and explain how each can be used to negotiate taboo.",
+        "front": "Euphemism and dysphemism",
         "back": [
-          "Euphemism substitutes a milder expression for one felt to be harsh or taboo.",
-          "Dysphemism substitutes a harsher or more offensive expression than necessary.",
-          "Euphemism protects face and allows a taboo subject to be raised politely.",
-          "Dysphemism can build solidarity among intimates, or deliberately shock and offend — its effect depends on tenor."
+          "Both as tools for negotiating taboo, and recognising that dysphemism can build solidarity as readily as it offends."
         ]
       }
     },
@@ -2004,12 +1803,9 @@
       "card": {
         "key": "english-language-34:T1",
         "title": "Situational and cultural context",
-        "front": "Define field, tenor and mode, and explain how each would differ between a text message to a friend and a letter from a bank.",
+        "front": "Situational and cultural context",
         "back": [
-          "Field — the subject matter. Personal arrangements versus financial account information.",
-          "Tenor — the relationship between participants. Close and equal versus distant and institutionally unequal.",
-          "Mode — spoken or written and the degree of planning. Spontaneous written versus planned, edited written.",
-          "These situational factors drive the lexical, syntactic and discourse choices in each text."
+          "Situational context as field, tenor, language mode, setting and text type. Cultural context as the values, attitudes and beliefs participants bring."
         ]
       }
     },
@@ -2033,12 +1829,9 @@
       "card": {
         "key": "english-language-34:T2",
         "title": "Register and tenor",
-        "front": "Define register and tenor and explain the relationship between them.",
+        "front": "Register and tenor",
         "back": [
-          "Register is variation in language according to use — the situation it occurs in.",
-          "Tenor is the relationship between participants, covering social distance and relative power.",
-          "Tenor is one of the situational factors that determines register.",
-          "A shift in tenor, such as a manager joining a conversation, produces a shift in register."
+          "Register as variation defined by use, tenor as the relationship between participants including social distance and level of formality."
         ]
       }
     },
@@ -2062,12 +1855,9 @@
       "card": {
         "key": "english-language-34:T3",
         "title": "Functions of language",
-        "front": "Name Jakobson's six functions of language and give a brief example of the phatic and the metalinguistic.",
+        "front": "Functions of language",
         "back": [
-          "Referential, emotive, conative, phatic, metalinguistic, poetic.",
-          "Phatic: 'How's it going?' — maintaining the social channel rather than seeking information.",
-          "Metalinguistic: 'What do you mean by that?' — language used to talk about language itself.",
-          "Most texts operate several functions at once; identify the dominant one."
+          "Jakobson's six: referential, emotive, conative, phatic, metalinguistic and poetic, with an example of each."
         ]
       }
     },
@@ -2091,12 +1881,9 @@
       "card": {
         "key": "english-language-34:T4",
         "title": "Standard English, SAE, codification and standardisation",
-        "front": "Explain what codification is and how it contributes to a variety becoming standard.",
+        "front": "Standard English, SAE, codification and standardisation",
         "back": [
-          "Codification is the recording of a variety's forms in dictionaries, grammars and style guides.",
-          "It fixes spellings, meanings and conventions, giving an authority to appeal to.",
-          "Institutions then adopt the codified variety in education, government, law and media.",
-          "That institutional use, not any inherent quality, is what confers prestige on the variety."
+          "What makes a variety standard, how codification works through dictionaries, style guides and grammars, and the prestige that follows."
         ]
       }
     },
@@ -2120,12 +1907,9 @@
       "card": {
         "key": "english-language-34:T5",
         "title": "Prescriptivism and descriptivism",
-        "front": "Define prescriptivism and descriptivism, and identify which is at work in the statement 'Literally shouldn't be used for emphasis'.",
+        "front": "Prescriptivism and descriptivism",
         "back": [
-          "Prescriptivism: judging usage against rules of correctness and advocating how language should be used.",
-          "Descriptivism: observing and recording how language is actually used, without judgement.",
-          "The statement is prescriptivist — it rules on correct usage.",
-          "A descriptivist would note the intensifying use is widespread, patterned, and parallels earlier shifts such as 'really'."
+          "The two stances on language behaviour, and identifying which one a commentator is taking from their wording."
         ]
       }
     },
@@ -2149,12 +1933,9 @@
       "card": {
         "key": "english-language-34:T6",
         "title": "Politeness theory",
-        "front": "Define positive face and negative face, and identify which is threatened when a manager publicly corrects an employee's error.",
+        "front": "Politeness theory",
         "back": [
-          "Positive face: the want to be liked, approved of and included.",
-          "Negative face: the want to be unimpeded and free from imposition.",
-          "Public correction threatens positive face — it damages the employee's standing in front of others.",
-          "Mitigation might include praise first, hedging, or correcting in private instead."
+          "Brown and Levinson's face needs — positive and negative — face-threatening acts, and the strategies used to mitigate them."
         ]
       }
     },
@@ -2178,12 +1959,9 @@
       "card": {
         "key": "english-language-34:T7",
         "title": "Overt and covert prestige",
-        "front": "Explain why covert prestige can lead a speaker to retain a stigmatised feature despite social pressure to drop it.",
+        "front": "Overt and covert prestige",
         "back": [
-          "Covert prestige is the value a non-standard form carries within a group.",
-          "Retaining it signals authenticity, loyalty and membership of that group.",
-          "Dropping it may be read as distancing yourself from your community.",
-          "The speaker weighs institutional advantage against group belonging — often keeping both varieties in their repertoire."
+          "Prestige attached to standard variants used by powerful groups, versus prestige attached to local forms that mark solidarity."
         ]
       }
     },
@@ -2207,12 +1985,9 @@
       "card": {
         "key": "english-language-34:T8",
         "title": "Dialect, sociolect and idiolect",
-        "front": "Distinguish between a dialect, a sociolect and an idiolect, giving an example of the kind of variation each describes.",
+        "front": "Dialect, sociolect and idiolect",
         "back": [
-          "Dialect — variation by geography, e.g. 'potato cake' versus 'scallop' across Australian states.",
-          "Sociolect — variation by social group, e.g. the lexis shared by medical professionals or by a teenage friendship group.",
-          "Idiolect — one individual's unique combination of features at a point in their life.",
-          "All three are systematic varieties, not deviations from a correct standard."
+          "Variation by geography, by social group, and the unique pattern of an individual at a point in their life."
         ]
       }
     },
@@ -2236,12 +2011,9 @@
       "card": {
         "key": "english-language-34:T9",
         "title": "Broad, General and Cultivated accents",
-        "front": "Explain how the three Australian accent groups relate to each other, and why the distinction is a continuum rather than three categories.",
+        "front": "Broad, General and Cultivated accents",
         "back": [
-          "Broad, General and Cultivated differ mainly in the realisation of vowels and diphthongs.",
-          "Broad has the most distinctly Australian realisations; Cultivated the closest to RP.",
-          "Speakers sit at points along a continuous scale, not in discrete boxes.",
-          "An individual may also shift along the continuum depending on context and audience."
+          "The three accent groups within SAE, and the regional, age and social differences they track."
         ]
       }
     },
@@ -2265,12 +2037,9 @@
       "card": {
         "key": "english-language-34:T10",
         "title": "Aboriginal Australian Englishes",
-        "front": "Explain what is meant by Aboriginal Australian Englishes, describe where their features originate, and explain why describing them as 'incorrect English' is inaccurate.",
+        "front": "Aboriginal Australian Englishes",
         "back": [
-          "A continuum of varieties ranging from close to Standard Australian English through to near-creole forms.",
-          "Features draw on non-standard Englishes, contact and colonial language, and First Nations languages.",
-          "They are rule-governed and systematic across all subsystems, with their own consistent patterns.",
-          "Calling them incorrect applies SAE norms to a different variety — a prescriptivist judgement, and they carry strong covert prestige and identity function."
+          "A continuum from close to SAE through to something nearer a creole, with features drawn from non-standard Englishes, contact and colonial language, and First Nations languages."
         ]
       }
     },
@@ -2294,12 +2063,9 @@
       "card": {
         "key": "english-language-34:T11",
         "title": "Migrant ethnolects",
-        "front": "Define a migrant ethnolect and explain why speakers may use one even when they do not speak the associated heritage language.",
+        "front": "Migrant ethnolects",
         "back": [
-          "A variety combining features of Australian English with features of a community's first language.",
-          "Features can appear in phonology, lexis, syntax or discourse.",
-          "Later-generation speakers use it as a marker of social and cultural identity and group belonging.",
-          "It signals in-group membership rather than linguistic ability in the heritage language."
+          "Varieties combining features of Australian English with features of a speaker's first language, functioning as markers of social identity."
         ]
       }
     },
@@ -2323,12 +2089,9 @@
       "card": {
         "key": "english-language-34:T12",
         "title": "Code switching",
-        "front": "Define code switching and distinguish it from register shifting.",
+        "front": "Code switching",
         "back": [
-          "Code switching: moving between languages or distinct varieties within a single interaction.",
-          "Register shifting: moving between levels of formality within the same variety.",
-          "Code switching often signals group membership, identity or inclusion of a particular listener.",
-          "Both are strategic uses of a repertoire, but switching crosses varieties while shifting does not."
+          "Moving between languages or varieties within a single interaction as a normal feature of multilingual conversation, and as a marker of belonging."
         ]
       }
     },
@@ -2352,12 +2115,9 @@
       "card": {
         "key": "english-language-34:T13",
         "title": "Pidgin, creole and lingua franca",
-        "front": "Distinguish between a pidgin, a creole and a lingua franca.",
+        "front": "Pidgin, creole and lingua franca",
         "back": [
-          "A pidgin is a simplified contact variety that has no native speakers.",
-          "A creole is a pidgin that has acquired native speakers and developed full grammatical complexity.",
-          "A lingua franca is any shared language used between groups who do not share a first language.",
-          "The pidgin/creole distinction rests on native speakers, not on how simple the variety appears."
+          "A pidgin as nobody's first language, a creole as a pidgin that has become one, and a lingua franca as a shared language between groups."
         ]
       }
     },
@@ -2381,12 +2141,9 @@
       "card": {
         "key": "english-language-34:T14",
         "title": "Language maintenance, shift and reclamation",
-        "front": "Distinguish between language maintenance, language shift and language reclamation, and identify which applies to efforts to revive an Aboriginal language with no remaining first-language speakers.",
+        "front": "Language maintenance, shift and reclamation",
         "back": [
-          "Maintenance: a community continues using its language despite pressure from a dominant one.",
-          "Shift: the community progressively moves to the dominant language, often across generations.",
-          "Reclamation: reviving a language that has been lost or is at serious risk.",
-          "Reviving a language with no remaining first-language speakers is reclamation."
+          "Resisting an encroaching language, switching to it, and the work of revitalising a language at risk of loss — with particular reference to Aboriginal and Torres Strait Islander languages."
         ]
       }
     },
@@ -2410,12 +2167,9 @@
       "card": {
         "key": "english-language-34:T15",
         "title": "Slang, colloquial language, jargon and taboo",
-        "front": "Distinguish slang from colloquial language and from jargon, and explain why swearing is treated separately.",
+        "front": "Slang, colloquial language, jargon and taboo",
         "back": [
-          "Colloquial language is informal everyday language, widely understood across the speech community.",
-          "Slang is informal, group-specific and changes faster; it marks membership of a particular group.",
-          "Jargon is the specialised vocabulary of a field — precise for insiders, exclusionary for outsiders.",
-          "Swearing is a separate category because it can build solidarity and express emotion, not only cause offence."
+          "The distinctions between them, since they are routinely confused, and swearing as a separate category again."
         ]
       }
     },
@@ -2439,12 +2193,9 @@
       "card": {
         "key": "english-language-34:T16",
         "title": "Social distance and rapport",
-        "front": "Explain what constructs social distance between participants, and describe two linguistic choices a speaker might make to reduce it.",
+        "front": "Social distance and rapport",
         "back": [
-          "Social distance is constructed by class, ethnicity, gender, sexuality, education, status and occupation.",
-          "Choice: shifting to colloquial lexis, slang or hypocoristics to signal shared identity.",
-          "Choice: positive politeness — first names, inclusive 'we', agreement, in-group markers.",
-          "Reducing distance builds rapport; widening it asserts authority."
+          "The conceptual space between individuals or groups constructed by class, ethnicity, gender, sexuality, education, status and occupation — and rapport as agreement or sympathy between them."
         ]
       }
     },
@@ -2468,12 +2219,9 @@
       "card": {
         "key": "english-language-34:T17",
         "title": "Multi-word lexemes and context-specific graphemes",
-        "front": "Define a multi-word lexeme and give two examples of different types.",
+        "front": "Multi-word lexemes and context-specific graphemes",
         "back": [
-          "A sequence of words stored and retrieved as a single unit of meaning.",
-          "Idiom: 'kick the bucket' — meaning is not derivable from the individual words.",
-          "Phrasal verb: 'put up with'.",
-          "Also acceptable: compound nouns, fixed collocations."
+          "Sequences stored and retrieved as one unit, such as idioms and phrasal verbs; and written symbols whose meaning depends entirely on context."
         ]
       }
     }

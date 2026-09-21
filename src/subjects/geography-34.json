@@ -46,11 +46,9 @@
       "card": {
         "key": "geography-34:C1",
         "title": "Place and space",
-        "front": "Distinguish between the concepts of place and space, using an example.",
+        "front": "Place and space",
         "back": [
-          "Place refers to a location that has meaning attached to it by people, including its physical and human characteristics.",
-          "Space refers to how phenomena are arranged and organised across the earth's surface, including patterns of distribution.",
-          "For example, a wetland is a place with particular ecological and cultural meaning, while the distribution of wetlands across a catchment is a spatial pattern."
+          "Place as a location given meaning by people, and space as the arrangement and organisation of phenomena on the earth's surface."
         ]
       }
     },
@@ -73,11 +71,9 @@
       "card": {
         "key": "geography-34:C2",
         "title": "Scale",
-        "front": "Explain why the same issue can appear differently at a local and a global scale, using land cover change as an example.",
+        "front": "Scale",
         "back": [
-          "At a local scale, deforestation may appear as the clearing of a particular forest for agriculture, affecting a specific community and habitat.",
-          "At a global scale, the same process aggregates into a contribution to atmospheric carbon dioxide and global climate change.",
-          "Analysing at a single scale can therefore obscure either the immediate human impact or the cumulative global significance."
+          "Analysing phenomena at local, regional, national and global scales, and recognising that processes and outcomes differ at different scales."
         ]
       }
     },
@@ -100,11 +96,9 @@
       "card": {
         "key": "geography-34:C3",
         "title": "Environment and interconnection",
-        "front": "Explain the concept of interconnection using an example of land use change.",
+        "front": "Environment and interconnection",
         "back": [
-          "Interconnection refers to the links between places, people and processes, in which a change in one produces change in another.",
-          "Urban expansion on a city fringe, for example, is connected to population growth, transport investment and housing affordability elsewhere in the city.",
-          "It also connects to distant places through the demand for construction materials and the displacement of agricultural production."
+          "The relationship between people and the physical environment, and the connections between places and phenomena across space."
         ]
       }
     },
@@ -127,11 +121,9 @@
       "card": {
         "key": "geography-34:C4",
         "title": "Distribution, movement and region",
-        "front": "Explain how to describe a distribution shown on a map, and name three descriptive terms to use.",
+        "front": "Distribution, movement and region",
         "back": [
-          "Describe the overall pattern first, stating whether it is concentrated, dispersed, linear, clustered or random.",
-          "Refer to specific locations and directions using compass points, and quantify where the map allows it.",
-          "Note any anomalies that depart from the general pattern, since these often reveal the underlying cause."
+          "Describing where phenomena are located, how they move over time, and how areas with common characteristics are grouped into regions."
         ]
       }
     },
@@ -154,11 +146,9 @@
       "card": {
         "key": "geography-34:C5",
         "title": "Change and process",
-        "front": "Distinguish between a process and a change, using an example from land cover.",
+        "front": "Change and process",
         "back": [
-          "A process is the mechanism producing an outcome, such as salinisation, erosion or urbanisation.",
-          "A change is the observable outcome of that process over time, such as a decline in vegetation cover between two dates.",
-          "Identifying the process explains why the change occurred, which is necessary before management strategies can be evaluated."
+          "Identifying the processes producing change, the rate and direction of change, and whether change is cyclical, incremental or abrupt."
         ]
       }
     },
@@ -181,11 +171,9 @@
       "card": {
         "key": "geography-34:C6",
         "title": "Sustainability and spatial association",
-        "front": "Explain what a strong spatial association between two mapped distributions indicates and what it does not prove.",
+        "front": "Sustainability and spatial association",
         "back": [
-          "A strong spatial association means the two distributions correspond closely, with high values of one occurring where high values of the other occur.",
-          "It suggests a possible relationship, such as between rainfall and agricultural land use.",
-          "It does not prove causation, since a third factor may explain both, and the association should be described with reference to both the pattern and its exceptions."
+          "Evaluating whether a use of resources can be maintained over time, and identifying where the distributions of two phenomena correspond."
         ]
       }
     },
@@ -209,12 +197,9 @@
       "card": {
         "key": "geography-34:C7",
         "title": "Interpreting maps and photographs",
-        "front": "Explain how to identify land use change by comparing two aerial photographs of the same area taken years apart.",
+        "front": "Interpreting maps and photographs",
         "back": [
-          "Orient both images using a common fixed feature such as a road, coastline or river, and check the scale and direction of each.",
-          "Compare specific areas systematically rather than impressionistically, working across the image in sections.",
-          "Describe the change in terms of type, extent and location, quantifying it where a scale allows an estimate of area.",
-          "State the date of each image, since the rate of change cannot be described without the time interval."
+          "Using scale, area and grid references, compass direction, contour lines, cross-sections, and comparing oblique, vertical and satellite imagery over time."
         ]
       }
     },
@@ -237,11 +222,9 @@
       "card": {
         "key": "geography-34:C8",
         "title": "Representing and interpreting data",
-        "front": "State what a choropleth map shows and one limitation of the technique.",
+        "front": "Representing and interpreting data",
         "back": [
-          "A choropleth map uses shading or colour intensity to show the value of a variable for defined areas such as countries or regions.",
-          "It shows spatial pattern clearly and allows quick comparison between areas.",
-          "A limitation is that it implies uniformity within each area, concealing significant internal variation, and the choice of class intervals can change the apparent pattern."
+          "Choosing and reading choropleth maps, proportional circles, climate graphs, population pyramids, scatter plots and line graphs."
         ]
       }
     },
@@ -264,11 +247,9 @@
       "card": {
         "key": "geography-34:3.2.1",
         "title": "Distinguishing land cover from land use",
-        "front": "Distinguish between land cover and land use and explain why the distinction matters.",
+        "front": "Distinguishing land cover from land use",
         "back": [
-          "Land cover is the physical and biological material covering the surface, such as forest, grassland, water, ice, bare soil or built surfaces.",
-          "Land use is the purpose humans apply to the land, such as agriculture, conservation or housing.",
-          "The distinction matters because one land cover can support several uses, and a change in use often but not always produces a change in cover."
+          "Land cover as the physical material at the surface, and land use as the human purpose to which land is put."
         ]
       }
     },
@@ -292,12 +273,9 @@
       "card": {
         "key": "geography-34:3.2.2",
         "title": "Deforestation",
-        "front": "Explain the causes and environmental consequences of deforestation.",
+        "front": "Deforestation",
         "back": [
-          "Causes include clearing for commercial agriculture and grazing, logging for timber, subsistence farming, mining and infrastructure.",
-          "Population growth and global demand for commodities such as palm oil, soy and beef drive the process economically.",
-          "Consequences include loss of habitat and biodiversity, since tropical forests hold a large proportion of terrestrial species.",
-          "Carbon stored in biomass is released to the atmosphere, contributing to climate change, and soil is exposed to erosion with reduced local rainfall through diminished evapotranspiration."
+          "The causes of forest clearing, the scale and distribution of loss, and the environmental consequences including biodiversity and carbon release."
         ]
       }
     },
@@ -321,12 +299,9 @@
       "card": {
         "key": "geography-34:3.2.3",
         "title": "Desertification",
-        "front": "Explain the process of desertification and distinguish its human from its natural causes.",
+        "front": "Desertification",
         "back": [
-          "Desertification is the degradation of land in arid, semi-arid and dry sub-humid areas, resulting in a loss of biological productivity.",
-          "Human causes include overgrazing, over-cultivation that exhausts soil nutrients, deforestation for fuelwood and poorly managed irrigation causing salinisation.",
-          "Natural causes include prolonged drought and climate variability, which reduce vegetation cover and expose soil.",
-          "The two interact, since human pressure reduces the land's resilience so that a drought produces degradation that would otherwise be temporary."
+          "The degradation of land in dry regions, its causes in overgrazing, over-cultivation, deforestation and drought, and its human consequences."
         ]
       }
     },
@@ -350,12 +325,9 @@
       "card": {
         "key": "geography-34:3.2.4",
         "title": "Melting glaciers and ice sheets",
-        "front": "Explain the albedo feedback associated with melting ice and two consequences of glacial retreat.",
+        "front": "Melting glaciers and ice sheets",
         "back": [
-          "Ice and snow have a high albedo, reflecting most incoming solar radiation back to space.",
-          "As ice melts it exposes darker ocean or rock with a low albedo, which absorbs more radiation and causes further warming and melting, a positive feedback loop.",
-          "Glacial retreat reduces the reliable seasonal meltwater supply on which downstream agriculture and cities depend.",
-          "Melting land-based ice contributes to sea level rise, threatening low-lying coastal settlements and ecosystems."
+          "The retreat of glaciers and ice cover, the albedo feedback, and the consequences for sea level, water supply and ecosystems."
         ]
       }
     },
@@ -379,12 +351,9 @@
       "card": {
         "key": "geography-34:3.2.5",
         "title": "Salinity and land degradation",
-        "front": "Explain how the removal of deep-rooted native vegetation causes dryland salinity.",
+        "front": "Salinity and land degradation",
         "back": [
-          "Deep-rooted native vegetation uses large volumes of groundwater, keeping the water table well below the surface.",
-          "When it is replaced with shallow-rooted crops and pasture, less water is taken up and more infiltrates to the groundwater.",
-          "The water table rises, dissolving salts stored in the soil profile and bringing them towards the surface.",
-          "Salt concentrates in the root zone and at the surface as water evaporates, reducing plant growth and degrading soil and nearby waterways."
+          "Dryland and irrigation salinity, the role of rising water tables after vegetation removal, and the effects on soil and waterways."
         ]
       }
     },
@@ -408,12 +377,9 @@
       "card": {
         "key": "geography-34:3.2.6",
         "title": "Climate change as a driver and a consequence",
-        "front": "Explain how land cover change is both a cause and a consequence of climate change.",
+        "front": "Climate change as a driver and a consequence",
         "back": [
-          "As a cause, clearing vegetation releases stored carbon and removes a carbon sink, raising atmospheric greenhouse gas concentrations.",
-          "Changes in albedo and evapotranspiration also alter local and regional energy and water balances.",
-          "As a consequence, a warming and drying climate shifts vegetation ranges, increases fire frequency and can convert forest to grassland.",
-          "The relationship is therefore a feedback loop, in which each process can reinforce the other."
+          "The enhanced greenhouse effect, the role of land cover change in emissions, and the feedback between changing climate and changing cover."
         ]
       }
     },
@@ -437,12 +403,9 @@
       "card": {
         "key": "geography-34:3.2.7",
         "title": "Measuring and monitoring land cover change",
-        "front": "Explain how satellite imagery and GIS are used to monitor land cover change, and why ground truthing is required.",
+        "front": "Measuring and monitoring land cover change",
         "back": [
-          "Satellite imagery captured at intervals allows the same area to be compared over time at a consistent scale and resolution.",
-          "Spectral analysis distinguishes cover types, so vegetation, water and built surfaces can be classified and the area of each calculated.",
-          "GIS layers this classified data with other information, such as tenure or elevation, to analyse where and why change is occurring.",
-          "Ground truthing verifies the classification against observed conditions on site, since spectral signatures can be misclassified."
+          "Using satellite imagery, remote sensing indices, GIS and ground truthing to detect and quantify change over time."
         ]
       }
     },
@@ -466,12 +429,9 @@
       "card": {
         "key": "geography-34:3.2.8",
         "title": "Responses to land cover change",
-        "front": "Evaluate two responses to land cover change, one local and one international.",
+        "front": "Responses to land cover change",
         "back": [
-          "Local: revegetation and fencing of waterways restores habitat, stabilises soil and lowers water tables, but works only at small scale and takes decades to mature.",
-          "Indigenous land management, including cultural burning, reduces fuel loads and maintains habitat mosaics using knowledge developed over millennia.",
-          "International: agreements and carbon markets can fund forest protection in countries where clearing is economically attractive.",
-          "Their effectiveness depends on enforcement, monitoring and whether protection in one location simply displaces clearing elsewhere."
+          "Mitigation and adaptation, revegetation, protected areas, international agreements, carbon markets and Indigenous land management."
         ]
       }
     },
@@ -495,12 +455,9 @@
       "card": {
         "key": "geography-34:3.1.1",
         "title": "Characteristics of land",
-        "front": "Explain four characteristics that make an area of land suitable for residential development.",
+        "front": "Characteristics of land",
         "back": [
-          "Relief: gently sloping or flat land is cheaper to build on and better suited to services and roads.",
-          "Access to infrastructure: proximity to transport routes, water, power and sewerage reduces development costs.",
-          "Proximity to employment, schools and services makes the location attractive to buyers.",
-          "Freedom from hazard, such as flooding, bushfire risk or contaminated soil, is required before approval will be granted."
+          "The physical and human characteristics that make land suitable for particular uses, including relief, soil, climate, water, accessibility and services."
         ]
       }
     },
@@ -523,11 +480,9 @@
       "card": {
         "key": "geography-34:3.1.2",
         "title": "Types of land use",
-        "front": "Explain why competition for land occurs at the urban fringe and give two competing uses.",
+        "front": "Types of land use",
         "back": [
-          "The urban fringe contains land that is suitable for more than one use and is rising in value as the city expands.",
-          "Agricultural use competes with residential development, since the same flat, well-serviced land suits both.",
-          "Conservation and recreation also compete, since remaining habitat and open space become scarcer as development proceeds, and the highest-value use usually prevails without planning intervention."
+          "Agricultural, residential, commercial, industrial, recreational, conservation and infrastructure uses, and the competition between them."
         ]
       }
     },
@@ -551,12 +506,9 @@
       "card": {
         "key": "geography-34:3.1.3",
         "title": "Causes of land use change",
-        "front": "Explain how population growth and government policy each drive land use change on a city fringe.",
+        "front": "Causes of land use change",
         "back": [
-          "Population growth increases demand for housing, raising land values and making conversion of agricultural land to residential use profitable.",
-          "It also increases demand for schools, shops and transport, producing further changes in surrounding land use.",
-          "Government policy directs where that growth occurs through planning schemes, urban growth boundaries and zoning.",
-          "Policy can accelerate change by releasing land for development or restrain it by protecting green wedges and agricultural land."
+          "Population growth, economic development, technological change, government policy, changing values and environmental pressures."
         ]
       }
     },
@@ -580,12 +532,9 @@
       "card": {
         "key": "geography-34:3.1.4",
         "title": "Impacts of land use change",
-        "front": "Analyse the environmental and social impacts of converting farmland on a city fringe into a residential estate.",
+        "front": "Impacts of land use change",
         "back": [
-          "Environmental: loss of vegetation and habitat, increased impervious surfaces raising stormwater runoff, and higher local temperatures from the urban heat island effect.",
-          "Environmental benefits may include remediation of degraded land and the creation of managed parkland and drainage wetlands.",
-          "Social: new housing supply and services benefit incoming residents, but existing residents may experience congestion and loss of rural amenity.",
-          "The costs and benefits are unevenly distributed, with developers and new residents gaining while adjacent farmers and the displaced face higher costs."
+          "Environmental, economic and social impacts, both positive and negative, and the identification of who gains and who bears the cost."
         ]
       }
     },
@@ -609,12 +558,9 @@
       "card": {
         "key": "geography-34:3.1.5",
         "title": "Urban growth and planning responses",
-        "front": "Compare urban consolidation with urban sprawl and evaluate consolidation as a planning response.",
+        "front": "Urban growth and planning responses",
         "back": [
-          "Urban sprawl expands the built-up area outwards at low density, consuming agricultural land and lengthening travel distances.",
-          "Urban consolidation increases the density of existing urban areas through infill and higher density housing.",
-          "Consolidation reduces pressure on fringe land, uses existing infrastructure efficiently and supports public transport viability.",
-          "It can also increase pressure on local open space and services and meet resistance from existing residents, so it is rarely sufficient on its own."
+          "Urban consolidation, urban sprawl, growth boundaries, green wedges and infill development as responses to urban land use pressure."
         ]
       }
     },
@@ -638,12 +584,9 @@
       "card": {
         "key": "geography-34:3.1.6",
         "title": "Managing land use conflict",
-        "front": "Explain how zoning and buffers are used to manage conflict between incompatible land uses.",
+        "front": "Managing land use conflict",
         "back": [
-          "Zoning designates areas for particular categories of use, so that incompatible uses are separated at the planning stage.",
-          "Overlays add further controls to zoned land, for example to manage bushfire risk, heritage or environmental significance.",
-          "Buffers are strips of land, often vegetated, placed between conflicting uses to reduce noise, odour, dust or visual impact.",
-          "These tools reduce but do not eliminate conflict, since existing uses may predate the controls and enforcement requires resources."
+          "Zoning, overlays, buffers, environmental impact assessment and community consultation as tools for managing competing uses."
         ]
       }
     },
@@ -667,12 +610,9 @@
       "card": {
         "key": "geography-34:4.1.1",
         "title": "Global population distribution",
-        "front": "Describe the global distribution of population and explain two factors associated with this pattern.",
+        "front": "Global population distribution",
         "back": [
-          "Describe concentrated and sparsely populated regions using spatial language.",
-          "Explain one physical factor, such as climate, relief or water availability.",
-          "Explain one human factor, such as urbanisation, employment or infrastructure.",
-          "Use evidence from a map or data source."
+          "The spatial distribution of the present-day global population and the physical and human factors associated with it."
         ]
       }
     },
@@ -696,12 +636,9 @@
       "card": {
         "key": "geography-34:4.1.2",
         "title": "Population characteristics and indicators",
-        "front": "Explain how fertility rate and life expectancy influence a country’s population structure.",
+        "front": "Population characteristics and indicators",
         "back": [
-          "Higher fertility increases the proportion of younger people after an appropriate time lag.",
-          "Higher life expectancy increases survival into older age groups.",
-          "Explain the resulting shape of a population structure diagram.",
-          "Acknowledge migration and mortality as additional influences."
+          "Birth rate, death rate, infant mortality, fertility and life expectancy as measures of population characteristics."
         ]
       }
     },
@@ -725,12 +662,9 @@
       "card": {
         "key": "geography-34:4.1.3",
         "title": "Global population growth and projections",
-        "front": "Analyse a graph of global population growth and projections.",
+        "front": "Global population growth and projections",
         "back": [
-          "Identify the long-term trend and a period of changing growth rate.",
-          "Distinguish population size from the rate of population growth.",
-          "Use data accurately to support the analysis.",
-          "Recognise that projections depend on assumptions about fertility, mortality and migration."
+          "Changes in global population growth since the 1700s and projected changes through the twenty-first century."
         ]
       }
     },
@@ -754,12 +688,9 @@
       "card": {
         "key": "geography-34:4.1.4",
         "title": "Population structure diagrams",
-        "front": "Compare two population structure diagrams and infer a likely issue facing each population.",
+        "front": "Population structure diagrams",
         "back": [
-          "Compare the widths of younger, working-age and older cohorts.",
-          "Link those differences to fertility, mortality, life expectancy or migration.",
-          "Infer an appropriate issue such as education demand, employment pressure or aged care.",
-          "Support each inference with evidence from the diagram."
+          "Population structure diagrams as snapshots of age-sex composition and tools for comparing populations over time."
         ]
       }
     },
@@ -783,12 +714,9 @@
       "card": {
         "key": "geography-34:4.1.5",
         "title": "Demographic Transition Model",
-        "front": "Use the Demographic Transition Model to explain population change in a selected country and identify one limitation.",
+        "front": "Demographic Transition Model",
         "back": [
-          "Identify the relevant stage using birth and death rates.",
-          "Explain how the gap between those rates affects natural increase.",
-          "Connect the stage to the country’s population structure or development context.",
-          "Identify a limitation, such as its Eurocentric pathway or limited treatment of migration and policy."
+          "The five-stage Demographic Transition Model and its use and limitations in interpreting population change."
         ]
       }
     },
@@ -812,12 +740,9 @@
       "card": {
         "key": "geography-34:4.1.6",
         "title": "Malthusian theory and sustainability",
-        "front": "Evaluate the relevance of Malthusian theory to a contemporary population issue.",
+        "front": "Malthusian theory and sustainability",
         "back": [
-          "Explain the claim that population can grow faster than food supply.",
-          "Apply it to a contemporary issue using evidence.",
-          "Consider technology, trade, distribution, consumption or demographic change as a challenge to the theory.",
-          "Reach a balanced judgement about its explanatory value."
+          "Malthusian explanations of population growth in relation to economic, environmental and social sustainability."
         ]
       }
     },
@@ -841,12 +766,9 @@
       "card": {
         "key": "geography-34:4.1.7",
         "title": "Fertility, mortality and natural increase",
-        "front": "Explain how changes in fertility and mortality can produce either rapid growth or population decline.",
+        "front": "Fertility, mortality and natural increase",
         "back": [
-          "Define natural increase as births minus deaths.",
-          "Explain a cause of falling mortality and its effect on growth.",
-          "Explain a cause of changing fertility and its delayed effect on age structure.",
-          "Show how sustained low fertility can contribute to ageing or decline."
+          "The main causes of population growth or decline through changing fertility and mortality since the 1950s."
         ]
       }
     },
@@ -870,12 +792,9 @@
       "card": {
         "key": "geography-34:4.1.8",
         "title": "Population movement",
-        "front": "Classify a population movement and analyse its effect on origin and destination populations.",
+        "front": "Population movement",
         "back": [
-          "Classify it accurately using forced/voluntary, internal/external and short/long term.",
-          "Explain a push or pull factor.",
-          "Analyse an effect on the structure or distribution of the origin population.",
-          "Analyse an effect on the structure or distribution of the destination population."
+          "Forced and voluntary, internal and external, and short- and long-term movements and their contribution to population change."
         ]
       }
     },
@@ -899,12 +818,9 @@
       "card": {
         "key": "geography-34:4.2.1",
         "title": "Growing-population case study",
-        "front": "Explain the nature and spatial distribution of a growing-population trend in a selected country.",
+        "front": "Growing-population case study",
         "back": [
-          "Identify the country, trend and relevant time period.",
-          "Describe where growth is concentrated using mapped or statistical evidence.",
-          "Explain demographic causes and the regional context.",
-          "Connect population movement where relevant."
+          "The nature, distribution and regional context of a significant growing-population trend in one country."
         ]
       }
     },
@@ -928,12 +844,9 @@
       "card": {
         "key": "geography-34:4.2.2",
         "title": "Issues from population growth",
-        "front": "Analyse two interconnected issues caused by rapid population growth in the selected country.",
+        "front": "Issues from population growth",
         "back": [
-          "Identify two issues in different dimensions.",
-          "Explain how population dynamics contribute to each.",
-          "Show how the issues affect people and places.",
-          "Explain an interconnection or feedback between the issues."
+          "Economic, social, political, environmental and cultural issues and challenges produced by a growing population."
         ]
       }
     },
@@ -957,12 +870,9 @@
       "card": {
         "key": "geography-34:4.2.3",
         "title": "Strategies for population growth",
-        "front": "Evaluate a strategy responding to a growing-population issue.",
+        "front": "Strategies for population growth",
         "back": [
-          "State the strategy and intended outcome.",
-          "Use evidence of environmental, economic, social or cultural impacts.",
-          "Consider effectiveness for different people or places.",
-          "Reach a supported judgement against clear criteria."
+          "Government and non-government strategies responding to growing-population issues."
         ]
       }
     },
@@ -986,12 +896,9 @@
       "card": {
         "key": "geography-34:4.2.4",
         "title": "Ageing-population case study",
-        "front": "Explain the nature and spatial distribution of population ageing in a selected country.",
+        "front": "Ageing-population case study",
         "back": [
-          "Identify the country and evidence of ageing.",
-          "Describe spatial variation within the country.",
-          "Explain the roles of low fertility, longevity and migration.",
-          "Place the trend in its world-regional context."
+          "The nature, distribution and regional context of a significant ageing-population trend in another country."
         ]
       }
     },
@@ -1015,12 +922,9 @@
       "card": {
         "key": "geography-34:4.2.5",
         "title": "Issues from population ageing",
-        "front": "Analyse two issues associated with population ageing.",
+        "front": "Issues from population ageing",
         "back": [
-          "Identify issues such as workforce change, pensions, health care, housing or social isolation.",
-          "Explain the demographic mechanism behind each issue.",
-          "Analyse impacts on people and places rather than merely listing them.",
-          "Show an interconnection between the issues or affected groups."
+          "Economic, social, political, environmental and cultural issues and challenges produced by population ageing."
         ]
       }
     },
@@ -1044,12 +948,9 @@
       "card": {
         "key": "geography-34:4.2.6",
         "title": "Strategies for population ageing",
-        "front": "Compare two strategies used to respond to population ageing.",
+        "front": "Strategies for population ageing",
         "back": [
-          "Describe how each strategy addresses the ageing trend.",
-          "Compare their environmental, economic, social or cultural impacts.",
-          "Use evidence of effectiveness and limitations.",
-          "Judge which is more effective for the selected context."
+          "Strategies such as migration, family policy, workforce participation, service planning and technological responses."
         ]
       }
     },
@@ -1073,12 +974,9 @@
       "card": {
         "key": "geography-34:4.2.7",
         "title": "Geospatial technologies and population strategy",
-        "front": "Explain how a geospatial technology can improve a response to a population issue and assess one limitation.",
+        "front": "Geospatial technologies and population strategy",
         "back": [
-          "Identify a relevant technology or spatial dataset.",
-          "Explain how it reveals distribution, accessibility or change.",
-          "Link that information to planning or implementation of a strategy.",
-          "Assess a limitation such as scale, currency, access, privacy or data quality."
+          "The role and effectiveness of geospatial technologies in developing and implementing responses to population issues."
         ]
       }
     },
@@ -1102,12 +1000,9 @@
       "card": {
         "key": "geography-34:F1",
         "title": "Planning fieldwork",
-        "front": "Outline the decisions made when planning a geographical fieldwork investigation.",
+        "front": "Planning fieldwork",
         "back": [
-          "Develop a specific question that can be answered with data collectable at the chosen site within the time available.",
-          "Select methods appropriate to the question, such as land use mapping, transects, surveys, counts, photographs or measurements.",
-          "Decide the sampling approach, including where and how often data will be collected, so the data represents the site.",
-          "Address safety and ethics, including risk assessment, landholder permission and informed consent for any surveys."
+          "Developing a fieldwork question, selecting a site, choosing primary data collection methods and considering safety and ethics."
         ]
       }
     },
@@ -1130,11 +1025,9 @@
       "card": {
         "key": "geography-34:F2",
         "title": "Primary and secondary data",
-        "front": "Distinguish between primary and secondary data in geography and state one advantage of each.",
+        "front": "Primary and secondary data",
         "back": [
-          "Primary data is collected first-hand by the investigator, such as field measurements, counts, surveys or photographs.",
-          "Secondary data is collected by others, such as census statistics, satellite imagery, agency reports and published maps.",
-          "Primary data is tailored exactly to the research question; secondary data provides scale, historical depth and comparison that fieldwork alone cannot deliver."
+          "Collecting primary data in the field and supplementing it with secondary data from census, satellite and agency sources, and evaluating reliability."
         ]
       }
     },
@@ -1157,11 +1050,9 @@
       "card": {
         "key": "geography-34:F3",
         "title": "Presenting fieldwork data",
-        "front": "Explain what makes an annotated field sketch or photograph useful in a fieldwork report.",
+        "front": "Presenting fieldwork data",
         "back": [
-          "Annotations identify the specific features relevant to the investigation rather than describing everything visible.",
-          "Each annotation should name the feature and state its geographical significance in relation to the question.",
-          "The image needs a title, date, location and an indication of direction or scale so it can be interpreted independently."
+          "Choosing appropriate maps, graphs, annotated photographs and field sketches, and integrating them with written analysis."
         ]
       }
     },
@@ -1184,11 +1075,9 @@
       "card": {
         "key": "geography-34:X1",
         "title": "Using stimulus material",
-        "front": "Explain what a question directing you to 'refer to the data provided' requires.",
+        "front": "Using stimulus material",
         "back": [
-          "Quote specific figures from the stimulus with their units, and name the places or dates they relate to.",
-          "State the pattern, trend or comparison those figures demonstrate rather than simply listing them.",
-          "Connect the evidence to the geographical explanation, since data without reasoning does not answer the question."
+          "Reading maps, graphs, photographs and text provided in the examination, and quoting specific evidence from them in responses."
         ]
       }
     },
@@ -1211,11 +1100,9 @@
       "card": {
         "key": "geography-34:X2",
         "title": "Using case studies",
-        "front": "State what makes a case study response strong and the most common weakness.",
+        "front": "Using case studies",
         "back": [
-          "A strong response names the specific location, the time period and includes precise figures or measurable outcomes.",
-          "It selects only the details relevant to the question rather than reproducing everything known about the case.",
-          "The most common weakness is generic description that could apply to any location, which demonstrates no case-specific knowledge."
+          "Selecting an appropriate case study, recalling specific place names, dates and figures, and applying it precisely to the question asked."
         ]
       }
     },
@@ -1238,11 +1125,9 @@
       "card": {
         "key": "geography-34:X3",
         "title": "Command terms and mark allocation",
-        "front": "Explain how 'describe', 'explain' and 'evaluate' differ in Geography responses.",
+        "front": "Command terms and mark allocation",
         "back": [
-          "Describe requires an account of the pattern, trend or characteristics, stating what is observed without giving causes.",
-          "Explain requires the reasons or processes behind the pattern, showing how or why it occurs.",
-          "Evaluate requires weighing strengths against limitations, or effectiveness against cost, and reaching a supported judgement."
+          "Matching response depth to the command term and marks available, and addressing every element of a multi-part question."
         ]
       }
     }

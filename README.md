@@ -39,7 +39,7 @@ A React and Tauri revision tracker for VCE Units 3 & 4. It helps students self-a
 - Current red, amber, and green confidence tracking with rating history
 - Red, amber, and green progress summaries
 - Filters for unrated and weaker topics
-- Authored cue-card decks for revision
+- Study-design-specific definition cue cards for revision
 - Practice questions with read-only marking guides, self-marking, and saved attempt history
 - Four visual themes: Glass, Poster, Midnight, and Notebook
 - Automatic local progress saving
