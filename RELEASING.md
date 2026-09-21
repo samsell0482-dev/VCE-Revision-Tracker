@@ -25,17 +25,18 @@ Manually test first-run setup, rating persistence, practice attempts, backup imp
 
 ```powershell
 git add --all
-git commit -m "Prepare v1.0.0 release"
-git tag -a v1.0.0 -m "VCE Revision Tracker v1.0.0"
+$version = '1.0.1'
+git commit -m "Prepare v$version release"
+git tag -a "v$version" -m "VCE Revision Tracker v$version"
 git push origin main
-git push origin v1.0.0
+git push origin "v$version"
 ```
 
 Do not move an existing published release tag. Increment the version for later releases.
 
 ## 4. Publish on GitHub
 
-Create a GitHub release from the tag, use `VCE Revision Tracker v1.0.0` as its title, and copy the contents of `RELEASE_NOTES.md` into the description.
+Create a GitHub release from the new version tag, use `VCE Revision Tracker vX.Y.Z` as its title, and copy the contents of `RELEASE_NOTES.md` into the description.
 
 Upload:
 

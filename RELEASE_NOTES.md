@@ -1,17 +1,14 @@
-# VCE Revision Tracker v1.0.0
+# VCE Revision Tracker v1.0.1
 
-The first packaged release of VCE Revision Tracker provides a local Windows app for planning and completing VCE Units 3 and 4 revision.
+This update makes the cue-card deck a more useful tool for learning and memorising VCE definitions and key knowledge.
 
 ## Highlights
 
-- Choose from 29 VCE subjects.
-- Self-assess every knowledge point using red, amber, and green confidence ratings.
-- Review focused cue cards for weaker topics.
-- Complete practice questions, self-mark answers, and preserve previous attempts.
-- Save progress locally with recovery snapshots.
-- Export backups or connect a OneDrive progress file when working across computers.
-- Choose from Glass, Poster, Midnight, and Notebook themes.
-- Use the custom desktop controls or F11 for fullscreen study.
+- All 1,509 cue cards now begin with a named term or concept rather than repeating a practice question.
+- Definitions and required knowledge come from each subject's study-design-aligned content.
+- Click a cue card to study it by itself in a larger focused view.
+- Move between focused cards with Previous and Next controls, or close with Escape.
+- Focus mode prevents the page behind the card from scrolling.
 
 ## Downloads
 
@@ -21,7 +18,7 @@ The first packaged release of VCE Revision Tracker provides a local Windows app 
 
 ## Upgrading existing progress
 
-Existing backup files remain supported. Three-pass ratings are converted into a current confidence rating with history, and older practice answers are preserved as attempts.
+Progress from v1.0.0 remains fully compatible. Updating does not reset subject selections, ratings, rating history, practice attempts, backups, or OneDrive sync settings.
 
 ## Notes
 

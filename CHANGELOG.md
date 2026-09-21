@@ -2,6 +2,17 @@
 
 All notable changes to VCE Revision Tracker are documented here.
 
+## [1.0.1] - 2026-09-21
+
+### Changed
+
+- Reworked all 1,509 cue cards around study-design-specific terms, definitions, and required knowledge instead of repeating practice-question prompts.
+- Added a focused cue-card view with previous and next navigation, keyboard activation, Escape-to-close support, and background scroll locking.
+
+### Compatibility
+
+- Existing progress, subject selections, ratings, practice attempts, backups, and OneDrive sync files remain compatible.
+
 ## [1.0.0] - 2026-09-19
 
 ### Added
